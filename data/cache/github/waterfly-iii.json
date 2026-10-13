@@ -3,7 +3,7 @@
   "slug": "waterfly-iii",
   "repoUrl": "https://github.com/dreautall/waterfly-iii",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:55:58.641Z",
+  "lastSuccessAt": "2026-10-13T11:25:24.393Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:38.489Z",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:55:58.641Z",
+      "syncedAt": "2026-10-13T11:25:24.393Z",
       "source": "api"
     },
     "repository": {

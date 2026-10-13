@@ -3,7 +3,7 @@
   "slug": "bikeshare",
   "repoUrl": "https://github.com/joreilly/BikeShare",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:47:25.978Z",
+  "lastSuccessAt": "2026-10-13T11:17:01.219Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:10.650Z",
@@ -201,7 +201,7 @@
       "contributorsKnown": 7
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:47:25.978Z",
+      "syncedAt": "2026-10-13T11:17:01.219Z",
       "source": "api"
     },
     "languages": {

@@ -3,7 +3,7 @@
   "slug": "rockxy",
   "repoUrl": "https://github.com/RockxyApp/Rockxy",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:53:59.561Z",
+  "lastSuccessAt": "2026-10-13T11:23:18.683Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:42.735Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:53:59.561Z",
+      "syncedAt": "2026-10-13T11:23:18.683Z",
       "source": "api"
     },
     "repository": {
       "full_name": "RockxyApp/Rockxy",
       "stargazers_count": 1418,
       "forks_count": 81,
-      "open_issues_count": 99,
+      "open_issues_count": 91,
       "language": "Swift",
-      "pushed_at": "2026-10-12T10:04:00Z",
-      "updated_at": "2026-10-10T07:49:41Z",
+      "pushed_at": "2026-10-13T09:57:43Z",
+      "updated_at": "2026-10-12T17:27:00Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

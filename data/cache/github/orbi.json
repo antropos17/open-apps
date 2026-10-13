@@ -3,18 +3,18 @@
   "slug": "orbi",
   "repoUrl": "https://github.com/orbi-build/orbi",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:53:06.932Z",
+  "lastSuccessAt": "2026-10-13T11:22:24.392Z",
   "partialFailures": [],
   "sourceDescription": "Open-source (AGPL-3.0), self-hostable lights-out software factory for the agent era: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.",
   "github": {
     "repository": {
       "full_name": "orbi-build/orbi",
-      "stargazers_count": 215,
+      "stargazers_count": 216,
       "forks_count": 24,
       "open_issues_count": 26,
       "language": "Python",
       "pushed_at": "2026-10-12T13:28:55Z",
-      "updated_at": "2026-10-12T13:28:59Z",
+      "updated_at": "2026-10-13T08:32:02Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -47,7 +47,7 @@
     "latestReleaseAt": "2026-10-12T13:28:43Z",
     "homepage": "https://orbi.build",
     "sync": {
-      "syncedAt": "2026-10-12T13:53:06.932Z",
+      "syncedAt": "2026-10-13T11:22:24.392Z",
       "source": "api"
     }
   },

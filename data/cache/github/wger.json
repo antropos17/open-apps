@@ -3,7 +3,7 @@
   "slug": "wger",
   "repoUrl": "https://github.com/wger-project/flutter",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:56:07.267Z",
+  "lastSuccessAt": "2026-10-13T11:25:32.183Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:42.780Z",
@@ -211,7 +211,7 @@
       "contributorsKnown": 336
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:56:07.267Z",
+      "syncedAt": "2026-10-13T11:25:32.183Z",
       "source": "api"
     },
     "languages": {

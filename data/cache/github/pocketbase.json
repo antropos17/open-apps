@@ -3,7 +3,7 @@
   "slug": "pocketbase",
   "repoUrl": "https://github.com/pocketbase/pocketbase",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:53:35.895Z",
+  "lastSuccessAt": "2026-10-13T11:22:53.947Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:17:27.902Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "pocketbase/pocketbase",
-      "stargazers_count": 61371,
-      "forks_count": 3728,
-      "open_issues_count": 20,
+      "stargazers_count": 61391,
+      "forks_count": 3729,
+      "open_issues_count": 19,
       "language": "Go",
-      "pushed_at": "2026-10-08T16:38:14Z",
-      "updated_at": "2026-10-12T13:30:00Z",
+      "pushed_at": "2026-10-12T15:45:39Z",
+      "updated_at": "2026-10-13T11:01:52Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-08T16:45:10Z",
     "homepage": "https://pocketbase.io",
     "sync": {
-      "syncedAt": "2026-10-12T13:53:35.895Z",
+      "syncedAt": "2026-10-13T11:22:53.947Z",
       "source": "api"
     }
   },

@@ -3,7 +3,7 @@
   "slug": "medito-app",
   "repoUrl": "https://github.com/meditohq/medito-app",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:51:26.311Z",
+  "lastSuccessAt": "2026-10-13T11:20:51.204Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:20.711Z",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:51:26.311Z",
+      "syncedAt": "2026-10-13T11:20:51.204Z",
       "source": "api"
     },
     "repository": {
@@ -48,7 +48,7 @@
       "forks_count": 168,
       "open_issues_count": 3,
       "language": "Dart",
-      "pushed_at": "2026-10-12T13:40:44Z",
+      "pushed_at": "2026-10-13T11:11:06Z",
       "updated_at": "2026-10-12T13:40:46Z",
       "archived": false,
       "disabled": false,

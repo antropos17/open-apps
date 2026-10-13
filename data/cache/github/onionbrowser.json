@@ -3,7 +3,7 @@
   "slug": "onionbrowser",
   "repoUrl": "https://github.com/OnionBrowser/OnionBrowser",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:52:10.036Z",
+  "lastSuccessAt": "2026-10-13T11:21:33.428Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:49.130Z",
@@ -101,15 +101,15 @@
       "releases_url": "https://api.github.com/repos/OnionBrowser/OnionBrowser/releases{/id}",
       "deployments_url": "https://api.github.com/repos/OnionBrowser/OnionBrowser/deployments",
       "created_at": "2012-02-24T08:50:51Z",
-      "updated_at": "2026-10-11T14:01:07Z",
-      "pushed_at": "2026-10-09T14:32:00Z",
+      "updated_at": "2026-10-13T09:55:46Z",
+      "pushed_at": "2026-10-13T09:34:42Z",
       "git_url": "git://github.com/OnionBrowser/OnionBrowser.git",
       "ssh_url": "git@github.com:OnionBrowser/OnionBrowser.git",
       "clone_url": "https://github.com/OnionBrowser/OnionBrowser.git",
       "svn_url": "https://github.com/OnionBrowser/OnionBrowser",
       "homepage": "https://onionbrowser.com",
       "size": 133239,
-      "stargazers_count": 2691,
+      "stargazers_count": 2692,
       "watchers_count": 2630,
       "language": "Swift",
       "has_issues": true,
@@ -185,7 +185,7 @@
       "subscribers_count": 167
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:52:10.036Z",
+      "syncedAt": "2026-10-13T11:21:33.428Z",
       "source": "api"
     },
     "languages": {
@@ -232,7 +232,7 @@
       "language": null,
       "topics": []
     },
-    "latestReleaseAt": "2026-10-01T16:15:38Z",
+    "latestReleaseAt": "2026-10-13T09:37:57Z",
     "homepage": "https://onionbrowser.com"
   },
   "health": {
@@ -258,15 +258,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/OnionBrowser/OnionBrowser/releases/latest",
         "facts": {
-          "tag": "v3.4.2",
+          "tag": "v3.4.3",
           "assets": [
             "OnionBrowser.ipa"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/OnionBrowser/OnionBrowser/releases/tag/v3.4.2",
-          "fetchedAt": "2026-10-03T08:40:16.449Z"
+          "url": "https://github.com/OnionBrowser/OnionBrowser/releases/tag/v3.4.3",
+          "fetchedAt": "2026-10-13T11:21:31.459Z"
         }
       }
     ],

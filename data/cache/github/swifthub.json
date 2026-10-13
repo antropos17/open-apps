@@ -3,7 +3,7 @@
   "slug": "swifthub",
   "repoUrl": "https://github.com/khoren93/SwiftHub",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:54:46.617Z",
+  "lastSuccessAt": "2026-10-13T11:24:08.316Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:37:25.510Z",
@@ -194,7 +194,7 @@
       "contributorsKnown": 8
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:54:46.617Z",
+      "syncedAt": "2026-10-13T11:24:08.316Z",
       "source": "api"
     },
     "languages": {

@@ -3,7 +3,7 @@
   "slug": "kanboard",
   "repoUrl": "https://github.com/kanboard/kanboard",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:50:08.854Z",
+  "lastSuccessAt": "2026-10-13T11:19:45.258Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:14:44.332Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "kanboard/kanboard",
-      "stargazers_count": 9906,
-      "forks_count": 1997,
+      "stargazers_count": 9907,
+      "forks_count": 1998,
       "open_issues_count": 161,
       "language": "PHP",
       "pushed_at": "2026-10-12T04:30:13Z",
-      "updated_at": "2026-10-12T11:56:20Z",
+      "updated_at": "2026-10-12T17:43:03Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -49,7 +49,7 @@
     "latestReleaseAt": "2026-08-29T02:38:58Z",
     "homepage": "https://kanboard.org",
     "sync": {
-      "syncedAt": "2026-10-12T13:50:08.854Z",
+      "syncedAt": "2026-10-13T11:19:45.258Z",
       "source": "api"
     }
   },

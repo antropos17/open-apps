@@ -3,7 +3,7 @@
   "slug": "emdash",
   "repoUrl": "https://github.com/generalaction/emdash",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:48:27.355Z",
+  "lastSuccessAt": "2026-10-13T11:18:02.829Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:13:15.234Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "generalaction/emdash",
-      "stargazers_count": 5962,
-      "forks_count": 627,
+      "stargazers_count": 5971,
+      "forks_count": 626,
       "open_issues_count": 92,
       "language": "TypeScript",
       "pushed_at": "2026-10-10T17:20:47Z",
-      "updated_at": "2026-10-12T13:09:05Z",
+      "updated_at": "2026-10-13T10:04:10Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-10-10T17:20:47Z",
     "homepage": "https://emdash.com",
     "sync": {
-      "syncedAt": "2026-10-12T13:48:27.355Z",
+      "syncedAt": "2026-10-13T11:18:02.829Z",
       "source": "api"
     }
   },

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "slug": "pumperly",
+  "repoUrl": "https://github.com/GeiserX/Pumperly",
+  "source": "api",
+  "lastSuccessAt": "2026-10-13T11:23:02.389Z",
+  "partialFailures": [],
+  "sourceDescription": "Open-source fuel & EV route planner. Real-time prices across enabled countries. Self-hostable.",
+  "github": {
+    "repository": {
+      "full_name": "GeiserX/Pumperly",
+      "stargazers_count": 42,
+      "forks_count": 8,
+      "open_issues_count": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-13T08:21:13Z",
+      "updated_at": "2026-10-13T02:34:55Z",
+      "archived": false,
+      "disabled": false,
+      "default_branch": "main",
+      "license": {
+        "spdx_id": "AGPL-3.0",
+        "name": "AGPL-3.0"
+      },
+      "topics": [
+        "charging-stations",
+        "docker",
+        "electric-vehicle",
+        "europe",
+        "ev-charging",
+        "fuel-prices",
+        "gas-prices",
+        "gas-station",
+        "geocoding",
+        "maplibre",
+        "maps",
+        "nextjs",
+        "open-data",
+        "openstreetmap",
+        "petrol",
+        "photon",
+        "postgis",
+        "route-planner",
+        "self-hosted",
+        "valhalla"
+      ]
+    },
+    "latestReleaseAt": "2026-10-07T02:09:33Z",
+    "homepage": "https://geiserx.github.io/Pumperly/",
+    "sync": {
+      "syncedAt": "2026-10-13T11:23:02.389Z",
+      "source": "api"
+    }
+  },
+  "health": {
+    "status": "active",
+    "maturity": "useful",
+    "tier": "experimental",
+    "visibility": "keep",
+    "cleanupCandidate": false,
+    "staleReason": null,
+    "confidence": "high",
+    "reasons": [
+      "Pushed to within the last 6 months",
+      "Recent release found",
+      "Clear license found"
+    ]
+  },
+  "candidates": {
+    "channels": [],
+    "logos": [],
+    "screenshots": []
+  }
+}

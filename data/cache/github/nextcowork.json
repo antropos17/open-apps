@@ -3,7 +3,7 @@
   "slug": "nextcowork",
   "repoUrl": "https://github.com/AIDotNet/NextCoWork",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:51:51.463Z",
+  "lastSuccessAt": "2026-10-13T11:21:16.723Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:37.536Z",
@@ -39,8 +39,8 @@
       "forks_count": 130,
       "open_issues_count": 2,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T10:51:34Z",
-      "updated_at": "2026-10-12T10:51:39Z",
+      "pushed_at": "2026-10-13T08:18:01Z",
+      "updated_at": "2026-10-13T08:17:54Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -53,7 +53,7 @@
     "latestReleaseAt": "2026-10-12T03:57:05Z",
     "homepage": "https://nextco.work/",
     "sync": {
-      "syncedAt": "2026-10-12T13:51:51.463Z",
+      "syncedAt": "2026-10-13T11:21:16.723Z",
       "source": "api"
     }
   },

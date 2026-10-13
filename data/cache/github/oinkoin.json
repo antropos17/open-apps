@@ -3,7 +3,7 @@
   "slug": "oinkoin",
   "repoUrl": "https://github.com/emavgl/oinkoin",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:52:03.992Z",
+  "lastSuccessAt": "2026-10-13T11:21:28.055Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:44.614Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:52:03.992Z",
+      "syncedAt": "2026-10-13T11:21:28.055Z",
       "source": "api"
     },
     "repository": {
       "full_name": "emavgl/oinkoin",
-      "stargazers_count": 476,
+      "stargazers_count": 475,
       "forks_count": 58,
       "open_issues_count": 26,
       "language": "Dart",
       "pushed_at": "2026-10-12T05:40:43Z",
-      "updated_at": "2026-10-12T05:40:45Z",
+      "updated_at": "2026-10-12T17:01:41Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",

@@ -3,7 +3,7 @@
   "slug": "leantime",
   "repoUrl": "https://github.com/Leantime/leantime",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:50:39.442Z",
+  "lastSuccessAt": "2026-10-13T11:20:06.891Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:03.674Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "Leantime/leantime",
-      "stargazers_count": 11815,
+      "stargazers_count": 11822,
       "forks_count": 1148,
-      "open_issues_count": 235,
+      "open_issues_count": 243,
       "language": "PHP",
-      "pushed_at": "2026-10-12T08:15:52Z",
-      "updated_at": "2026-10-12T12:31:37Z",
+      "pushed_at": "2026-10-12T18:39:28Z",
+      "updated_at": "2026-10-13T06:09:27Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -64,7 +64,7 @@
     "latestReleaseAt": "2026-10-09T19:40:48Z",
     "homepage": "https://leantime.io",
     "sync": {
-      "syncedAt": "2026-10-12T13:50:39.442Z",
+      "syncedAt": "2026-10-13T11:20:06.891Z",
       "source": "api"
     }
   },

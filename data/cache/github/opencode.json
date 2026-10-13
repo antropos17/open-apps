@@ -3,7 +3,7 @@
   "slug": "opencode",
   "repoUrl": "https://github.com/anomalyco/opencode",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:52:24.360Z",
+  "lastSuccessAt": "2026-10-13T11:21:47.235Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:16:32.753Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "anomalyco/opencode",
-      "stargazers_count": 212861,
-      "forks_count": 28503,
-      "open_issues_count": 4052,
+      "stargazers_count": 213095,
+      "forks_count": 28565,
+      "open_issues_count": 4167,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T12:35:28Z",
-      "updated_at": "2026-10-12T13:51:40Z",
+      "pushed_at": "2026-10-13T11:19:59Z",
+      "updated_at": "2026-10-13T11:20:41Z",
       "archived": false,
       "disabled": false,
       "default_branch": "dev",
@@ -43,7 +43,7 @@
     "latestReleaseAt": "2026-10-11T01:39:22Z",
     "homepage": "https://opencode.ai",
     "sync": {
-      "syncedAt": "2026-10-12T13:52:24.360Z",
+      "syncedAt": "2026-10-13T11:21:47.235Z",
       "source": "api"
     }
   },

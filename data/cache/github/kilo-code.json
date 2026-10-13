@@ -3,7 +3,7 @@
   "slug": "kilo-code",
   "repoUrl": "https://github.com/Kilo-Org/kilocode",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:50:34.070Z",
+  "lastSuccessAt": "2026-10-13T11:20:01.531Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:00.997Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "Kilo-Org/kilocode",
-      "stargazers_count": 27577,
-      "forks_count": 3251,
-      "open_issues_count": 607,
+      "stargazers_count": 27588,
+      "forks_count": 3256,
+      "open_issues_count": 596,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T13:18:13Z",
-      "updated_at": "2026-10-12T13:36:04Z",
+      "pushed_at": "2026-10-13T11:16:26Z",
+      "updated_at": "2026-10-13T11:10:43Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -56,7 +56,7 @@
     "latestReleaseAt": "2026-10-08T00:16:29Z",
     "homepage": "https://kilo.ai/",
     "sync": {
-      "syncedAt": "2026-10-12T13:50:34.070Z",
+      "syncedAt": "2026-10-13T11:20:01.531Z",
       "source": "api"
     }
   },

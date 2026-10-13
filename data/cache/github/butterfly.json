@@ -3,7 +3,7 @@
   "slug": "butterfly",
   "repoUrl": "https://github.com/LinwoodDev/Butterfly",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:47:40.509Z",
+  "lastSuccessAt": "2026-10-13T11:17:16.084Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:21.444Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "LinwoodDev/Butterfly",
-      "stargazers_count": 2054,
+      "stargazers_count": 2055,
       "forks_count": 152,
       "open_issues_count": 49,
       "language": "Dart",
-      "pushed_at": "2026-10-12T12:25:19Z",
-      "updated_at": "2026-10-12T12:18:35Z",
+      "pushed_at": "2026-10-12T18:49:56Z",
+      "updated_at": "2026-10-13T08:25:15Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -73,7 +73,7 @@
     "latestReleaseAt": "2026-09-28T08:29:29Z",
     "homepage": "https://butterfly.linwood.dev",
     "sync": {
-      "syncedAt": "2026-10-12T13:47:40.509Z",
+      "syncedAt": "2026-10-13T11:17:16.084Z",
       "source": "api"
     }
   },

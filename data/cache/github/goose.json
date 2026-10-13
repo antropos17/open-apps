@@ -3,7 +3,7 @@
   "slug": "goose",
   "repoUrl": "https://github.com/aaif-goose/goose",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:49:12.131Z",
+  "lastSuccessAt": "2026-10-13T11:18:47.848Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:13:58.940Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "aaif-goose/goose",
-      "stargazers_count": 55190,
-      "forks_count": 6412,
-      "open_issues_count": 495,
+      "stargazers_count": 55232,
+      "forks_count": 6422,
+      "open_issues_count": 507,
       "language": "Rust",
-      "pushed_at": "2026-10-12T03:42:39Z",
-      "updated_at": "2026-10-12T13:09:18Z",
+      "pushed_at": "2026-10-13T10:41:00Z",
+      "updated_at": "2026-10-13T10:57:59Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-08T18:44:54Z",
     "homepage": "https://goose-docs.ai/",
     "sync": {
-      "syncedAt": "2026-10-12T13:49:12.131Z",
+      "syncedAt": "2026-10-13T11:18:47.848Z",
       "source": "api"
     }
   },

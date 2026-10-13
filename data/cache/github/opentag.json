@@ -3,7 +3,7 @@
   "slug": "opentag",
   "repoUrl": "https://github.com/amplifthq/opentag",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:52:52.017Z",
+  "lastSuccessAt": "2026-10-13T11:22:11.005Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:09.539Z",
@@ -63,7 +63,7 @@
     },
     "latestReleaseAt": "2026-08-17T06:51:22Z",
     "sync": {
-      "syncedAt": "2026-10-12T13:52:52.017Z",
+      "syncedAt": "2026-10-13T11:22:11.005Z",
       "source": "api"
     }
   },

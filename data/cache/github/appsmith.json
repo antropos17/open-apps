@@ -3,7 +3,7 @@
   "slug": "appsmith",
   "repoUrl": "https://github.com/appsmithorg/appsmith",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:47:01.794Z",
+  "lastSuccessAt": "2026-10-13T11:16:40.062Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:11:55.517Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "appsmithorg/appsmith",
-      "stargazers_count": 41055,
-      "forks_count": 4802,
-      "open_issues_count": 4514,
+      "stargazers_count": 41059,
+      "forks_count": 4806,
+      "open_issues_count": 4515,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T12:54:25Z",
-      "updated_at": "2026-10-12T13:26:34Z",
+      "pushed_at": "2026-10-13T08:35:44Z",
+      "updated_at": "2026-10-13T07:41:26Z",
       "archived": false,
       "disabled": false,
       "default_branch": "release",
@@ -64,7 +64,7 @@
     "latestReleaseAt": "2026-10-09T15:59:16Z",
     "homepage": "https://www.appsmith.com",
     "sync": {
-      "syncedAt": "2026-10-12T13:47:01.794Z",
+      "syncedAt": "2026-10-13T11:16:40.062Z",
       "source": "api"
     }
   },

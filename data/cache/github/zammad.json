@@ -3,7 +3,7 @@
   "slug": "zammad",
   "repoUrl": "https://github.com/zammad/zammad",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:56:20.428Z",
+  "lastSuccessAt": "2026-10-13T11:25:45.142Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:50.375Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "zammad/zammad",
-      "stargazers_count": 6002,
-      "forks_count": 1074,
-      "open_issues_count": 470,
+      "stargazers_count": 6009,
+      "forks_count": 1073,
+      "open_issues_count": 472,
       "language": "Ruby",
-      "pushed_at": "2026-10-12T12:14:57Z",
-      "updated_at": "2026-10-12T13:27:00Z",
+      "pushed_at": "2026-10-13T10:46:05Z",
+      "updated_at": "2026-10-13T11:13:24Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -57,7 +57,7 @@
     },
     "homepage": "https://zammad.org",
     "sync": {
-      "syncedAt": "2026-10-12T13:56:20.428Z",
+      "syncedAt": "2026-10-13T11:25:45.142Z",
       "source": "api"
     }
   },

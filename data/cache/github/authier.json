@@ -3,7 +3,7 @@
   "slug": "authier",
   "repoUrl": "https://github.com/authier-pm/authier",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:47:13.553Z",
+  "lastSuccessAt": "2026-10-13T11:16:50.222Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:02.912Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "authier-pm/authier",
-      "stargazers_count": 21,
+      "stargazers_count": 22,
       "forks_count": 2,
       "open_issues_count": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-10-08T10:59:55Z",
-      "updated_at": "2026-10-08T11:00:01Z",
+      "pushed_at": "2026-10-13T09:03:17Z",
+      "updated_at": "2026-10-13T09:22:45Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -71,10 +71,10 @@
         "web-extension"
       ]
     },
-    "latestReleaseAt": "2026-10-04T08:38:19Z",
+    "latestReleaseAt": "2026-10-13T09:04:35Z",
     "homepage": "https://www.authier.pm/",
     "sync": {
-      "syncedAt": "2026-10-12T13:47:13.553Z",
+      "syncedAt": "2026-10-13T11:16:50.222Z",
       "source": "api"
     }
   },

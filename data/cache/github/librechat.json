@@ -3,7 +3,7 @@
   "slug": "librechat",
   "repoUrl": "https://github.com/LibreChat-AI/LibreChat",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:50:45.537Z",
+  "lastSuccessAt": "2026-10-13T11:20:12.722Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:09.027Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "LibreChat-AI/LibreChat",
-      "stargazers_count": 45573,
-      "forks_count": 9364,
-      "open_issues_count": 916,
+      "stargazers_count": 45618,
+      "forks_count": 9378,
+      "open_issues_count": 935,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T13:45:58Z",
-      "updated_at": "2026-10-12T13:09:01Z",
+      "pushed_at": "2026-10-13T10:56:37Z",
+      "updated_at": "2026-10-13T10:42:06Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     },
     "homepage": "https://librechat.ai/",
     "sync": {
-      "syncedAt": "2026-10-12T13:50:45.537Z",
+      "syncedAt": "2026-10-13T11:20:12.722Z",
       "source": "api"
     }
   },

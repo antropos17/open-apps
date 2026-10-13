@@ -3,7 +3,7 @@
   "slug": "speakoflow",
   "repoUrl": "https://github.com/AbhishekBarali/SpeakoFlow",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:54:23.520Z",
+  "lastSuccessAt": "2026-10-13T11:23:44.393Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:09.973Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "AbhishekBarali/SpeakoFlow",
-      "stargazers_count": 303,
+      "stargazers_count": 307,
       "forks_count": 32,
-      "open_issues_count": 5,
+      "open_issues_count": 11,
       "language": "Rust",
-      "pushed_at": "2026-10-11T14:49:11Z",
-      "updated_at": "2026-10-12T10:42:53Z",
+      "pushed_at": "2026-10-13T09:16:54Z",
+      "updated_at": "2026-10-13T10:11:49Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-10-11T14:04:25Z",
     "homepage": "https://www.speakoflow.com",
     "sync": {
-      "syncedAt": "2026-10-12T13:54:23.520Z",
+      "syncedAt": "2026-10-13T11:23:44.393Z",
       "source": "api"
     }
   },

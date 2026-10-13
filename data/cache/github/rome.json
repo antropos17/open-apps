@@ -3,7 +3,7 @@
   "slug": "rome",
   "repoUrl": "https://github.com/rome-os/rome",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:54:02.318Z",
+  "lastSuccessAt": "2026-10-13T11:23:21.487Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:45.379Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "rome-os/rome",
-      "stargazers_count": 767,
+      "stargazers_count": 772,
       "forks_count": 60,
-      "open_issues_count": 97,
+      "open_issues_count": 127,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T12:47:09Z",
-      "updated_at": "2026-10-12T13:36:57Z",
+      "pushed_at": "2026-10-13T11:21:37Z",
+      "updated_at": "2026-10-13T11:10:32Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -67,7 +67,7 @@
     "latestReleaseAt": "2026-10-12T03:42:18Z",
     "homepage": "https://romeos.cc",
     "sync": {
-      "syncedAt": "2026-10-12T13:54:02.318Z",
+      "syncedAt": "2026-10-13T11:23:21.487Z",
       "source": "api"
     }
   },

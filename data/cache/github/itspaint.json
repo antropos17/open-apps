@@ -3,7 +3,7 @@
   "slug": "itspaint",
   "repoUrl": "https://github.com/joshlin2201/itspaint",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:50:00.805Z",
+  "lastSuccessAt": "2026-10-13T11:19:37.829Z",
   "partialFailures": [],
   "sourceDescription": "MS Paint for the Mac. Mark up screenshots or paint from scratch. The drawing engine ships as PaintKit, a UI-free Swift package with no dependencies that supports macOS 12 and iOS 15 and later.",
   "github": {
@@ -11,9 +11,9 @@
       "full_name": "joshlin2201/itspaint",
       "stargazers_count": 40,
       "forks_count": 1,
-      "open_issues_count": 10,
+      "open_issues_count": 11,
       "language": "Swift",
-      "pushed_at": "2026-10-07T16:28:02Z",
+      "pushed_at": "2026-10-13T09:40:30Z",
       "updated_at": "2026-10-10T05:54:50Z",
       "archived": false,
       "disabled": false,
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-09-25T08:20:57Z",
     "homepage": "https://itspaintmac.com/",
     "sync": {
-      "syncedAt": "2026-10-12T13:50:00.805Z",
+      "syncedAt": "2026-10-13T11:19:37.829Z",
       "source": "api"
     }
   },

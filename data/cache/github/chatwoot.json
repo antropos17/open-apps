@@ -3,7 +3,7 @@
   "slug": "chatwoot",
   "repoUrl": "https://github.com/chatwoot/chatwoot",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:47:53.405Z",
+  "lastSuccessAt": "2026-10-13T11:17:29.338Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:12:44.949Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "chatwoot/chatwoot",
-      "stargazers_count": 37731,
-      "forks_count": 9188,
-      "open_issues_count": 1584,
+      "stargazers_count": 37746,
+      "forks_count": 9195,
+      "open_issues_count": 1590,
       "language": "Ruby",
-      "pushed_at": "2026-10-12T11:28:55Z",
-      "updated_at": "2026-10-12T13:43:25Z",
+      "pushed_at": "2026-10-13T10:59:59Z",
+      "updated_at": "2026-10-13T11:03:49Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-09-18T00:02:33Z",
     "homepage": "https://www.chatwoot.com/help-center",
     "sync": {
-      "syncedAt": "2026-10-12T13:47:53.405Z",
+      "syncedAt": "2026-10-13T11:17:29.338Z",
       "source": "api"
     }
   },

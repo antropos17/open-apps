@@ -3,7 +3,7 @@
   "slug": "loofah",
   "repoUrl": "https://github.com/bart6114/loofah",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:51:01.492Z",
+  "lastSuccessAt": "2026-10-13T11:20:27.471Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:04.613Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-12T13:51:01.492Z",
+      "syncedAt": "2026-10-13T11:20:27.471Z",
       "source": "api"
     },
     "repository": {
       "full_name": "bart6114/loofah",
       "stargazers_count": 8,
       "forks_count": 0,
-      "open_issues_count": 6,
+      "open_issues_count": 5,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T13:34:34Z",
-      "updated_at": "2026-10-12T13:14:59Z",
+      "pushed_at": "2026-10-12T13:58:27Z",
+      "updated_at": "2026-10-12T13:58:31Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -74,7 +74,7 @@
         "transcription"
       ]
     },
-    "latestReleaseAt": "2026-10-12T10:27:32Z",
+    "latestReleaseAt": "2026-10-12T13:56:45Z",
     "homepage": "https://loofah.io"
   },
   "health": {
@@ -99,16 +99,16 @@
         "label": "GitHub Releases",
         "url": "https://github.com/bart6114/loofah/releases/latest",
         "facts": {
-          "tag": "v0.43.0",
+          "tag": "v0.43.1",
           "assets": [
-            "FreeMeetingTranscriber_0.43.0_aarch64.dmg",
-            "Loofah_0.43.0_aarch64.dmg"
+            "FreeMeetingTranscriber_0.43.1_aarch64.dmg",
+            "Loofah_0.43.1_aarch64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/bart6114/loofah/releases/tag/v0.43.0",
-          "fetchedAt": "2026-10-12T13:50:59.023Z"
+          "url": "https://github.com/bart6114/loofah/releases/tag/v0.43.1",
+          "fetchedAt": "2026-10-13T11:20:25.074Z"
         }
       }
     ],

@@ -3,7 +3,7 @@
   "slug": "umami",
   "repoUrl": "https://github.com/umami-software/umami",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:55:20.578Z",
+  "lastSuccessAt": "2026-10-13T11:24:46.726Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:59.662Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "umami-software/umami",
-      "stargazers_count": 39329,
-      "forks_count": 8274,
+      "stargazers_count": 39346,
+      "forks_count": 8286,
       "open_issues_count": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T22:53:50Z",
-      "updated_at": "2026-10-12T13:06:55Z",
+      "pushed_at": "2026-10-13T06:39:24Z",
+      "updated_at": "2026-10-13T11:04:06Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -53,7 +53,7 @@
     "latestReleaseAt": "2026-09-17T04:21:49Z",
     "homepage": "https://umami.is",
     "sync": {
-      "syncedAt": "2026-10-12T13:55:20.578Z",
+      "syncedAt": "2026-10-13T11:24:46.726Z",
       "source": "api"
     }
   },

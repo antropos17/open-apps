@@ -3,7 +3,7 @@
   "slug": "itsaplan",
   "repoUrl": "https://github.com/croffasia/itsaplan",
   "source": "api",
-  "lastSuccessAt": "2026-10-12T13:49:58.458Z",
+  "lastSuccessAt": "2026-10-13T11:19:35.675Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:41.003Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "croffasia/itsaplan",
-      "stargazers_count": 942,
-      "forks_count": 154,
-      "open_issues_count": 35,
+      "stargazers_count": 954,
+      "forks_count": 158,
+      "open_issues_count": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T13:32:42Z",
-      "updated_at": "2026-10-12T13:32:20Z",
+      "pushed_at": "2026-10-13T10:14:35Z",
+      "updated_at": "2026-10-13T10:14:14Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -74,7 +74,7 @@
     "latestReleaseAt": "2026-10-08T16:40:04Z",
     "homepage": "https://itsaplan.dev/",
     "sync": {
-      "syncedAt": "2026-10-12T13:49:58.458Z",
+      "syncedAt": "2026-10-13T11:19:35.675Z",
       "source": "api"
     }
   },
@@ -96,6 +96,20 @@
   "candidates": {
     "channels": [],
     "logos": [
+      {
+        "url": "https://github.com/croffasia/itsaplan/blob/8a500525f38044581755752efd01c62338857eee/apps/web/public/icon-192.png",
+        "path": "apps/web/public/icon-192.png",
+        "blobSha": "6a02418d44bbf5ede926e49986d01ebedabd6429",
+        "format": "png",
+        "bytes": 5914,
+        "width": 192,
+        "height": 192,
+        "provenance": {
+          "source": "repo-asset",
+          "url": "https://github.com/croffasia/itsaplan/blob/8a500525f38044581755752efd01c62338857eee/apps/web/public/icon-192.png",
+          "fetchedAt": "2026-10-13T11:19:32.685Z"
+        }
+      },
       {
         "url": "https://github.com/croffasia/itsaplan/blob/7cbaa78672b578f8fc7082692fee3059c7b9c156/assets/logo-dark.svg",
         "path": "assets/logo-dark.svg",
