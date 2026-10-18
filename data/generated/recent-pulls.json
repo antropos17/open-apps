@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-10-11T10:37:46.794Z",
+  "generatedAt": "2026-10-18T08:35:02.013Z",
   "repository": "tortuvshin/open-apps",
   "pulls": [
+    {
+      "number": 385,
+      "title": "Add Patzer — self-hosted Chess.com alternative (Games)",
+      "url": "https://github.com/tortuvshin/open-apps/pull/385",
+      "author": "SikamikanikoBG",
+      "authorUrl": "https://github.com/SikamikanikoBG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46193504?v=4",
+      "mergedAt": "2026-10-17T15:52:02Z"
+    },
+    {
+      "number": 384,
+      "title": "Add Device Hub Pro",
+      "url": "https://github.com/tortuvshin/open-apps/pull/384",
+      "author": "gitemre",
+      "authorUrl": "https://github.com/gitemre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71561095?v=4",
+      "mergedAt": "2026-10-17T15:51:37Z"
+    },
+    {
+      "number": 382,
+      "title": "Add Pumperly",
+      "url": "https://github.com/tortuvshin/open-apps/pull/382",
+      "author": "GeiserX",
+      "authorUrl": "https://github.com/GeiserX",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9169332?v=4",
+      "mergedAt": "2026-10-13T11:15:36Z"
+    },
+    {
+      "number": 380,
+      "title": "Add SolidPing",
+      "url": "https://github.com/tortuvshin/open-apps/pull/380",
+      "author": "fclairamb",
+      "authorUrl": "https://github.com/fclairamb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1743394?v=4",
+      "mergedAt": "2026-10-13T07:07:22Z"
+    },
+    {
+      "number": 378,
+      "title": "Add VPN Bypass",
+      "url": "https://github.com/tortuvshin/open-apps/pull/378",
+      "author": "GeiserX",
+      "authorUrl": "https://github.com/GeiserX",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9169332?v=4",
+      "mergedAt": "2026-10-12T13:45:39Z"
+    },
+    {
+      "number": 371,
+      "title": "Add Orbi",
+      "url": "https://github.com/tortuvshin/open-apps/pull/371",
+      "author": "xqliu",
+      "authorUrl": "https://github.com/xqliu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22554?v=4",
+      "mergedAt": "2026-10-11T15:50:27Z"
+    },
+    {
+      "number": 374,
+      "title": "Add akou",
+      "url": "https://github.com/tortuvshin/open-apps/pull/374",
+      "author": "GeiserX",
+      "authorUrl": "https://github.com/GeiserX",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9169332?v=4",
+      "mergedAt": "2026-10-11T15:49:54Z"
+    },
     {
       "number": 373,
       "title": "Add Open Reports",
@@ -10,69 +73,6 @@
       "authorUrl": "https://github.com/varaprasadreddy9676",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30567269?v=4",
       "mergedAt": "2026-10-11T03:12:29Z"
-    },
-    {
-      "number": 370,
-      "title": "Add Plainsay",
-      "url": "https://github.com/tortuvshin/open-apps/pull/370",
-      "author": "conrader",
-      "authorUrl": "https://github.com/conrader",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8105013?v=4",
-      "mergedAt": "2026-10-10T15:17:05Z"
-    },
-    {
-      "number": 369,
-      "title": "Add Tale project workspace",
-      "url": "https://github.com/tortuvshin/open-apps/pull/369",
-      "author": "yannickmonney",
-      "authorUrl": "https://github.com/yannickmonney",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102406702?v=4",
-      "mergedAt": "2026-10-10T03:18:26Z"
-    },
-    {
-      "number": 365,
-      "title": "Update OpenPost to its canonical documentation URL",
-      "url": "https://github.com/tortuvshin/open-apps/pull/365",
-      "author": "rodrgds",
-      "authorUrl": "https://github.com/rodrgds",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77681625?v=4",
-      "mergedAt": "2026-10-07T02:22:28Z"
-    },
-    {
-      "number": 364,
-      "title": "Add Orkas desktop AI workforce",
-      "url": "https://github.com/tortuvshin/open-apps/pull/364",
-      "author": "BlueSkyID666",
-      "authorUrl": "https://github.com/BlueSkyID666",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/280636370?v=4",
-      "mergedAt": "2026-10-07T02:21:34Z"
-    },
-    {
-      "number": 360,
-      "title": "Add IOTA Watch — open-source training and mining monitor",
-      "url": "https://github.com/tortuvshin/open-apps/pull/360",
-      "author": "molimao",
-      "authorUrl": "https://github.com/molimao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47518904?v=4",
-      "mergedAt": "2026-10-04T06:48:07Z"
-    },
-    {
-      "number": 358,
-      "title": "Add ItsPaint to Tools",
-      "url": "https://github.com/tortuvshin/open-apps/pull/358",
-      "author": "joshlin2201",
-      "authorUrl": "https://github.com/joshlin2201",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171561901?v=4",
-      "mergedAt": "2026-10-03T08:35:04Z"
-    },
-    {
-      "number": 357,
-      "title": "Add Kinetic Life OS",
-      "url": "https://github.com/tortuvshin/open-apps/pull/357",
-      "author": "daoyi2026",
-      "authorUrl": "https://github.com/daoyi2026",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/270243353?v=4",
-      "mergedAt": "2026-10-03T08:34:40Z"
     }
   ]
 }
