@@ -35,12 +35,14 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Social Network](#social-network)
 - [Shopping](#shopping)
 - [News and Magazine](#news-and-magazine)
+- [Travel](#travel)
 
 ## Productivity
 
 - [AFFiNE](https://openappscout.com/apps/affine/) - AFFiNE is an open-source knowledge base that merges docs, whiteboard and databases on one canvas, with local-first storage, real-time collaboration and Docker self-hosting. ([Source](https://github.com/toeverything/AFFiNE))
 - [AgenticSeek](https://openappscout.com/apps/agenticseek/) - AgenticSeek is a GPL-3.0 autonomous AI agent that browses, codes and plans on your own machine with local models — a self-described local alternative to Manus. ([Source](https://github.com/Fosowl/agenticSeek))
 - [AI Novel Writer](https://openappscout.com/apps/ai-novel-writer/) - AI Novel Writer is a local-first desktop workspace that keeps characters, worldbuilding, outlines, chapter plans, drafting, review, and revision in one long-form fiction project. ([Source](https://github.com/EthanYoQ/AI-Novel-Writer))
+- [akou](https://openappscout.com/apps/akou/) - akou is a GPL-3.0 call recorder for Apple silicon Macs that transcribes on the device, with no bot in the meeting and no account, and saves the notes to files you own. ([Source](https://github.com/GeiserX/akou))
 - [Amical](https://openappscout.com/apps/amical/) - Amical is an MIT-licensed, local-first AI dictation app for macOS and Windows, with context-aware formatting, custom vocabulary and an Android app. ([Source](https://github.com/amicalhq/amical))
 - [anarlog](https://openappscout.com/apps/anarlog/) - anarlog is an MIT-licensed, local-first AI meeting notepad for macOS, Windows and Linux that records device audio without joining the call as a bot and keeps notes in local SQLite. ([Source](https://github.com/fastrepl/anarlog))
 - [AnythingLLM](https://openappscout.com/apps/anythingllm/) - AnythingLLM is an MIT-licensed AI workspace for macOS, Windows, Linux and Docker that lets you chat with your own documents and run agents with a local or cloud model. ([Source](https://github.com/Mintplex-Labs/anything-llm))
@@ -118,7 +120,6 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Weiyu](https://openappscout.com/apps/weiyu/) - Weiyu is a local-first Windows desktop app that turns readable WeChat messages into searchable daily briefings, with history, speech-to-text, AI-assisted analysis, and a Codex bridge. ([Source](https://github.com/Sutera-Diffusus/WeChat-daily))
 - [WeKan](https://openappscout.com/apps/wekan/) - WeKan is an MIT-licensed, self-hosted collaborative Kanban board with a real-time interface, swimlanes, Trello import, no telemetry and translations in 234 languages. ([Source](https://github.com/wekan/wekan))
 - [Wox](https://openappscout.com/apps/wox/) - Wox is a GPL-3.0, cross-platform keyboard launcher for Windows, macOS and Linux with a plugin store and native rendering, and describes itself as an open-source Raycast and Alfred alternative. ([Source](https://github.com/Wox-launcher/Wox))
-- [YouTrack Mobile](https://openappscout.com/apps/youtrack-mobile/) - Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base, and notifications for YouTrack projects. ([Source](https://github.com/JetBrains/youtrack-mobile))
 
 ## Finance
 
@@ -167,6 +168,7 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Tura](https://openappscout.com/apps/tura/) - Build agent that uses 80% less token and delivers better results. ([Source](https://github.com/Tura-AI/tura))
 - [Unwrap](https://openappscout.com/apps/unwrap/) - Learn Swift interactively on your iPhone. ([Source](https://github.com/twostraws/Unwrap))
 - [Voicebox](https://openappscout.com/apps/voicebox/) - Voicebox is a local-first AI voice studio that bundles seven TTS engines, Whisper STT, a Qwen3 LLM for refinement and personality, and a built-in Model Context Protocol server so any MCP-aware agent can speak in a cloned voice on a single desktop install. ([Source](https://github.com/jamiepine/voicebox))
+- [VPN Bypass](https://openappscout.com/apps/vpn-bypass/) - A macOS menu bar app that sends chosen services and domains around a corporate VPN, or only those through it, and puts the routes back when the VPN reconnects. ([Source](https://github.com/GeiserX/VPN-Bypass))
 - [xbmc](https://openappscout.com/apps/xbmc/) - Kodi is a free, open-source cross-platform media-center and entertainment-hub application written primarily in C++ with a CMake build system, built on FFmpeg for codec support and featuring a binary addon framework, hardware-accelerated video playback, and a JSON-RPC control surface — running natively on Android, Linux, BSD, macOS, iOS, tvOS, and Windows. ([Source](https://github.com/xbmc/xbmc))
 
 ## Developer Tools
@@ -180,6 +182,7 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Codex Quota Overlay](https://openappscout.com/apps/codex-quota-overlay/) - A Windows companion for Codex Desktop that displays quota and reset timing beside the conversation title. ([Source](https://github.com/cpys/codex-quota-overlay))
 - [Cortex](https://openappscout.com/apps/cortex-docs/) - Cortex is an open-source CLI that turns API specifications and Markdown into interactive documentation, typed SDKs, and MCP servers. ([Source](https://github.com/cortex-docs/cortex))
 - [d1v.ai Mobile](https://openappscout.com/apps/d1vai-app/) - A Flutter mobile workspace for creating or importing projects, continuing AI-assisted work, inspecting files, and monitoring preview and deployment state from iOS or Android. ([Source](https://github.com/d1vai/d1vai_app))
+- [Device Hub Pro](https://openappscout.com/apps/device-hub-pro/) - Native macOS app to manage and mirror Android emulators, Android phones, iOS simulators and iPhones side by side. ([Source](https://github.com/gitemre/device-hub-pro))
 - [Dyad](https://openappscout.com/apps/dyad/) - Dyad is a local AI app builder for macOS, Windows and Linux that turns prompts into working apps on your own computer with your own API keys. Apache-2.0, with Pro features under a separate licence. ([Source](https://github.com/dyad-sh/dyad))
 - [Emdash](https://openappscout.com/apps/emdash/) - Emdash is an Apache-2.0 desktop app for macOS, Windows and Linux that runs AI coding agents in parallel Git worktrees, with tickets from Linear, GitHub or Jira and PR review built in. ([Source](https://github.com/generalaction/emdash))
 - [flutter-pos-system](https://openappscout.com/apps/flutter-pos-system/) - An offline-first Flutter point-of-sale app for small restaurants and shops that runs ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt printing, custom analytics charts, and Google Sheets export entirely on-device with no remote backend. ([Source](https://github.com/evan361425/flutter-pos-system))
@@ -196,6 +199,7 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [opendray](https://openappscout.com/apps/opendray/) - opendray is an Apache-2.0 self-hosted gateway that keeps AI coding agent sessions running on your own server and lets you reattach from a browser, a phone or chat. ([Source](https://github.com/Opendray/opendray))
 - [OpenHands](https://openappscout.com/apps/openhands/) - OpenHands is an MIT-licensed, self-hosted workspace for running autonomous coding agents on local or remote backends, with automations; OpenHands Cloud and Enterprise are the commercial offerings. ([Source](https://github.com/OpenHands/OpenHands))
 - [OpenTag](https://openappscout.com/apps/opentag/) - OpenTag is an MIT-licensed Slack teammate that runs your coding agent against your own checkout on a paired computer, through a self-hosted relay. ([Source](https://github.com/amplifthq/opentag))
+- [Orbi](https://openappscout.com/apps/orbi/) - Orbi is an AGPL-3.0 system that turns labelled GitHub issues into reviewed, merged pull requests and tagged releases, using GitHub issues as its only state store; Orbi Cloud is the hosted offering. ([Source](https://github.com/orbi-build/orbi))
 - [Penpot](https://openappscout.com/apps/penpot/) - Penpot is an MPL-2.0 design and prototyping platform for product teams, built on open standards and self-hostable, with design tokens, an API, webhooks, plugins and an MCP server. ([Source](https://github.com/penpot/penpot))
 - [PocketBase](https://openappscout.com/apps/pocketbase/) - PocketBase is an MIT-licensed open-source backend in one file, with a database, realtime, auth, file storage and an admin UI, run as a standalone app or used as a Go framework. ([Source](https://github.com/pocketbase/pocketbase))
 - [QuotaTempo](https://openappscout.com/apps/quotatempo/) - QuotaTempo is a native macOS menu-bar app that compares remaining weekly Codex and Claude capacity with the even-use target for the current time. ([Source](https://github.com/Ishikawa-Hidekazu/quota-tempo))
@@ -203,6 +207,7 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Rockxy](https://openappscout.com/apps/rockxy/) - A native macOS HTTP debugging proxy for inspecting HTTPS, API, WebSocket, and GraphQL traffic. ([Source](https://github.com/RockxyApp/Rockxy))
 - [roxum-ide](https://openappscout.com/apps/roxum-ide/) - A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded terminal, Git/GitHub tooling, and optional on-device GGUF model chat. ([Source](https://github.com/heckmon/roxum-ide))
 - [rustdesk](https://openappscout.com/apps/rustdesk/) - RustDesk is a self-hostable, cross-platform remote desktop application written in Rust with a Flutter UI, offering an open-source alternative to TeamViewer and AnyDesk for screen sharing, file transfer, and unattended access. ([Source](https://github.com/rustdesk/rustdesk))
+- [SolidPing](https://openappscout.com/apps/solidping/) - SolidPing is an AGPL-3.0 uptime monitor that runs as a single Go binary or Docker image, on SQLite by default, with a hosted free plan. ([Source](https://github.com/fclairamb/solidping))
 - [Supabase](https://openappscout.com/apps/supabase/) - Supabase is an Apache-2.0 Postgres platform that builds the features of Firebase from open-source tools, available hosted or self-hosted with Docker Compose. ([Source](https://github.com/supabase/supabase))
 - [ToolJet](https://openappscout.com/apps/tooljet/) - ToolJet is an AGPL, self-hostable platform for building internal tools, admin panels and dashboards, with a paid enterprise edition that adds AI generation and workflows. ([Source](https://github.com/ToolJet/ToolJet))
 - [Tracexy](https://openappscout.com/apps/tracexy/) - A native, local-first macOS app for capturing live network traffic and investigating PCAP and PCAPNG files. ([Source](https://github.com/RockxyApp/Tracexy))
@@ -246,6 +251,7 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Games
 
 - [Flip](https://openappscout.com/apps/flip/) - A Reversi board game implementation with a clean interface for casual play. ([Source](https://github.com/RedBrogdon/flutterflip))
+- [Patzer](https://openappscout.com/apps/patzer/) - Self-hosted Chess.com alternative: game review for your Chess.com and Lichess games, play vs Stockfish or a friend, AI coach on your own Ollama or vLLM, in one Docker container. ([Source](https://github.com/SikamikanikoBG/patzer))
 
 ## Media
 
@@ -278,6 +284,10 @@ request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [feed-flow](https://openappscout.com/apps/feed-flow/) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. ([Source](https://github.com/prof18/feed-flow))
 - [Hacki](https://openappscout.com/apps/hacki/) - A clean Hacker News reader for iOS, with offline support and custom themes. ([Source](https://github.com/Livinglist/Hacki))
+
+## Travel
+
+- [Pumperly](https://openappscout.com/apps/pumperly/) - Pumperly is an AGPL-3.0 map of fuel prices and EV chargers with a route planner, free to use at pumperly.com with no account or to run yourself with Docker Compose. ([Source](https://github.com/GeiserX/Pumperly))
 <!-- grove-readme:end -->
 
 ## About this project
