@@ -3,7 +3,7 @@
   "slug": "posnic-pos",
   "repoUrl": "https://github.com/Posnic/POS",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:58:28.100Z",
+  "lastSuccessAt": "2026-10-18T07:56:50.359Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:30.134Z",
@@ -37,10 +37,10 @@
       "full_name": "Posnic/POS",
       "stargazers_count": 11,
       "forks_count": 18,
-      "open_issues_count": 397,
+      "open_issues_count": 399,
       "language": "JavaScript",
-      "pushed_at": "2026-10-17T12:33:38Z",
-      "updated_at": "2026-10-17T11:47:25Z",
+      "pushed_at": "2026-10-18T07:30:35Z",
+      "updated_at": "2026-10-17T20:15:45Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -74,7 +74,7 @@
     "latestReleaseAt": "2026-09-30T21:03:30Z",
     "homepage": "https://www.posnic.com/",
     "sync": {
-      "syncedAt": "2026-10-17T15:58:28.100Z",
+      "syncedAt": "2026-10-18T07:56:50.359Z",
       "source": "api"
     }
   },

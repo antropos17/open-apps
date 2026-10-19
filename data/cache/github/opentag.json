@@ -3,7 +3,7 @@
   "slug": "opentag",
   "repoUrl": "https://github.com/amplifthq/opentag",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:57:46.867Z",
+  "lastSuccessAt": "2026-10-18T07:56:08.284Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:09.539Z",
@@ -36,7 +36,7 @@
     "repository": {
       "full_name": "amplifthq/opentag",
       "stargazers_count": 0,
-      "forks_count": 4,
+      "forks_count": 6,
       "open_issues_count": 0,
       "language": "TypeScript",
       "pushed_at": "2026-10-14T14:42:10Z",
@@ -52,7 +52,7 @@
     },
     "latestReleaseAt": "2026-10-14T14:25:09Z",
     "sync": {
-      "syncedAt": "2026-10-17T15:57:46.867Z",
+      "syncedAt": "2026-10-18T07:56:08.284Z",
       "source": "api"
     }
   },

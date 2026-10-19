@@ -3,7 +3,7 @@
   "slug": "hacki",
   "repoUrl": "https://github.com/Livinglist/Hacki",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:54:48.477Z",
+  "lastSuccessAt": "2026-10-18T07:53:08.817Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:18.709Z",
@@ -193,7 +193,7 @@
       "contributorsKnown": 4
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:54:48.477Z",
+      "syncedAt": "2026-10-18T07:53:08.817Z",
       "source": "api"
     },
     "languages": {

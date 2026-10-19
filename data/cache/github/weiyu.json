@@ -3,7 +3,7 @@
   "slug": "weiyu",
   "repoUrl": "https://github.com/Sutera-Diffusus/WeChat-daily",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T16:00:33.481Z",
+  "lastSuccessAt": "2026-10-18T07:59:02.535Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:40.633Z",
@@ -66,7 +66,7 @@
     "latestReleaseAt": "2026-08-24T11:44:07Z",
     "homepage": null,
     "sync": {
-      "syncedAt": "2026-10-17T16:00:33.481Z",
+      "syncedAt": "2026-10-18T07:59:02.535Z",
       "source": "api"
     },
     "html": {

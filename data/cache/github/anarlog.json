@@ -3,7 +3,7 @@
   "slug": "anarlog",
   "repoUrl": "https://github.com/fastrepl/anarlog",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:52:25.987Z",
+  "lastSuccessAt": "2026-10-18T07:50:45.949Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:45.916Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "fastrepl/anarlog",
-      "stargazers_count": 9521,
-      "forks_count": 794,
-      "open_issues_count": 16,
+      "stargazers_count": 9525,
+      "forks_count": 795,
+      "open_issues_count": 17,
       "language": "Rust",
-      "pushed_at": "2026-10-17T06:35:47Z",
-      "updated_at": "2026-10-17T14:39:03Z",
+      "pushed_at": "2026-10-18T07:39:56Z",
+      "updated_at": "2026-10-18T07:40:01Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -61,7 +61,7 @@
     "latestReleaseAt": "2026-10-11T14:13:32Z",
     "homepage": "https://anarlog.so",
     "sync": {
-      "syncedAt": "2026-10-17T15:52:25.987Z",
+      "syncedAt": "2026-10-18T07:50:45.949Z",
       "source": "api"
     }
   },
@@ -206,24 +206,24 @@
         "url": "https://github.com/user-attachments/assets/268ab859-a194-484b-b895-bc640df18dd4",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/fastrepl/anarlog/blob/e8a9dec326280fe1167ab1bf09397208e5622aa0/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
-          "fetchedAt": "2026-10-17T15:52:23.114Z"
+          "url": "https://github.com/fastrepl/anarlog/blob/09110b53481c9f84687b03121dc4374784ed641d/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
+          "fetchedAt": "2026-10-18T07:50:42.847Z"
         }
       },
       {
         "url": "https://github.com/user-attachments/assets/a6552c99-acbc-4d47-9d21-7f1925989344",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/fastrepl/anarlog/blob/e8a9dec326280fe1167ab1bf09397208e5622aa0/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
-          "fetchedAt": "2026-10-17T15:52:23.114Z"
+          "url": "https://github.com/fastrepl/anarlog/blob/09110b53481c9f84687b03121dc4374784ed641d/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
+          "fetchedAt": "2026-10-18T07:50:42.847Z"
         }
       },
       {
         "url": "https://github.com/user-attachments/assets/e63ce73f-1a5f-49ce-a14d-dd8ba161e5bc",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/fastrepl/anarlog/blob/e8a9dec326280fe1167ab1bf09397208e5622aa0/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
-          "fetchedAt": "2026-10-17T15:52:23.114Z"
+          "url": "https://github.com/fastrepl/anarlog/blob/09110b53481c9f84687b03121dc4374784ed641d/apps/desktop/flatpak/so.anarlog.Anarlog.metainfo.xml",
+          "fetchedAt": "2026-10-18T07:50:42.847Z"
         }
       }
     ]

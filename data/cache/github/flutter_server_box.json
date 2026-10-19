@@ -3,7 +3,7 @@
   "slug": "flutter_server_box",
   "repoUrl": "https://github.com/lollipopkit/flutter_server_box",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:54:25.493Z",
+  "lastSuccessAt": "2026-10-18T07:52:45.826Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:07.919Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:54:25.493Z",
+      "syncedAt": "2026-10-18T07:52:45.826Z",
       "source": "api"
     },
     "repository": {
       "full_name": "lollipopkit/flutter_server_box",
-      "stargazers_count": 8838,
-      "forks_count": 568,
-      "open_issues_count": 22,
+      "stargazers_count": 8841,
+      "forks_count": 569,
+      "open_issues_count": 21,
       "language": "Dart",
-      "pushed_at": "2026-10-17T15:48:09Z",
-      "updated_at": "2026-10-17T15:39:34Z",
+      "pushed_at": "2026-10-17T16:00:15Z",
+      "updated_at": "2026-10-18T06:45:21Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -96,13 +96,13 @@
         "facts": {
           "appId": "tech.lolli.toolbox",
           "suggestedVersionCode": 177303,
-          "evidence": "https://github.com/lollipopkit/flutter_server_box/blob/8f9e8730706384b0f10ef6269f72e7de54e0238f/android/app/build.gradle",
+          "evidence": "https://github.com/lollipopkit/flutter_server_box/blob/b4a798f186c233a07740de1415ea404f1fd13d46/android/app/build.gradle",
           "fastlane": "fastlane/metadata/android"
         },
         "provenance": {
           "source": "fdroid",
           "url": "https://f-droid.org/api/v1/packages/tech.lolli.toolbox",
-          "fetchedAt": "2026-10-17T15:54:23.257Z"
+          "fetchedAt": "2026-10-18T07:52:43.530Z"
         }
       },
       {

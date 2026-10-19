@@ -3,7 +3,7 @@
   "slug": "zed",
   "repoUrl": "https://github.com/zed-industries/zed",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T16:00:53.232Z",
+  "lastSuccessAt": "2026-10-18T07:59:22.474Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:53.860Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "zed-industries/zed",
-      "stargazers_count": 91852,
-      "forks_count": 11093,
-      "open_issues_count": 3052,
+      "stargazers_count": 91876,
+      "forks_count": 11103,
+      "open_issues_count": 3068,
       "language": "Rust",
-      "pushed_at": "2026-10-17T15:18:52Z",
-      "updated_at": "2026-10-17T15:34:01Z",
+      "pushed_at": "2026-10-17T16:14:01Z",
+      "updated_at": "2026-10-18T07:36:54Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-14T16:43:09Z",
     "homepage": "https://zed.dev",
     "sync": {
-      "syncedAt": "2026-10-17T16:00:53.232Z",
+      "syncedAt": "2026-10-18T07:59:22.474Z",
       "source": "api"
     }
   },

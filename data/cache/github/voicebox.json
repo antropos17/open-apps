@@ -3,7 +3,7 @@
   "slug": "voicebox",
   "repoUrl": "https://github.com/jamiepine/voicebox",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T16:00:16.010Z",
+  "lastSuccessAt": "2026-10-18T07:58:42.509Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:29.377Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T16:00:16.010Z",
+      "syncedAt": "2026-10-18T07:58:42.509Z",
       "source": "api"
     },
     "repository": {
       "full_name": "jamiepine/voicebox",
-      "stargazers_count": 57827,
-      "forks_count": 7250,
-      "open_issues_count": 512,
+      "stargazers_count": 57894,
+      "forks_count": 7255,
+      "open_issues_count": 513,
       "language": "Python",
       "pushed_at": "2026-10-07T01:17:58Z",
-      "updated_at": "2026-10-17T15:55:33Z",
+      "updated_at": "2026-10-18T07:55:23Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

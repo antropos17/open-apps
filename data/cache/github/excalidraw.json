@@ -3,7 +3,7 @@
   "slug": "excalidraw",
   "repoUrl": "https://github.com/excalidraw/excalidraw",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:54:00.860Z",
+  "lastSuccessAt": "2026-10-18T07:52:22.229Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:13:17.451Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "excalidraw/excalidraw",
-      "stargazers_count": 134045,
-      "forks_count": 15703,
-      "open_issues_count": 3325,
+      "stargazers_count": 134081,
+      "forks_count": 15711,
+      "open_issues_count": 3327,
       "language": "TypeScript",
       "pushed_at": "2026-10-17T15:15:02Z",
-      "updated_at": "2026-10-17T15:43:02Z",
+      "updated_at": "2026-10-18T07:45:04Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -51,7 +51,7 @@
     "latestReleaseAt": "2026-04-21T08:43:20Z",
     "homepage": "https://excalidraw.com",
     "sync": {
-      "syncedAt": "2026-10-17T15:54:00.860Z",
+      "syncedAt": "2026-10-18T07:52:22.229Z",
       "source": "api"
     }
   },

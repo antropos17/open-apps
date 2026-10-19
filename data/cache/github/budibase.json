@@ -3,7 +3,7 @@
   "slug": "budibase",
   "repoUrl": "https://github.com/Budibase/budibase",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:53:11.309Z",
+  "lastSuccessAt": "2026-10-18T07:51:32.218Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:12:29.045Z",
@@ -30,7 +30,7 @@
       "open_issues_count": 275,
       "language": "TypeScript",
       "pushed_at": "2026-10-16T13:33:21Z",
-      "updated_at": "2026-10-17T12:40:05Z",
+      "updated_at": "2026-10-18T04:49:12Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-10-12T07:58:29Z",
     "homepage": "https://budibase.com",
     "sync": {
-      "syncedAt": "2026-10-17T15:53:11.309Z",
+      "syncedAt": "2026-10-18T07:51:32.218Z",
       "source": "api"
     }
   },

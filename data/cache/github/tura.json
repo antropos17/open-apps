@@ -3,7 +3,7 @@
   "slug": "tura",
   "repoUrl": "https://github.com/Tura-AI/tura",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:59:51.444Z",
+  "lastSuccessAt": "2026-10-18T07:58:14.623Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:19.949Z",
@@ -185,7 +185,7 @@
       "subscribers_count": 4
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:59:51.444Z",
+      "syncedAt": "2026-10-18T07:58:14.623Z",
       "source": "api"
     },
     "languages": {

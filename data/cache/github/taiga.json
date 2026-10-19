@@ -3,7 +3,7 @@
   "slug": "taiga",
   "repoUrl": "https://github.com/taigaio/taiga-back",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:59:33.592Z",
+  "lastSuccessAt": "2026-10-18T07:57:57.171Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:35.665Z",
@@ -25,7 +25,7 @@
     "repository": {
       "full_name": "taigaio/taiga-back",
       "stargazers_count": 858,
-      "forks_count": 316,
+      "forks_count": 317,
       "open_issues_count": 95,
       "language": "Python",
       "pushed_at": "2026-09-28T17:26:49Z",
@@ -40,7 +40,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:59:33.592Z",
+      "syncedAt": "2026-10-18T07:57:57.171Z",
       "source": "api"
     }
   },

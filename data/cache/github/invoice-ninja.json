@@ -3,7 +3,7 @@
   "slug": "invoice-ninja",
   "repoUrl": "https://github.com/invoiceninja/flutter-mobile",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:55:11.797Z",
+  "lastSuccessAt": "2026-10-18T07:53:31.234Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:36.634Z",
@@ -212,7 +212,7 @@
       "contributorsKnown": 28
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:55:11.797Z",
+      "syncedAt": "2026-10-18T07:53:31.234Z",
       "source": "api"
     },
     "languages": {

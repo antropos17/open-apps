@@ -3,7 +3,7 @@
   "slug": "peopleinspace",
   "repoUrl": "https://github.com/joreilly/PeopleInSpace",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:58:14.677Z",
+  "lastSuccessAt": "2026-10-18T07:56:37.758Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:24.270Z",
@@ -101,15 +101,15 @@
       "releases_url": "https://api.github.com/repos/joreilly/PeopleInSpace/releases{/id}",
       "deployments_url": "https://api.github.com/repos/joreilly/PeopleInSpace/deployments",
       "created_at": "2019-12-22T20:19:16Z",
-      "updated_at": "2026-10-17T15:32:13Z",
-      "pushed_at": "2026-10-17T15:32:10Z",
+      "updated_at": "2026-10-18T07:51:16Z",
+      "pushed_at": "2026-10-17T22:02:58Z",
       "git_url": "git://github.com/joreilly/PeopleInSpace.git",
       "ssh_url": "git@github.com:joreilly/PeopleInSpace.git",
       "clone_url": "https://github.com/joreilly/PeopleInSpace.git",
       "svn_url": "https://github.com/joreilly/PeopleInSpace",
       "homepage": "",
       "size": 73768,
-      "stargazers_count": 3435,
+      "stargazers_count": 3436,
       "watchers_count": 3358,
       "language": "Kotlin",
       "has_issues": true,
@@ -118,11 +118,11 @@
       "has_wiki": true,
       "has_pages": true,
       "has_discussions": true,
-      "forks_count": 318,
+      "forks_count": 317,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 10,
+      "open_issues_count": 7,
       "license": {
         "spdx_id": "Apache-2.0",
         "name": "Apache-2.0"
@@ -201,7 +201,7 @@
       "contributorsKnown": 38
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:58:14.677Z",
+      "syncedAt": "2026-10-18T07:56:37.758Z",
       "source": "api"
     },
     "languages": {

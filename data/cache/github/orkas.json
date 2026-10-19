@@ -3,18 +3,18 @@
   "slug": "orkas",
   "repoUrl": "https://github.com/Orkas-AI/Orkas",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:58:03.750Z",
+  "lastSuccessAt": "2026-10-18T07:56:24.715Z",
   "partialFailures": [],
   "sourceDescription": "Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux.",
   "github": {
     "repository": {
       "full_name": "Orkas-AI/Orkas",
-      "stargazers_count": 2196,
-      "forks_count": 91,
+      "stargazers_count": 2202,
+      "forks_count": 93,
       "open_issues_count": 10,
       "language": "JavaScript",
-      "pushed_at": "2026-10-17T14:52:30Z",
-      "updated_at": "2026-10-17T14:52:28Z",
+      "pushed_at": "2026-10-18T03:27:56Z",
+      "updated_at": "2026-10-18T05:56:36Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-17T14:52:32Z",
     "homepage": "https://orkas.ai?source=gh-orkas",
     "sync": {
-      "syncedAt": "2026-10-17T15:58:03.750Z",
+      "syncedAt": "2026-10-18T07:56:24.715Z",
       "source": "api"
     }
   },

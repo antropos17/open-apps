@@ -3,7 +3,7 @@
   "slug": "lotti",
   "repoUrl": "https://github.com/matthiasn/lotti",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:56:18.418Z",
+  "lastSuccessAt": "2026-10-18T07:54:37.052Z",
   "partialFailures": [],
   "sourceDescription": "A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — servers only ever see ciphertext. Local AI optional.",
   "github": {
@@ -13,8 +13,8 @@
       "forks_count": 120,
       "open_issues_count": 8,
       "language": "Dart",
-      "pushed_at": "2026-10-17T15:16:57Z",
-      "updated_at": "2026-10-17T12:40:25Z",
+      "pushed_at": "2026-10-17T22:00:36Z",
+      "updated_at": "2026-10-17T21:16:48Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-03T23:12:03Z",
     "homepage": "https://matthiasn.github.io/lotti/",
     "sync": {
-      "syncedAt": "2026-10-17T15:56:18.418Z",
+      "syncedAt": "2026-10-18T07:54:37.052Z",
       "source": "api"
     }
   },
@@ -77,12 +77,12 @@
         "facts": {
           "appId": "com.matthiasn.lotti",
           "match": "metainfo",
-          "evidence": "https://github.com/matthiasn/lotti/blob/75bbbfcf420529503ab64108e2b9081ea7e129ad/flatpak/com.matthiasn.lotti.metainfo.xml"
+          "evidence": "https://github.com/matthiasn/lotti/blob/24b401cb029a6150bf8589996350def56c18a7b3/flatpak/com.matthiasn.lotti.metainfo.xml"
         },
         "provenance": {
           "source": "flathub",
           "url": "https://flathub.org/api/v2/appstream/com.matthiasn.lotti",
-          "fetchedAt": "2026-10-17T15:56:16.504Z"
+          "fetchedAt": "2026-10-18T07:54:34.928Z"
         }
       },
       {
@@ -194,8 +194,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/matthiasn/lotti/blob/75bbbfcf420529503ab64108e2b9081ea7e129ad/flatpak/com.matthiasn.lotti.metainfo.xml",
-          "fetchedAt": "2026-10-17T15:56:16.504Z"
+          "url": "https://github.com/matthiasn/lotti/blob/24b401cb029a6150bf8589996350def56c18a7b3/flatpak/com.matthiasn.lotti.metainfo.xml",
+          "fetchedAt": "2026-10-18T07:54:34.928Z"
         }
       }
     ]

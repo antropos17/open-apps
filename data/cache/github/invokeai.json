@@ -3,7 +3,7 @@
   "slug": "invokeai",
   "repoUrl": "https://github.com/invoke-ai/InvokeAI",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:55:16.531Z",
+  "lastSuccessAt": "2026-10-18T07:53:36.003Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:14:31.417Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "invoke-ai/InvokeAI",
-      "stargazers_count": 28702,
-      "forks_count": 3061,
-      "open_issues_count": 445,
+      "stargazers_count": 28718,
+      "forks_count": 3063,
+      "open_issues_count": 438,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T09:51:37Z",
-      "updated_at": "2026-10-17T15:25:47Z",
+      "pushed_at": "2026-10-18T06:33:17Z",
+      "updated_at": "2026-10-18T07:51:04Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -57,7 +57,7 @@
     "latestReleaseAt": "2026-09-27T18:31:53Z",
     "homepage": "https://invoke-ai.github.io/InvokeAI/",
     "sync": {
-      "syncedAt": "2026-10-17T15:55:16.531Z",
+      "syncedAt": "2026-10-18T07:53:36.003Z",
       "source": "api"
     }
   },

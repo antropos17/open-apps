@@ -3,7 +3,7 @@
   "slug": "one_second_diary",
   "repoUrl": "https://github.com/KyleKun/one_second_diary",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:57:10.484Z",
+  "lastSuccessAt": "2026-10-18T07:55:31.857Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:46.999Z",
@@ -39,16 +39,16 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:57:10.484Z",
+      "syncedAt": "2026-10-18T07:55:31.857Z",
       "source": "api"
     },
     "repository": {
       "full_name": "KyleKun/one_second_diary",
       "stargazers_count": 414,
       "forks_count": 81,
-      "open_issues_count": 30,
+      "open_issues_count": 31,
       "language": "Dart",
-      "pushed_at": "2026-10-10T12:57:05Z",
+      "pushed_at": "2026-10-18T02:47:49Z",
       "updated_at": "2026-10-17T11:07:10Z",
       "archived": false,
       "disabled": false,

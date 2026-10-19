@@ -3,7 +3,7 @@
   "slug": "cap",
   "repoUrl": "https://github.com/CapSoftware/Cap",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:53:20.189Z",
+  "lastSuccessAt": "2026-10-18T07:51:41.669Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:26.293Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:53:20.189Z",
+      "syncedAt": "2026-10-18T07:51:41.669Z",
       "source": "api"
     },
     "repository": {
       "full_name": "CapSoftware/Cap",
-      "stargazers_count": 23382,
-      "forks_count": 2097,
-      "open_issues_count": 517,
+      "stargazers_count": 23393,
+      "forks_count": 2095,
+      "open_issues_count": 507,
       "language": "Rust",
-      "pushed_at": "2026-10-17T05:27:26Z",
-      "updated_at": "2026-10-17T15:44:50Z",
+      "pushed_at": "2026-10-18T04:04:40Z",
+      "updated_at": "2026-10-18T06:38:32Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

@@ -3,7 +3,7 @@
   "slug": "voquill",
   "repoUrl": "https://github.com/voquill/voquill",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T16:00:25.921Z",
+  "lastSuccessAt": "2026-10-18T07:58:54.956Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:27.905Z",
@@ -26,7 +26,7 @@
     "repository": {
       "full_name": "voquill/voquill",
       "stargazers_count": 1019,
-      "forks_count": 128,
+      "forks_count": 129,
       "open_issues_count": 68,
       "language": "TypeScript",
       "pushed_at": "2026-09-26T17:29:37Z",
@@ -54,7 +54,7 @@
     "latestReleaseAt": "2026-09-26T17:43:21Z",
     "homepage": "https://voquill.com/dictation",
     "sync": {
-      "syncedAt": "2026-10-17T16:00:25.921Z",
+      "syncedAt": "2026-10-18T07:58:54.956Z",
       "source": "api"
     }
   },

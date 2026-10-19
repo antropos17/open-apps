@@ -3,7 +3,7 @@
   "slug": "admin-portal",
   "repoUrl": "https://github.com/invoiceninja/admin-portal",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:51:57.097Z",
+  "lastSuccessAt": "2026-10-18T07:50:17.316Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:29.572Z",
@@ -62,7 +62,7 @@
     "latestReleaseAt": "2026-10-08T21:13:52Z",
     "homepage": "https://demo.invoiceninja.com",
     "sync": {
-      "syncedAt": "2026-10-17T15:51:57.097Z",
+      "syncedAt": "2026-10-18T07:50:17.316Z",
       "source": "api"
     }
   },

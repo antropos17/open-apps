@@ -3,7 +3,7 @@
   "slug": "airdash",
   "repoUrl": "https://github.com/simonbengtsson/airdash",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:52:15.247Z",
+  "lastSuccessAt": "2026-10-18T07:50:35.437Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:40.356Z",
@@ -196,7 +196,7 @@
       "contributorsKnown": 5
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:52:15.247Z",
+      "syncedAt": "2026-10-18T07:50:35.437Z",
       "source": "api"
     },
     "languages": {
@@ -307,10 +307,10 @@
         "type": "package-manager",
         "platform": "linux",
         "label": "AUR",
-        "url": "https://aur.archlinux.org/packages/airdash-bin",
+        "url": "https://aur.archlinux.org/packages/airdash",
         "facts": {
           "repository": "aur",
-          "package": "airdash-bin",
+          "package": "airdash",
           "version": "0.1.0",
           "project": "airdash",
           "match": "project-name",
@@ -319,7 +319,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/airdash/versions",
-          "fetchedAt": "2026-10-17T15:52:12.577Z"
+          "fetchedAt": "2026-10-18T07:50:32.838Z"
         }
       },
       {

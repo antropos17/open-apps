@@ -3,7 +3,7 @@
   "slug": "horizoncalendar",
   "repoUrl": "https://github.com/airbnb/HorizonCalendar",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:55:01.462Z",
+  "lastSuccessAt": "2026-10-18T07:53:21.467Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:27.506Z",
@@ -203,7 +203,7 @@
       "contributorsKnown": 14
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:55:01.462Z",
+      "syncedAt": "2026-10-18T07:53:21.467Z",
       "source": "api"
     },
     "languages": {

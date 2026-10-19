@@ -3,7 +3,7 @@
   "slug": "fluidvoice",
   "repoUrl": "https://github.com/altic-dev/FluidVoice",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:54:12.761Z",
+  "lastSuccessAt": "2026-10-18T07:52:33.945Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:57.693Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "altic-dev/FluidVoice",
-      "stargazers_count": 12251,
-      "forks_count": 887,
-      "open_issues_count": 135,
+      "stargazers_count": 12267,
+      "forks_count": 891,
+      "open_issues_count": 138,
       "language": "Swift",
-      "pushed_at": "2026-10-17T05:30:29Z",
-      "updated_at": "2026-10-17T15:00:11Z",
+      "pushed_at": "2026-10-17T18:31:48Z",
+      "updated_at": "2026-10-18T05:17:25Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -60,7 +60,7 @@
     "latestReleaseAt": "2026-10-12T19:34:41Z",
     "homepage": "https://altic.dev/fluid",
     "sync": {
-      "syncedAt": "2026-10-17T15:54:12.761Z",
+      "syncedAt": "2026-10-18T07:52:33.945Z",
       "source": "api"
     }
   },

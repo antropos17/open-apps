@@ -3,7 +3,7 @@
   "slug": "tooljet",
   "repoUrl": "https://github.com/ToolJet/ToolJet",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:59:46.697Z",
+  "lastSuccessAt": "2026-10-18T07:58:09.756Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:46.500Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "ToolJet/ToolJet",
-      "stargazers_count": 41103,
-      "forks_count": 5503,
-      "open_issues_count": 872,
+      "stargazers_count": 41104,
+      "forks_count": 5504,
+      "open_issues_count": 873,
       "language": "HTML",
-      "pushed_at": "2026-10-17T11:42:03Z",
-      "updated_at": "2026-10-17T15:04:27Z",
+      "pushed_at": "2026-10-18T05:08:18Z",
+      "updated_at": "2026-10-17T16:35:34Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -62,7 +62,7 @@
     "latestReleaseAt": "2026-10-15T15:41:48Z",
     "homepage": "https://tooljet.com",
     "sync": {
-      "syncedAt": "2026-10-17T15:59:46.697Z",
+      "syncedAt": "2026-10-18T07:58:09.756Z",
       "source": "api"
     }
   },

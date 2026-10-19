@@ -3,7 +3,7 @@
   "slug": "orbit",
   "repoUrl": "https://github.com/Noveum/orbit",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:58:00.741Z",
+  "lastSuccessAt": "2026-10-18T07:56:22.311Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:17.023Z",
@@ -39,7 +39,7 @@
       "forks_count": 27,
       "open_issues_count": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-10-14T05:05:46Z",
+      "pushed_at": "2026-10-18T00:22:28Z",
       "updated_at": "2026-10-15T08:12:11Z",
       "archived": false,
       "disabled": false,
@@ -71,10 +71,10 @@
         "websockets"
       ]
     },
-    "latestReleaseAt": "2026-10-11T00:26:26Z",
+    "latestReleaseAt": "2026-10-18T00:22:29Z",
     "homepage": "https://orbit.noveum.ai",
     "sync": {
-      "syncedAt": "2026-10-17T15:58:00.741Z",
+      "syncedAt": "2026-10-18T07:56:22.311Z",
       "source": "api"
     }
   },

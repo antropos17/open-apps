@@ -3,7 +3,7 @@
   "slug": "oinkoin",
   "repoUrl": "https://github.com/emavgl/oinkoin",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:57:07.913Z",
+  "lastSuccessAt": "2026-10-18T07:55:29.133Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:44.614Z",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:57:07.913Z",
+      "syncedAt": "2026-10-18T07:55:29.133Z",
       "source": "api"
     },
     "repository": {

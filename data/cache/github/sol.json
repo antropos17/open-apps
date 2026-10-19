@@ -3,7 +3,7 @@
   "slug": "sol",
   "repoUrl": "https://github.com/ospfranco/sol",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:59:01.298Z",
+  "lastSuccessAt": "2026-10-18T07:57:24.246Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:37:08.122Z",
@@ -35,7 +35,7 @@
       "open_issues_count": 16,
       "language": "TypeScript",
       "pushed_at": "2026-10-14T18:41:49Z",
-      "updated_at": "2026-10-17T14:44:15Z",
+      "updated_at": "2026-10-17T21:11:31Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -57,7 +57,7 @@
     },
     "latestReleaseAt": "2026-10-14T18:41:36Z",
     "sync": {
-      "syncedAt": "2026-10-17T15:59:01.298Z",
+      "syncedAt": "2026-10-18T07:57:24.246Z",
       "source": "api"
     }
   },

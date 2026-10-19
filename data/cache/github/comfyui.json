@@ -3,7 +3,7 @@
   "slug": "comfyui",
   "repoUrl": "https://github.com/Comfy-Org/ComfyUI",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:53:32.051Z",
+  "lastSuccessAt": "2026-10-18T07:51:53.687Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:12:52.014Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "Comfy-Org/ComfyUI",
-      "stargazers_count": 138020,
-      "forks_count": 16439,
-      "open_issues_count": 5219,
+      "stargazers_count": 138102,
+      "forks_count": 16453,
+      "open_issues_count": 5238,
       "language": "Python",
-      "pushed_at": "2026-10-17T15:49:59Z",
-      "updated_at": "2026-10-17T15:51:45Z",
+      "pushed_at": "2026-10-18T05:20:10Z",
+      "updated_at": "2026-10-18T07:47:20Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -50,7 +50,7 @@
     "latestReleaseAt": "2026-10-15T22:57:45Z",
     "homepage": "https://www.comfy.org/",
     "sync": {
-      "syncedAt": "2026-10-17T15:53:32.051Z",
+      "syncedAt": "2026-10-18T07:51:53.687Z",
       "source": "api"
     }
   },

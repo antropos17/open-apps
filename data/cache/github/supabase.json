@@ -3,7 +3,7 @@
   "slug": "supabase",
   "repoUrl": "https://github.com/supabase/supabase",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:59:22.501Z",
+  "lastSuccessAt": "2026-10-18T07:57:45.754Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:23.234Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "supabase/supabase",
-      "stargazers_count": 111681,
-      "forks_count": 17065,
-      "open_issues_count": 1147,
+      "stargazers_count": 111705,
+      "forks_count": 17075,
+      "open_issues_count": 1160,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T15:57:35Z",
-      "updated_at": "2026-10-17T15:08:27Z",
+      "pushed_at": "2026-10-18T05:36:50Z",
+      "updated_at": "2026-10-18T06:01:32Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-08-07T13:57:57Z",
     "homepage": "https://supabase.com",
     "sync": {
-      "syncedAt": "2026-10-17T15:59:22.501Z",
+      "syncedAt": "2026-10-18T07:57:45.754Z",
       "source": "api"
     }
   },

@@ -3,7 +3,7 @@
   "slug": "freescout",
   "repoUrl": "https://github.com/freescout-help-desk/freescout",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:54:35.390Z",
+  "lastSuccessAt": "2026-10-18T07:52:55.003Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:13:54.288Z",
@@ -27,10 +27,10 @@
       "full_name": "freescout-help-desk/freescout",
       "stargazers_count": 4604,
       "forks_count": 735,
-      "open_issues_count": 18,
+      "open_issues_count": 20,
       "language": "PHP",
-      "pushed_at": "2026-10-17T14:51:16Z",
-      "updated_at": "2026-10-17T14:34:54Z",
+      "pushed_at": "2026-10-18T07:48:08Z",
+      "updated_at": "2026-10-17T23:24:43Z",
       "archived": false,
       "disabled": false,
       "default_branch": "dist",
@@ -58,7 +58,7 @@
     "latestReleaseAt": "2026-10-17T05:01:00Z",
     "homepage": "https://freescout.net",
     "sync": {
-      "syncedAt": "2026-10-17T15:54:35.390Z",
+      "syncedAt": "2026-10-18T07:52:55.003Z",
       "source": "api"
     }
   },

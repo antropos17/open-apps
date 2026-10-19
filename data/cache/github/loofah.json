@@ -3,7 +3,7 @@
   "slug": "loofah",
   "repoUrl": "https://github.com/bart6114/loofah",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:56:13.669Z",
+  "lastSuccessAt": "2026-10-18T07:54:32.277Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:04.613Z",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-17T15:56:13.669Z",
+      "syncedAt": "2026-10-18T07:54:32.277Z",
       "source": "api"
     },
     "repository": {

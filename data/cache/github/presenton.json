@@ -3,7 +3,7 @@
   "slug": "presenton",
   "repoUrl": "https://github.com/presenton/presenton",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:58:30.616Z",
+  "lastSuccessAt": "2026-10-18T07:56:52.620Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:17:34.342Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "presenton/presenton",
-      "stargazers_count": 11168,
-      "forks_count": 1699,
+      "stargazers_count": 11182,
+      "forks_count": 1701,
       "open_issues_count": 31,
       "language": "TypeScript",
       "pushed_at": "2026-10-16T13:12:18Z",
-      "updated_at": "2026-10-17T15:28:12Z",
+      "updated_at": "2026-10-18T05:52:33Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -53,7 +53,7 @@
     "latestReleaseAt": "2026-09-21T12:06:32Z",
     "homepage": "https://presenton.ai",
     "sync": {
-      "syncedAt": "2026-10-17T15:58:30.616Z",
+      "syncedAt": "2026-10-18T07:56:52.620Z",
       "source": "api"
     }
   },

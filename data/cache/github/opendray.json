@@ -3,7 +3,7 @@
   "slug": "opendray",
   "repoUrl": "https://github.com/Opendray/opendray",
   "source": "api",
-  "lastSuccessAt": "2026-10-17T15:57:28.135Z",
+  "lastSuccessAt": "2026-10-18T07:55:49.974Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:59.226Z",
@@ -74,7 +74,7 @@
     "latestReleaseAt": "2026-10-13T02:23:22Z",
     "homepage": "https://opendray.dev",
     "sync": {
-      "syncedAt": "2026-10-17T15:57:28.135Z",
+      "syncedAt": "2026-10-18T07:55:49.974Z",
       "source": "api"
     }
   },
