@@ -2,18 +2,16 @@
 name: GitUp
 repoUrl: https://github.com/git-up/GitUp
 projectType: real-app
-category: tools
-stack: ios
-summary: "A native macOS Git GUI whose edge is the underlying GitUpKit framework: a tight
-  Objective-C wrapper over a customized libgit2 fork, with a custom rebase engine and an in-process
-  observer that streams state, history, status, stashes, and search updates to the UI as the on-disk
-  repo changes."
-description: GitUp is a native macOS Git GUI built on a bespoke in-process Git toolkit (GitUpKit)
-  that wraps a customized libgit2 fork and re-implements everything else — including its own rebase
-  engine — to keep operations and the live commit graph fast on large repositories.
+category: developer-tools
+stack: macos
+summary: A fast native Git client for Mac built around a live commit graph you can edit directly —
+  drag, squash, split, reorder and undo commits — and it stays quick on large repositories. Under
+  the hood, the GitUpKit framework is a thin Objective-C layer over a customized libgit2 fork, with
+  its own rebase engine and an in-process observer that streams repository changes to the UI.
+description: A fast Git client for Mac where you edit history directly on a live commit graph.
 sourceDescription: The Git interface you've been missing all your life has finally arrived.
 platforms:
-  - ios
+  - macos
 licenses:
   - gpl-3.0
 links:
@@ -25,10 +23,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (12,011 stars on GitHub).
+  - Shows the whole commit graph as an editable map instead of list views, and lets you undo
+    history edits.
 caveats: []
 seo:
-  title: GitUp – Open Source Git Client for macOS
+  title: "GitUp Review: Visual Git Client for Mac"
   description: GitUp is a fast native Git client for macOS with a live commit graph and its own rebase engine, built to stay quick on large repositories. GPL-3.0.
 addedAt: 2026-06-13
 source:

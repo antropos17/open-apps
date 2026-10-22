@@ -5,8 +5,7 @@ projectType: real-app
 category: business
 summary: A full-featured PHP and MySQL analytics platform, formerly Piwik, that you install on your
   own web server to track websites and apps, with a plugin marketplace and a hosted Matomo Cloud.
-description: Matomo is a GPL-3.0 analytics platform that aims to be a free software alternative to
-  Google Analytics, self-hosted on PHP and MySQL or run on Matomo Cloud.
+description: Full-featured web and app analytics on your own server, a Google Analytics alternative.
 sourceDescription: Empowering People Ethically 🚀 — Matomo is hiring! Join us →
   https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving
   you complete control and built-in privacy. Easily collect, visualise, and analyse data from
@@ -58,7 +57,7 @@ relations:
       quote: Matomo aims to be a Free software alternative to Google Analytics
       checkedAt: 2026-09-29
 seo:
-  title: Matomo – Open Source Google Analytics Alternative
+  title: "Matomo Review: Google Analytics Alternative"
   description: Matomo is a self-hosted web and app analytics platform on PHP and MySQL, formerly
     Piwik, or run on Matomo Cloud. A GPL-3.0 Google Analytics alternative.
 addedAt: 2026-09-29

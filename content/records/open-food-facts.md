@@ -4,8 +4,10 @@ repoUrl: https://github.com/openfoodfacts/smooth-app
 projectType: real-app
 category: health-and-fitness
 stack: flutter
-description: The mobile companion to Open Food Facts — scan barcodes, decode ingredient lists, and
-  contribute new products to the open database.
+summary: The official Open Food Facts app for Android and iOS that scans a food barcode and shows the
+  ingredients, nutrition and additives, and lets you add missing products to the open database. It
+  is built with Flutter.
+description: Scan food barcodes on Android and iOS to see ingredients and nutrition, and add products to the open database.
 sourceDescription: 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 platforms:
   - android
@@ -22,7 +24,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Open Food Facts – Open Source Food Barcode Scanner App
+  title: "Open Food Facts: Food Barcode Scanner App"
   description: Open Food Facts lets you scan food barcodes on Android and iOS, decode ingredient lists and add new products to the open database. Apache-2.0.
 addedAt: 2026-06-07
 source:

@@ -45,5 +45,5 @@ faq:
     a: Plausible documents importing historical Google Analytics stats. Check each project's documentation for the others.
 seo:
   index: true
-  title: Open Source Google Analytics Alternatives – Self-Hosted
+  title: "Open Source Google Analytics Alternatives: Self-Hosted"
   description: Umami, Plausible, Rybbit, Matomo and OpenPanel compared — privacy-first, self-hosted web analytics, from one-page dashboards to funnels and session replay.

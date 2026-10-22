@@ -6,7 +6,7 @@ category: finance
 stack: react-native
 summary: A Bitcoin wallet focused on privacy with on-chain transactions, Lightning Network payments,
   and hardware-wallet integration.
-description: Bitcoin wallet for iOS & Android. Built with React Native.
+description: A privacy-focused Bitcoin and Lightning wallet for iOS and Android, with hardware-wallet support.
 sourceDescription: Bitcoin wallet for iOS & Android. Built with React Native.
 platforms:
   - android
@@ -33,7 +33,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: BlueWallet – Open Source Bitcoin & Lightning Wallet
+  title: "BlueWallet Review: Bitcoin and Lightning Wallet"
   description: BlueWallet is a privacy-focused Bitcoin wallet for iOS and Android with on-chain
     payments, Lightning Network and hardware-wallet support. MIT-licensed.
 addedAt: 2026-06-13

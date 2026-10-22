@@ -1,24 +1,26 @@
 ---
-name: xbmc
+name: Kodi
 repoUrl: https://github.com/xbmc/xbmc
 projectType: real-app
-category: tools
+category: media
 stack: ios
-summary: Kodi (despite the legacy `xbmc` GitHub repo name, this is the post-rebrand media-center
-  project, not the original XBMC) is a cross-platform entertainment hub that plays local and
-  streamed audio/video, scrapes metadata for a personal library, and exposes a binary addon
-  framework plus a JSON-RPC interface for remote control and third-party integrations.
-description: Kodi is a free, open-source cross-platform media-center and entertainment-hub
-  application written primarily in C++ with a CMake build system, built on FFmpeg for codec support
-  and featuring a binary addon framework, hardware-accelerated video playback, and a JSON-RPC
-  control surface — running natively on Android, Linux, BSD, macOS, iOS, tvOS, and Windows.
+summary: A free media center that plays your local and streamed video and music, builds a library
+  with artwork and metadata, and runs on TVs, computers and phones. The GitHub repository keeps the
+  old XBMC name; it adds an addon framework and a JSON-RPC interface for remote control and
+  integrations.
+description: A free home theater and media center that plays and organizes your video and music on
+  almost any device.
 sourceDescription: Kodi is an award-winning free and open source home theater/media center software
   and entertainment hub for digital media. With its beautiful interface and powerful skinning
   engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 platforms:
   - ios
+  - android
+  - macos
+  - windows
+  - linux
 licenses:
-  - noassertion
+  - gpl-2.0
 links:
   github: https://github.com/xbmc/xbmc
 distribution:
@@ -28,10 +30,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (20,860 stars on GitHub).
+  - One of the longest-running open-source media centers, available on Android, iOS, tvOS, macOS,
+    Windows and Linux.
 caveats: []
 seo:
-  title: Kodi – Open Source Home Theater & Media Center
+  title: "Kodi Review: Free Home Theater Media Center"
   description: Kodi is a free media center that plays local and streamed video and music and organizes
     your library, on Android, iOS, tvOS, macOS, Windows and Linux.
 addedAt: 2026-06-13

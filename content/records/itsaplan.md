@@ -3,11 +3,10 @@ name: It's a Plan
 repoUrl: https://github.com/croffasia/itsaplan
 projectType: real-app
 category: productivity
-summary: A self-hosted issue tracker — projects, boards, cycles, custom fields, docs and dashboards —
-  where AI agents are project members with roles, permissions and assigned issues, running on the
-  instance or on your own machine through Claude Code, Codex and other coding CLIs.
-description: It's a Plan is an AGPL-3.0, self-hosted project management and issue tracking app where
-  AI agents take issues on the same board as people, with a REST API, webhooks and an MCP server.
+summary: A self-hosted issue tracker where AI agents are project members that take issues on the same
+  board as people. It covers projects, boards, cycles, custom fields, docs and dashboards, and agents
+  run on the instance or on your own machine through Claude Code, Codex and other coding CLIs.
+description: A self-hosted issue tracker where AI agents take issues on the same board as your team.
 sourceDescription: Open-source, self-hosted alternative to Linear and Plane. Project management and
   issue tracking where teams and AI agents work side by side to plan and ship products.
 platforms:
@@ -53,7 +52,7 @@ relations:
       quote: Open-source, self-hosted alternative to Linear and Plane.
       checkedAt: 2026-09-29
 seo:
-  title: It's a Plan – Open Source Linear Alternative with AI Agents
+  title: "It's a Plan Review: Linear Alternative with AI"
   description: It's a Plan is a self-hosted issue tracker where AI agents take issues like teammates,
     via Claude Code or Codex, with a REST API and MCP. AGPL-3.0.
 addedAt: 2026-09-29

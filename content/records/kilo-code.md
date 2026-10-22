@@ -3,11 +3,11 @@ name: Kilo Code
 repoUrl: https://github.com/Kilo-Org/kilocode
 projectType: real-app
 category: developer-tools
-summary: An AI coding agent for VS Code, JetBrains IDEs and the terminal with Code, Plan, Ask and
-  Debug agents, inline autocomplete and 500+ models at provider prices — MIT-licensed, with a
+summary: An AI coding agent and autocomplete for VS Code, JetBrains IDEs and the terminal that works
+  with 500+ models at provider prices. It has Code, Plan, Ask and Debug agents — MIT-licensed, with a
   paid cloud side for credits, cloud agents and code reviews.
-description: Kilo Code is an MIT-licensed AI coding agent and autocomplete for VS Code, JetBrains and
-  the command line, with your own keys, local models or pay-as-you-go credits at no markup.
+description: An AI coding agent and autocomplete for VS Code, JetBrains and the terminal, with any
+  model.
 sourceDescription: Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate
   faster with the most popular open source coding agent.
 platforms:
@@ -65,7 +65,7 @@ relations:
       quote: How does Kilo Code compare to GitHub Copilot?
       checkedAt: 2026-09-29
 seo:
-  title: Kilo Code – Open Source Cursor & Copilot Alternative
+  title: "Kilo Code Review: Cursor & Copilot Alternative"
   description: Kilo Code is an MIT AI coding agent with autocomplete for VS Code, JetBrains and the
     terminal, using 500+ models, your own keys or local models.
 addedAt: 2026-09-29

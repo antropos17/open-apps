@@ -4,7 +4,10 @@ repoUrl: https://github.com/imnakul/codex-analytics
 projectType: real-app
 category: developer-tools
 stack: react
-description: Local dashboard for Codex and Claude Code sessions, token usage, runtime, model comparisons, and API-equivalent cost estimates.
+summary: A local dashboard that shows how you use Codex and Claude Code — sessions, token usage,
+  runtime and what the same work would cost at API prices — without uploading anything. It also
+  compares models and lets you edit the pricing it uses.
+description: See your Codex and Claude Code sessions, token usage and API-equivalent cost on a local dashboard.
 platforms:
   - web
 licenses:
@@ -28,7 +31,7 @@ caveats:
   - Estimates are not subscription billing totals and internal provider formats can change.
   - Early-stage project with limited adoption; maintainer review is requested.
 seo:
-  title: Codex Claude Ledger – Open Source AI Usage Dashboard
+  title: "Codex Claude Ledger: AI Usage Dashboard"
   description: Local Codex & Claude Analytics Ledger shows token usage, runtime, models and
     API-equivalent cost for your sessions in a local browser. MIT, no uploads.
 addedAt: 2026-10-20

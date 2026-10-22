@@ -5,11 +5,11 @@ repoUrl: https://github.com/bart6114/loofah
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri/Rust desktop app and CLI with no account, backend, telemetry, or required cloud;
-  optional summaries use the user's chosen LLM, and a read-only local MCP server exposes the vault
-  to agents.
-description: Loofah is an MIT-licensed, local-first meeting notetaker for macOS that records and
-  transcribes on-device and stores notes as ordinary Markdown.
+summary: Free meeting notes for the Mac that record and transcribe on your own computer and save
+  everything as plain Markdown, with no account, backend or telemetry. Optional summaries use the
+  AI model you choose, and a read-only local MCP server lets agents read the vault; it is a Tauri
+  and Rust desktop app with a CLI.
+description: Meeting notes for Mac, recorded and transcribed on your computer and saved as Markdown.
 sourceDescription: Free, open-source meeting notes for macOS with private on-device transcription,
   Markdown storage, and optional bring-your-own AI—no accounts, subscriptions, or telemetry.
 platforms:
@@ -57,7 +57,7 @@ relations:
       type: editorial
       checkedAt: 2026-09-22
 seo:
-  title: Loofah – Open Source Meeting Notes App for macOS
+  title: "Loofah: Local Meeting Notes App for Mac"
   description: Loofah is a local-first meeting notetaker for macOS that records and transcribes on-device and saves notes as plain Markdown. MIT, no account or telemetry.
 addedAt: 2026-08-31
 source:

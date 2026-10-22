@@ -4,11 +4,11 @@ repoUrl: https://github.com/silverstein/minutes
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Rust app that records meetings, calls, voice memos and dictation, transcribes them on your
-  device and saves each one as a Markdown file with structured YAML — then lets Claude Code, Codex,
-  Cursor or any MCP client search that history.
-description: Minutes is an MIT-licensed, local-first meeting and voice-memo recorder with on-device
-  transcription, Markdown output, a CLI and an MCP server, for macOS and Windows with a CLI on Linux.
+summary: Records meetings, calls and voice memos, transcribes them on your own computer and saves
+  each one as a Markdown file that Claude Code, Codex, Cursor or any MCP client can search. It is a
+  Rust app with dictation, structured YAML front matter, a CLI and an MCP server, for macOS and
+  Windows with a CLI on Linux.
+description: Meeting and voice-memo recorder that transcribes on your computer and saves Markdown your AI tools can search.
 sourceDescription: Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor,
   and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown
   you own.
@@ -67,7 +67,7 @@ relations:
       quote: Open-source, local-first Granola/Otter alternative
       checkedAt: 2026-09-29
 seo:
-  title: Minutes – Open Source Granola & Otter Alternative with MCP
+  title: "Minutes Review: Granola & Otter Alternative"
   description: Minutes transcribes meetings and voice memos on your device into Markdown files your AI agents can search over MCP. MIT, for Mac and Windows, CLI on Linux.
 addedAt: 2026-09-29
 source:

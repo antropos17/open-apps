@@ -6,7 +6,8 @@ projectType: real-app
 category: productivity
 stack: javascript
 summary: A calm, local-first personal workbench for projects, daily tasks, health, fitness, calendar review, and ideas, with no account or cloud sync.
-description: Kinetic Life OS is a GPL-3.0 installable PWA that connects projects, everyday actions, health records, workouts, calendar review, and inspiration in one local-first personal workspace.
+description: Projects, daily tasks, health, workouts and ideas in one local-first web app, with no
+  account.
 sourceDescription: A calm, local-first personal workbench for projects, daily tasks, health, fitness, calendar review, and ideas — no account or cloud sync.
 platforms:
   - web
@@ -45,7 +46,7 @@ caveats:
   - Records are tied to the current browser profile by default; there is no built-in account-based cross-device sync.
   - The public demo starts with fictional data, so users should clear it before entering personal records.
 seo:
-  title: Kinetic Life OS – Open Source Local-First Personal Workbench
+  title: "Kinetic Life OS: Local-First Life Planner"
   description: Kinetic Life OS is a GPL-3.0 local-first PWA for projects, tasks, calendar review, health, fitness, and ideas without an account or cloud sync.
 addedAt: 2026-10-03
 source:

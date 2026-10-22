@@ -1,17 +1,22 @@
 ---
-name: mhabit
+name: Table Habit
 repoUrl: https://github.com/FriesI23/mhabit
 projectType: real-app
 category: productivity
 stack: flutter
-summary: A cross-platform Flutter habit tracker with separate scoring models for "do" and "don't"
-  habits, growth-curve visualizations, and WebDAV sync via Nextcloud, Koofr, or any self-hosted
-  endpoint.
-description: mhabit (Table Habit) is a Flutter-based micro-habit tracker that scores daily
-  completion against configurable curves, stores everything locally, and syncs across devices
-  through any WebDAV endpoint.
+summary: A habit tracker for phone and desktop that scores good and bad habits separately, shows
+  your progress as growth curves and keeps your data on the device. It syncs over WebDAV via
+  Nextcloud, Koofr or any self-hosted endpoint, and runs on Android, iOS, Windows, macOS and Linux
+  from one Flutter app.
+description: Habit tracker with growth-curve scores, local storage and WebDAV sync, for Android, iOS and desktop.
 sourceDescription: Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first
   storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.
+platforms:
+  - android
+  - ios
+  - windows
+  - macos
+  - linux
 licenses:
   - apache-2.0
 links:
@@ -38,8 +43,8 @@ tags:
   - webdav
   - windows
 seo:
-  title: mhabit – Open Source Habit Tracker with WebDAV Sync
-  description: mhabit (Table Habit) tracks good and bad habits with growth-curve scores, keeps data on your device and syncs over WebDAV, e.g. Nextcloud. Apache-2.0.
+  title: "Table Habit Review: Habit Tracker with Sync"
+  description: Table Habit (mhabit) tracks good and bad habits with growth-curve scores, keeps data on your device and syncs over WebDAV, e.g. Nextcloud. Apache-2.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

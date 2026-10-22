@@ -3,11 +3,11 @@ name: twinny
 repoUrl: https://github.com/twinnydotdev/twinny
 projectType: real-app
 category: developer-tools
-summary: A VS Code extension for code completion, inline edits, chat, workspace search and code review
-  against a model server you choose — Ollama, LM Studio, llama.cpp, a hosted API or a self-hosted team
-  gateway — with no telemetry and no sign-in.
-description: twinny is an MIT-licensed AI coding assistant for VS Code that runs against your own
-  model server or a gateway on your network, as a self-hosted alternative to GitHub Copilot.
+summary: A VS Code extension for code completion, inline edits, chat and code review using a model
+  server you choose, with no telemetry and no sign-in. It works with Ollama, LM Studio, llama.cpp, a
+  hosted API or a self-hosted team gateway.
+description: An AI coding assistant for VS Code that runs on your own model server instead of GitHub
+  Copilot.
 sourceDescription: Open-source AI coding assistant for VS Code. Code completion, chat, edits and
   reviews with local or hosted models. Your models, your infrastructure.
 platforms:
@@ -56,7 +56,7 @@ relations:
       quote: twinny, a self-hosted GitHub Copilot alternative.
       checkedAt: 2026-09-29
 seo:
-  title: twinny – Open Source Self-Hosted GitHub Copilot Alternative
+  title: "twinny Review: Self-Hosted Copilot Alternative"
   description: twinny brings code completion, chat, inline edits and code review to VS Code using your
     own model server, such as Ollama. MIT, no telemetry.
 addedAt: 2026-09-29

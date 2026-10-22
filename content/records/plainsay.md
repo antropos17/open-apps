@@ -4,11 +4,11 @@ name: Plainsay
 repoUrl: https://github.com/conrader/plainsay
 projectType: real-app
 category: productivity
-summary: A native Swift menu-bar dictation app for Apple silicon Macs — hold a key, speak, release —
-  that transcribes on the device with Whisper or NVIDIA Parakeet and pastes the text back into the
-  window you started in, or leaves it on the clipboard when that cannot be confirmed.
-description: Plainsay is an MIT-licensed macOS dictation app that transcribes on-device with Whisper
-  large-v3-turbo or Parakeet TDT 0.6B v3. Local mode is free, with no account and no telemetry.
+summary: Dictation for Apple silicon Macs that lives in the menu bar — hold a key, speak, release —
+  and pastes the text back into the window you were typing in, transcribed on the device. It is a
+  native Swift app using Whisper or NVIDIA Parakeet, and leaves the text on the clipboard when it
+  cannot confirm the paste.
+description: Free on-device dictation for Mac that pastes text where you type, with no account or telemetry.
 sourceDescription: Native Mac dictation in a 12 MB download. Free Local mode with Whisper + Parakeet,
   reproducible benchmarks, optional Cloud. MIT-licensed client.
 platforms:
@@ -59,7 +59,7 @@ relations:
       quote: "Plainsay vs Wispr Flow: Free Mac Dictation Alternative"
       checkedAt: 2026-10-08
 seo:
-  title: Plainsay – Open Source On-Device Dictation for Mac
+  title: "Plainsay: Wispr Flow Alternative for Mac"
   description: Plainsay is a 12 MB native Mac dictation app that transcribes locally with Whisper or
     Parakeet and pastes at your cursor. MIT, free Local mode, no account.
 addedAt: 2026-10-08

@@ -3,11 +3,10 @@ name: Amical
 repoUrl: https://github.com/amicalhq/amical
 projectType: real-app
 category: productivity
-summary: An Electron dictation app for macOS and Windows that transcribes with local Whisper models,
-  detects the app you are typing into and formats your speech to suit it — an email, a chat message
-  or a prompt in your IDE.
-description: Amical is an MIT-licensed, local-first AI dictation app for macOS and Windows, with
-  context-aware formatting, custom vocabulary and an Android app.
+summary: A dictation app for macOS and Windows that transcribes with local Whisper models and formats
+  your speech for the app you are typing into — an email, a chat message or a prompt in your IDE.
+  It is built on Electron, with custom vocabulary and an Android app.
+description: Local-first AI dictation for Mac and Windows that formats your speech for the app you're typing in.
 sourceDescription: "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no
   keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate."
 platforms:
@@ -61,8 +60,8 @@ relations:
       quote: Wispr Flow vs Amical — Open-Source Dictation Alternative
       checkedAt: 2026-09-29
 seo:
-  title: Amical – Open Source Wispr Flow Alternative, Mac & Windows
-  description: Amical is a local-first dictation app for macOS and Windows that formats your speech for the app you are in — email, chat or code. MIT, with Whisper models.
+  title: "Amical Review: Wispr Flow Alternative"
+  description: Amical is a local-first dictation app for macOS and Windows that formats your speech for the app you are in — email, chat or code. MIT, uses Whisper.
 addedAt: 2026-09-29
 source:
   type: manual

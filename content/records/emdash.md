@@ -3,11 +3,10 @@ name: Emdash
 repoUrl: https://github.com/generalaction/emdash
 projectType: real-app
 category: developer-tools
-summary: A desktop app for running several coding agents in parallel — Claude Code, Codex, OpenCode,
-  Amp and more — each in its own Git worktree, then reviewing diffs, opening pull requests, checking
-  CI and merging from one window, locally or over SSH.
-description: Emdash is an Apache-2.0 desktop app for macOS, Windows and Linux that runs AI coding
-  agents in parallel Git worktrees, with tickets from Linear, GitHub or Jira and PR review built in.
+summary: A desktop app for running several AI coding agents in parallel and reviewing their work in
+  one window — diffs, pull requests, CI checks and merges, locally or over SSH. It runs Claude Code,
+  Codex, OpenCode, Amp and more, each in its own Git worktree.
+description: Run several AI coding agents side by side and review their diffs and pull requests in one app.
 sourceDescription: Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple
   coding agents in parallel. Use any provider.
 platforms:
@@ -50,7 +49,7 @@ caveats:
   - It orchestrates agents rather than being one; you still need Claude Code, Codex or another agent
     CLI and its account.
 seo:
-  title: Emdash – Open Source Desktop App for Parallel Coding Agents
+  title: "Emdash Review: Run Coding Agents in Parallel"
   description: Emdash runs Claude Code, Codex, OpenCode and other agents in parallel Git worktrees
     on macOS, Windows and Linux, with diff review and PRs. Apache-2.0.
 addedAt: 2026-09-29

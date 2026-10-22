@@ -4,11 +4,12 @@ repoUrl: https://github.com/ToolJet/ToolJet
 projectType: real-app
 category: developer-tools
 stack: react
-summary: A platform for internal tools — 80+ components, a built-in database, 90+ data sources,
-  JavaScript and Python in apps, multiplayer editing and an MCP server for coding agents — AGPL
-  Community Edition, with AI app generation and workflows in the paid ToolJet AI edition.
-description: ToolJet is an AGPL, self-hostable platform for building internal tools, admin panels and
-  dashboards, with a paid enterprise edition that adds AI generation and workflows.
+summary: A low-code builder for internal tools, admin panels and dashboards, with 80+ components, a
+  built-in database and 90+ data sources, self-hosted or on ToolJet Cloud. Apps can run JavaScript
+  and Python, teams edit together, and coding agents connect over MCP; AI app generation and
+  workflows are in the paid ToolJet AI edition.
+description: A low-code builder for internal tools, admin panels and dashboards, self-hosted or in
+  the cloud.
 sourceDescription: Open-source foundation of ToolJet AI - the enterprise app generation platform for
   internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a
   prompt, or from Claude Code, Codex and Cursor over MCP 🚀
@@ -58,7 +59,7 @@ relations:
       quote: Is ToolJet a Retool alternative that I can self-host for free? Yes.
       checkedAt: 2026-09-29
 seo:
-  title: ToolJet – Open Source Retool Alternative for Internal Tools
+  title: "ToolJet Review: Self-Hosted Retool Alternative"
   description: ToolJet builds internal tools and admin panels with 80+ components, a built-in database
     and 90+ data sources. AGPL core; AI features are paid.
 addedAt: 2026-09-29

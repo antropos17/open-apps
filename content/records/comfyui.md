@@ -3,11 +3,10 @@ name: ComfyUI
 repoUrl: https://github.com/Comfy-Org/ComfyUI
 projectType: real-app
 category: media
-summary: A node-graph application for generating images, video, audio and 3D with open models on
-  your own GPU — build a workflow from nodes, save it as JSON, and run it locally, with a desktop app,
-  a Windows portable build and a local API.
-description: ComfyUI is a GPL-3.0 node-based interface and engine for running diffusion and other
-  generative models locally, on Windows, macOS and Linux.
+summary: An app for generating images, video, audio and 3D with open AI models on your own GPU, by
+  connecting nodes into a workflow you can save and rerun. Workflows are JSON files and run locally,
+  with a desktop app, a Windows portable build and a local API.
+description: Generate images, video and audio with open AI models on your own GPU by wiring nodes into a workflow.
 sourceDescription: The most powerful and modular diffusion model GUI, api and backend with a
   graph/nodes interface. The fastest local inference engine in the world.
 platforms:
@@ -52,7 +51,7 @@ caveats:
   - Models are downloaded separately and each carries its own licence, which may restrict how you use it.
   - Custom nodes are third-party Python code that runs with your user's permissions.
 seo:
-  title: ComfyUI – Open Source Node-Based AI Image & Video Generator
+  title: "ComfyUI Review: Local AI Image & Video Generator"
   description: ComfyUI generates images, video, audio and 3D with open models on your own GPU through
     a node graph, with a desktop app and local API. GPL-3.0.
 addedAt: 2026-09-29

@@ -4,17 +4,18 @@ repoUrl: https://github.com/AppFlowy-IO/AppFlowy
 projectType: production
 category: productivity
 stack: flutter
-summary: A local-first collaborative workspace — pages, databases, and AI assistants — with the data
-  stored on infrastructure you control.
-description: Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative
-  workspace where you achieve more without losing control of your data. The leading open source
-  Notion alternative.
+summary: A local-first workspace for pages, wikis, databases and AI assistants, with your data kept
+  on infrastructure you control. It runs on macOS, Windows, Linux, iOS and Android.
+description: A Notion-style workspace for pages, wikis and databases, with your data on your own devices or server.
 sourceDescription: Bring projects, wikis, and teams together with AI. AppFlowy is the AI
   collaborative workspace where you achieve more without losing control of your data. The leading
   open source Notion alternative.
 platforms:
   - ios
   - android
+  - macos
+  - windows
+  - linux
 licenses:
   - agpl-3.0
 links:
@@ -58,7 +59,7 @@ relations:
       quote: confluence-alternative
       checkedAt: 2026-09-22
 seo:
-  title: AppFlowy – Open Source Notion Alternative
+  title: "AppFlowy Review: Open Source Notion Alternative"
   description: AppFlowy is a local-first workspace for pages, wikis, databases and AI, with your data
     on infrastructure you control. An AGPL-3.0 Notion alternative.
 addedAt: 2026-07-06

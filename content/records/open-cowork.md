@@ -3,11 +3,11 @@ name: Open Cowork
 repoUrl: https://github.com/OpenCoworkAI/open-cowork
 projectType: real-app
 category: productivity
-summary: An Electron desktop app that gives an AI agent a workspace folder, document skills and MCP
-  connectors, and runs its shell commands inside a WSL2 or Lima virtual machine when one is
-  available.
-description: Open Cowork is an MIT-licensed desktop agent for Windows and Apple Silicon Macs that
-  works in a folder you choose and isolates its commands in a local VM, with your own API key.
+summary: A Claude Cowork-style desktop agent for Windows and Apple Silicon Macs that works on the
+  files in a folder you choose, makes slides, documents and spreadsheets, and runs its commands in a
+  local VM for safety. It is an Electron app with document skills and MCP connectors that uses a
+  WSL2 or Lima virtual machine when one is installed, with your own API key.
+description: Desktop AI agent for Windows and Mac that works on your files and runs its commands in a safe local VM.
 sourceDescription: Open-source AI agent desktop app for Windows & macOS. One-click install Claude
   Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack
   integration.
@@ -53,7 +53,7 @@ relations:
       quote: Open Cowork is an open-source implementation of Claude Cowork
       checkedAt: 2026-09-28
 seo:
-  title: Open Cowork – Open Source Claude Cowork for Windows & Mac
+  title: "Open Cowork Review: Claude Cowork Alternative"
   description: Open Cowork is an MIT desktop agent for Windows and Apple Silicon Macs that works in a
     folder you pick and runs commands in a local VM, with your own key.
 addedAt: 2026-09-28

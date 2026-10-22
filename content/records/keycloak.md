@@ -3,11 +3,11 @@ name: Keycloak
 repoUrl: https://github.com/keycloak/keycloak
 projectType: real-app
 category: developer-tools
-summary: An identity and access management server — single sign-on, OpenID Connect, OAuth 2.0 and
-  SAML 2.0, social login, identity brokering, LDAP and Active Directory federation, and admin and
-  account consoles — run from a download or a container image.
-description: Keycloak is an Apache-2.0 identity and access management server and a Cloud Native
-  Computing Foundation incubating project, self-hosted as a distribution or a container.
+summary: A self-hosted login server that adds single sign-on, social login and user management to
+  your own apps. It speaks OpenID Connect, OAuth 2.0 and SAML 2.0, brokers other identity providers,
+  federates LDAP and Active Directory, and runs from a download or a container image.
+description: Add single sign-on, social login and user management to your apps with a self-hosted
+  server.
 sourceDescription: Open Source Identity and Access Management For Modern Applications and Services
 platforms:
   - linux
@@ -47,7 +47,7 @@ whyListed:
 caveats:
   - A Java server you operate yourself, including clustering, upgrades and database backups.
 seo:
-  title: Keycloak – Open Source Identity and Access Management
+  title: "Keycloak Review: Self-Hosted SSO and Identity"
   description: Keycloak adds single sign-on, OpenID Connect, OAuth 2.0, SAML, social login and LDAP
     federation to your apps, self-hosted. Apache-2.0, a CNCF project.
 addedAt: 2026-09-29

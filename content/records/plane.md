@@ -4,12 +4,10 @@ repoUrl: https://github.com/makeplane/plane
 projectType: real-app
 category: productivity
 stack: react
-summary: A Django and React project management platform — work items, cycles, modules, saved views,
-  pages and analytics — that you can self-host with Docker or Kubernetes, with an open-source MCP
-  server for AI tools.
-description: Plane is an AGPL-3.0 project management and issue tracking platform, self-hosted as the
-  Community Edition or used on Plane Cloud, and one of the largest open-source Linear and Jira
-  alternatives.
+summary: Project management and issue tracking you can self-host, a Linear and Jira alternative with
+  work items, cycles, modules, saved views, pages and analytics. It is a Django and React platform
+  that runs on Docker or Kubernetes or on Plane Cloud, with an open-source MCP server for AI tools.
+description: Self-hostable project management and issue tracker, a Linear and Jira alternative.
 sourceDescription: Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern
   project management platform to manage tasks, sprints, docs, and triage.
 platforms:
@@ -65,7 +63,7 @@ relations:
       quote: Open-source Jira, Linear, Monday, and ClickUp alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Plane – Open Source Linear & Jira Alternative, Self-Hosted
+  title: "Plane Review: Linear & Jira Alternative"
   description: Plane is self-hostable project management with work items, cycles, modules, views and
     pages, plus an MCP server. AGPL-3.0 Linear and Jira alternative.
 addedAt: 2026-09-29

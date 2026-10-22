@@ -4,11 +4,11 @@ repoUrl: https://github.com/voquill/voquill
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri voice-typing app that dictates into any desktop application with local Whisper or a
-  cloud provider you choose, cleans the transcript with AI, and keeps a personal glossary of names
-  and replacement rules, with mobile keyboard apps alongside.
-description: Voquill is an AGPL-3.0 dictation app for macOS, Windows and Linux with local or
-  bring-your-own-key transcription, writing styles and a synced personal dictionary.
+summary: A voice-typing app that dictates into any desktop app, cleans up the text with AI and keeps
+  a personal glossary so names are spelled right, with mobile keyboard apps alongside. It transcribes
+  with local Whisper or a cloud provider you choose, and is built with Tauri.
+description: Voice typing for Mac, Windows and Linux with AI cleanup and a personal glossary for names
+  and terms.
 sourceDescription: Open source voice dictation technology
 platforms:
   - macos
@@ -65,8 +65,8 @@ relations:
       quote: Open source voice dictation tool - the WisprFlow alternative
       checkedAt: 2026-09-29
 seo:
-  title: Voquill – Open Source Wispr Flow Alternative with a Glossary
-  description: Voquill dictates into any app on Mac, Windows and Linux with local Whisper or your own API key, cleans up the text and learns your terms. AGPL-3.0 open core.
+  title: "Voquill Review: Wispr Flow Alternative"
+  description: Voquill dictates into any app on Mac, Windows and Linux with local Whisper or your own API key, cleans up the text and learns your terms. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

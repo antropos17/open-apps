@@ -3,7 +3,10 @@ name: Glim
 repoUrl: https://github.com/NeoPanic/Glim
 category: tools
 stack: rust
-description: A free macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
+summary: A free Mac app that opens Markdown, PDFs, images, JSON, CSV and source code side by side in
+  one file-tree-and-tabs workspace. Markdown renders Mermaid diagrams and LaTeX, JSON gets
+  expandable trees and CSV a table view; it is built with Rust and GPUI Kit.
+description: A free Mac file viewer for Markdown, PDFs, images, JSON, CSV and code in one workspace.
 platforms:
   - macos
 licenses:
@@ -24,7 +27,7 @@ caveats:
   - Current installers are not Apple-notarized.
   - Text editing is basic; PDF, Office and image previews are read-only.
 seo:
-  title: Glim – Open Source File Viewer for macOS
+  title: "Glim: Markdown, PDF & Data Viewer for Mac"
   description: Glim is a free macOS file viewer that opens Markdown, PDFs, images, JSON, CSV and source code in one workspace. Open source under the MIT licence.
 addedAt: 2026-10-19
 submittedBy: NeoPanic

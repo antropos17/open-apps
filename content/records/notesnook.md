@@ -4,16 +4,17 @@ repoUrl: https://github.com/streetwriters/notesnook
 projectType: real-app
 category: productivity
 stack: react-native
-summary: Notesnook encrypts every note on the device with XChaCha20-Poly1305 (via libsodium),
-  derives the master key from the user's password with Argon2id, and pairs a Vite web client, an
-  Electron desktop client, and a React Native mobile client that all sync ciphertext-only to a
-  remote server.
-description: Notesnook is a cross-platform, end-to-end encrypted note-taking app with web, desktop,
-  and mobile clients that sync through a zero-knowledge server.
+summary: An end-to-end encrypted note-taking app and Evernote alternative for phone, desktop and web,
+  where even the sync server can't read your notes. Every note is encrypted on the device with
+  XChaCha20-Poly1305 (via libsodium), the master key is derived from your password with Argon2id, and
+  the web, Electron desktop and React Native mobile clients all sync ciphertext only.
+description: End-to-end encrypted notes app and Evernote alternative for mobile, desktop and web.
 sourceDescription: A fully open source & end-to-end encrypted note taking alternative to Evernote.
 platforms:
   - android
   - ios
+  - web
+  - desktop
 licenses:
   - gpl-3.0
 links:
@@ -44,7 +45,7 @@ relations:
       quote: A fully open source & end-to-end encrypted note taking alternative to Evernote.
       checkedAt: 2026-09-22
 seo:
-  title: Notesnook – Open Source Encrypted Evernote Alternative
+  title: "Notesnook Review: Encrypted Evernote Alternative"
   description: Notesnook is an end-to-end encrypted note-taking app for web, desktop, iOS and Android that syncs through a zero-knowledge server. GPL-3.0 licensed.
 addedAt: 2026-06-13
 source:

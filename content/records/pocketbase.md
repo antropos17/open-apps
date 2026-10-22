@@ -3,11 +3,10 @@ name: PocketBase
 repoUrl: https://github.com/pocketbase/pocketbase
 projectType: real-app
 category: developer-tools
-summary: A backend in a single Go executable — embedded SQLite with realtime subscriptions, user
-  and file management, an admin dashboard and a REST-style API — that you download and run, or
-  extend with Go or JavaScript.
-description: PocketBase is an MIT-licensed open-source backend in one file, with a database,
-  realtime, auth, file storage and an admin UI, run as a standalone app or used as a Go framework.
+summary: A complete backend for your app in one file you download and run, with a database, realtime
+  updates, user auth, file storage and an admin dashboard. It is a single Go executable with embedded
+  SQLite and a REST-style API that you can extend with Go or JavaScript.
+description: Backend in one file with a database, realtime, auth, file storage and an admin dashboard.
 sourceDescription: Open Source realtime backend in 1 file
 platforms:
   - linux
@@ -55,7 +54,7 @@ relations:
       url: https://github.com/pocketbase/pocketbase
       checkedAt: 2026-09-29
 seo:
-  title: PocketBase – Open Source Realtime Backend in One File
+  title: "PocketBase Review: One-File Firebase Alternative"
   description: PocketBase is a backend in one Go file with SQLite, realtime, auth, file storage, an
     admin dashboard and a REST API. Run it standalone or extend it. MIT.
 addedAt: 2026-09-29

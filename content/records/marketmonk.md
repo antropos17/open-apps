@@ -2,15 +2,18 @@
 name: MarketMonk
 repoUrl: https://github.com/brandonp2412/MarketMonk
 projectType: real-app
-category: tools
+category: finance
 stack: flutter
 summary: MarketMonk is a focused desktop-and-mobile investing companion for people who want
   portfolio visibility without handing their trade history to a hosted service. It pairs quick
   ticker lookups with durable local records, broker CSV imports, and practical gain and allocation
   views.
-description: A Flutter stock and portfolio tracker that combines Yahoo Finance market data,
-  interactive charts, local trade records, and multiple account support.
+description: Track stocks and your portfolio with Yahoo Finance charts, keeping your trades on your
+  device.
 sourceDescription: Graph stocks on any platform  💹
+platforms:
+  - android
+  - windows
 licenses:
   - mit
 links:
@@ -21,7 +24,7 @@ tags:
   - stock-portfolio
   - stock-tracker
 seo:
-  title: MarketMonk – Open Source Stock Portfolio Tracker
+  title: "MarketMonk Review: Stock Portfolio Tracker"
   description: MarketMonk is a desktop and mobile stock portfolio tracker with ticker lookups, broker CSV imports and gain views, keeping your trades local. MIT, Flutter.
 addedAt: 2026-08-11
 source:

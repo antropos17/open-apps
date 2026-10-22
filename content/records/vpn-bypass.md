@@ -4,9 +4,11 @@ name: VPN Bypass
 repoUrl: https://github.com/GeiserX/VPN-Bypass
 projectType: real-app
 category: tools
-stack: ios
-description: A macOS menu bar app that sends chosen services and domains around a corporate VPN, or only
-  those through it, and puts the routes back when the VPN reconnects.
+stack: macos
+summary: A Mac menu bar app that decides which traffic uses your VPN — send chosen services and
+  domains around a corporate VPN, or only those through it — and restores the routes when the VPN
+  reconnects. It is a SwiftUI app with a small root helper and a vpnb command-line tool.
+description: A Mac menu bar app that routes chosen sites around your VPN, or only those through it.
 sourceDescription: "macOS menu-bar app for fine-grained VPN routing: bypass the VPN for chosen
   domains/services, force others through it, or (Custom mode) route each domain/subnet out a specific
   egress — direct, a specific VPN, an HTTP/SOCKS5 proxy, or a Tailscale peer. Includes a vpnb CLI."
@@ -49,7 +51,7 @@ caveats:
   - The helper only accepts an app signed with the project's Developer ID, so a build from source needs
     your own team ID in its code requirements.
 seo:
-  title: VPN Bypass – Open Source VPN Split Tunneling for macOS
+  title: "VPN Bypass: VPN Split Tunneling for Mac"
   description: VPN Bypass is a macOS menu bar app that routes chosen services and domains around a
     corporate VPN, or only those through it. GPL-3.0, via Homebrew.
 addedAt: 2026-10-12

@@ -3,11 +3,11 @@ name: Rakazo
 repoUrl: https://github.com/elie222/rakazo
 projectType: real-app
 category: productivity
-summary: A self-hostable platform for persistent AI teammates — bots with their own conversations,
-  memory, routines and a computer (browser, terminal, files, desktop), reachable from the web, an
-  Electron desktop app and an Expo mobile app, with your own model and sandbox provider.
-description: Rakazo is an Apache-2.0 platform for running always-on AI bots with their own computers,
-  self-hosted with Docker Compose and used from web, desktop or mobile.
+summary: Run always-on AI teammates on your own server, each with its own memory, routines and
+  computer, and talk to them from the web, desktop or phone. It is a self-hostable Grok Bot
+  alternative where each bot gets a browser, terminal, files and desktop, with your own model and
+  sandbox provider, an Electron desktop app and an Expo mobile app.
+description: Self-hosted AI teammates with their own memory and computer, used from web, desktop or mobile.
 sourceDescription: Open-source Grok Bot alternative. Choose your own model and sandbox.
 platforms:
   - web
@@ -55,7 +55,7 @@ relations:
       quote: Open-source Grok Bot alternative. Choose your own model and sandbox.
       checkedAt: 2026-09-28
 seo:
-  title: Rakazo – Open Source Grok Bot Alternative
+  title: "Rakazo Review: Grok Bot Alternative"
   description: Rakazo runs persistent AI bots with their own browser, terminal and files, self-hosted
     with Docker and used from web, desktop or mobile. Apache-2.0.
 addedAt: 2026-09-28

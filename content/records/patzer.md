@@ -3,9 +3,15 @@ name: Patzer
 repoUrl: https://github.com/SikamikanikoBG/patzer
 category: games
 stack: react
-description: "Self-hosted Chess.com alternative: game review for your Chess.com and Lichess games, play vs Stockfish or a friend, AI coach on your own Ollama or vLLM, in one Docker container."
+summary: A private, self-hosted Chess.com alternative that reviews your Chess.com and Lichess games,
+  lets you play Stockfish or a friend, and coaches you with your own local AI model. It runs in one
+  Docker container, with multiple users, a kid mode and five languages; the server works out the
+  chess facts and the model only explains them, so a small local model is enough.
+description: Self-hosted Chess.com alternative with game review, play vs Stockfish and an AI coach on your own model.
 platforms:
   - web
+licenses:
+  - mit
 tags:
   - chess
   - self-hosted
@@ -20,7 +26,7 @@ whyListed:
 caveats:
   - "41 stars as of 2026-10-17 (below the 50-star guideline): exception requested — actively maintained (v7.18.1, pushed 2026-10-16), MIT-licensed, Docker one-click, five languages, and a distinctive 'LLM never analyses' design that makes local AI coaching reliable."
 seo:
-  title: Patzer – Open Source Chess.com Alternative, Self-Hosted
+  title: "Patzer: Self-Hosted Chess.com Alternative"
   description: Patzer is a self-hosted Chess.com alternative that reviews your Chess.com and Lichess games, lets you play Stockfish and adds an AI coach on your Ollama.
 addedAt: 2026-10-17
 submittedBy: SikamikanikoBG

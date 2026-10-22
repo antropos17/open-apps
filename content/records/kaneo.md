@@ -4,11 +4,12 @@ repoUrl: https://github.com/usekaneo/kaneo
 projectType: real-app
 category: productivity
 stack: react
-summary: A lightweight project management app built with Hono and React — board, list, calendar and
-  Gantt views, a backlog, time tracking, rules that move tasks on repository activity, and a REST API
-  and MCP integration — self-hosted or on Kaneo Cloud.
-description: Kaneo is an MIT-licensed, self-hostable project management app with boards, lists,
-  calendars and Gantt charts, GitHub and Gitea integration, a REST API and MCP.
+summary: A lightweight project management app for small teams, with board, list, calendar and Gantt
+  views, a backlog and time tracking, self-hosted or on Kaneo Cloud. Rules move tasks when commits
+  and pull requests land on GitHub or Gitea, and a REST API and MCP integration cover automation;
+  it is built with Hono and React.
+description: Lightweight project management with boards, lists, calendars and Gantt charts, self-hosted
+  or cloud.
 sourceDescription: All you need. Nothing you don't. Open source project management that works for
   you, not against you.
 platforms:
@@ -55,7 +56,7 @@ relations:
       quote: linear-alternative
       checkedAt: 2026-09-29
 seo:
-  title: Kaneo – Open Source Self-Hosted Project Management
+  title: "Kaneo Review: Lightweight Linear Alternative"
   description: Kaneo is a simple, self-hostable project manager with boards, lists, calendars and Gantt
     views, GitHub and Gitea rules, a REST API and MCP. MIT-licensed.
 addedAt: 2026-09-29

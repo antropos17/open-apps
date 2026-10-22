@@ -4,8 +4,11 @@ repoUrl: https://github.com/wger-project/flutter
 projectType: real-app
 category: health-and-fitness
 stack: flutter
-description: A Flutter workout and fitness tracker that syncs with the self-hosted wger server,
-  supporting routines, exercises, and progress logs.
+summary: A workout and fitness tracker for Android and iOS for planning routines, browsing exercises
+  and logging progress. It syncs with a wger server you host yourself, and the mobile app is built
+  with Flutter.
+description: A workout tracker for Android and iOS that syncs routines, exercises and progress with
+  your wger server.
 sourceDescription: Flutter fitness/workout app for wger
 platforms:
   - android
@@ -22,7 +25,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: wger – Open Source Fitness & Workout Tracker in Flutter
+  title: "wger: Workout Tracker for Android & iOS"
   description: wger is a workout and fitness tracker for Android and iOS that syncs routines, exercises
     and progress logs with a self-hosted wger server. AGPL-3.0.
 addedAt: 2026-06-07

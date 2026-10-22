@@ -5,8 +5,10 @@ repoUrl: https://github.com/getopenpost/openpost
 projectType: real-app
 category: business
 stack: svelte
-description: Self-hosted social publishing app for preparing, reviewing, scheduling, and tracking
-  posts across several networks.
+summary: A self-hosted social media scheduler, in the spirit of Buffer, for preparing, reviewing,
+  scheduling and tracking posts across several networks from one place. It is a Go server that
+  embeds a SvelteKit web interface and also exposes an API, a CLI and an MCP server.
+description: Self-hosted social media scheduler to prepare, review, schedule and track posts across networks.
 platforms:
   - web
 licenses:
@@ -41,7 +43,7 @@ relations:
       quote: buffer-alternative
       checkedAt: 2026-09-22
 seo:
-  title: OpenPost – Open Source Self-Hosted Social Media Scheduler
+  title: "OpenPost: Self-Hosted Social Media Scheduler"
   description: OpenPost is a self-hosted web app for preparing, reviewing, scheduling and tracking social media posts across several networks from one place. AGPL-3.0.
 addedAt: 2026-09-12
 source:

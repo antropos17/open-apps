@@ -1,15 +1,13 @@
 ---
-name: app-finance
+name: Fingrom
 repoUrl: https://github.com/lyskouski/app-finance
 projectType: real-app
 category: finance
 stack: flutter
-summary: An ad-free, inclusive personal finance manager written in Flutter with multi-currency
-  accounts, recurring transactions, budget categories, Monte Carlo forecasting, and P2P device sync
-  over WebDAV or peer-to-peer channels.
-description: Fingrom is a Flutter-built, ad-free, multi-currency personal finance app that ships to
-  iOS, Android, macOS, Windows, Linux, and the Web from a single Dart codebase, with P2P device sync
-  and end-to-end encryption.
+summary: An ad-free personal finance manager for tracking accounts in several currencies, recurring
+  transactions and budgets, with forecasts of where your money is heading. It runs on mobile,
+  desktop and the web from one Flutter app, and syncs devices over WebDAV or peer-to-peer.
+description: An ad-free personal finance app with multi-currency accounts, budgets and encrypted sync across devices.
 sourceDescription: Fingrom -- open-source platform-agnostic financial accounting application
 licenses:
   - noassertion
@@ -28,7 +26,7 @@ tags:
   - open-source
   - personal-finances
 seo:
-  title: Fingrom – Open Source Personal Finance & Accounting App
+  title: "Fingrom Review: Ad-Free Personal Finance App"
   description: Fingrom is an ad-free personal finance app with multi-currency accounts, budgets,
     recurring transactions and encrypted sync, on mobile, desktop and web.
 addedAt: 2026-08-11

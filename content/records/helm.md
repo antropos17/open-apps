@@ -5,13 +5,12 @@ repoUrl: https://github.com/devShakib015/helm
 projectType: real-app
 category: tools
 stack: flutter
-summary: A Flutter macOS app that replaces a folder of single-purpose utilities. It keeps 24 hours
-  of history for memory, CPU, GPU, sensor, battery, and network metrics, and its storage tool spans
-  a squarified treemap explorer, a byte-for-byte duplicate finder, junk cleaning, and APFS snapshot
-  thinning.
-description: Helm is a macOS system toolkit that puts fifteen maintenance and monitoring tools
-  behind one window and one menu-bar item, covering storage, hardware metrics, and clipboard
-  history.
+summary: A free Mac app that replaces a folder of single-purpose utilities with fifteen monitoring and
+  cleanup tools in one window and one menu-bar item. It keeps 24 hours of history for memory, CPU,
+  GPU, sensor, battery and network metrics, and its storage tool spans a treemap explorer, a
+  duplicate finder, junk cleaning and APFS snapshot thinning. Built with Flutter.
+description: Fifteen Mac monitoring and cleanup tools in one window, from storage and hardware stats to
+  clipboard history.
 sourceDescription: A free, open-source macOS toolkit — fifteen native tools in one window.
 platforms:
   - macos
@@ -54,7 +53,7 @@ caveats:
   - Cleaning tools move items to the Trash rather than deleting them, so reclaiming the space still
     needs an explicit empty.
 seo:
-  title: Helm – Open Source macOS System Toolkit Built with Flutter
+  title: "Helm: All-in-One Mac System Toolkit"
   description: Helm is a macOS system toolkit that puts fifteen monitoring and cleanup tools, from storage to hardware metrics, in one window. MIT, built with Flutter.
 addedAt: 2026-09-01
 source:

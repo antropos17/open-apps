@@ -4,10 +4,11 @@ repoUrl: https://github.com/khoj-ai/khoj
 projectType: real-app
 category: productivity
 summary: A self-hostable personal AI that answers from the internet and your own documents — PDFs,
-  Markdown, Org-mode, Word, Notion — with any local or online model, custom agents, scheduled research
-  and semantic search, reachable from a browser, Obsidian, Emacs, desktop, phone or WhatsApp.
-description: Khoj is an AGPL-3.0 personal AI assistant that searches the web and your own documents
-  with local or online models, self-hosted or on Khoj's cloud app.
+  Markdown, Org-mode, Word, Notion — with any local or online model. It adds custom agents, scheduled
+  research and semantic search, reachable from a browser, Obsidian, Emacs, desktop, phone or
+  WhatsApp.
+description: A personal AI that answers from the web and your own documents, self-hosted or in the
+  cloud.
 sourceDescription: Your AI second brain. Self-hostable. Get answers from the web or your docs. Build
   custom agents, schedule automations, do deep research.
 platforms:
@@ -48,7 +49,7 @@ caveats:
   - The last tagged release is a 2.0 beta from March 2026, and the team now also builds a separate
     product, Pipali.
 seo:
-  title: Khoj – Open Source Self-Hosted AI Second Brain and Search
+  title: "Khoj Review: Self-Hosted AI Second Brain"
   description: Khoj is a self-hostable personal AI that answers from the web and your own documents
     with local or online models, in a browser, Obsidian or Emacs. AGPL.
 addedAt: 2026-09-29

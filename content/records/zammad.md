@@ -3,11 +3,11 @@ name: Zammad
 repoUrl: https://github.com/zammad/zammad
 projectType: real-app
 category: business
-summary: A web-based helpdesk and customer support platform in Ruby on Rails and Vue that brings
-  email, chat, telephone and social media into one ticketing system, self-hosted with Docker,
-  Kubernetes or DEB/RPM packages, or run as Zammad's own cloud service.
-description: Zammad is an AGPL-3.0 helpdesk and ticketing system owned by the independent Zammad
-  Foundation and developed by Zammad GmbH, self-hosted or on a hosted plan.
+summary: A helpdesk that brings customer email, chat, phone and social media into one ticketing
+  system, self-hosted or on Zammad's cloud service. It is a Ruby on Rails and Vue web app, installed
+  with Docker, Kubernetes or DEB/RPM packages.
+description: A helpdesk that puts customer email, chat, phone and social messages into one ticket
+  system.
 sourceDescription: Zammad is a web based open source helpdesk/customer support system.
 platforms:
   - web
@@ -56,7 +56,7 @@ relations:
       url: https://github.com/zammad/zammad
       checkedAt: 2026-09-29
 seo:
-  title: Zammad – Open Source Helpdesk and Ticketing System
+  title: "Zammad Review: Self-Hosted Zendesk Alternative"
   description: Zammad is a self-hostable helpdesk that brings email, chat, phone and social media
     tickets into one place, with Docker or package installs. AGPL-3.0.
 addedAt: 2026-09-29

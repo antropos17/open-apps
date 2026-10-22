@@ -16,7 +16,7 @@ import { recordSeoDescriptor, seoDescription, seoTitle } from '@grove-dev/astro/
 /** Room left for the main part of a title before `seoTitle` drops the suffix. */
 const TITLE_MAX = 65;
 
-export const HOME_TITLE = 'Open Source Apps & Production Codebases';
+export const HOME_TITLE = 'Open Source Apps, Reviewed and Compared';
 
 interface RecordTitleInput {
   name: string;
@@ -32,26 +32,25 @@ function titleCase(value: string): string {
 }
 
 /**
- * `{name} – Open Source {use case}`.
+ * `{name} Review: {use case} | {site}` for a reviewed record, `{name}:
+ * {use case} | {site}` otherwise. The record's `seo.title` holds the part
+ * before the suffix (≤ 48 chars, so the suffix always fits).
  *
- * Order: the record's hand-written `seo.title`, then a short first
- * clause of its summary, then category + stack — the stack is the
- * part people actually search for ("open source Flutter app").
+ * Without one: a short first clause of the summary, then the category.
  */
 export function recordTitle(input: RecordTitleInput, siteName: string): string {
-  if (input.seoTitle?.trim()) return input.seoTitle.trim();
+  if (input.seoTitle?.trim()) return seoTitle(input.seoTitle.trim(), siteName);
 
   const generic = recordSeoDescriptor({ singular: input.singular });
   const clause = recordSeoDescriptor({ summary: input.summary, singular: input.singular });
-  if (clause !== generic) return seoTitle(`${input.name} – ${clause}`, siteName);
+  if (clause !== generic) return seoTitle(`${input.name}: ${clause}`, siteName);
 
   const category =
     input.categoryLabel && input.categoryLabel.toLowerCase() !== 'uncategorized'
       ? `${input.categoryLabel} `
       : '';
-  const base = `${input.name} – Open Source ${category}${titleCase(input.singular)}`;
-  const withStack = input.stackLabel ? `${base} Built with ${input.stackLabel}` : base;
-  return seoTitle(withStack.length <= TITLE_MAX ? withStack : base, siteName);
+  const base = `${input.name}: Open Source ${category}${titleCase(input.singular)}`;
+  return seoTitle(base.length <= TITLE_MAX ? base : input.name, siteName);
 }
 
 export interface TaxonomyTerm {
@@ -81,13 +80,22 @@ export function taxonomyTitle(term: TaxonomyTerm, plural: string, siteName: stri
   return seoTitle(term.seoTitle?.trim() || taxonomyHeading(term, plural), siteName);
 }
 
+/**
+ * Lede + meta description. The fallback reuses the H1's noun phrase
+ * ("Open Source Games" → "open-source games") so a category named in
+ * the plural never reads "games apps".
+ */
 export function taxonomyDescription(kind: TaxonomyKind, term: TaxonomyTerm, plural: string): string {
   const name = plainName(term);
+  const noun = taxonomyHeading(term, plural).replace(/^Open Source /i, '');
+  const each = 'with the source code, licence, platforms and recent activity of each one';
   const fallback =
     kind === 'stacks'
-      ? `Browse open-source ${plural} built with ${name}. Compare real codebases by activity, license, platform and maturity, with source code you can run and study.`
+      ? `Open-source ${plural} built with ${name}, ${each}.`
       : kind === 'licenses'
-        ? `Browse open-source ${plural} in this directory licensed under ${name}, with source code you can run, study and reuse under its terms.`
-        : `Discover open-source ${name.toLowerCase()} ${plural} with public source code. Compare them by stack, activity, license and maturity.`;
+        ? term.id === 'noassertion'
+          ? `Open-source ${plural} whose licence GitHub could not detect. Check each repository's LICENSE file before you reuse the code.`
+          : `Open-source ${plural} released under the ${name.replace(/^The /, '')}, ${each}.`
+        : `Open-source ${noun.toLowerCase()}, ${each}.`;
   return seoDescription(term.description, fallback);
 }

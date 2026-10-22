@@ -3,11 +3,11 @@ name: Centaur
 repoUrl: https://github.com/paradigmxyz/centaur
 projectType: real-app
 category: developer-tools
-summary: A self-hosted team agent platform from Paradigm — mention the bot in Slack and each
-  conversation gets its own Kubernetes sandbox with a shell, git and your tools, running Claude Code,
-  Codex, Amp or another CLI harness, with durable workflows and credential boundaries.
-description: Centaur is a self-hosted, MIT- or Apache-licensed platform that gives a team one shared
-  AI agent in Slack, running each conversation in an isolated Kubernetes sandbox.
+summary: A self-hosted AI teammate from Paradigm — mention the bot in Slack and it works on the task
+  in its own sandbox with a shell, git and your tools. Each conversation gets an isolated Kubernetes
+  sandbox running Claude Code, Codex, Amp or another CLI harness, with durable workflows and
+  credential boundaries.
+description: A shared AI agent for your team in Slack that works in its own sandbox with a shell, git and your tools.
 sourceDescription: Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude
   Tag, but open source and on steroids.
 platforms:
@@ -52,7 +52,7 @@ relations:
       quote: Centaur is like Claude Tag, but open source and on steroids.
       checkedAt: 2026-09-28
 seo:
-  title: Centaur – Open Source Claude Tag Alternative with Sandboxes
+  title: "Centaur Review: Claude Tag Alternative"
   description: Centaur gives a team one shared AI agent in Slack and runs each thread in its own
     Kubernetes sandbox with shell and git. Self-hosted, MIT or Apache-2.0.
 addedAt: 2026-09-28

@@ -5,15 +5,12 @@ repoUrl: https://github.com/TNT-Likely/BeeCount
 projectType: real-app
 category: finance
 stack: flutter
-summary: Flutter + Riverpod + Drift ledger app whose sync layer is a swappable plugin — the same
-  binary can run against iCloud, Supabase, WebDAV, S3, or a self-hosted BeeCount Cloud without code
-  changes. AI capture pairs an on-device TFLite OCR model with Zhipu GLM-4 in the cloud to read
+summary: A private expense tracker for iOS and Android that keeps your books on the device and syncs
+  them through iCloud, WebDAV, S3, Supabase or your own BeeCount Cloud server. It is a Flutter app
+  whose sync layer is a swappable plugin, so the same binary switches backends without code changes.
+  AI capture pairs an on-device TFLite OCR model with Zhipu GLM-4 in the cloud to read
   Alipay, WeChat, and UnionPay screenshots, voice notes, or free-form chat.
-description: BeeCount is a Flutter-based local-first bookkeeping app for iOS, Android, and Web that
-  offers five interchangeable sync backends (the self-hosted BeeCount Cloud, iCloud, Supabase,
-  WebDAV, and any S3-compatible store), AI-assisted capture via a dual on-device/cloud OCR pipeline,
-  multi-ledger accounting with per-ledger currencies, and offline-first storage on Drift over
-  SQLite.
+description: A private expense tracker for iOS and Android with multiple ledgers, AI receipt capture and self-hosted sync.
 sourceDescription: Privacy-first cross-platform expense tracker with self-hostable cloud sync
   (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design
 platforms:
@@ -31,7 +28,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: BeeCount – Open Source Expense Tracker with Self-Hosted Sync
+  title: "BeeCount: Private Expense Tracker"
   description: BeeCount is a local-first expense tracker for iOS and Android with multiple ledgers, AI
     receipt capture and sync via iCloud, WebDAV, S3 or your own server.
 addedAt: 2026-06-07

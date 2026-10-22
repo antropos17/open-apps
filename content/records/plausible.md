@@ -3,11 +3,11 @@ name: Plausible Analytics
 repoUrl: https://github.com/plausible/analytics
 projectType: real-app
 category: business
-summary: A lightweight, cookie-free web analytics tool in Elixir with PostgreSQL and ClickHouse — one
-  dashboard of key metrics, goals and Search Console data — as a paid EU-hosted cloud or a free
-  self-hosted Community Edition released twice a year.
-description: Plausible is a privacy-first web analytics tool whose self-hosted Community Edition is
-  AGPL-3.0; some premium features stay in a proprietary directory and the paid cloud.
+summary: Simple, cookie-free website analytics and a Google Analytics alternative, with one dashboard
+  of key metrics, goals and Search Console data, as a paid EU-hosted cloud or a free self-hosted
+  Community Edition. It is written in Elixir with PostgreSQL and ClickHouse, and the Community
+  Edition is released twice a year.
+description: Cookie-free, privacy-first website analytics on one dashboard, a self-hostable Google Analytics alternative.
 sourceDescription: Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics
   alternative. Self-hosted or cloud.
 platforms:
@@ -58,7 +58,7 @@ relations:
       quote: Lightweight, cookie-free Google Analytics alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Plausible – Open Source Google Analytics Alternative
+  title: "Plausible Review: Google Analytics Alternative"
   description: Plausible is lightweight, privacy-first web analytics with a one-page dashboard, goals
     and Search Console data. AGPL-3.0 to self-host; extras on cloud.
 addedAt: 2026-09-29

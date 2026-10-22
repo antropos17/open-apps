@@ -3,12 +3,11 @@ name: NextCoWork
 repoUrl: https://github.com/AIDotNet/NextCoWork
 projectType: real-app
 category: developer-tools
-summary: An Electron desktop workspace for coding agents — parallel agent sessions per workspace, an
-  editor, a real PTY terminal, Git and a built-in browser, with per-call approval of tool use and a
-  manifest-based plugin system.
-description: NextCoWork is an Apache-2.0 desktop app for macOS, Windows and Linux that runs coding
-  agents in tabbed workspaces with an editor, terminal, Git and browser, and asks before each tool
-  call.
+summary: A desktop app for macOS, Windows and Linux that runs several AI coding agents side by side,
+  each with an editor, terminal, Git and browser, and asks before every tool call. It is an Electron
+  workspace with parallel agent sessions per workspace, a real PTY terminal and a manifest-based
+  plugin system.
+description: Desktop app for Mac, Windows and Linux that runs AI coding agents side by side and asks before each action.
 sourceDescription: Open Cowork - Opensource Claude Cowork for Windows & macOS & Linux.
 platforms:
   - macos
@@ -51,7 +50,7 @@ relations:
       quote: Open Cowork - Opensource Claude Cowork for Windows & macOS & Linux.
       checkedAt: 2026-09-28
 seo:
-  title: NextCoWork – Open Source Desktop Workspace for Coding Agents
+  title: "NextCoWork Review: Desktop App for Coding Agents"
   description: NextCoWork runs coding agents in tabbed workspaces with an editor, terminal, Git and
     browser, asking before each tool call. Apache-2.0 desktop app.
 addedAt: 2026-09-28

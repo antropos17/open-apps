@@ -3,12 +3,11 @@ name: Morphic
 repoUrl: https://github.com/miurla/morphic
 projectType: real-app
 category: productivity
-summary: A Next.js AI search engine that answers with cited sources and renders rich inline components
-  — images, grids, headings — streamed as generative UI, with a choice of model and search providers,
-  PostgreSQL chat history, shareable results and Supabase sign-in.
-description: Morphic is an Apache-2.0 AI search engine with generative UI that self-hosts with Docker
-  Compose, using OpenAI, Anthropic, Google, Ollama or other providers and SearxNG, Tavily, Brave or Exa
-  for search.
+summary: A self-hosted AI search engine that answers with cited sources
+  and rich results like images and grids, using the AI model and search provider you choose. It is a
+  Next.js app that streams answers as generative UI, with PostgreSQL chat history, shareable results
+  and Supabase sign-in, and self-hosts with Docker Compose.
+description: Self-hosted AI search engine that answers with cited sources, using the model and search provider you choose.
 sourceDescription: An AI-powered search engine with a generative UI
 platforms:
   - web
@@ -39,9 +38,9 @@ whyListed:
 caveats:
   - More moving parts than a single container — PostgreSQL, Redis and SearxNG run alongside it.
 seo:
-  title: Morphic – Open Source AI Search Engine with Generative UI
-  description: Morphic answers questions with cited sources and rich generative UI, self-hosted with
-    Docker Compose and your choice of model and search provider. Apache-2.0.
+  title: "Morphic Review: Self-Hosted AI Search Engine"
+  description: Morphic is a self-hosted AI search engine that answers with cited sources, using your
+    choice of model and search provider. Docker Compose, Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

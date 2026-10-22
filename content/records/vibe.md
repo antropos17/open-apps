@@ -4,11 +4,12 @@ repoUrl: https://github.com/thewh1teagle/vibe
 projectType: real-app
 category: media
 stack: tauri
-summary: A Tauri and Rust desktop app that transcribes audio, video, system audio and microphone input
-  offline with Whisper, Nemotron or Parakeet models, with speaker diarization, batch jobs, subtitle
-  export and optional summaries through Ollama or the Claude API.
-description: Vibe is an MIT-licensed offline transcription app for macOS, Windows and Linux that keeps
-  audio on your device and exports to SRT, VTT, TXT, PDF, DOCX and more.
+summary: A desktop app that transcribes audio, video, system audio and your microphone offline on
+  Mac, Windows and Linux, with speaker labels, batch jobs and subtitle export. It uses Whisper,
+  Nemotron or Parakeet models, can summarize through Ollama or the Claude API, and is built with
+  Tauri and Rust.
+description: Offline transcription for audio and video on Mac, Windows and Linux, with speaker labels
+  and subtitles.
 sourceDescription: Transcribe on your own!
 platforms:
   - macos
@@ -56,8 +57,8 @@ relations:
       url: https://github.com/thewh1teagle/vibe
       checkedAt: 2026-09-29
 seo:
-  title: Vibe – Open Source Offline Transcription for Audio & Video
-  description: Vibe transcribes audio, video and system sound offline on Mac, Windows and Linux, with speaker labels, batch jobs, subtitles and local Ollama summaries. MIT.
+  title: "Vibe Review: Offline Audio & Video Transcription"
+  description: Vibe transcribes audio, video and system sound offline on Mac, Windows and Linux, with speaker labels, batch jobs, subtitles and summaries. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

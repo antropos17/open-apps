@@ -3,19 +3,24 @@ name: "aiFetchly"
 repoUrl: https://github.com/robertzengcn/aiFetchly
 category: business
 stack: javascript
-description: "Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux."
+summary: A desktop AI agent that automates business chores — finding leads, outreach and scheduled
+  workflows — on Windows, macOS and Linux. It keeps a local knowledge library for answers from your
+  own documents, automates the browser, and takes installable skills and plugins.
+description: "A desktop AI agent for lead generation, outreach and scheduled business workflows on Windows, macOS and Linux."
 sourceDescription: "aiFetchly is an Desktop AI Agent for Business Automation, include function of local knowledge, browser automation, installable skills, scheduled tasks, plugins"
 platforms:
   - macos
   - windows
   - linux
+licenses:
+  - apache-2.0
 links: {}
 whyListed:
   - "Open-source desktop AI agent for business automation (Apache-2.0): lead generation, browser automation, outreach and scheduled tasks on Windows, macOS and Linux."
   - "Local knowledge library with RAG, installable skills and a plugin system make it extensible for real business workflows."
   - "An active, well-documented project with cross-platform releases — useful to run and to study production Electron + Vue + TypeScript code."
 seo:
-  title: aiFetchly – Open Source AI Agent for Lead Generation
+  title: "aiFetchly: AI Agent for Lead Generation"
   description: aiFetchly is a desktop AI agent for lead generation, outreach, a local knowledge
     library and scheduled business workflows on Windows, macOS and Linux.
 addedAt: 2026-09-27

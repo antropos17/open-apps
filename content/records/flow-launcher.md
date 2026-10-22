@@ -3,11 +3,10 @@ name: Flow Launcher
 repoUrl: https://github.com/Flow-Launcher/Flow.Launcher
 projectType: real-app
 category: productivity
-summary: A keyboard launcher for Windows that searches apps, files and file contents — through
-  Everything or the Windows index — runs system and shell commands, previews results, and extends
-  through a large community plugin store written in C#, F#, Python or Node.js.
-description: Flow Launcher is an MIT-licensed keyboard launcher for Windows 10 and 11 with fast file
-  search, a preview panel and a large plugin ecosystem.
+summary: A keyboard launcher for Windows that finds apps, files and file contents, runs commands and
+  previews results as you type. Search goes through Everything or the Windows index, and a large
+  community plugin store adds more, with plugins in C#, F#, Python or Node.js.
+description: A fast keyboard launcher for Windows to find apps and files, run commands and add plugins.
 sourceDescription: Quick file search & app launcher for Windows with community-made plugins
 platforms:
   - windows
@@ -48,7 +47,7 @@ relations:
       url: https://github.com/Flow-Launcher/Flow.Launcher
       checkedAt: 2026-09-29
 seo:
-  title: Flow Launcher – Open Source Keyboard Launcher for Windows
+  title: "Flow Launcher Review: Raycast for Windows"
   description: Flow Launcher searches apps, files and file contents on Windows, runs commands and
     previews results, with a large community plugin store. MIT-licensed.
 addedAt: 2026-09-29

@@ -4,11 +4,10 @@ repoUrl: https://github.com/Budibase/budibase
 projectType: real-app
 category: developer-tools
 stack: svelte
-summary: An operations platform for internal apps, automations and AI agents that act on your data —
-  a Svelte builder, data tables and connectors to databases and business systems, and a public API —
-  GPL-3.0 with paid features in a BSL package, self-hosted or on Budibase Cloud.
-description: Budibase is a self-hostable, GPL-licensed platform for building internal apps,
-  automations and AI agents on top of your databases and business systems.
+summary: A platform for building internal apps, automations and AI agents on top of your databases and
+  business systems, self-hosted or on Budibase Cloud. It has a visual builder, data tables,
+  connectors and a public API, under GPL-3.0 with paid features in a BSL package.
+description: Build internal apps, automations and AI agents on your own databases, self-hosted or in the cloud.
 sourceDescription: AI agents, automations and apps that run your operations. Model agnostic.
 platforms:
   - web
@@ -58,7 +57,7 @@ relations:
       quote: Top 10 Retool Alternatives & Competitors for 2026
       checkedAt: 2026-09-29
 seo:
-  title: Budibase – Open Source Internal Apps, Automations and Agents
+  title: "Budibase Review: Internal App Builder"
   description: Budibase builds internal apps, automations and AI agents on your databases and business
     systems. GPL-3.0 core, paid features under BSL; self-host or cloud.
 addedAt: 2026-09-29

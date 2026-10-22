@@ -3,11 +3,11 @@ name: OpnForm
 repoUrl: https://github.com/OpnForm/OpnForm
 projectType: real-app
 category: productivity
-summary: A no-code form builder with unlimited forms and submissions, file uploads, form logic,
-  embeds, email notifications, Slack, Discord and webhook integrations, analytics and an MCP server
-  for AI agents — Laravel and Nuxt, AGPL core with an enterprise directory.
-description: OpnForm is an open-source form builder you can self-host or use as a managed cloud
-  service, with logic, embeds, integrations, analytics and an MCP server.
+summary: A no-code form builder and Typeform alternative with unlimited forms and submissions, file
+  uploads, form logic, embeds and email notifications, self-hosted or in the cloud. It also has
+  Slack, Discord and webhook integrations, analytics and an MCP server for AI agents, built with
+  Laravel and Nuxt under an AGPL core with an enterprise directory.
+description: No-code form builder with unlimited forms, logic and embeds, self-hosted or cloud, a Typeform alternative.
 sourceDescription: Beautiful Open-Source Form Builder
 platforms:
   - web
@@ -53,9 +53,9 @@ relations:
       quote: OpnForm — the powerful Typeform alternative
       checkedAt: 2026-09-29
 seo:
-  title: OpnForm – Open Source Form Builder, Typeform Alternative
+  title: "OpnForm Review: Typeform Alternative"
   description: OpnForm is a self-hostable form builder with logic, embeds, file uploads, Slack and
-    webhook integrations, analytics and MCP. AGPL core, small enterprise part.
+    webhook integrations, analytics and MCP. A Typeform alternative.
 addedAt: 2026-09-29
 source:
   type: manual

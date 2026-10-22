@@ -3,11 +3,12 @@ name: Grist
 repoUrl: https://github.com/gristlabs/grist-core
 projectType: real-app
 category: productivity
-summary: A relational spreadsheet where columns are typed like a database and filled by Python or
-  Excel-style formulas, with linked widgets, charts, native forms, row- and column-level access rules,
-  a REST API and webhooks — Apache-2.0, self-hosted, as a desktop app or on getgrist.com.
-description: Grist is an Apache-licensed relational spreadsheet that combines spreadsheet formulas with
-  database structure, self-hostable with Docker and available as a desktop app.
+summary: A spreadsheet with database structure, where typed columns are filled by Python or
+  Excel-style formulas, for teams that outgrow plain sheets. It adds linked widgets, charts, native
+  forms, row- and column-level access rules, a REST API and webhooks — Apache-2.0, self-hosted, as a
+  desktop app or on getgrist.com.
+description: A spreadsheet with database structure and Python formulas, self-hosted or as a desktop
+  app.
 sourceDescription: Grist is the evolution of spreadsheets.
 platforms:
   - web
@@ -63,7 +64,7 @@ relations:
       quote: Looking for an Airtable alternative? See how Grist compares
       checkedAt: 2026-09-29
 seo:
-  title: Grist – Open Source Relational Spreadsheet, Self-Hosted
+  title: "Grist Review: Airtable Alternative Spreadsheet"
   description: Grist is a relational spreadsheet with database structure, Python formulas, linked
     widgets, forms and access rules. Apache-2.0, self-hosted or desktop app.
 addedAt: 2026-09-29

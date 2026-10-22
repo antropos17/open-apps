@@ -6,8 +6,7 @@ category: developer-tools
 summary: A backend platform with auth, databases, storage, serverless functions, frontend hosting,
   messaging, realtime and an MCP server for coding agents, self-hosted on Docker with one install
   command or used on Appwrite Cloud.
-description: Appwrite is a BSD-3-Clause backend platform for web, mobile and AI apps, self-hosted
-  with Docker or run on Appwrite Cloud, with SDKs for many languages.
+description: A ready-made backend for web and mobile apps — auth, database, storage and functions — self-hosted or cloud.
 sourceDescription: Appwrite® - complete cloud infrastructure for your web, mobile and AI apps.
   Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 platforms:
@@ -55,7 +54,7 @@ relations:
       url: https://github.com/appwrite/appwrite
       checkedAt: 2026-09-29
 seo:
-  title: Appwrite – Open Source Backend for Web and Mobile Apps
+  title: "Appwrite Review: Firebase Alternative"
   description: Appwrite gives apps auth, databases, storage, functions, hosting, messaging and
     realtime, self-hosted with Docker or on Appwrite Cloud. BSD-3-Clause.
 addedAt: 2026-09-29

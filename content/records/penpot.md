@@ -3,11 +3,11 @@ name: Penpot
 repoUrl: https://github.com/penpot/penpot
 projectType: real-app
 category: developer-tools
-summary: A browser-based design and prototyping platform with components, variants, native design
-  tokens, CSS Grid and Flex layouts, an inspect tab that gives SVG, CSS and HTML, plugins and an MCP
-  server — used on Penpot's cloud or self-hosted with Docker or Kubernetes.
-description: Penpot is an MPL-2.0 design and prototyping platform for product teams, built on open
-  standards and self-hostable, with design tokens, an API, webhooks, plugins and an MCP server.
+summary: A design and prototyping tool in the browser for product teams, a Figma alternative you can
+  use on Penpot's cloud or self-host with Docker or Kubernetes. It has components, variants, native
+  design tokens, CSS Grid and Flex layouts, an inspect tab that gives SVG, CSS and HTML, plugins and
+  an MCP server.
+description: Browser-based design and prototyping tool for product teams, a self-hostable Figma alternative.
 sourceDescription: "Penpot: The open-source design platform for Product teams that need scalable
   collaboration."
 platforms:
@@ -56,7 +56,7 @@ relations:
       quote: For designers & developers seeking a free open-source alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Penpot – Open Source Figma Alternative, Self-Hosted
+  title: "Penpot Review: Self-Hosted Figma Alternative"
   description: Penpot is a self-hostable design and prototyping platform with components, design
     tokens, Grid and Flex layouts, code inspect, plugins and MCP. MPL-2.0.
 addedAt: 2026-09-29

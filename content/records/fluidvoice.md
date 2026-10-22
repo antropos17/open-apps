@@ -3,11 +3,10 @@ name: FluidVoice
 repoUrl: https://github.com/altic-dev/FluidVoice
 projectType: real-app
 category: productivity
-summary: A native macOS dictation app with a low-latency Parakeet implementation and a choice of
-  on-device speech models — Nemotron Speech, Parakeet, Whisper, Apple Speech — plus optional AI
-  enhancement through OpenAI, Groq, a custom provider or a separate local runtime.
-description: FluidVoice is a free, GPL-3.0 macOS dictation app that transcribes on-device with very
-  low latency and optionally cleans up text with a cloud or local model.
+summary: A Mac dictation app that turns your speech into text on the device with very low latency,
+  and can clean the text up with AI. It offers Nemotron Speech, Parakeet, Whisper and Apple Speech,
+  with optional AI enhancement through OpenAI, Groq, a custom provider or a local runtime.
+description: Fast on-device dictation for Mac, with optional AI cleanup of the text.
 sourceDescription: Fastest and only macOS Dictation app with on-device STT and custom trained AI
   enhancement model. Windows pre-build available! A local Wispr Flow alternative.
 platforms:
@@ -52,7 +51,7 @@ relations:
       quote: A local Wispr Flow alternative.
       checkedAt: 2026-09-28
 seo:
-  title: FluidVoice – Open Source Wispr Flow Alternative for Mac
+  title: "FluidVoice Review: Mac Wispr Flow Alternative"
   description: FluidVoice transcribes speech on your Mac with Parakeet, Nemotron or Whisper at very
     low latency, with optional AI cleanup. Free builds, GPL-3.0.
 addedAt: 2026-09-28

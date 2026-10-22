@@ -3,11 +3,11 @@ name: Vicinae
 repoUrl: https://github.com/vicinaehq/vicinae
 projectType: real-app
 category: productivity
-summary: A native C++ and Qt command palette that runs many Raycast extensions and script commands
-  out of the box, with built-in clipboard history, snippets, file search, window switching and an
-  emoji picker — built first for Linux, now also on macOS and Windows.
-description: Vicinae is a GPL-3.0 keyboard launcher for Linux, macOS and Windows that runs many
-  Raycast extensions and script commands, with clipboard history, snippets and file search built in.
+summary: A keyboard launcher that runs many Raycast extensions and script commands, with clipboard
+  history, snippets, file search, window switching and an emoji picker built in. It was built first
+  for Linux and now also runs on macOS and Windows, as a native C++ and Qt app.
+description: A Raycast-style keyboard launcher for Linux, macOS and Windows that runs many Raycast
+  extensions.
 sourceDescription: A focused launcher for your desktop - native, fast, extensible
 platforms:
   - linux
@@ -52,9 +52,9 @@ relations:
       quote: Run many Raycast extensions and script commands out of the box. Bring your macOS workflow to Linux.
       checkedAt: 2026-09-29
 seo:
-  title: Vicinae – Open Source Raycast-Compatible Launcher for Linux
+  title: "Vicinae Review: Raycast Alternative for Linux"
   description: Vicinae is a native launcher for Linux, macOS and Windows that runs many Raycast
-    extensions and script commands, with clipboard history and snippets. GPL-3.0.
+    extensions, with clipboard history, snippets and file search. GPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

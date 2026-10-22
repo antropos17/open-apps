@@ -3,11 +3,10 @@ name: OpenCode
 repoUrl: https://github.com/anomalyco/opencode
 projectType: real-app
 category: developer-tools
-summary: A terminal coding agent with a build agent that edits and runs commands, a read-only plan
-  agent, and any model from dozens of providers — plus a beta desktop app for macOS, Windows and
-  Linux.
-description: OpenCode is an MIT-licensed AI coding agent for the terminal, with a beta desktop app,
-  that works with models from many providers, including local ones.
+summary: An AI coding agent for the terminal that edits your code and runs commands with any model
+  from dozens of providers, including local ones, plus a beta desktop app for macOS, Windows and
+  Linux. It ships a build agent that edits and runs commands and a read-only plan agent.
+description: AI coding agent for the terminal that works with any model, including local ones, plus a desktop app.
 sourceDescription: The open source coding agent.
 platforms:
   - macos
@@ -57,7 +56,7 @@ relations:
       url: https://github.com/anomalyco/opencode
       checkedAt: 2026-09-29
 seo:
-  title: OpenCode – Open Source AI Coding Agent for the Terminal
+  title: "OpenCode Review: Claude Code Alternative"
   description: OpenCode is an MIT terminal coding agent with build and plan modes and any model,
     including local ones, plus a beta desktop app for Mac, Windows and Linux.
 addedAt: 2026-09-29

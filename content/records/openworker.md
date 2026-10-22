@@ -3,11 +3,11 @@ name: OpenWorker
 repoUrl: https://github.com/andrewyng/openworker
 projectType: real-app
 category: productivity
-summary: A desktop app with a local Python agent server that delivers finished work — reports,
-  documents, security reviews — across your files, terminal and 25+ connected apps, with approval
-  gates and an audit trail on every tool call.
-description: OpenWorker is an MIT-licensed desktop AI coworker for macOS and Windows that works with
-  your own model key or Ollama and asks before anything consequential.
+summary: A desktop AI coworker for macOS and Windows that finishes everyday work like reports,
+  documents and security reviews across your files, terminal and 25+ connected apps, asking before
+  anything consequential. A local Python agent server does the work, with approval gates and an
+  audit trail on every tool call, using your own model key or Ollama.
+description: Desktop AI coworker for Mac and Windows that finishes reports and documents and asks before acting.
 sourceDescription: AI that gets your everyday tasks done.
 platforms:
   - macos
@@ -51,7 +51,7 @@ relations:
       url: https://github.com/andrewyng/openworker
       checkedAt: 2026-09-28
 seo:
-  title: OpenWorker – Open Source AI Coworker for Desktop
+  title: "OpenWorker Review: Desktop AI Coworker"
   description: OpenWorker delivers finished work across your files, terminal and 25+ apps on macOS and
     Windows, with approval gates and an audit trail. MIT, any model.
 addedAt: 2026-09-28

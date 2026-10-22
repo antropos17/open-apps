@@ -2,11 +2,17 @@
 name: InvoiceFlowAI
 repoUrl: https://github.com/EthanYoQ/Invoice-Downloader
 category: business
-description: Open-source desktop app that collects emailed invoices, extracts fields with OCR, flags uncertain results for review, and exports Excel summaries.
+summary: A Windows and Mac app that gathers the invoices you receive by email, reads them with OCR and
+  turns them into an Excel summary for expense reimbursement. It handles PDF, OFD and XML invoices,
+  detects duplicates and flags uncertain readings for you to review.
+description: Collect emailed invoices, read them with OCR and export an Excel expense summary, on
+  Windows and Mac.
 platforms:
   - windows
   - macos
   - desktop
+licenses:
+  - apache-2.0
 tags:
   - invoice-management
   - document-processing
@@ -21,7 +27,7 @@ caveats:
   - OCR results need human review before financial use.
   - If an external OCR or model provider is enabled, invoice content is processed by that configured service.
 seo:
-  title: InvoiceFlowAI – Open Source Invoice Organizer
+  title: "InvoiceFlowAI: Email Invoice Organizer"
   description: InvoiceFlowAI is a Windows and macOS app that collects emailed invoices, extracts fields with OCR, flags unsure results and exports Excel summaries.
 addedAt: 2026-09-30
 submittedBy: EthanYoQ

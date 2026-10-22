@@ -4,11 +4,10 @@ repoUrl: https://github.com/wekan/wekan
 projectType: real-app
 category: productivity
 stack: javascript
-summary: A real-time, self-hosted Kanban board built with Meteor — boards, lists, cards, swimlanes,
-  WIP limits, filters, webhooks and an admin panel — with importers for Trello, Jira, Asana and CSV,
-  and installs through Docker or Snap.
-description: WeKan is an MIT-licensed, self-hosted collaborative Kanban board with a real-time
-  interface, swimlanes, Trello import, no telemetry and translations in 234 languages.
+summary: A self-hosted Kanban board for teams, with real-time boards, lists, cards, swimlanes, WIP
+  limits and filters, and importers for Trello, Jira, Asana and CSV. It is built with Meteor,
+  installs through Docker or Snap, and has webhooks and an admin panel.
+description: A self-hosted, real-time Kanban board for teams, with swimlanes and import from Trello.
 sourceDescription: The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS
   Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source
   translation to imports/i18n/data/en.i18n.json, other translations at
@@ -57,7 +56,7 @@ relations:
       quote: features that are not available on Trello or other alternatives
       checkedAt: 2026-09-29
 seo:
-  title: WeKan – Open Source Trello Alternative, Self-Hosted Kanban
+  title: "WeKan Review: Self-Hosted Trello Alternative"
   description: WeKan is a real-time, self-hosted Kanban board with swimlanes, WIP limits and importers
     for Trello, Jira and Asana. MIT, no telemetry.
 addedAt: 2026-09-29

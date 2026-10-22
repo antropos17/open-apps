@@ -4,11 +4,10 @@ repoUrl: https://github.com/LibreChat-AI/LibreChat
 projectType: real-app
 category: productivity
 stack: react
-summary: A self-hosted, multi-user AI chat platform with a ChatGPT-style interface — switch between
-  OpenAI, Anthropic, Google, AWS Bedrock, Ollama and any OpenAI-compatible model in one place, with
-  agents, MCP, artifacts, a code interpreter, web search and file chat.
-description: LibreChat is an MIT-licensed, self-hosted AI chat platform with a ChatGPT-style
-  interface, many model providers, agents, MCP and multi-user authentication, run with Docker Compose.
+summary: A self-hosted, multi-user ChatGPT-style chat where you switch between OpenAI, Anthropic,
+  Google, AWS Bedrock, Ollama and any OpenAI-compatible model. It adds agents, MCP, artifacts, a code
+  interpreter, web search and file chat.
+description: A self-hosted ChatGPT-style chat for your team that works with many AI model providers.
 sourceDescription: "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS,
   OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI
   model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions,
@@ -62,7 +61,7 @@ relations:
       quote: "Enhanced ChatGPT Clone"
       checkedAt: 2026-09-29
 seo:
-  title: LibreChat – Open Source Self-Hosted Multi-Model AI Chat
+  title: "LibreChat Review: Self-Hosted ChatGPT for Teams"
   description: LibreChat is a self-hosted, multi-user AI chat app with a ChatGPT-style interface, many
     model providers, agents and MCP. MIT, runs with Docker Compose.
 addedAt: 2026-09-29

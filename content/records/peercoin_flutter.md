@@ -1,17 +1,19 @@
 ---
-name: peercoin_flutter
+name: Peercoin Flutter
 repoUrl: https://github.com/peercoin/peercoin_flutter
 projectType: real-app
 category: finance
 stack: flutter
-summary: A reference open-source Peercoin wallet that pairs BIP-39 mnemonic seed storage with FROST
-  threshold-signature support and Flutter's cross-platform UI, covering mainnet and testnet from one
-  codebase via ElectrumX. It ships to mobile stores and the Web (wallet.peercoin.net) under
-  AGPL-3.0, but does not perform on-chain proof-of-stake minting despite Peercoin being a PoS chain.
-description: peercoin_flutter is a self-custodial light wallet for Peercoin and Peercoin Testnet,
-  written in Flutter and shipped to Android, iOS, and the Web from a single Dart codebase that talks
-  to public ElectrumX servers.
+summary: The official Peercoin light wallet for Android, iOS and the web, where you hold your own keys
+  with a seed phrase backup and can switch to testnet. It pairs BIP-39 mnemonic seed storage with
+  FROST threshold-signature support and talks to public ElectrumX servers, under AGPL-3.0; it does
+  not perform on-chain proof-of-stake minting despite Peercoin being a PoS chain.
+description: Self-custodial Peercoin wallet for Android, iOS and the web, with seed phrase backup and testnet.
 sourceDescription: Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web.
+platforms:
+  - android
+  - ios
+  - web
 licenses:
   - agpl-3.0
 links:
@@ -28,7 +30,7 @@ tags:
   - web
   - wallet
 seo:
-  title: Peercoin Flutter – Open Source Peercoin Wallet
+  title: "Peercoin Flutter Review: Peercoin Wallet App"
   description: Peercoin Flutter is a self-custodial light wallet for Peercoin on Android, iOS and the web, with seed phrase backup and testnet support. AGPL-3.0.
 addedAt: 2026-08-11
 source:

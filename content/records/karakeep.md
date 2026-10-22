@@ -4,17 +4,16 @@ repoUrl: https://github.com/karakeep-app/karakeep
 projectType: real-app
 category: productivity
 stack: react-native
-summary: A self-hostable bookmark-and-content archive — links, notes, images, and PDFs — that turns
-  the messy act of hoarding the web into a queryable, AI-tagged personal library with first-class
-  mobile apps, browser extensions, a CLI, and an MCP server.
-description: Karakeep is a self-hostable bookmark-everything application built on Next.js 16 + Hono
-  + tRPC over Drizzle on SQLite with Meilisearch full-text and semantic search, capturing links,
-  notes, images, and PDFs into a tagged personal archive with on-demand AI auto-tagging.
+summary: A self-hosted place to save links, notes, images and PDFs, tagged automatically by AI and
+  searchable in full text. It comes with mobile apps, browser extensions, a CLI and an MCP server,
+  and runs as a Next.js server with SQLite and Meilisearch.
+description: Save links, notes, images and PDFs to your own server, tagged by AI and fully searchable.
 sourceDescription: A self-hostable bookmark-everything app (links, notes and images) with AI-based
   automatic tagging and full text search.
 platforms:
   - android
   - ios
+  - web
 licenses:
   - agpl-3.0
 links:
@@ -37,7 +36,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Karakeep – Open Source Self-Hosted Bookmark Manager with AI
+  title: "Karakeep Review: Self-Hosted Bookmark Manager"
   description: Karakeep is a self-hosted bookmark manager that saves links, notes, images and PDFs, tags them with AI, with mobile apps and browser extensions. AGPL-3.0.
 addedAt: 2026-06-13
 source:

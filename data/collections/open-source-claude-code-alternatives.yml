@@ -40,5 +40,5 @@ faq:
     a: OpenCode, Qwen Code and Goose each ship desktop apps. To run Claude Code itself in several parallel worktrees from a desktop app, see Emdash.
 seo:
   index: true
-  title: Open Source Claude Code Alternatives – Terminal Coding Agents
+  title: "Open Source Claude Code Alternatives: Terminal Coding Agents"
   description: OpenCode, Qwen Code and Goose compared — open-source coding agents for the terminal and desktop that work with any model, including local ones.

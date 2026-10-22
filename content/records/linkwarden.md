@@ -4,15 +4,16 @@ repoUrl: https://github.com/linkwarden/linkwarden
 projectType: real-app
 category: productivity
 stack: react-native
-summary: An open-source, self-hosted bookmark and web-archiving platform that pairs collaborative
-  collections and a reader view with automated page preservation.
-description: Linkwarden is a self-hosted collaborative bookmark manager that captures every saved
-  page as a screenshot, PDF, and HTML snapshot to defend against link rot.
+summary: A self-hosted bookmark manager that saves a screenshot, PDF and HTML copy of every page you
+  bookmark, so links keep working after the original disappears. It adds shared collections, a
+  reader view, annotations, a browser extension and iOS and Android apps.
+description: Save bookmarks with a full copy of each page on your own server, so links never rot.
 sourceDescription: ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and
   fully preserve what matters, all in one place.
 platforms:
   - android
   - ios
+  - web
 licenses:
   - agpl-3.0
 links:
@@ -35,7 +36,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Linkwarden – Open Source Self-Hosted Bookmark Manager
+  title: "Linkwarden Review: Self-Hosted Bookmark Archive"
   description: Linkwarden is a self-hosted bookmark manager that saves every page as a screenshot, PDF and HTML snapshot against link rot, with mobile apps. AGPL-3.0.
 addedAt: 2026-06-13
 source:

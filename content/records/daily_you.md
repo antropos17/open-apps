@@ -1,15 +1,14 @@
 ---
-name: Daily_You
+name: Daily You
 repoUrl: https://github.com/Demizo/Daily_You
 projectType: real-app
-category: tools
+category: productivity
 stack: flutter
-summary: A Flutter-built daily journal that stores entries, mood ratings, photo memories, and
-  Markdown notes in a local SQLite database across six desktop and mobile platforms, with a
-  flashback feature that resurfaces past entries on anniversaries.
-description: Daily You is a privacy-first, offline-capable journaling app for capturing daily
-  entries with text, mood ratings, photo memories, and Markdown notes — all stored locally with no
-  accounts, ads, or telemetry.
+summary: A private daily journal for writing entries, rating your mood and keeping photo memories,
+  with flashbacks that bring back past entries on their anniversaries. Everything stays on your
+  device with no account, ads or telemetry; the Flutter app stores entries and Markdown notes in a
+  local SQLite database across six desktop and mobile platforms.
+description: A private daily journal with moods, photos and Markdown notes, stored on your device with no account.
 sourceDescription: Daily diary & journaling app
 licenses:
   - gpl-3.0
@@ -17,7 +16,7 @@ links:
   github: https://github.com/Demizo/Daily_You
 tags: []
 seo:
-  title: Daily You – Open Source Diary & Journaling App
+  title: "Daily You Review: Private Journal App"
   description: Daily You is a private journaling app for daily entries, moods, photos and Markdown
     notes, stored locally with no account, ads or telemetry. GPL-3.0.
 addedAt: 2026-08-11

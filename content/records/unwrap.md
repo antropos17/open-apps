@@ -2,9 +2,13 @@
 name: Unwrap
 repoUrl: https://github.com/twostraws/Unwrap
 projectType: real-app
-category: tools
+category: education
 stack: ios
-description: Learn Swift interactively on your iPhone.
+summary: An iPhone app for learning Swift, with almost 100 video lessons, an interactive review after
+  each one, practice activities and daily challenges. It is free on the App Store, and its author
+  published the code so learners can see how a real app is structured.
+description: An iPhone app for learning Swift with video lessons, practice activities and daily
+  challenges.
 sourceDescription: Learn Swift interactively on your iPhone.
 platforms:
   - ios
@@ -19,10 +23,10 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (2,328 stars on GitHub).
+  - A free Swift-learning app whose full source is public, so learners can study a shipping iPhone app.
 caveats: []
 seo:
-  title: Unwrap – Open Source App for Learning Swift on iPhone
+  title: "Unwrap: Learn Swift on Your iPhone"
   description: Unwrap is an iPhone app for learning Swift interactively, itself a native Swift app
     with public source code you can build, read and learn from.
 addedAt: 2026-06-13

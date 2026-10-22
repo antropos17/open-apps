@@ -4,11 +4,11 @@ repoUrl: https://github.com/AbhishekBarali/SpeakoFlow
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri dictation app built on Handy's core that transcribes offline and adds a voice
-  assistant — say "Hey Flow" to have it write the reply instead of typing your words, or ask about
-  what is on your screen.
-description: SpeakoFlow is an MIT-licensed offline dictation app and voice assistant for Windows,
-  macOS and Linux, with local speech recognition and a model of your choice for writing.
+summary: A dictation app that types what you say offline and adds a voice assistant — say "Hey
+  Flow" to have it write the reply instead of typing your words, or ask about what is on your
+  screen. It is a Tauri app built on Handy's core.
+description: Offline voice dictation for Windows, macOS and Linux, with a voice assistant that drafts
+  replies.
 sourceDescription: Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr
   Flow alternative with an AI assistant that can read your screen on request and answer questions.
 platforms:
@@ -58,7 +58,7 @@ relations:
       quote: A Wispr Flow alternative with an AI assistant
       checkedAt: 2026-09-29
 seo:
-  title: SpeakoFlow – Open Source Wispr Flow Alternative
+  title: "SpeakoFlow Review: Wispr Flow Alternative"
   description: SpeakoFlow dictates offline into any app on Windows, macOS and Linux, and can draft
     replies or answer questions about your screen by voice. MIT.
 addedAt: 2026-09-29

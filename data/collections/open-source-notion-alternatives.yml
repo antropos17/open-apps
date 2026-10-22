@@ -35,5 +35,5 @@ faq:
     a: AppFlowy is AGPL-3.0. AFFiNE's client is MIT, but parts of its server are under an enterprise licence, and some features need a subscription.
 seo:
   index: true
-  title: Open Source Notion Alternatives – Self-Hosted & Local-First
+  title: "Open Source Notion Alternatives: Self-Hosted & Local-First"
   description: AppFlowy and AFFiNE compared — open-source, local-first workspaces for docs, wikis and databases that you can self-host instead of Notion.

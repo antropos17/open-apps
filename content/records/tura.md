@@ -3,9 +3,14 @@ submittedBy: Yohjisakamoto
 name: Tura
 repoUrl: https://github.com/Tura-AI/tura
 projectType: production
-category: tools
+category: developer-tools
 stack: tauri
-description: Build agent that uses 80% less token and delivers better results.
+summary: A coding agent for developers that aims to finish tasks in fewer model round trips, with a
+  desktop app, a terminal UI and a CLI for macOS, Windows and Linux. It turns a task into one
+  runtime-managed command graph instead of a ReAct loop; its published benchmarks report fewer tokens
+  than Codex CLI at a comparable success rate.
+description: A coding agent for desktop and terminal built to finish tasks in fewer tokens and model
+  turns.
 sourceDescription: Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on
   the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared
   with Codex CLI.
@@ -40,11 +45,12 @@ tags:
 bestFor:
   - Developers studying a Rust-first coding agent with terminal, TUI, and Tauri desktop surfaces.
   - Teams comparing persistent task state and evidence-backed verification in one local application.
-whyListed: []
+whyListed:
+  - Publishes its benchmark prompts, tool calls, token usage and verifier results against Codex CLI.
 caveats:
   - The project is new and the current release line is pre-1.0.
 seo:
-  title: Tura – Open Source Rust Coding Agent for Desktop & CLI
+  title: "Tura: Token-Efficient Coding Agent"
   description: Tura is a Rust coding agent with terminal and desktop apps for macOS, Windows and Linux,
     built to finish tasks in fewer tokens and turns. AGPL-3.0.
 addedAt: 2026-07-19

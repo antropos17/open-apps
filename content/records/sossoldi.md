@@ -1,15 +1,15 @@
 ---
-name: sossoldi
+name: Sossoldi
 repoUrl: https://github.com/RIP-Comm/sossoldi
 projectType: real-app
 category: finance
 stack: flutter
-summary: A community-maintained Flutter app that replaces a spreadsheet-based net worth tracker with
-  a polished cross-platform client. It uses Riverpod for state, SQLite for fully local storage,
-  fl_chart for visualizations, and is published through the App Store, Google Play, and F-Droid.
-description: Sossoldi is an MIT-licensed, Flutter-built personal wealth manager that tracks net
-  worth, expenses, income, and investments across iOS, Android, macOS, Windows, Linux, and the Web
-  from a single Dart codebase.
+summary: A personal finance app that tracks your net worth, expenses, income and investments in
+  place of a spreadsheet, with all data kept on your device. It is community-maintained, built with
+  Flutter (Riverpod for state, SQLite storage, fl_chart for charts) and published on the App Store,
+  Google Play and F-Droid.
+description: A net worth and personal finance tracker for expenses, income and investments, on
+  mobile, desktop and web.
 sourceDescription: "\"Sossoldi\" is a wealth management / personal finance / Net Worth tracking app,
   made with Flutter."
 licenses:
@@ -22,7 +22,7 @@ tags:
   - personal-finance
   - wealth-management
 seo:
-  title: Sossoldi – Open Source Net Worth & Personal Finance Tracker
+  title: "Sossoldi Review: Net Worth and Finance Tracker"
   description: Sossoldi tracks net worth, expenses, income and investments on iOS, Android, desktop and
     web, with data stored locally. MIT, built with Flutter.
 addedAt: 2026-08-11

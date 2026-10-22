@@ -4,11 +4,11 @@ repoUrl: https://github.com/fastrepl/anarlog
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri desktop app that captures meeting audio on the device, transcribes on-device or
-  through a provider you pick, and keeps sessions and transcripts in a local SQLite database — with
-  hosted AI and encrypted sync as opt-in extras.
-description: anarlog is an MIT-licensed, local-first AI meeting notepad for macOS, Windows and Linux
-  that records device audio without joining the call as a bot and keeps notes in local SQLite.
+summary: An AI meeting notepad for macOS, Windows and Linux that records your meetings on the device
+  without a bot joining the call, and transcribes locally or through a provider you pick. It is a
+  Tauri app that keeps sessions and transcripts in a local SQLite database, with hosted AI and
+  encrypted sync as opt-in extras.
+description: Local-first AI meeting notes for Mac, Windows and Linux, with no bot joining your call.
 sourceDescription: Open source Granola AI Alternative
 platforms:
   - macos
@@ -63,7 +63,7 @@ relations:
       quote: anarlog is an open-source alternative to Granola.
       checkedAt: 2026-09-22
 seo:
-  title: anarlog – Open Source Granola Alternative for Meeting Notes
+  title: "anarlog Review: Granola Alternative"
   description: anarlog takes AI meeting notes on macOS, Windows and Linux without a bot in the call,
     keeping audio and transcripts local. MIT, bring your own model.
 addedAt: 2026-09-22

@@ -3,14 +3,12 @@ name: OpenDesign
 repoUrl: https://github.com/nexu-io/open-design
 projectType: real-app
 category: developer-tools
-summary: "A portable design runtime that decouples model and delivery: the artifact surface (HTML /
-  PDF / PPTX / MP4) is repo-shaped, the brand contract is a Markdown file, and the agent layer is
-  pluggable across 27 CLI runtimes — the only realistic OSS answer to Claude Design, v0, Lovable,
-  Bolt.new, and Figma Make."
-description: A local-first Apache-2.0 desktop and web application that turns any of 27 coding-agent
-  CLIs into a design engine, producing HTML prototypes, PDFs, PPTX decks, images, and HyperFrames
-  MP4 against a portable `DESIGN.md` brand contract, with BYOK across OpenAI / Anthropic / Azure /
-  Google / Ollama and an MCP stdio server for agent-native integration.
+summary: "An AI design app for Mac, Windows and the web that turns the coding agent you already use
+  into a designer, producing prototypes, PDFs, slide decks, images and videos in your brand. It is an
+  open alternative to Claude Design, v0, Lovable, Bolt.new and Figma Make: the brand rules live in a
+  portable DESIGN.md file, the agent layer plugs into 27 CLI runtimes, and you bring your own model
+  key."
+description: AI design app that turns your coding agent into a designer for prototypes, decks, PDFs and videos.
 sourceDescription: The open-source Claude Design alternative — a local-first desktop app that turns
   any coding agent CLI into a design engine.
 platforms:
@@ -105,7 +103,7 @@ relations:
       quote: figma-alternative
       checkedAt: 2026-09-22
 seo:
-  title: OpenDesign – Open Source Claude Design Alternative
+  title: "OpenDesign Review: Claude Design Alternative"
   description: OpenDesign turns coding-agent CLIs into a design tool for HTML prototypes, PDFs, slide decks and videos, on desktop or web. Apache-2.0, bring your own key.
 addedAt: 2026-09-01
 source:

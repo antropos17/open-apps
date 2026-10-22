@@ -3,11 +3,11 @@ name: Leantime
 repoUrl: https://github.com/Leantime/leantime
 projectType: real-app
 category: productivity
-summary: A PHP project management system for people who are not project managers — Kanban, Gantt,
-  table, list and calendar views, milestones, sprints, timesheets, goals, strategy canvases, wikis
-  and retrospectives — designed with ADHD, dyslexia and autism in mind.
-description: Leantime is an AGPL-3.0, self-hostable project management system that combines
-  strategy, planning and execution, with task views, goals, timesheets and docs in one tool.
+summary: Project management for people who are not project managers, designed with ADHD, dyslexia
+  and autism in mind. It has Kanban, Gantt, table, list and calendar views, milestones, sprints,
+  timesheets, goals, strategy canvases, wikis and retrospectives, in a self-hosted PHP app.
+description: Self-hosted project management for non-project-managers, with tasks, goals, timesheets
+  and docs.
 sourceDescription: Leantime is a goals focused project management system for non-project managers.
   Building with ADHD, Autism, and dyslexia in mind.
 platforms:
@@ -56,9 +56,9 @@ relations:
       quote: Open Source Jira Data Center Alternative
       checkedAt: 2026-09-29
 seo:
-  title: Leantime – Open Source Project Management for Non-PMs
+  title: "Leantime Review: Project Management for Non-PMs"
   description: Leantime is a self-hosted project manager with Kanban, Gantt and calendar views, goals,
-    timesheets and wikis, built with ADHD and dyslexia in mind. AGPL-3.0.
+    timesheets and wikis, built with ADHD and dyslexia in mind. AGPL.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -4,8 +4,9 @@ repoUrl: https://github.com/claration/Feather
 projectType: production
 category: productivity
 stack: ios
-description: Free on-device iOS/iPadOS application manager/installer, using certificates part of the
-  Apple Developer Program.
+summary: A free app manager for iPhone and iPad that installs and manages apps right on the device,
+  signed with your own Apple Developer Program certificate.
+description: Install and manage apps on iPhone and iPad on the device, signed with your Apple Developer certificate.
 sourceDescription: Free on-device iOS/iPadOS application manager/installer, using certificates part
   of the Apple Developer Program.
 platforms:
@@ -28,7 +29,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Feather – Open Source iOS App Manager & Installer
+  title: "Feather: App Installer for iPhone and iPad"
   description: Feather is a free on-device app manager and installer for iPhone and iPad that signs
     apps with Apple Developer Program certificates. GPL-3.0 licensed.
 addedAt: 2026-06-13

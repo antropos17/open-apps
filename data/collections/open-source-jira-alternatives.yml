@@ -43,5 +43,5 @@ faq:
     a: Leantime and Taiga send anonymous usage statistics by default; both can be switched off in settings or configuration.
 seo:
   index: true
-  title: Open Source Jira Alternatives – Self-Hosted Project Management
+  title: "Open Source Jira Alternatives: Self-Hosted Project Management"
   description: OpenProject, Plane, Leantime and Taiga compared — self-hosted project management and agile trackers for teams leaving Jira, with licences and trade-offs.

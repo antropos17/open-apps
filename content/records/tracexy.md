@@ -4,9 +4,12 @@ name: Tracexy
 repoUrl: https://github.com/RockxyApp/Tracexy
 projectType: real-app
 category: developer-tools
-stack: ios
-description: A native, local-first macOS app for capturing live network traffic and investigating
-  PCAP and PCAPNG files.
+stack: macos
+summary: A Mac app for capturing live network traffic and digging into PCAP and PCAPNG files —
+  sessions, protocols, processes and flows — without uploading anything. It is a native Swift app
+  that needs macOS 14 or later.
+description: A Mac app that captures live network traffic and opens PCAP files for analysis, all
+  locally.
 sourceDescription: Native, local-first network intelligence for macOS—capture live traffic, inspect
   PCAP/PCAPNG files, and investigate sessions, protocols, processes, flows, and packet evidence.
 platforms:
@@ -40,7 +43,7 @@ whyListed:
 caveats:
   - Requires macOS 14 or later.
 seo:
-  title: Tracexy – Open Source Network Traffic Analyzer for macOS
+  title: "Tracexy: Network Traffic Analyzer for Mac"
   description: Tracexy is a native, local-first macOS app for capturing live network traffic and
     investigating PCAP and PCAPNG files. AGPL-3.0, free on GitHub.
 addedAt: 2026-08-27

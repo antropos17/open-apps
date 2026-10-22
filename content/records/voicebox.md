@@ -2,15 +2,14 @@
 name: Voicebox
 repoUrl: https://github.com/jamiepine/voicebox
 projectType: real-app
-category: tools
+category: media
 stack: tauri
-summary: A Tauri + FastAPI desktop app that puts the entire voice I/O loop (TTS with cloning,
-  dictation, effects, MCP agent voice) on one local machine — open-source alternative to ElevenLabs
-  and WisprFlow, with the unusual twist that a single Qwen3 instance powers refinement, dictation
-  cleanup, and per-voice personality rewriting.
-description: Voicebox is a local-first AI voice studio that bundles seven TTS engines, Whisper STT,
-  a Qwen3 LLM for refinement and personality, and a built-in Model Context Protocol server so any
-  MCP-aware agent can speak in a cloned voice on a single desktop install.
+summary: A local AI voice studio for cloning voices, text-to-speech, dictation and voice effects on
+  your own computer, as an alternative to ElevenLabs and Wispr Flow. It is a Tauri desktop app with
+  a FastAPI backend, bundling seven TTS engines and Whisper; one Qwen3 model handles refinement,
+  dictation cleanup and per-voice personality, and an MCP server lets agents speak in a cloned voice.
+description: A local AI voice studio for voice cloning, text-to-speech and dictation on Mac, Windows
+  and Linux.
 platforms:
   - macos
   - windows
@@ -108,7 +107,7 @@ relations:
       quote: a free and open-source alternative to ElevenLabs and WisprFlow in one app
       checkedAt: 2026-09-22
 seo:
-  title: Voicebox – Open Source Local AI Voice Studio
+  title: "Voicebox Review: Local ElevenLabs Alternative"
   description: Voicebox is a local AI voice studio for macOS, Windows and Linux with voice cloning,
     text-to-speech, dictation and an MCP server for agents. MIT.
 addedAt: 2026-09-01

@@ -5,10 +5,9 @@ projectType: real-app
 category: productivity
 stack: tauri
 summary: A desktop AI chat app for macOS, Windows and Linux that downloads and runs open models such as
-  Llama, Gemma and Qwen offline on your computer, connects to cloud providers when you want them, and
-  serves a local OpenAI-compatible API.
-description: Jan is an Apache-2.0 desktop app that runs open LLMs offline on your own computer, with
-  optional cloud models, custom assistants, MCP and a local OpenAI-compatible server.
+  Llama, Gemma and Qwen offline on your computer. It connects to cloud providers when you want them
+  and serves a local OpenAI-compatible API.
+description: Chat with open AI models offline on Mac, Windows and Linux, a ChatGPT alternative.
 sourceDescription: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 platforms:
   - macos
@@ -66,7 +65,7 @@ relations:
       quote: "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
       checkedAt: 2026-09-29
 seo:
-  title: Jan – Open Source Offline ChatGPT Alternative for Desktop
+  title: "Jan Review: Offline ChatGPT Alternative"
   description: Jan runs open models like Llama, Gemma and Qwen offline on macOS, Windows and Linux,
     with optional cloud models and a local OpenAI-style API. Apache-2.0.
 addedAt: 2026-09-29

@@ -4,11 +4,11 @@ repoUrl: https://github.com/OpenWhispr/openwhispr
 projectType: real-app
 category: productivity
 stack: react
-summary: An Electron and React desktop app that types what you say into any app with local Whisper
-  or Parakeet models or a cloud provider you choose, and also records and transcribes meetings with
-  speaker labels, keeps searchable notes and runs a voice assistant.
-description: OpenWhispr is an MIT-licensed voice dictation and meeting transcription app for macOS,
-  Windows and Linux, with on-device speech models or bring-your-own-key cloud models.
+summary: Types what you say into any app on macOS, Windows and Linux, and also records and
+  transcribes meetings with speaker labels, keeps searchable notes and runs a voice assistant. It is
+  an Electron and React desktop app that uses local Whisper or Parakeet models or a cloud provider
+  you choose.
+description: Voice dictation and meeting transcription for Mac, Windows and Linux, on-device or with your own cloud key.
 sourceDescription: Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models
   (BYOK). Privacy-first and available cross-platform.
 platforms:
@@ -71,7 +71,7 @@ relations:
       quote: The Private, Open-Source Otter.ai Alternative
       checkedAt: 2026-09-29
 seo:
-  title: OpenWhispr – Open Source Wispr Flow & Granola Alternative
+  title: "OpenWhispr Review: Wispr Flow Alternative"
   description: OpenWhispr types your speech into any app and transcribes meetings with speaker labels, using local Whisper or your own key. MIT; Mac, Windows and Linux.
 addedAt: 2026-09-29
 source:

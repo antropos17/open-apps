@@ -3,11 +3,11 @@ name: Supabase
 repoUrl: https://github.com/supabase/supabase
 projectType: real-app
 category: developer-tools
-summary: A Postgres development platform — database, authentication, auto-generated REST and GraphQL
-  APIs, realtime, edge functions, file storage, vector embeddings and the Studio dashboard — used
-  as a hosted platform or self-hosted with Docker.
-description: Supabase is an Apache-2.0 Postgres platform that builds the features of Firebase from
-  open-source tools, available hosted or self-hosted with Docker Compose.
+summary: A backend for web and mobile apps — a Postgres database with sign-in, instant APIs,
+  realtime, file storage and functions — that you use hosted or run yourself with Docker. It also
+  generates REST and GraphQL APIs, stores vector embeddings and ships the Studio dashboard.
+description: A Firebase-style app backend with a Postgres database, auth, APIs, realtime and storage,
+  hosted or self-hosted.
 sourceDescription: The Postgres development platform. Supabase gives you a dedicated Postgres
   database to build your web, mobile, and AI applications.
 platforms:
@@ -58,7 +58,7 @@ relations:
       quote: We're building the features of Firebase using enterprise-grade open source tools.
       checkedAt: 2026-09-29
 seo:
-  title: Supabase – Open Source Postgres Development Platform
+  title: "Supabase Review: Postgres Firebase Alternative"
   description: Supabase pairs a Postgres database with auth, instant APIs, realtime, edge functions and
     storage, hosted or self-hosted with Docker. Apache-2.0.
 addedAt: 2026-09-29

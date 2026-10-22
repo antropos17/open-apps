@@ -3,12 +3,11 @@ name: OpenHands
 repoUrl: https://github.com/OpenHands/OpenHands
 projectType: real-app
 category: developer-tools
-summary: Agent Canvas, a self-hosted control center for coding agents — run the OpenHands agent,
-  Claude Code, Codex or Gemini on your laptop, in Docker, on a VM or in the cloud, and automate
-  tasks on a schedule or from Slack, GitHub and Linear events.
-description: OpenHands is an MIT-licensed, self-hosted workspace for running autonomous coding agents
-  on local or remote backends, with automations; OpenHands Cloud and Enterprise are the commercial
-  offerings.
+summary: A self-hosted control center for AI coding agents that runs OpenHands, Claude Code, Codex or
+  Gemini on your laptop, a server or the cloud, and starts tasks on a schedule or from Slack, GitHub
+  and Linear. Its Agent Canvas runs agents locally, in Docker, on a VM or in the cloud; OpenHands
+  Cloud and Enterprise are the commercial offerings.
+description: Self-hosted control center for AI coding agents, with tasks triggered on a schedule or from Slack and GitHub.
 sourceDescription: "🙌 OpenHands: AI-Driven Development"
 platforms:
   - web
@@ -48,7 +47,7 @@ caveats:
     Docker or a separate machine.
   - The Python SDK and agent server live in a separate repository, OpenHands/software-agent-sdk.
 seo:
-  title: OpenHands – Open Source Self-Hosted Autonomous Coding Agents
+  title: "OpenHands Review: Self-Hosted Coding Agents"
   description: OpenHands runs its own coding agent, Claude Code, Codex or Gemini on your laptop,
     Docker, a VM or the cloud, with scheduled automations. MIT, self-hosted.
 addedAt: 2026-09-29

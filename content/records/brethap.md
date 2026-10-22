@@ -1,17 +1,16 @@
 ---
-name: brethap
+name: Brethap
 repoUrl: https://github.com/jithware/brethap
 projectType: real-app
 category: tools
 stack: flutter
-summary: A single Flutter codebase ships the breathing-paced meditation timer to Android, the web,
-  and a separate Wear OS build, with a central 100 ms `Timer.periodic` loop that synchronises tone
+summary: A meditation timer that paces your breathing with tones, vibration and an expanding circle,
+  and logs every session, on Android, Wear OS and the web. One Flutter app ships all three builds,
+  with a central 100 ms `Timer.periodic` loop that synchronises tone
   playback, vibration, and an expanding-and-contracting visual circle to the inhale-hold-inhale /
   exhale-hold-exhale phases. Sessions land in a Hive box and surface through list, calendar, and
   monthly-stats views that double as the practice log.
-description: Brethap is a Flutter meditation app that pairs a session timer with configurable
-  six-phase breathing patterns, four selectable audio tones, per-phase vibration, and optional
-  text-to-speech cues, persisting every completed session in a local Hive store.
+description: A breathing and meditation timer with custom breathing patterns, tones, vibration and a session log.
 sourceDescription: Brethap — a meditation / breathing-pacing app
 licenses:
   - gpl-3.0
@@ -19,7 +18,7 @@ links:
   github: https://github.com/jithware/brethap
 tags: []
 seo:
-  title: Brethap – Open Source Breathing & Meditation Timer
+  title: "Brethap Review: Breathing and Meditation Timer"
   description: Brethap is a breathing and meditation timer with custom breathing patterns, tones,
     vibration and a session log, for Android, Wear OS and web. GPL-3.0.
 addedAt: 2026-08-11

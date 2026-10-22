@@ -4,11 +4,11 @@ repoUrl: https://github.com/Openpanel-dev/openpanel
 projectType: real-app
 category: business
 stack: react
-summary: A web and product analytics platform — funnels, cohorts, user profiles, session replay,
-  A/B test breakdowns, revenue tracking and alerts — with SDKs for web, iOS, Android and servers,
-  self-hosted with Docker or used on OpenPanel's cloud.
-description: OpenPanel is an AGPL-3.0 analytics platform that positions itself as an open-source
-  Mixpanel alternative and a Google Analytics replacement, with optional self-hosting.
+summary: Web and product analytics you can self-host, a Mixpanel and Google Analytics alternative with
+  funnels, cohorts, user profiles, session replay and revenue tracking. It also has A/B test
+  breakdowns and alerts, SDKs for web, iOS, Android and servers, and runs with Docker or on
+  OpenPanel's cloud.
+description: Self-hostable web and product analytics, a Mixpanel and Google Analytics alternative with funnels and replay.
 sourceDescription: OpenPanel is an open-source web and product analytics platform, an open-source
   alternative to Mixpanel with optional self-hosting.
 platforms:
@@ -59,7 +59,7 @@ relations:
       quote: one of the best Google Analytics replacements
       checkedAt: 2026-09-29
 seo:
-  title: OpenPanel – Open Source Web and Product Analytics
+  title: "OpenPanel Review: Mixpanel Alternative"
   description: OpenPanel is web and product analytics with funnels, cohorts, user profiles, session
     replay and A/B tests, self-hosted with Docker or on cloud. AGPL-3.0.
 addedAt: 2026-09-29

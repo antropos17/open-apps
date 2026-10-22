@@ -43,5 +43,5 @@ faq:
     a: FreeScout, which needs only PHP and MySQL, MariaDB or PostgreSQL. The others need Docker, Kubernetes or a Linux server with their own services.
 seo:
   index: true
-  title: Open Source Zendesk Alternatives – Self-Hosted Help Desks
+  title: "Open Source Zendesk Alternatives: Self-Hosted Help Desks"
   description: Zammad, Chatwoot, FreeScout and Frappe Helpdesk compared — self-hosted help desks for tickets, live chat and shared inboxes, and what each charges for.

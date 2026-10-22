@@ -4,8 +4,11 @@ repoUrl: https://github.com/RocketChat/Rocket.Chat.ReactNative
 projectType: real-app
 category: communication
 stack: react-native
-description: Official Rocket.Chat mobile client — open-source team communication, channels, threads,
-  file sharing, voice/video calls, end-to-end encrypted.
+summary: The official Rocket.Chat app for iOS and Android, for teams that chat in channels and
+  threads, share files and make voice and video calls with end-to-end encryption. It is the mobile
+  client for Rocket.Chat workspaces and is built with React Native.
+description: Rocket.Chat's official team chat app for iOS and Android, with channels, threads, calls
+  and file sharing.
 sourceDescription: The Secure CommsOS™ for mission-critical operations
 platforms:
   - android
@@ -22,7 +25,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Rocket.Chat – Open Source Team Chat App in React Native
+  title: "Rocket.Chat: Team Chat App for iOS & Android"
   description: Rocket.Chat is the official iOS and Android app for Rocket.Chat team chat, with channels,
     threads, file sharing, calls and end-to-end encryption. MIT.
 addedAt: 2026-06-07

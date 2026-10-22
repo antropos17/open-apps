@@ -5,8 +5,11 @@ repoUrl: https://github.com/Noveum/orbit
 projectType: real-app
 category: productivity
 stack: react
-description: Orbit is a free, realtime task manager for issues, boards, projects, sprints, docs and
-  files, with a hosted MCP endpoint for AI agents.
+summary: A free task and project manager in the browser for issues, boards, sprints, docs and files,
+  with realtime updates and an endpoint that lets AI agents work in your workspace. It is a typed
+  Next.js application with centralized authorization; self-hosting is still in preview and needs
+  PostgreSQL, Redis and S3-compatible storage.
+description: Free realtime task manager for issues, boards, sprints and docs, with an MCP endpoint for AI agents.
 platforms:
   - web
 licenses:
@@ -32,7 +35,7 @@ caveats:
   - Self-hosting requires PostgreSQL, Redis, S3-compatible storage and operational ownership.
   - Hosted MCP access requires sign-in and workspace-scoped OAuth authorization.
 seo:
-  title: Orbit – Open Source Task and Project Manager
+  title: "Orbit: Task and Project Manager with AI Agents"
   description: Orbit is a free realtime task manager in the browser for issues, boards, sprints, docs and files, with a hosted MCP endpoint for AI agents. Apache-2.0.
 addedAt: 2026-09-24
 source:

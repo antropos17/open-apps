@@ -5,12 +5,12 @@ repoUrl: https://github.com/devShakib015/mise
 projectType: real-app
 category: business
 stack: flutter
-summary: A Flutter macOS client over an embedded PocketBase server, so the whole service runs on the
-  restaurant's own hardware with no internet dependency. Bill totals are computed server-side and
+summary: A free restaurant system for Mac that runs the till, kitchen display, QR table ordering and
+  back office from one machine on the restaurant's own network, with no internet needed. It is a
+  Flutter macOS client over an embedded PocketBase server. Bill totals are computed server-side and
   cannot be edited, orders snapshot item names and prices at the time of sale, and receipts print
   over ESC/POS to any network thermal printer.
-description: Mise is a self-hosted restaurant system for macOS that runs a till, a kitchen display,
-  QR table ordering, and a back office from one machine on the restaurant's own network.
+description: Self-hosted restaurant POS for Mac with a till, kitchen display, QR table ordering and back office.
 sourceDescription: Free, self-hosted restaurant management. POS, kitchen display, QR table ordering,
   payments and reports.
 platforms:
@@ -54,7 +54,7 @@ caveats:
   - Guest QR ordering works over the venue's own wi-fi only; public internet ordering is
     deliberately out of scope to preserve the offline guarantee.
 seo:
-  title: Mise – Open Source Self-Hosted Restaurant POS
+  title: "Mise: Self-Hosted Restaurant POS for Mac"
   description: Mise is a self-hosted restaurant POS for macOS that runs the till, kitchen display, QR table ordering and back office on your own network. MIT-licensed.
 addedAt: 2026-09-01
 source:

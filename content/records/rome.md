@@ -3,11 +3,11 @@ name: Rome
 repoUrl: https://github.com/rome-os/rome
 projectType: real-app
 category: productivity
-summary: A self-hostable "agent OS" where an AI agent builds and keeps git-tracked actions, skills
-  and small purpose-built apps — an inbox, a price tracker, a morning brief — that keep running on a
-  schedule and can be reached from Telegram, Discord or WhatsApp.
-description: Rome is an MIT-licensed, self-hosted environment where an AI agent turns repeated work
-  into saved actions and installable apps, run with one Docker script.
+summary: A self-hosted AI agent that turns jobs you repeat into small apps — an inbox, a price
+  tracker, a morning brief — and runs them on a schedule, reachable from Telegram, Discord or
+  WhatsApp. What it builds is kept as git-tracked actions, skills and apps you can read and edit.
+description: A self-hosted AI agent that turns repeated work into small scheduled apps you reach from
+  chat.
 sourceDescription: A compounding agent OS for recursive agents. Also an open source alternative to
   Grok Bot and Meta's Muse.
 platforms:
@@ -52,7 +52,7 @@ relations:
       quote: Rome also works as an open source alternative to Grok Bot and Meta's Muse
       checkedAt: 2026-09-28
 seo:
-  title: Rome – Open Source Agent OS and Grok Bot Alternative
+  title: "Rome Review: Self-Hosted Grok Bot Alternative"
   description: Rome is a self-hosted agent OS that turns repeated work into git-tracked actions and
     small apps you reach from Telegram, Discord or WhatsApp. MIT.
 addedAt: 2026-09-28

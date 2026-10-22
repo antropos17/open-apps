@@ -3,11 +3,10 @@ name: AgentConnect
 repoUrl: https://github.com/agentconnect-md/agentconnect
 projectType: real-app
 category: developer-tools
-summary: A self-hosted platform that puts several AI agents — Claude Code, Codex, Grok Build or any
-  ACP runtime — into Slack, Telegram, Discord, Lark, Google Chat, GitHub, GitLab, Gitea and Linear,
-  each with its own role, memory, tools and access rules.
-description: AgentConnect is an Apache-2.0 platform for running a team of AI agents in the chat
-  tools and code hosts your team already uses, self-hosted with Docker Compose.
+summary: A self-hosted platform that puts a team of AI agents into Slack, Telegram, Discord, GitHub
+  and Linear, each with its own role, memory, tools and access rules. It runs Claude Code, Codex,
+  Grok Build or any ACP runtime, and also connects to Lark, Google Chat, GitLab and Gitea.
+description: Self-hosted AI agents that work alongside your team in Slack, Discord, GitHub and Linear.
 sourceDescription: The open-source, multi-agent alternative to Claude Tag. @ any agent, wherever
   work happens, they work alongside your team, learning as they go.
 platforms:
@@ -50,7 +49,7 @@ relations:
       quote: The open-source, multi-agent alternative to Claude Tag.
       checkedAt: 2026-09-28
 seo:
-  title: AgentConnect – Open Source Claude Tag Alternative
+  title: "AgentConnect Review: Claude Tag Alternative"
   description: AgentConnect runs Claude Code, Codex and other agents in Slack, Discord, GitHub and
     Linear with roles, memory and access rules. Self-hosted, Apache-2.0.
 addedAt: 2026-09-28

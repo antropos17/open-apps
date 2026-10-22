@@ -1,15 +1,15 @@
 ---
-name: roxum-ide
+name: Roxum IDE
 repoUrl: https://github.com/heckmon/roxum-ide
 projectType: real-app
 category: developer-tools
 stack: flutter
-summary: Roxum IDE pairs a Rust-backed editor engine (the code_forge package, using rope and
-  sum-tree data structures) with a Flutter UI to turn an Android phone into a full coding workspace
-  — file tree, embedded terminal, LSP-driven completions, Git/GitHub auth, and offline GGUF model
-  chat.
-description: A mobile-first Flutter code editor and mini IDE for Android with LSP, an embedded
-  terminal, Git/GitHub tooling, and optional on-device GGUF model chat.
+summary: A code editor that turns an Android phone into a coding workspace, with a file tree, a
+  built-in terminal, code completion, Git and GitHub sign-in, and offline AI model chat. Under the
+  Flutter UI sits a Rust-backed editor engine (the code_forge package, using rope and sum-tree data
+  structures), with LSP-driven completions and on-device GGUF models.
+description: A code editor for Android phones with a file tree, terminal, code completion, Git and
+  offline AI chat.
 sourceDescription: A minimal and powerful IDE/Code editor for Android
 licenses:
   - mit
@@ -23,7 +23,7 @@ tags:
   - vscode
   - vscode-mobile
 seo:
-  title: Roxum IDE – Open Source Code Editor for Android
+  title: "Roxum IDE Review: Code Editor for Android"
   description: Roxum IDE turns an Android phone into a coding workspace with a file tree, terminal, LSP
     completions, Git and GitHub, and offline AI model chat. MIT.
 addedAt: 2026-08-11

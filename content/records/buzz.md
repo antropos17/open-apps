@@ -3,11 +3,10 @@ name: Buzz
 repoUrl: https://github.com/chidiwilliams/buzz
 projectType: real-app
 category: media
-summary: A desktop app that transcribes and translates audio and video files, YouTube links and live
-  microphone input offline with Whisper models, with speaker identification, a transcript viewer,
-  a watch folder and TXT, SRT and VTT export.
-description: Buzz is an MIT-licensed offline transcription app for macOS, Windows and Linux, powered
-  by OpenAI's Whisper and running entirely on your computer.
+summary: A desktop app that transcribes and translates audio, video, YouTube links and live speech
+  offline on your own computer, with Whisper models. It adds speaker identification, a transcript
+  viewer, a watch folder and TXT, SRT and VTT export.
+description: Offline transcription and translation of audio and video with Whisper, on Mac, Windows and Linux.
 sourceDescription: Buzz transcribes and translates audio offline on your personal computer. Powered
   by OpenAI's Whisper.
 platforms:
@@ -66,7 +65,7 @@ relations:
       url: https://github.com/chidiwilliams/buzz
       checkedAt: 2026-09-29
 seo:
-  title: Buzz – Open Source Offline Audio Transcription with Whisper
+  title: "Buzz Review: Offline Transcription with Whisper"
   description: Buzz transcribes and translates audio, video and live speech offline with Whisper on Mac, Windows and Linux, with speaker labels and subtitle export. MIT.
 addedAt: 2026-09-29
 source:

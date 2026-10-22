@@ -4,11 +4,11 @@ repoUrl: https://github.com/libre-webui/libre-webui
 projectType: real-app
 category: productivity
 stack: react
-summary: A self-hosted AI workspace — chat with local Ollama or cloud models, search your own
-  documents, generate artifacts, and give agent tasks an isolated workspace with files, a terminal,
-  diffs and a live preview — run from npm, Docker, Kubernetes or a desktop client.
-description: Libre WebUI is an Apache-2.0, self-hosted AI workspace with local models through Ollama,
-  document chat, artifacts and sandboxed work environments, and no application telemetry.
+summary: A self-hosted AI workspace where you chat with local Ollama or cloud models and search your
+  own documents. It also generates artifacts and gives agent tasks an isolated workspace with files,
+  a terminal, diffs and a live preview, run from npm, Docker, Kubernetes or a desktop client.
+description: Chat with local Ollama or cloud models and your own documents in a self-hosted AI
+  workspace.
 sourceDescription: A local-first workspace for chat, private knowledge, artifacts, and isolated
   model-driven work. Self-hosted. Provider-flexible. Apache 2.0.
 platforms:
@@ -60,7 +60,7 @@ relations:
       url: https://github.com/libre-webui/libre-webui
       checkedAt: 2026-09-29
 seo:
-  title: Libre WebUI – Open Source Self-Hosted AI Chat for Ollama
+  title: "Libre WebUI Review: Self-Hosted AI Chat"
   description: Libre WebUI is a self-hosted AI workspace for Ollama and cloud models, with document
     chat, artifacts and sandboxed agent tasks. Apache-2.0, no telemetry.
 addedAt: 2026-09-28

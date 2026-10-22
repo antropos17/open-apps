@@ -4,11 +4,11 @@ repoUrl: https://github.com/ideaplexa/voicetypr
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri, Rust and React dictation app that transcribes locally with Whisper — and Parakeet
-  on Apple Silicon — inserts the text at your cursor, optionally formats it with a model you choose,
-  and exposes transcription to scripts and agents through a CLI.
-description: Voicetypr is an AGPL-3.0, offline-first dictation app for Windows and macOS with local
-  Whisper transcription, optional AI formatting and a command-line interface for agents.
+summary: An offline dictation app for Windows and Mac that types what you say at your cursor and can
+  tidy the text with a model you choose. It transcribes locally with Whisper, and Parakeet on Apple
+  Silicon, is built with Tauri, Rust and React, and offers a CLI for scripts and agents.
+description: Offline dictation for Windows and Mac that types at your cursor, with optional AI
+  formatting.
 sourceDescription: Voicetypr - AI powered offline voice to text dictation tool for busy founders,
   vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper.
 platforms:
@@ -60,7 +60,7 @@ relations:
       quote: Alternative to wispr flow and superwhisper.
       checkedAt: 2026-09-28
 seo:
-  title: Voicetypr – Open Source Offline Dictation for Windows & Mac
+  title: "Voicetypr Review: Wispr Flow Alternative"
   description: Voicetypr transcribes speech locally with Whisper on Windows and macOS and types it at
     your cursor, with optional AI formatting. AGPL-3.0.
 addedAt: 2026-09-28

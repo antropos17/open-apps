@@ -4,14 +4,17 @@ repoUrl: https://github.com/JetBrains/youtrack-mobile
 projectType: real-app
 category: productivity
 stack: react-native
-description: Official JetBrains YouTrack mobile app — issue tracking, agile boards, knowledge base,
-  and notifications for YouTrack projects.
+summary: The official JetBrains app for working with YouTrack on iOS and Android — issues, agile
+  boards, the knowledge base and notifications for your YouTrack projects. It is built with React
+  Native and licensed Apache-2.0.
+description: JetBrains' official YouTrack app for issues, agile boards and notifications on iOS and
+  Android.
 sourceDescription: A iOS and Android client for YouTrack
 platforms:
   - android
   - ios
 licenses:
-  - noassertion
+  - apache-2.0
 links:
   github: https://github.com/JetBrains/youtrack-mobile
 distribution:
@@ -22,9 +25,9 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: YouTrack Mobile – Open Source iOS & Android Client
-  description: YouTrack Mobile is the official JetBrains app for YouTrack on iOS and Android, with issue
-    tracking, agile boards, knowledge base and notifications.
+  title: "YouTrack Mobile: Issue Tracker for iOS & Android"
+  description: YouTrack Mobile is the official JetBrains app for YouTrack on iOS and Android, with issues,
+    agile boards, knowledge base and notifications. Apache-2.0.
 addedAt: 2026-06-07
 source:
   type: import

@@ -4,12 +4,10 @@ repoUrl: https://github.com/altstoreio/AltStore
 projectType: real-app
 category: tools
 stack: ios
-summary: A sideloading app store for non-jailbroken iOS that uses a desktop companion to re-sign
-  installed apps with the user's own Apple ID and refresh them in the background, so they keep
-  working past Apple's 7-day certificate expiration.
-description: AltStore is a sideloading app store for non-jailbroken iOS devices that re-signs
-  installed apps with a personal Apple developer certificate and refreshes them in the background
-  via a desktop companion to bypass Apple's 7-day signing limit.
+summary: An app store for installing apps on an iPhone or iPad without a jailbreak, signed with your
+  own Apple ID. A desktop companion re-signs installed apps and refreshes them in the background, so
+  they keep working past Apple's 7-day certificate expiration.
+description: Install apps on iPhone and iPad without a jailbreak, signed with your own Apple ID.
 sourceDescription: AltStore is an alternative app store for non-jailbroken iOS devices.
 platforms:
   - ios
@@ -26,10 +24,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (13,943 stars on GitHub).
+  - Keeps sideloaded apps working past Apple's 7-day signing limit by refreshing them in the
+    background through a desktop companion.
 caveats: []
 seo:
-  title: AltStore – Open Source Alternative App Store for iOS
+  title: "AltStore Review: Sideload Apps on iPhone"
   description: AltStore lets you sideload apps on iPhone without a jailbreak, re-signing them with
     your own Apple ID and refreshing them past the 7-day limit. AGPL-3.0.
 addedAt: 2026-06-13

@@ -47,5 +47,5 @@ faq:
     a: All six are MIT-licensed. anarlog's repository also contains commercially licensed enterprise components, Meetily and Humla sell paid tiers — a PRO edition and cloud sync — outside the open code, and OpenWhispr sells optional cloud plans.
 seo:
   index: true
-  title: Open Source Granola Alternatives – Self-Hosted & Local
+  title: "Open Source Granola Alternatives: Self-Hosted & Local"
   description: anarlog, Meetily, Humla and Loofah compared — MIT-licensed meeting notetakers that record on your own computer, with local transcription and no bot in the call.

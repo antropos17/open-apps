@@ -1,10 +1,13 @@
 ---
-name: Flutter WooCommerce app
+name: Label StoreMax
 repoUrl: https://github.com/woosignal/flutter-woocommerce-app
 projectType: real-app
 category: shopping
 stack: flutter
-description: A ready-made app template for WooCommerce stores
+summary: A ready-made Android and iOS shopping app for WooCommerce stores, where customers browse
+  products, place orders and log in with their WordPress account. WooSignal maintains it as a
+  template you connect to your own store and publish to the App Store and Google Play.
+description: A ready-made Android and iOS shopping app template for WooCommerce stores.
 sourceDescription: WooCommerce App template that uses Flutter. Integrated to work with WooCommerce
   stores, connect and create an IOS and Android app from Flutter for IOS and Android
 platforms:
@@ -22,8 +25,8 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Flutter WooCommerce App – Open Source Store App Template
-  description: Flutter WooCommerce App is a ready-made Android and iOS shopping app template for WooCommerce stores, built with Flutter and BSD-2-Clause licensed.
+  title: "Label StoreMax: WooCommerce App Template"
+  description: Label StoreMax is a ready-made Android and iOS shopping app template for WooCommerce stores, built with Flutter and BSD-2-Clause licensed.
 addedAt: 2026-06-07
 source:
   type: import

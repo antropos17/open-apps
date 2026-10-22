@@ -7,8 +7,8 @@ stack: react
 summary: A cookie-free web and product analytics app — sessions, goals, funnels, user journeys,
   retention, session replays, error tracking and detailed maps — self-hosted with Docker Compose or
   used on Rybbit's hosted service.
-description: Rybbit is an AGPL-3.0 web and product analytics platform that describes itself as a
-  privacy-friendly alternative to Google Analytics, self-hosted or in the cloud.
+description: Cookie-free web and product analytics with funnels and session replays, self-hosted or
+  in the cloud.
 sourceDescription: 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that
   is 10x more intuitive.
 platforms:
@@ -58,7 +58,7 @@ relations:
       quote: open-source and privacy-friendly alternative to Google Analytics
       checkedAt: 2026-09-29
 seo:
-  title: Rybbit – Open Source Google Analytics Alternative
+  title: "Rybbit Review: Google Analytics Alternative"
   description: Rybbit is cookie-free web and product analytics with funnels, retention, session replays
     and error tracking, self-hosted or in the cloud. AGPL-3.0.
 addedAt: 2026-09-29

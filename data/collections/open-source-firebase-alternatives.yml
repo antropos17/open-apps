@@ -40,5 +40,5 @@ faq:
     a: Appwrite has first-party SDKs for Flutter, Apple, Android and React Native. PocketBase has JavaScript and Dart SDKs. Supabase publishes official client libraries for several languages.
 seo:
   index: true
-  title: Open Source Firebase Alternatives – Self-Hosted Backends
+  title: "Open Source Firebase Alternatives: Self-Hosted Backends"
   description: Supabase, Appwrite and PocketBase compared — self-hosted backends with auth, database, storage and realtime, and what self-hosting leaves out.

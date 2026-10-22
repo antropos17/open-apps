@@ -1,16 +1,17 @@
 ---
-name: ish
+name: iSH
 repoUrl: https://github.com/ish-app/ish
 projectType: production
-category: productivity
+category: developer-tools
 stack: ios
-description: A Linux shell environment running on iOS, useful for command-line work on mobile devices.
+summary: A Linux shell for iPhone and iPad, so you can run command-line tools on a mobile device. It
+  emulates x86 in user mode and translates Linux system calls, and is available on the App Store.
+description: Run a Linux shell and command-line tools on your iPhone and iPad.
 sourceDescription: Linux shell for iOS
 platforms:
   - ios
-  - linux
 licenses:
-  - noassertion
+  - gpl-3.0
 links:
   github: https://github.com/ish-app/ish
 distribution:
@@ -27,8 +28,8 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: iSH – Open Source Linux Shell for iOS
-  description: iSH runs a Linux shell environment on your iPhone and iPad, so you can do real command-line work on a mobile device. Open source and free to study.
+  title: "iSH: Linux Shell for iPhone and iPad"
+  description: iSH runs a Linux shell on your iPhone and iPad through x86 emulation, so you can use real command-line tools on a mobile device. GPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

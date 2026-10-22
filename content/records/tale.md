@@ -4,7 +4,11 @@ repoUrl: https://github.com/tale-project/tale
 projectType: real-app
 category: productivity
 stack: react
-description: Tale is an MIT-licensed, self-hosted project workspace for agent tasks, shared context and team review of reports and deliverables.
+summary: A self-hosted team workspace where you brief AI agents on project tasks with shared context
+  and review the reports and files they return. Agents start only when someone starts them, and
+  every output goes back to the project for review.
+description: A self-hosted team workspace for briefing AI agents on tasks and reviewing what they
+  return.
 platforms:
   - web
 licenses:
@@ -28,7 +32,7 @@ tags:
   - project-management
   - ai-agents
 seo:
-  title: Tale – Open Source Workspace for AI Agent Tasks
+  title: "Tale: Team Workspace for AI Agent Tasks"
   description: Assign agent tasks with shared project context and review reports and files in Tale, an MIT-licensed workspace you can self-host.
 addedAt: 2026-10-08
 submittedBy: yannickmonney

@@ -3,12 +3,11 @@ name: Wox
 repoUrl: https://github.com/Wox-launcher/Wox
 projectType: real-app
 category: productivity
-summary: A native, GPU-rendered keyboard launcher written in Go for Windows, macOS and Linux — app
-  and file search, keyboard-first actions, and plugins in Node.js, Python or scripts from a plugin and
-  theme store.
-description: Wox is a GPL-3.0, cross-platform keyboard launcher for Windows, macOS and Linux with a
-  plugin store and native rendering, and describes itself as an open-source Raycast and Alfred
-  alternative.
+summary: A keyboard launcher for Windows, macOS and Linux with app and file search, keyboard-first
+  actions and a plugin and theme store. It is a native, GPU-rendered app written in Go, with plugins
+  in Node.js, Python or scripts.
+description: A keyboard launcher for Windows, macOS and Linux with app and file search and a plugin
+  store.
 sourceDescription: A cross-platform launcher that simply works
 platforms:
   - windows
@@ -53,7 +52,7 @@ relations:
       quote: It is an open-source Raycast / Alfred alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Wox – Open Source Raycast Alternative, Windows, Mac & Linux
+  title: "Wox Review: Cross-Platform Raycast Alternative"
   description: Wox is a native keyboard launcher for Windows, macOS and Linux with app and file search
     and plugins from a store. GPL-3.0.
 addedAt: 2026-09-29

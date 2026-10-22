@@ -4,11 +4,10 @@ repoUrl: https://github.com/cjpais/Handy
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri and Rust speech-to-text app — press a shortcut, speak, release, and the text is
-  pasted into whatever app has focus, transcribed on your own computer with Whisper or Parakeet and
-  silence trimmed by Silero VAD.
-description: Handy is an MIT-licensed, fully offline dictation app for Windows, macOS and Linux that
-  types what you say into any text field using Whisper or Parakeet on your own machine.
+summary: An offline dictation app — press a shortcut, speak, release, and the text is pasted into
+  whatever app has focus, transcribed on your own computer. It uses Whisper or Parakeet with Silero
+  VAD to trim silence, and is built with Tauri and Rust.
+description: Offline dictation for Windows, Mac and Linux that types what you say into any app.
 sourceDescription: A free, open source, and extensible speech-to-text application that works
   completely offline.
 platforms:
@@ -60,7 +59,7 @@ relations:
       url: https://github.com/cjpais/Handy
       checkedAt: 2026-09-28
 seo:
-  title: Handy – Open Source Offline Dictation, Windows, Mac & Linux
+  title: "Handy Review: Offline Wispr Flow Alternative"
   description: Handy types what you say into any app on Windows, macOS and Linux, transcribing
     offline with Whisper or Parakeet. MIT-licensed, x64 and arm64 builds.
 addedAt: 2026-09-28

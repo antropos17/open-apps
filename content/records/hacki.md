@@ -4,7 +4,11 @@ repoUrl: https://github.com/Livinglist/Hacki
 projectType: real-app
 category: news
 stack: flutter
-description: A clean Hacker News reader for iOS, with offline support and custom themes.
+summary: A Hacker News reader for iPhone, iPad and Android with account login, reply notifications,
+  search and an offline mode. It adds in-thread search, ancestor lookup, true dark mode, font and
+  accent customization, and iOS home and lock screen widgets.
+description: A Hacker News reader for iOS and Android with login, reply alerts, search and offline
+  mode.
 sourceDescription: An open-source Hacker News client built with Flutter.
 platforms:
   - android
@@ -21,7 +25,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Hacki – Open Source Hacker News Client Built with Flutter
+  title: "Hacki: Hacker News App for iOS & Android"
   description: Hacki is a clean Hacker News reader for iOS and Android with offline reading and custom themes, built with Flutter and licensed under GPL-3.0.
 addedAt: 2026-06-07
 source:

@@ -2,8 +2,12 @@
 name: Oh My Android
 repoUrl: https://github.com/ateymoori/oh-my-android
 category: developer-tools
-stack: ios
-description: Native macOS control panel for the Android Emulator and phones over adb, with a built-in MCP server for AI coding agents.
+stack: macos
+summary: A Mac control panel for Android developers that toggles dark mode, RTL, font scale and
+  TalkBack on the emulator or a phone without opening Android Studio, and lets AI coding agents drive
+  the device. It is a native SwiftUI app over adb with a built-in stdio MCP server in a single signed
+  binary.
+description: Mac control panel for the Android Emulator and phones, with an MCP server for AI coding agents.
 platforms:
   - macos
 tags:
@@ -25,7 +29,7 @@ caveats:
   - Most system toggles need an emulator or a phone with adb debugging on; some depend on the Android API level
   - Young project (first release September 2026)
 seo:
-  title: Oh My Android – Open Source Android Emulator Panel for Mac
+  title: "Oh My Android: Android Emulator Panel for Mac"
   description: Oh My Android is a native macOS control panel for the Android Emulator and Android phones over adb, with a built-in MCP server for AI coding agents.
 addedAt: 2026-09-29
 submittedBy: ateymoori

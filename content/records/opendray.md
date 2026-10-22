@@ -3,11 +3,11 @@ name: opendray
 repoUrl: https://github.com/Opendray/opendray
 projectType: real-app
 category: developer-tools
-summary: A single Go binary that runs Claude Code, Codex, Antigravity, Grok Build, OpenCode or a
-  shell in reattachable terminal sessions on an always-on host, and lets you drive them from a web
-  admin, a Flutter mobile app or six chat platforms, with a shared local-first memory layer.
-description: opendray is an Apache-2.0 self-hosted gateway that keeps AI coding agent sessions
-  running on your own server and lets you reattach from a browser, a phone or chat.
+summary: Keeps Claude Code, Codex, OpenCode and other AI coding agents running on your own server and
+  lets you pick a session back up from a browser, a phone app or chat. It is a single Go binary that
+  runs the agents (or a shell) in reattachable terminal sessions on an always-on host, with a web
+  admin, a Flutter mobile app, six chat platforms and a shared local-first memory layer.
+description: Self-hosted gateway that keeps AI coding agents running on your server so you can resume from browser, phone or chat.
 sourceDescription: Self-hosted gateway for Claude Code, Codex, Antigravity, Grok Build, OpenCode. Run
   AI coding agents on your own infra with a shared local-first memory layer.
 platforms:
@@ -43,7 +43,7 @@ caveats:
   - Pooling several accounts on one host may conflict with your AI provider's terms — check them
     before sharing a subscription.
 seo:
-  title: opendray – Open Source Self-Hosted Gateway for Coding Agents
+  title: "opendray Review: Gateway for Coding Agents"
   description: opendray keeps Claude Code, Codex and other coding agent sessions running on your
     server, reattachable from web, mobile or chat. Apache-2.0, one Go binary.
 addedAt: 2026-09-28

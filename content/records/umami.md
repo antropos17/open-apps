@@ -4,11 +4,10 @@ repoUrl: https://github.com/umami-software/umami
 projectType: real-app
 category: business
 stack: react
-summary: A cookie-free web analytics app on Next.js and PostgreSQL — traffic, campaigns, behaviour,
-  conversions and revenue in one dashboard — self-hosted with Docker or from source, or on Umami
-  Cloud.
-description: Umami is an MIT-licensed, privacy-first web analytics platform that you can self-host on
-  Node.js and PostgreSQL or use as a hosted service.
+summary: Cookie-free website analytics with traffic, campaigns, behaviour, conversions and revenue
+  in one dashboard, self-hosted or on Umami Cloud. It is a Next.js app with a PostgreSQL database,
+  run with Docker or from source.
+description: Cookie-free, privacy-first website analytics you can self-host or use on Umami Cloud.
 sourceDescription: Umami is a privacy-first analytics platform. Traffic, campaigns, behavior,
   conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 platforms:
@@ -57,7 +56,7 @@ relations:
       url: https://github.com/umami-software/umami
       checkedAt: 2026-09-29
 seo:
-  title: Umami – Open Source Privacy-First Web Analytics
+  title: "Umami Review: Google Analytics Alternative"
   description: Umami is cookie-free web analytics for traffic, campaigns, conversions and revenue,
     self-hosted with Docker and PostgreSQL or on Umami Cloud. MIT.
 addedAt: 2026-09-29

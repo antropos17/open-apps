@@ -5,8 +5,10 @@ repoUrl: https://github.com/d1vai/d1vai_app
 projectType: real-app
 category: developer-tools
 stack: flutter
-description: A Flutter mobile workspace for creating or importing projects, continuing AI-assisted
-  work, inspecting files, and monitoring preview and deployment state from iOS or Android.
+summary: The mobile app for d1v.ai, for creating or importing projects, carrying on AI-assisted work,
+  checking files and watching previews and deployments from your phone. It is an open-source
+  Flutter app for iOS and Android.
+description: Create projects, continue AI coding sessions and watch deploys for d1v.ai from iOS or Android.
 sourceDescription: Official Flutter client for d1v.ai, an AI-native mobile workspace for builders,
   operators, and modern product teams.
 platforms:
@@ -36,7 +38,7 @@ whyListed:
 caveats:
   - The documented product platforms are iOS and Android; this entry does not claim desktop support.
 seo:
-  title: d1v.ai Mobile – Open Source Flutter Client for d1v.ai
+  title: "d1v.ai Mobile: AI App Builder on Your Phone"
   description: d1v.ai Mobile lets you create or import projects, continue AI-assisted work, inspect
     files and watch deploys on iOS or Android. MIT, built with Flutter.
 addedAt: 2026-08-31

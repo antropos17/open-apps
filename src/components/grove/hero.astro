@@ -89,8 +89,12 @@ const statParts: string[] = [
   ...(stats.totalOwners !== undefined && stats.totalOwners > 0
     ? [`${compact(stats.totalOwners)} owners`]
     : []),
+  // `compact` stops at "k" ("3375k"); the directory-wide star total
+  // runs into the millions.
   ...(stats.totalStars !== undefined && stats.totalStars > 0
-    ? [`${compact(stats.totalStars)} stars`]
+    ? [
+        `${stats.totalStars >= 1_000_000 ? `${(stats.totalStars / 1_000_000).toFixed(1)}M` : compact(stats.totalStars)} stars`,
+      ]
     : []),
 ];
 

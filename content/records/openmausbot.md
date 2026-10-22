@@ -3,11 +3,11 @@ name: OpenMausBot
 repoUrl: https://github.com/milind-soni/OpenMausBot
 projectType: real-app
 category: productivity
-summary: An Electron chat app where every contact is an AI bot — Claude, Codex or Grok Build running
-  on the CLIs already installed on your machine — each with its own personality, model, computer and
-  connected apps, asking before risky actions.
-description: OpenMausBot is an Apache-2.0 desktop app for macOS, Windows and Ubuntu that turns your
-  local Claude, Codex and Grok CLIs into a roster of AI bots you chat with, each with its own computer.
+summary: A desktop chat app where every contact is an AI bot with its own personality, model,
+  computer and connected apps, which asks before risky actions. The bots are Claude, Codex or Grok
+  Build running on the CLIs already installed on your machine, in an Electron app for macOS, Windows
+  and Ubuntu.
+description: Desktop chat app where each contact is an AI bot with its own computer, using your local Claude or Codex.
 sourceDescription: Open Source Alternative to Grok Bot with a virtual machine that bots can use
 platforms:
   - macos
@@ -56,7 +56,7 @@ relations:
       quote: Open Source Alternative to Grok Bot with a virtual machine that bots can use
       checkedAt: 2026-09-29
 seo:
-  title: OpenMausBot – Open Source Grok Bot Alternative for Desktop
+  title: "OpenMausBot Review: Grok Bot Alternative"
   description: OpenMausBot turns your local Claude, Codex and Grok CLIs into AI bots you chat with, each
     with its own computer, on macOS, Windows and Ubuntu. Apache-2.0.
 addedAt: 2026-09-29

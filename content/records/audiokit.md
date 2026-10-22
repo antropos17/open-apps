@@ -4,16 +4,16 @@ repoUrl: https://github.com/AudioKit/AudioKit
 projectType: real-app
 category: media
 stack: ios
-summary: A Swift-first audio framework for Apple platforms that pairs an AVFoundation-backed node
-  graph with a C++/Objective-C++ DSP engine (AudioKitEX/CAudioKitEX) and a constellation of
-  extension packages — SoundpipeAudioKit for oscillators and filters, DunneAudioKit for samplers,
+summary: A Swift framework for building synthesizers, audio effects and music apps on iPhone, iPad,
+  Mac and Apple TV. It pairs an AVFoundation-backed node graph with a C++/Objective-C++ DSP engine
+  (AudioKitEX/CAudioKitEX) and a constellation of extension packages — SoundpipeAudioKit for oscillators and filters, DunneAudioKit for samplers,
   STKAudioKit for physical models — so apps get a high-level Swift API without losing access to the
   real-time C layer.
-description: AudioKit is a Swift audio synthesis, processing, and analysis framework for iOS, macOS,
-  tvOS, and visionOS that wraps AVFoundation and a C-backed DSP engine.
+description: A Swift framework for audio synthesis, processing and analysis in iOS, macOS and tvOS apps.
 sourceDescription: Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 platforms:
   - ios
+  - macos
 licenses:
   - mit
 links:
@@ -25,10 +25,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (11,379 stars on GitHub).
+  - Gives Apple-platform apps a high-level Swift audio API while keeping access to a real-time C++
+    DSP layer.
 caveats: []
 seo:
-  title: AudioKit – Open Source Audio Synthesis Framework for iOS
+  title: "AudioKit Review: Swift Audio Framework"
   description: AudioKit is a Swift framework for audio synthesis, processing and analysis on iOS,
     macOS, tvOS and visionOS, with a real-time C++ DSP engine. MIT-licensed.
 addedAt: 2026-06-13

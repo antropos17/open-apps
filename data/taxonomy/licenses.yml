@@ -58,6 +58,14 @@
   url: https://spdx.org/licenses/AGPL-3.0-or-later.html
   heading: Open Source AGPL-3.0 Apps
   description: Open-source apps under the GNU AGPL-3.0 — free to self-host; if you modify one and offer it to users over a network, you share your changes with them.
+- id: bsd-2-clause
+  name: BSD 2-Clause License
+  family: permissive
+  url: https://spdx.org/licenses/BSD-2-Clause.html
+- id: 0bsd
+  name: BSD Zero Clause License
+  family: permissive
+  url: https://spdx.org/licenses/0BSD.html
 - id: apache
   name: Apache License (unspecified version)
   family: permissive

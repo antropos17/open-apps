@@ -4,13 +4,12 @@ repoUrl: https://github.com/LinwoodDev/Butterfly
 projectType: real-app
 category: productivity
 stack: flutter
-summary: A Linwood-maintained visual-notes app where a `butterfly_api` package owns the document
-  format and protocol while the Flutter client layers a Bloc/Cubit state machine, perfect-freehand
+summary: A note-taking and drawing app built around an infinite canvas, where you mix handwriting,
+  text, shapes and images and export to PDF or SVG. It is maintained by Linwood, with a `butterfly_api`
+  package owns the document format and protocol while the Flutter client layers a Bloc/Cubit state machine, perfect-freehand
   ink rendering, a WebDAV-backed file system, and an optional separately-licensed `api/` server for
   sync and collaboration.
-description: Butterfly is a Flutter note-taking and drawing app whose central object is an infinite
-  canvas — pages hold freehand ink, text, shapes, images, areas, and waypoints in a custom `.bfly`
-  document model, with optional WebDAV sync, OneNote import, and PDF/SVG export.
+description: Take notes and sketch on an infinite canvas with ink, text, shapes and images, with WebDAV sync.
 sourceDescription: 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 licenses:
   - agpl-3.0
@@ -37,7 +36,7 @@ tags:
   - windows
   - writing
 seo:
-  title: Butterfly – Open Source Cross-Platform Note-Taking App
+  title: "Butterfly Review: Infinite Canvas Notes App"
   description: Butterfly is a note-taking and drawing app with an infinite canvas for ink, text,
     shapes and images, plus WebDAV sync and PDF export. AGPL-3.0, Flutter.
 addedAt: 2026-08-11

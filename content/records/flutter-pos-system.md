@@ -1,17 +1,15 @@
 ---
-name: flutter-pos-system
+name: Flutter POS System
 repoUrl: https://github.com/evan361425/flutter-pos-system
 projectType: real-app
-category: developer-tools
+category: business
 stack: flutter
-summary: A Flutter point-of-sale app that keeps every byte on the device — ingredients, menus,
-  orders, customer demographics, and a Bluetooth receipt printer — wired through Provider state with
-  sqflite and sembast for local storage and Google Sheets as the only egress. Apache-2.0 and
-  currently shipping on Android with iOS in progress.
-description: An offline-first Flutter point-of-sale app for small restaurants and shops that runs
-  ingredient inventory, menu management, customer demographics, order taking, Bluetooth receipt
-  printing, custom analytics charts, and Google Sheets export entirely on-device with no remote
-  backend.
+summary: An offline point-of-sale app for small restaurants and shops that handles menus, orders,
+  stock, customer stats and Bluetooth receipt printing on the device, with no server to run. Data
+  stays local in sqflite and sembast, with Provider for state, and Google Sheets export is the only
+  thing that leaves the phone. Apache-2.0, shipping on Android with iOS in progress.
+description: An offline point-of-sale app for small restaurants and shops, with menus, orders, stock and
+  receipt printing.
 sourceDescription: An open-source Flutter POS system designed for small restaurants and businesses.
 licenses:
   - apache-2.0
@@ -24,7 +22,7 @@ tags:
   - ios-app
   - possystem
 seo:
-  title: Flutter POS System – Open Source Restaurant Point of Sale
+  title: "Flutter POS System Review: Offline Shop POS"
   description: Flutter POS System is an offline point-of-sale app for small shops and restaurants, keeping menus, orders, stock and receipts on-device. Apache-2.0.
 addedAt: 2026-08-11
 source:

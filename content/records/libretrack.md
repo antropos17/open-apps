@@ -4,11 +4,15 @@ repoUrl: https://github.com/proninyaroslav/libretrack
 projectType: real-app
 category: productivity
 stack: flutter
-description: Private, cross-platform package tracking app
+summary: A package tracker for Android and Linux that follows your parcels straight from the
+  carriers' own accounts, without a third-party tracking service in between. It refreshes in the
+  background, sends local notifications, and scans barcodes and QR codes for tracking numbers.
+description: Track parcels on Android and Linux straight from carrier accounts, with no third-party
+  service.
 sourceDescription: Private, cross-platform package tracking app
 platforms:
   - android
-  - ios
+  - linux
 licenses:
   - gpl-3.0
 links:
@@ -21,8 +25,8 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: LibreTrack – Open Source Private Package Tracking App
-  description: LibreTrack is a private, cross-platform package tracking app for Android and iOS that follows your parcels without giving up privacy. GPL-3.0.
+  title: "LibreTrack: Private Package Tracker for Android"
+  description: LibreTrack tracks your parcels on Android and Linux straight from carrier accounts, with background refresh, notifications and a barcode scanner. GPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

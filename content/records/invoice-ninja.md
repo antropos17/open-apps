@@ -4,11 +4,18 @@ repoUrl: https://github.com/invoiceninja/flutter-mobile
 projectType: production
 category: business
 stack: flutter
-description: Companion app for the Invoice Ninja platform. Invoicing, expenses, time-billing, payments.
+summary: The official Invoice Ninja app for sending invoices, tracking expenses, billing time and
+  taking payments from your phone or desktop. It connects to a hosted or self-hosted Invoice Ninja
+  server and ships on iOS, Android, Windows, macOS and Linux.
+description: Send invoices, track expenses and time, and take payments from phone or desktop with
+  Invoice Ninja.
 sourceDescription: "Invoice Ninja: Desktop/mobile admin portal built with Flutter"
 platforms:
   - android
   - ios
+  - windows
+  - macos
+  - linux
 licenses:
   - noassertion
 links:
@@ -29,8 +36,8 @@ caveats:
   - Some premium features require a paid plan
   - AGPL-3.0 is copyleft — read the license before forking
 seo:
-  title: Invoice Ninja – Open Source Invoicing App Built with Flutter
-  description: Invoice Ninja for Android and iOS handles invoicing, expenses, time billing and payments on the go, as a Flutter companion to the Invoice Ninja platform.
+  title: "Invoice Ninja: Invoicing App for Phone & Desktop"
+  description: Invoice Ninja's app handles invoices, expenses, time billing and payments on iOS, Android, Windows, macOS and Linux, linked to your Invoice Ninja server.
 addedAt: 2026-06-06
 source:
   type: import

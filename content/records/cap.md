@@ -4,9 +4,9 @@ repoUrl: https://github.com/CapSoftware/Cap
 projectType: real-app
 category: tools
 stack: tauri
-summary: An open-source alternative to Loom — record screen, microphone, and camera simultaneously,
-  then share a link that plays in any browser.
-description: Open source Loom alternative. Beautiful, shareable screen recordings.
+summary: A screen recorder that captures your screen, microphone and camera at once and gives you a
+  link that plays in any browser — an open-source alternative to Loom for macOS, Windows and Linux.
+description: Record your screen, mic and camera and share a link that plays in any browser, like Loom.
 sourceDescription: Open source Loom alternative. Beautiful, shareable screen recordings.
 platforms:
   - macos
@@ -37,7 +37,7 @@ relations:
       quote: Open source Loom alternative. Beautiful, shareable screen recordings.
       checkedAt: 2026-09-22
 seo:
-  title: Cap – Open Source Loom Alternative for Screen Recording
+  title: "Cap Review: Open Source Loom Alternative"
   description: Cap records your screen, microphone and camera at once on macOS, Windows and Linux,
     then shares a link that plays in any browser. An open Loom alternative.
 addedAt: 2026-07-24

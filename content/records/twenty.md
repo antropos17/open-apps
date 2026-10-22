@@ -4,13 +4,11 @@ repoUrl: https://github.com/twentyhq/twenty
 projectType: real-app
 category: business
 stack: react
-summary: A modern open-source CRM where the schema, the apps, and the AI agents all share one
-  metadata-driven data model — version-controlled in code, exposed to AI tooling via a native MCP
-  server, and runnable as a 4-service Docker stack.
-description: Twenty is an open-source CRM whose data model is a runtime artifact — every custom
-  object, field, view, role, and AI agent is a row in metadata tables, with the GraphQL schema and
-  SQL queries rebuilt per workspace on demand. Written in TypeScript with NestJS, React, PostgreSQL,
-  and a native MCP server for Claude/ChatGPT/Cursor.
+summary: A modern CRM for teams leaving Salesforce, with custom objects, workflows and AI agents,
+  self-hosted with Docker or on Twenty Cloud. Its schema, apps and agents share one metadata-driven
+  data model you can version in code, and a native MCP server exposes it to AI tools.
+description: A modern Salesforce-style CRM with custom objects, workflows and AI agents, self-hosted
+  or in the cloud.
 platforms:
   - web
   - linux
@@ -99,7 +97,7 @@ relations:
       quote: The open alternative to Salesforce, designed for AI.
       checkedAt: 2026-09-22
 seo:
-  title: Twenty – Open Source CRM & Salesforce Alternative
+  title: "Twenty Review: Salesforce Alternative CRM"
   description: Twenty is a modern CRM with custom objects, AI agents and an MCP server, self-hosted with
     Docker or on Twenty Cloud. AGPL-3.0, a Salesforce alternative.
 addedAt: 2026-09-01

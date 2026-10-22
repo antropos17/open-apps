@@ -3,11 +3,12 @@ name: Zed
 repoUrl: https://github.com/zed-industries/zed
 projectType: real-app
 category: developer-tools
-summary: A native code editor written in Rust with real-time collaboration, an agent
-  panel, edit predictions, your own model keys or local models through Ollama, and outside agents
-  such as Claude Agent, Codex and OpenCode over ACP.
-description: Zed is a GPL-3.0 code editor for macOS, Windows and Linux from the creators of Atom and
-  Tree-sitter, with built-in AI agents, edit prediction and multiplayer editing.
+summary: A fast code editor with built-in AI agents, edit predictions and live collaboration, from
+  the creators of Atom and Tree-sitter. It is native and written in Rust, works with your own model
+  keys or local models through Ollama, and runs outside agents such as Claude Agent, Codex and
+  OpenCode over ACP.
+description: A fast AI code editor for macOS, Windows and Linux with agents, edit prediction and live
+  collaboration.
 sourceDescription: Code at the speed of thought – Zed is a high-performance, multiplayer code editor
   from the creators of Atom and Tree-sitter.
 platforms:
@@ -58,9 +59,9 @@ relations:
       url: https://zed.dev/ai
       checkedAt: 2026-09-29
 seo:
-  title: Zed – Open Source AI Code Editor Written in Rust
-  description: Zed is a fast, native code editor in Rust with an AI agent panel, edit predictions,
-    your own model keys or Ollama, ACP agents and live collaboration. GPL-3.0.
+  title: "Zed Review: Fast AI Code Editor"
+  description: Zed is a fast, native code editor with an AI agent panel, edit predictions, your own
+    model keys or Ollama, outside agents and live collaboration. GPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

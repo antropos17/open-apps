@@ -37,5 +37,5 @@ faq:
     a: Both are open source and free to use with your own models. twinny's team gateway is free for five developers; Kilo Code sells model credits at provider prices, which you can skip by using your own keys.
 seo:
   index: true
-  title: Open Source GitHub Copilot Alternatives – Self-Hosted AI
+  title: "Open Source GitHub Copilot Alternatives: Self-Hosted AI"
   description: twinny and Kilo Code compared — open-source AI code completion, chat and agents for VS Code and JetBrains, with local or self-hosted models.

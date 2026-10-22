@@ -5,15 +5,15 @@ repoUrl: https://github.com/https-shubhamsahu/NON_SUS
 projectType: real-app
 category: tools
 stack: flutter
-summary: Built and run by one developer. Go opens your Saved chat (stored in your own Google Drive)
+summary: A privacy toolkit for students that opens your saved files on a borrowed or lab PC without
+  ever typing your password there, and sends self-destructing notes and watermarked documents. Built
+  and run by one developer. Go opens your Saved chat (stored in your own Google Drive)
   on a cyber-cafe, print-shop, or college-lab PC after you scan a QR with the phone app, so that PC
   never gets your Google password or token. Burn Notes and Burn Files are encrypted in the browser
   with the key in the URL fragment, and SecureSend stamps each viewer's identity on a shared
   document with view limits, expiry, and revocation. The repository holds the Flutter client (web
   and Android) plus the Supabase migrations and Deno edge functions.
-description: NO SUS is a Flutter and Supabase privacy toolkit for students that opens your Saved
-  files on a borrowed PC through a phone QR approval, sends self-destructing notes and files, and
-  shares watermarked documents.
+description: Student privacy toolkit to open files on a borrowed PC via phone QR and send self-destructing notes.
 platforms:
   - web
   - android
@@ -52,7 +52,7 @@ caveats:
   - Solo early-stage project; the Drop feature shown on the site is marked coming soon and does not
     work yet.
 seo:
-  title: NO SUS – Open Source Privacy Toolkit for Students
+  title: "NO SUS: Privacy Toolkit for Students"
   description: NO SUS is a student privacy toolkit that opens your files on a borrowed PC via phone QR approval, sends self-destructing notes and watermarks shared files.
 addedAt: 2026-09-24
 source:

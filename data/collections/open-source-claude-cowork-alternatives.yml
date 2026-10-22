@@ -44,5 +44,5 @@ faq:
     a: Not for OpenWork, Open Cowork or OpenWorker. Eigent's quick start uses its cloud and an account unless you run the included local backend. NextCoWork's own model gateway needs an account; your own endpoint does not.
 seo:
   index: true
-  title: Open Source Claude Cowork Alternatives – Local & Any Model
+  title: "Open Source Claude Cowork Alternatives: Local & Any Model"
   description: OpenWork, Eigent, Open Cowork, OpenWorker and NextCoWork compared — desktop AI agents that work on your files with any model, on macOS, Windows and Linux.

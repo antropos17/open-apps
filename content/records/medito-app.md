@@ -1,20 +1,22 @@
 ---
-name: medito-app
+name: Medito
 repoUrl: https://github.com/meditohq/medito-app
 projectType: real-app
 category: health-and-fitness
 stack: flutter
-summary: The same Dart codebase targets Android and iOS, with Riverpod driving state, Pigeon
-  bridging native sides, and a Mock run mode that intercepts every network call so volunteers can
-  build and exercise the full UI without API keys, Firebase, or Stripe. Content is organised into
-  Packs (themed collections), Paths (ordered multi-day courses), and standalone Tracks, and an
-  in-app Stats screen plus a favorites list turn completed sessions into a private practice log.
-description: Medito is a permanently-free Flutter meditation app maintained by the Medito Foundation
-  that streams guided sessions, multi-day courses, and themed packs from a CMS-backed catalogue,
-  pairing each track with a `just_audio` + `audio_service` foreground player and an optional
-  background-sound bed.
+summary: A permanently free meditation app for Android and iOS from the nonprofit Medito
+  Foundation, with guided sessions, multi-day courses and themed packs, and no ads, sign-up or
+  paywall. Content is organised into Packs (themed collections), Paths (ordered multi-day courses)
+  and standalone Tracks, and an in-app Stats screen plus a favorites list turn completed sessions
+  into a private practice log. One Flutter codebase targets both platforms, with Riverpod driving
+  state, Pigeon bridging native sides, and a Mock run mode that lets volunteers build the full UI
+  without API keys, Firebase or Stripe.
+description: Free meditation app for Android and iOS with guided sessions and courses, and no ads, sign-up or paywall.
 sourceDescription: The Medito app is a 100% free meditation app built with flutter. The app is
   available on Android and iOS.
+platforms:
+  - android
+  - ios
 licenses:
   - agpl-3.0
 links:
@@ -30,7 +32,7 @@ tags:
   - mindfulness
   - wellbeing
 seo:
-  title: Medito – Open Source Free Meditation App
+  title: "Medito Review: Free Meditation App, No Ads"
   description: Medito is a free meditation app for Android and iOS with guided sessions, multi-day courses and themed packs, from the Medito Foundation. AGPL-3.0.
 addedAt: 2026-08-11
 source:

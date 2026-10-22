@@ -5,12 +5,11 @@ repoUrl: https://github.com/GeiserX/akou
 projectType: real-app
 category: productivity
 stack: javascript
-summary: A macOS call and meeting recorder that records the microphone and the call audio on your own
-  Mac, transcribes on the device with speaker labels, and lets your own terminal agent (Claude Code,
-  Codex or any MCP client) follow and question a call while it runs. The same core runs as a
-  self-hosted transcription server in Docker.
-description: akou is a GPL-3.0 call recorder for Apple silicon Macs that transcribes on the device,
-  with no bot in the meeting and no account, and saves the notes to files you own.
+summary: A Mac call recorder that transcribes your meetings on the device with speaker labels, with
+  no bot in the call and no account. Your own terminal agent (Claude Code, Codex or any MCP client)
+  can follow and question a call while it runs, and the same core runs as a self-hosted
+  transcription server in Docker.
+description: Records and transcribes calls on your Mac with speaker labels, no meeting bot and no account.
 sourceDescription: The open-source alternative to Granola. Records your calls on a Mac, transcribes
   them on your own machine, lets your own AI agent in the terminal (Claude Code, Codex or any other)
   follow and question a call while it runs, and saves the notes to your own tools. Also runs as a
@@ -72,7 +71,7 @@ relations:
       quote: "The open-source alternative to Granola."
       checkedAt: 2026-10-11
 seo:
-  title: akou – Open Source Granola Alternative for Mac
+  title: "akou: Granola Alternative for Mac"
   description: akou records calls on your Mac, transcribes them on the device with speaker labels,
     and lets Claude Code or Codex query a call live. GPL-3.0, no bot.
 addedAt: 2026-10-11

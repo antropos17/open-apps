@@ -40,5 +40,5 @@ faq:
     a: Grist imports directly from Airtable, according to its README. Baserow's site offers help moving from Airtable. For Teable, check its documentation before planning a migration.
 seo:
   index: true
-  title: Open Source Airtable Alternatives – Self-Hosted Databases
+  title: "Open Source Airtable Alternatives: Self-Hosted Databases"
   description: Baserow, Teable and Grist compared — self-hosted no-code databases and relational spreadsheets for teams leaving Airtable, with licences explained.

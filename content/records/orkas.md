@@ -3,7 +3,11 @@ name: Orkas
 repoUrl: https://github.com/Orkas-AI/Orkas
 category: productivity
 stack: javascript
-description: "Orkas is an open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents in parallel or sequence through one chat."
+summary: A desktop app where you describe a goal in one chat and a lead "Commander" agent plans it and
+  hands the research, coding and document work to specialist AI agents. It is local-first, runs on
+  macOS and Windows with installers and on Linux from source, and can also drive supported local
+  coding agents.
+description: Desktop app where a lead AI agent plans your goal and runs specialist agents for research, code and docs.
 platforms:
   - macos
   - windows
@@ -21,7 +25,7 @@ caveats:
   - Packaged installers are available for macOS and Windows; Linux runs from source.
   - The core application is free; model usage and optional services may cost extra.
 seo:
-  title: Orkas – Open Source Desktop AI Workforce
+  title: "Orkas: Desktop AI Agent Team"
   description: Orkas is a local-first desktop app where a Commander agent turns goals into plans and runs specialist AI agents in one chat. MIT; Mac, Windows, Linux.
 addedAt: 2026-10-05
 submittedBy: BlueSkyID666

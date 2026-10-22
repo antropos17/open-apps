@@ -1,16 +1,17 @@
 ---
-name: IceCubesApp
+name: Ice Cubes
 repoUrl: https://github.com/Dimillian/IceCubesApp
 projectType: real-app
 category: social-network
 stack: ios
-summary: A SwiftUI-native Mastodon client written almost entirely by one maintainer, shipping to
-  iPhone, iPad, Mac, and Vision Pro from a single Swift-package workspace with a modern MVVM core.
-description: IceCubesApp is a SwiftUI-native, multi-platform Mastodon client for iOS, iPadOS, macOS,
-  and visionOS, built and maintained primarily by a single developer (Dimillian).
+summary: A fast, lightweight Mastodon app for iPhone, iPad, Mac and Vision Pro that connects to any
+  instance, with a sidebar layout on Mac and iPad. One maintainer writes almost all of it in SwiftUI,
+  as a single Swift-package workspace.
+description: A fast Mastodon app for iPhone, iPad, Mac and Vision Pro that works with any instance.
 sourceDescription: A SwiftUI-native Mastodon client with a focus on performance and Material You theming.
 platforms:
   - ios
+  - macos
 licenses:
   - agpl-3.0
 links:
@@ -23,10 +24,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (7,001 stars on GitHub).
+  - One of the most complete native Mastodon apps, running on iPhone, iPad, Mac and Vision Pro from
+    one SwiftUI codebase.
 caveats: []
 seo:
-  title: Ice Cubes – Open Source SwiftUI Mastodon Client
+  title: "Ice Cubes Review: Mastodon App for iPhone & Mac"
   description: Ice Cubes is a native SwiftUI Mastodon client for iPhone, iPad, Mac and Vision Pro, built and maintained mostly by one developer. AGPL-3.0.
 addedAt: 2026-06-13
 source:

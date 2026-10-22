@@ -9,8 +9,7 @@ summary: Pumperly is a fuel and EV route planner. It shows fuel stations coloure
   chargers on a map, lists the stations along a route with the minutes each stop adds, and plans the
   cheapest fuel stops for the trip. Prices come from government and community sources in 22 countries
   with no API key to set.
-description: Pumperly is an AGPL-3.0 map of fuel prices and EV chargers with a route planner, free to use
-  at pumperly.com with no account or to run yourself with Docker Compose.
+description: Map of fuel prices and EV chargers that plans the cheapest stops on your route, free online or self-hosted.
 sourceDescription: "Open-source fuel & EV route planner. Real-time prices across enabled countries.
   Self-hostable."
 platforms:
@@ -69,7 +68,7 @@ caveats:
   - A self-hosted copy starts with the price map only; routes and address search need Valhalla and
     Photon as well.
 seo:
-  title: Pumperly – Open Source Fuel Price and EV Route Planner
+  title: "Pumperly: Fuel Price and EV Route Planner"
   description: Pumperly maps fuel prices and EV chargers and plans the cheapest fuel stops on your route, on web, iOS and Android with no account, or self-host. AGPL-3.0.
 addedAt: 2026-10-13
 source:

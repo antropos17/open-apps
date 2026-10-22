@@ -3,12 +3,11 @@ name: VoiceStudio
 repoUrl: https://github.com/debpalash/VoiceStudio
 projectType: real-app
 category: media
-summary: A desktop voice studio that clones and designs voices, dubs video with timed speech,
-  dictates, transcribes and produces audiobooks on your own hardware, with the OmniVoice model by
-  default, a choice of other engines, and a local API and MCP server for agents.
-description: VoiceStudio is an AGPL-3.0 desktop app for macOS, Windows and Linux that does voice
-  cloning, dubbing, dictation and audiobook production locally. Its default model's weights are
-  licensed for non-commercial use only.
+summary: A desktop voice studio that clones and designs voices, dubs video, dictates, transcribes
+  and makes audiobooks on your own hardware, as a local ElevenLabs alternative. It uses the OmniVoice
+  model by default, with other engines to choose from and a local API and MCP server for agents.
+description: A local voice studio for voice cloning, video dubbing, dictation and audiobooks on Mac,
+  Windows and Linux.
 sourceDescription: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice
   cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646
   languages.
@@ -61,7 +60,7 @@ relations:
       quote: VoiceStudio is the open-source, fully-local ElevenLabs alternative
       checkedAt: 2026-09-28
 seo:
-  title: VoiceStudio – Open Source Local ElevenLabs Alternative
+  title: "VoiceStudio Review: Local ElevenLabs Alternative"
   description: VoiceStudio clones voices, dubs video and makes audiobooks locally on macOS, Windows and
     Linux. AGPL-3.0; check model licences for commercial use.
 addedAt: 2026-09-28

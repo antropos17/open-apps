@@ -5,11 +5,12 @@ repoUrl: https://github.com/fclairamb/solidping
 projectType: real-app
 category: developer-tools
 stack: react
-summary: SolidPing is an uptime and synthetic monitoring server written in Go with a React dashboard.
-  It runs 40+ check types (HTTP, TCP, DNS, TLS expiry, databases, headless browser, heartbeats),
-  opens incidents, alerts on Slack, Discord, email or webhooks, and publishes status pages.
-description: SolidPing is an AGPL-3.0 uptime monitor that runs as a single Go binary or Docker image,
-  on SQLite by default, with a hosted free plan.
+summary: SolidPing watches your websites, APIs, databases and certificates, alerts you on Slack,
+  Discord, email or webhooks when something fails, and publishes status pages. It runs 40+ check
+  types (HTTP, TCP, DNS, TLS expiry, databases, headless browser, heartbeats) from a single Go
+  server with a React dashboard.
+description: Uptime monitoring with alerts and status pages, self-hosted as one server or on a free
+  hosted plan.
 sourceDescription: "Distributed, self-hostable uptime monitoring: 40 check types, multi-region workers,
   private agents, status pages, incidents and on-call escalation — in a single Go binary."
 platforms:
@@ -55,7 +56,7 @@ caveats:
   - The source is AGPL-3.0, so a modified version offered as a network service must publish its changes.
   - The dashboard is in English, French, German and Spanish only.
 seo:
-  title: SolidPing – Open Source Uptime Monitoring and Status Pages
+  title: "SolidPing: Uptime Monitor and Status Pages"
   description: SolidPing monitors uptime with 40+ check types, alerts on Slack, Discord or email and
     publishes status pages. Self-hosted or free hosted plan. AGPL-3.0.
 addedAt: 2026-10-12

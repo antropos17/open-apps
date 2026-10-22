@@ -3,11 +3,10 @@ name: Kanboard
 repoUrl: https://github.com/kanboard/kanboard
 projectType: real-app
 category: productivity
-summary: A deliberately minimal, self-hosted Kanban board in PHP — drag-and-drop columns, WIP
-  limits, a search query language, subtasks with time estimates, Markdown descriptions, automatic
-  actions, plugins, and LDAP or OAuth2 login.
-description: Kanboard is an MIT-licensed Kanban project management app that focuses on simplicity,
-  with WIP limits, automatic actions and a small PHP footprint.
+summary: A deliberately minimal, self-hosted Kanban board with drag-and-drop columns, WIP limits and
+  subtasks with time estimates. It adds a search query language, Markdown descriptions, automatic
+  actions, plugins and LDAP or OAuth2 login, in a small PHP app.
+description: A minimal self-hosted Kanban board with WIP limits, subtasks and automatic actions.
 sourceDescription: Kanban project management software
 platforms:
   - web
@@ -53,7 +52,7 @@ relations:
       url: https://github.com/kanboard/kanboard
       checkedAt: 2026-09-29
 seo:
-  title: Kanboard – Open Source Minimal Kanban Board, Self-Hosted
+  title: "Kanboard Review: Minimal Self-Hosted Kanban"
   description: Kanboard is a minimal self-hosted Kanban board with WIP limits, subtasks, automatic
     actions, plugins and LDAP or OAuth2 login. PHP, MIT-licensed.
 addedAt: 2026-09-29

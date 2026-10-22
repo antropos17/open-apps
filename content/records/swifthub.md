@@ -2,14 +2,12 @@
 name: SwiftHub
 repoUrl: https://github.com/khoren93/SwiftHub
 projectType: real-app
-category: tools
+category: developer-tools
 stack: ios
-summary: An iOS GitHub client demonstrating a full RxSwift + MVVM-C clean-architecture build — Moya
-  REST, Apollo GraphQL, Swinject DI, and coordinator-driven navigation across repositories, issues,
-  PRs, and users.
-description: SwiftHub is an iOS GitHub client built on RxSwift and MVVM-C clean architecture, wiring
-  Moya (REST v3) and Apollo (GraphQL v4) behind a flow-coordinator navigation graph with OAuth2 and
-  personal-access-token authentication.
+summary: A third-party GitHub app for iPhone for browsing repositories, issues, pull requests and
+  users, signed in with OAuth or a personal access token. For iOS developers it is a full example of
+  RxSwift with MVVM-C, using Moya for REST, Apollo for GraphQL and Swinject for dependency injection.
+description: A GitHub app for iPhone to browse repositories, issues, pull requests and users.
 sourceDescription: GitHub iOS client in RxSwift and MVVM-C clean architecture.
 platforms:
   - ios
@@ -28,10 +26,11 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (3,111 stars on GitHub).
+  - A complete GitHub client that doubles as a reference for RxSwift and MVVM-C architecture in a
+    real iOS app.
 caveats: []
 seo:
-  title: SwiftHub – Open Source GitHub Client for iOS (RxSwift)
+  title: "SwiftHub Review: GitHub Client for iPhone"
   description: SwiftHub is an iOS GitHub client for repositories, issues, pull requests and users,
     built as a reference app for RxSwift and MVVM-C architecture. MIT.
 addedAt: 2026-06-13

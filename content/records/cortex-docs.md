@@ -5,10 +5,10 @@ repoUrl: https://github.com/cortex-docs/cortex
 projectType: real-app
 category: developer-tools
 stack: javascript
-summary: A TypeScript CLI for generating static API documentation, client SDKs, and MCP servers from
-  OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
-description: Cortex is an open-source CLI that turns API specifications and Markdown into
-  interactive documentation, typed SDKs, and MCP servers.
+summary: A command-line tool that turns your API specs and Markdown into a documentation site, typed
+  client SDKs and MCP servers. Written in TypeScript, it reads OpenAPI, AsyncAPI, GraphQL, gRPC,
+  OpenRPC and Markdown and outputs static HTML.
+description: A command-line tool that turns API specs and Markdown into docs sites, typed SDKs and MCP servers.
 sourceDescription: Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL,
   gRPC, OpenRPC and MCP servers enriched with custom Markdown.
 platforms:
@@ -41,7 +41,7 @@ whyListed:
 caveats:
   - Requires Node.js 20 or newer and npm 10 or newer.
 seo:
-  title: Cortex – Open Source API Documentation and SDK Generator
+  title: "Cortex: API Docs and SDK Generator"
   description: Cortex is a CLI that turns OpenAPI, AsyncAPI, GraphQL, gRPC and Markdown into static
     API docs, typed client SDKs and MCP servers. MIT-licensed, TypeScript.
 addedAt: 2026-09-23

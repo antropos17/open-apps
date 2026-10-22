@@ -3,12 +3,11 @@ name: OpenWork
 repoUrl: https://github.com/different-ai/openwork
 projectType: real-app
 category: productivity
-summary: An Electron desktop app built on OpenCode where AI agents work on files in folders you pick,
-  with any model — your own API key, a ChatGPT sign-in or a local model through Ollama — and skills
-  and MCP servers you can share with a team.
-description: OpenWork is a desktop app for macOS, Windows and Linux that runs AI agents on your own
-  files with the model of your choice. The app is MIT; a separate team control plane is under a
-  commercial licence.
+summary: A Claude Cowork alternative for macOS, Windows and Linux where AI agents work on the files
+  in folders you pick, with your own API key, a ChatGPT sign-in or a local model through Ollama. It
+  is an Electron app built on OpenCode, with skills and MCP servers you can share with a team; a
+  separate team control plane is under a commercial licence.
+description: Desktop app for Mac, Windows and Linux where AI agents work on your files with the model you choose.
 sourceDescription: The open-source alternative to Claude Cowork (powered by opencode)
 platforms:
   - macos
@@ -63,7 +62,7 @@ relations:
       quote: OpenWork is the free, open-source alternative to Claude Cowork and Codex
       checkedAt: 2026-09-28
 seo:
-  title: OpenWork – Open Source Claude Cowork Alternative
+  title: "OpenWork Review: Claude Cowork Alternative"
   description: OpenWork runs AI agents on your own files on macOS, Windows and Linux with any model,
     including local ones. MIT; the team control plane is separate.
 addedAt: 2026-09-28

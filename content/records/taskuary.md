@@ -5,10 +5,11 @@ repoUrl: https://github.com/ldbumble/taskuary
 projectType: real-app
 category: productivity
 stack: react
-summary: A React interface backed by FastAPI and SQLite, with connectors, scheduled reports, coding
-  CLI sessions, and a review queue for proposed replies and actions.
-description: Taskuary brings email, chat messages, and reports into a local work inbox, uses AI to
-  organize tasks and prepare replies, and routes work to agents for the owner to review.
+summary: A local work inbox that gathers email, chat messages and reports, uses AI to sort tasks and
+  draft replies, and queues every proposed reply or action for you to approve. It also runs
+  scheduled reports and coding CLI sessions, with a React interface over a FastAPI and SQLite backend.
+description: A local AI work inbox that gathers email and chat, drafts replies and waits for your
+  approval.
 platforms:
   - web
   - windows
@@ -54,7 +55,7 @@ caveats:
   - The browser demo uses fictional data and cannot connect to services, send messages, or run
     agents.
 seo:
-  title: Taskuary – Open Source AI Work Inbox
+  title: "Taskuary: Local AI Work Inbox"
   description: Taskuary pulls email, chat and reports into a local work inbox where AI organizes tasks,
     drafts replies and hands work to agents for your review. MIT.
 addedAt: 2026-09-14

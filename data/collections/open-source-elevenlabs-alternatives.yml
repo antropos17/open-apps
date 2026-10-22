@@ -38,5 +38,5 @@ faq:
     a: VoiceStudio ships builds for macOS, Windows and Linux. Voicebox ships macOS and Windows builds; Linux is a build from source.
 seo:
   index: true
-  title: Open Source ElevenLabs Alternatives – Local Voice Cloning
+  title: "Open Source ElevenLabs Alternatives: Local Voice Cloning"
   description: VoiceStudio and Voicebox compared — desktop apps for local voice cloning, text-to-speech and dubbing, with the model licences that decide commercial use.

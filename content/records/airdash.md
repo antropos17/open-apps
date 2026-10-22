@@ -4,11 +4,17 @@ repoUrl: https://github.com/simonbengtsson/airdash
 projectType: real-app
 category: tools
 stack: flutter
-description: AirDrop-style file sharing to nearby devices over Wi-Fi and Bluetooth, no internet required.
+summary: Sends photos and files of any size straight to your other devices, encrypted and without
+  needing to be on the same network. Apps cover iOS, macOS, Android, Windows and Linux, with the
+  share sheet on mobile and drag and drop on desktop.
+description: Send photos and files of any size between your phone and computer, encrypted, from anywhere.
 sourceDescription: File sharing flutter webrtc app enabling sending files to any device from anywhere
 platforms:
   - android
   - ios
+  - macos
+  - windows
+  - linux
 licenses:
   - mit
 links:
@@ -21,9 +27,9 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Airdash – Open Source File Sharing App Built with Flutter
-  description: Airdash shares files AirDrop-style between nearby Android and iOS devices over Wi-Fi
-    and Bluetooth, no internet needed. MIT-licensed, built with Flutter.
+  title: "Airdash: Send Files Between Any Devices"
+  description: Airdash sends photos and files of any size between iOS, Android, Mac, Windows and
+    Linux devices, encrypted and from anywhere. MIT-licensed, Flutter.
 addedAt: 2026-06-07
 source:
   type: import

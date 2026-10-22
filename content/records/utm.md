@@ -2,9 +2,12 @@
 name: UTM
 repoUrl: https://github.com/utmapp/UTM
 projectType: production
-category: productivity
+category: tools
 stack: ios
-description: Run virtual machines on iOS and macOS — Windows, Linux, and retro operating systems.
+summary: An app for running virtual machines on Mac, iPhone and iPad, so you can boot Windows, Linux
+  and retro operating systems on Apple devices. It is a frontend for the QEMU emulator.
+description: Run Windows, Linux and retro operating systems as virtual machines on Mac, iPhone and
+  iPad.
 sourceDescription: Virtual machines for iOS and macOS
 platforms:
   - ios
@@ -26,7 +29,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: UTM – Open Source Virtual Machines for iOS & macOS
+  title: "UTM Review: Virtual Machines for Mac and iPad"
   description: UTM runs virtual machines on iOS and macOS, so you can boot Windows, Linux and retro
     operating systems on Apple devices. Apache-2.0.
 addedAt: 2026-06-13

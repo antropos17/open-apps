@@ -5,11 +5,11 @@ repoUrl: https://github.com/zibo-chen/SubnetDesk
 projectType: real-app
 category: tools
 stack: flutter
-summary: A Rust and Flutter remote-control app derived from RustDesk that deliberately removes
-  public device IDs, rendezvous, relays, cloud accounts, proxies, and public update paths in favor
-  of direct connections over an existing private network.
-description: SubnetDesk is a cross-platform remote desktop for devices already connected by a LAN,
-  routed private network, or VPN, with direct IP or hostname connections and local mDNS discovery.
+summary: A remote desktop app for controlling computers on your own LAN or VPN, with no public
+  device IDs, relays or cloud accounts in between. It is derived from RustDesk (Rust core, Flutter
+  UI) and connects directly by IP, hostname or local discovery.
+description: Remote desktop for computers on the same LAN or VPN, with direct connections and no
+  cloud account.
 sourceDescription: LAN-only remote desktop based on RustDesk.
 platforms:
   - windows
@@ -79,7 +79,7 @@ caveats:
   - Remote-control ports should only be exposed to trusted networks, and first-use fingerprints
     should be verified through a separate trusted channel.
 seo:
-  title: SubnetDesk – Open Source LAN-Only Remote Desktop
+  title: "SubnetDesk: LAN-Only Remote Desktop"
   description: SubnetDesk is a remote desktop that connects directly over your LAN or VPN, with no
     public IDs, relays or cloud accounts. Desktop and Android. AGPL-3.0.
 addedAt: 2026-09-05

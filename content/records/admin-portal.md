@@ -1,18 +1,15 @@
 ---
-name: admin-portal
+name: Invoice Ninja Admin Portal
 repoUrl: https://github.com/invoiceninja/admin-portal
 projectType: real-app
 category: finance
 stack: flutter
-summary: One Flutter/Redux client that brings the full invoicing surface — quotes, invoices,
-  recurring, credits, payments, expenses, projects, time tracking, e-invoicing — to six platforms
-  including the Microsoft Store, Mac App Store, Snap, Flatpak, and F-Droid, with the most permissive
-  self-host open-core line in the comparison set but a non-OSI license that the README is silent on.
-description: Flutter (Dart) admin client for the Invoice Ninja v5 invoicing platform, shipping to
-  iOS, Android, macOS, Windows, Linux, and web from a single codebase. Uses Redux + built_value over
-  a single AppState that carries up to ten UserCompanyState slots, talks to the Laravel backend over
-  REST, and ships with a hand-built .foss swap-out that strips the proprietary dependencies for the
-  F-Droid, Snap, and Flatpak builds.
+summary: The Invoice Ninja app for running an invoicing business — quotes, invoices, recurring
+  billing, payments, expenses, projects and time tracking — on iOS, Android, Windows, macOS, Linux
+  and the web. It ships through the Microsoft Store, Mac App Store, Snap, Flatpak and F-Droid, and
+  pairs with the most permissive self-host open-core line in the comparison set. It is one Flutter
+  client built on Redux, and its non-OSI license is something the README is silent on.
+description: Invoice Ninja's app for quotes, invoices, payments and time tracking on mobile, desktop and web.
 sourceDescription: "Invoice Ninja: Desktop/mobile admin portal built with Flutter"
 platforms:
   - ios
@@ -111,7 +108,7 @@ caveats:
     long-term self-hoster trust
   - The community-consistent
 seo:
-  title: Invoice Ninja Admin Portal – Open Source Invoicing Client
+  title: "Invoice Ninja Admin Portal Review: Invoicing"
   description: Invoice Ninja Admin Portal handles quotes, invoices, payments, expenses and time
     tracking on iOS, Android, desktop and web. Built with Flutter.
 addedAt: 2026-08-11

@@ -3,11 +3,10 @@ name: Chatwoot
 repoUrl: https://github.com/chatwoot/chatwoot
 projectType: real-app
 category: business
-summary: A Rails and Vue customer support platform with one inbox for website live chat, email,
-  WhatsApp, Instagram, Facebook, Telegram, SMS and more, plus a help-centre portal, reports and
-  automations; self-hosted or on Chatwoot Cloud.
-description: Chatwoot is an open-core omnichannel support desk — MIT outside its enterprise
-  directory — that describes itself as an alternative to Intercom and Zendesk.
+summary: A customer support desk with one inbox for live chat, email, WhatsApp, social channels and
+  SMS, plus a help centre, reports and automations, self-hosted or on Chatwoot Cloud. It is a Rails
+  and Vue app that also covers Instagram, Facebook and Telegram.
+description: One support inbox for live chat, email, WhatsApp and social channels, with a help centre.
 sourceDescription: Open-source live-chat, email support, omni-channel desk. An alternative to
   Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 platforms:
@@ -63,7 +62,7 @@ relations:
       quote: An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
       checkedAt: 2026-09-29
 seo:
-  title: Chatwoot – Open Source Intercom & Zendesk Alternative
+  title: "Chatwoot Review: Intercom & Zendesk Alternative"
   description: Chatwoot is a self-hostable support desk with one inbox for live chat, email, WhatsApp,
     social and SMS, plus a help centre. MIT core, some features paid.
 addedAt: 2026-09-29

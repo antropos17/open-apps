@@ -4,12 +4,10 @@ name: AI Novel Writer
 repoUrl: https://github.com/EthanYoQ/AI-Novel-Writer
 projectType: real-app
 category: productivity
-summary: An open-source Windows and macOS writing workspace for authors who want structured AI
-  assistance without scattering a novel across unrelated chat sessions, with optional Ollama support
-  for local models.
-description: AI Novel Writer is a local-first desktop workspace that keeps characters,
-  worldbuilding, outlines, chapter plans, drafting, review, and revision in one long-form fiction
-  project.
+summary: A Windows and macOS writing workspace for authors who want structured AI help without
+  scattering a novel across unrelated chat sessions. Characters, worldbuilding, outlines, chapter
+  plans, drafts and revisions live in one project, with optional Ollama support for local models.
+description: A desktop workspace for novelists that keeps characters, outlines, chapters and AI drafting in one project.
 sourceDescription: AI-assisted novel-writing desktop app for Windows and macOS, with Ollama and DSH plugin support.
 platforms:
   - windows
@@ -60,7 +58,7 @@ caveats:
   - Ollama is optional and must be installed and configured separately when local model use is
     desired.
 seo:
-  title: AI Novel Writer – Open Source AI Writing App for Authors
+  title: "AI Novel Writer: AI Writing App for Authors"
   description: AI Novel Writer keeps characters, worldbuilding, outlines and chapters in one
     AI-assisted project on Windows and macOS. GPL-3.0, with optional Ollama.
 addedAt: 2026-09-09

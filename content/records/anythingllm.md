@@ -4,11 +4,10 @@ repoUrl: https://github.com/Mintplex-Labs/anything-llm
 projectType: real-app
 category: productivity
 stack: javascript
-summary: An all-in-one AI application — chat with your documents with citations, run agents and
-  no-code agent flows, schedule tasks and route between models — on a desktop app or a multi-user
-  Docker server, with local or cloud models and a built-in vector database.
-description: AnythingLLM is an MIT-licensed AI workspace for macOS, Windows, Linux and Docker that
-  lets you chat with your own documents and run agents with a local or cloud model.
+summary: An all-in-one AI app for chatting with your documents, with citations, and running agents
+  on local or cloud models, as a desktop app or a multi-user Docker server. It adds no-code agent
+  flows, scheduled tasks, model routing and a built-in vector database.
+description: Chat with your own documents and run AI agents with local or cloud models, on desktop or Docker.
 sourceDescription: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a
   powerful local-first agent experience
 platforms:
@@ -67,7 +66,7 @@ relations:
       quote: lets you build a private, fully-featured ChatGPT—without compromises
       checkedAt: 2026-09-29
 seo:
-  title: AnythingLLM – Open Source Private AI Workspace for Your Docs
+  title: "AnythingLLM Review: Private AI for Your Docs"
   description: AnythingLLM lets you chat with your documents and run AI agents with local or cloud
     models, on desktop or a multi-user Docker server. MIT-licensed.
 addedAt: 2026-09-28

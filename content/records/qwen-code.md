@@ -3,11 +3,10 @@ name: Qwen Code
 repoUrl: https://github.com/QwenLM/qwen-code
 projectType: real-app
 category: developer-tools
-summary: A terminal coding agent from the Qwen team with subagents, agent teams, memory, skills, MCP
-  and plan mode, that speaks OpenAI, Anthropic, Gemini and Qwen APIs — with a desktop app, IDE
-  plugins, a web UI and chat-app channels.
-description: Qwen Code is an Apache-2.0 AI coding agent for the terminal that works with Qwen, other
-  hosted models or local ones, and positions itself feature for feature against Claude Code.
+summary: An AI coding agent for the terminal from the Qwen team, a Claude Code alternative that works
+  with Qwen, OpenAI, Anthropic and Gemini models, with a desktop app, IDE plugins and a web UI. It
+  has subagents, agent teams, memory, skills, MCP, plan mode and chat-app channels.
+description: AI coding agent for the terminal from the Qwen team, a Claude Code alternative that works with many models.
 sourceDescription: An open-source AI coding agent that lives in your terminal.
 platforms:
   - macos
@@ -55,7 +54,7 @@ relations:
       url: https://github.com/QwenLM/qwen-code
       checkedAt: 2026-09-29
 seo:
-  title: Qwen Code – Open Source AI Coding Agent for the Terminal
+  title: "Qwen Code Review: Claude Code Alternative"
   description: Qwen Code is an Apache-2.0 terminal coding agent with subagents, memory, skills and MCP,
     using Qwen, OpenAI, Anthropic, Gemini or local models.
 addedAt: 2026-09-29

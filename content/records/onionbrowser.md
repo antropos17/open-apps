@@ -1,10 +1,14 @@
 ---
-name: OnionBrowser
+name: Onion Browser
 repoUrl: https://github.com/OnionBrowser/OnionBrowser
 projectType: production
-category: productivity
+category: tools
 stack: ios
-description: An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+summary: A private web browser for iPhone and iPad that sends your browsing through the Tor network,
+  so sites and your network provider can't easily see who you are or what you visit. It is a native
+  iOS app distributed on the App Store, under its own Onion Browser licence based on the Endless
+  browser.
+description: Private web browser for iPhone and iPad that routes your browsing through the Tor network.
 sourceDescription: An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 platforms:
   - ios
@@ -31,7 +35,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Onion Browser – Open Source Tor Browser for iOS
+  title: "Onion Browser Review: Tor Browser for iPhone"
   description: Onion Browser is a privacy-focused web browser for iPhone and iPad that routes your browsing through the Tor anonymity network. Available on the App Store.
 addedAt: 2026-06-13
 source:

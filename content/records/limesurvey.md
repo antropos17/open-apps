@@ -3,11 +3,11 @@ name: LimeSurvey
 repoUrl: https://github.com/LimeSurvey/LimeSurvey
 projectType: real-app
 category: productivity
-summary: A PHP survey platform developed since 2006, with 30+ question types, skip logic and
-  branching, multilingual surveys in 80+ languages, closed-access invitations, statistics, a
-  RemoteControl API, plugins and LDAP or SAML sign-in — GPL, self-hosted or as LimeSurvey's SaaS.
-description: LimeSurvey is a GPL-licensed, self-hostable survey platform with branching logic,
-  multilingual surveys, response statistics, plugins and an API.
+summary: A survey platform developed since 2006, with 30+ question types, skip logic and branching,
+  and multilingual surveys in 80+ languages. It adds closed-access invitations, statistics, a
+  RemoteControl API, plugins and LDAP or SAML sign-in — GPL, written in PHP, self-hosted or as
+  LimeSurvey's SaaS.
+description: Self-hosted surveys with branching logic, 80+ languages, statistics and an API.
 sourceDescription: 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to
   SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and
   forms with unmatched flexibility.
@@ -70,7 +70,7 @@ relations:
       quote: A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms
       checkedAt: 2026-09-29
 seo:
-  title: LimeSurvey – Open Source SurveyMonkey Alternative
+  title: "LimeSurvey Review: SurveyMonkey Alternative"
   description: LimeSurvey is a GPL survey platform with 30+ question types, branching logic, surveys
     in 80+ languages, statistics and an API. Self-hosted or SaaS.
 addedAt: 2026-09-29

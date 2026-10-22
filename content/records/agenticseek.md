@@ -3,11 +3,10 @@ name: AgenticSeek
 repoUrl: https://github.com/Fosowl/agenticSeek
 projectType: real-app
 category: productivity
-summary: A local autonomous agent that browses the web, writes and runs code, and plans multi-step
-  tasks with a team of sub-agents, using local reasoning models through Ollama or LM Studio, with a
-  web interface or a CLI and SearxNG for search.
-description: AgenticSeek is a GPL-3.0 autonomous AI agent that browses, codes and plans on your own
-  machine with local models — a self-described local alternative to Manus.
+summary: An AI agent that browses the web, writes and runs code, and plans multi-step tasks entirely
+  on your own machine, with local models through Ollama or LM Studio. A team of sub-agents splits the
+  work; you drive it from a web interface or a CLI, with SearxNG for search.
+description: An AI agent that browses, codes and plans tasks on your own computer with local models, no API bills.
 sourceDescription: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent
   that thinks, browses the web, and code for the sole cost of electricity.
 platforms:
@@ -50,9 +49,9 @@ relations:
       quote: A 100% local alternative to Manus AI
       checkedAt: 2026-09-29
 seo:
-  title: AgenticSeek – Open Source Local Manus Alternative
+  title: "AgenticSeek Review: Local Manus Alternative"
   description: AgenticSeek is an autonomous AI agent that browses, writes code and plans tasks on your
-    own machine with local models through Ollama. GPL-3.0, no API bills.
+    own machine with local models through Ollama. GPL-3.0, no API bill.
 addedAt: 2026-09-29
 source:
   type: manual

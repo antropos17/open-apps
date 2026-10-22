@@ -4,7 +4,7 @@
 #   description  lede + meta description (default: a generic stack sentence)
 - id: flutter
   name: Flutter
-  seoTitle: Open Source Flutter Apps – Real Production Projects
+  seoTitle: Open Source Flutter Apps for iOS & Android
   description: Browse production Flutter apps with public source code. Study architecture, packages, activity, releases and real-world implementation patterns.
   family: cross-platform
   languages: [dart]
@@ -12,7 +12,7 @@
 
 - id: react-native
   name: React Native
-  seoTitle: Open Source React Native Apps – Production Codebases
+  seoTitle: Open Source React Native Apps for iOS & Android
   description: Browse production React Native apps with public source code. See how real teams structure navigation, state, native modules and releases.
   family: cross-platform
   languages: [typescript, javascript]
@@ -26,6 +26,14 @@
   family: native
   languages: [swift, objective-c]
   platforms: [ios]
+
+- id: macos
+  name: Native macOS
+  heading: Open Source Native Mac Apps
+  description: Open-source Mac apps written natively in Swift and Objective-C — a Git client, network debuggers, a firewall and screenshot tools you can build and run.
+  family: native
+  languages: [swift, objective-c]
+  platforms: [macos]
 
 - id: android
   name: Native Android
@@ -50,7 +58,7 @@
 
 - id: tauri
   name: Tauri
-  seoTitle: Open Source Tauri Apps – Rust Desktop Codebases
+  seoTitle: Open Source Tauri Desktop Apps
   description: Browse open-source desktop apps built with Tauri and Rust. Compare real codebases for macOS, Windows and Linux by activity, license and maturity.
   family: cross-platform
   languages: [rust, typescript, javascript]

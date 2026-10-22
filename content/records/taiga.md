@@ -3,11 +3,11 @@ name: Taiga
 repoUrl: https://github.com/taigaio/taiga-back
 projectType: real-app
 category: productivity
-summary: An agile project management platform for cross-functional teams — Scrum backlogs and
-  sprints with burndown charts, Kanban boards with swimlanes and WIP limits, epics and subtasks —
-  self-hosted with Docker or used on Taiga's hosted service.
-description: Taiga is an open-source agile project management tool with Scrum and Kanban, a Django
-  backend under MPL-2.0 and an AGPL-3.0 web front end, self-hosted or hosted by its makers.
+summary: Agile project management for teams that run Scrum or Kanban — backlogs and sprints with
+  burndown charts, boards with swimlanes and WIP limits, epics and subtasks — self-hosted with Docker
+  or on Taiga's hosted service. The backend is Django under MPL-2.0; the web front end is AGPL-3.0.
+description: Agile project management with Scrum backlogs, sprints and Kanban boards, self-hosted or
+  hosted.
 platforms:
   - web
   - linux
@@ -55,7 +55,7 @@ relations:
       url: https://taiga.io
       checkedAt: 2026-09-29
 seo:
-  title: Taiga – Open Source Agile Project Management, Scrum & Kanban
+  title: "Taiga Review: Self-Hosted Scrum and Kanban Tool"
   description: Taiga is a self-hostable agile project manager with Scrum backlogs, sprints, burndown
     charts and Kanban boards with WIP limits. MPL-2.0 and AGPL-3.0.
 addedAt: 2026-09-29

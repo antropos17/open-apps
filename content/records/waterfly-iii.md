@@ -1,17 +1,17 @@
 ---
-name: waterfly-iii
+name: Waterfly III
 repoUrl: https://github.com/dreautall/waterfly-iii
 projectType: real-app
 category: finance
 stack: flutter
-summary: An unofficial Flutter client for Firefly III that turns the self-hosted finance server into
-  a pocket-sized daily driver, with synced accounts, transactions, piggy banks, budgets, and bills
-  alongside dynamic color themes and an Android-only notification listener that prefills
-  transactions from banking apps.
-description: Waterfly III is a Flutter-built Android and iOS client for the self-hosted Firefly III
-  personal finance manager, wrapping its REST API into a Material 3 mobile experience with offline
-  dashboard charts, notification-driven transaction capture, and biometric app lock.
+summary: An unofficial Android app for your self-hosted Firefly III finance server, for tracking
+  accounts, transactions, budgets, bills and piggy banks on the go. It can prefill transactions from
+  banking-app notifications, has charts and a biometric lock, and is built with Flutter.
+description: An unofficial Android app for Firefly III to track accounts, budgets and bills from your
+  phone.
 sourceDescription: Unofficial Android App for Firefly III, a free and open source personal finance manager.
+platforms:
+  - android
 licenses:
   - mit
 links:
@@ -24,9 +24,9 @@ tags:
   - flutter
   - material-design-3
 seo:
-  title: Waterfly III – Open Source Firefly III Client for Android
-  description: Waterfly III is an unofficial Android and iOS app for your self-hosted Firefly III
-    server, with accounts, budgets, bills and charts. MIT, made in Flutter.
+  title: "Waterfly III Review: Firefly III App for Android"
+  description: Waterfly III is an unofficial Android app for your self-hosted Firefly III server, with
+    accounts, budgets, bills and charts. MIT, made in Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

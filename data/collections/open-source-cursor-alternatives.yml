@@ -40,5 +40,5 @@ faq:
     a: The code of all three is free and open source. Zed's hosted models and unlimited edit predictions, and Kilo's credits and cloud agents, are optional paid extras; your own keys or local models work without them.
 seo:
   index: true
-  title: Open Source Cursor Alternatives – AI Code Editors
+  title: "Open Source Cursor Alternatives: AI Code Editors"
   description: Zed, Kilo Code and Cline compared — open-source AI code editors and VS Code agents that work with your own model keys or local models.

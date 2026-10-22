@@ -5,10 +5,9 @@ projectType: real-app
 category: productivity
 stack: react
 summary: A self-hostable survey platform for link, website, in-app and email surveys, with a no-code
-  editor, templates, targeting of user groups and integrations with Slack, Notion, Zapier and n8n —
-  an AGPL core with a separately licensed enterprise directory.
-description: Formbricks is an open-source survey and experience management platform — link, website,
-  in-app and email surveys — that you can self-host with Docker or use as a cloud service.
+  editor and targeting of specific user groups. It ships templates and integrations with Slack,
+  Notion, Zapier and n8n — an AGPL core with a separately licensed enterprise directory.
+description: Run link, website, in-app and email surveys on your own server or in Formbricks Cloud.
 sourceDescription: Open Source Qualtrics Alternative
 platforms:
   - web
@@ -63,7 +62,7 @@ relations:
       quote: Open Source Typeform Alternative
       checkedAt: 2026-09-29
 seo:
-  title: Formbricks – Open Source Typeform & Qualtrics Alternative
+  title: "Formbricks Review: Qualtrics Alternative"
   description: Formbricks runs link, website, in-app and email surveys on your own server, with
     targeting and integrations. AGPL core; enterprise features paid.
 addedAt: 2026-09-29

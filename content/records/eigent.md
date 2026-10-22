@@ -3,11 +3,10 @@ name: Eigent
 repoUrl: https://github.com/eigent-ai/eigent
 projectType: real-app
 category: productivity
-summary: An Electron and FastAPI desktop app built on CAMEL-AI that runs either one focused agent or
-  a workforce of specialised agents in parallel, with browser and terminal toolkits, MCP, skills and
-  scheduled automations.
-description: Eigent is an Apache-2.0 desktop app for macOS, Windows and Linux that splits work
-  across several AI agents running in parallel, with any model including local ones.
+summary: A desktop app that hands your work to one AI agent or a whole team of specialised agents
+  working in parallel, with any model including local ones. It is built on CAMEL-AI with Electron and
+  FastAPI, and adds browser and terminal tools, MCP, skills and scheduled automations.
+description: A desktop app that splits your work across a team of AI agents running in parallel, with any model.
 sourceDescription: "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude
   Cowork and Codex"
 platforms:
@@ -55,7 +54,7 @@ relations:
       quote: Local and Free Alternative to Claude Cowork and Codex
       checkedAt: 2026-09-28
 seo:
-  title: Eigent – Open Source Multi-Agent Claude Cowork Alternative
+  title: "Eigent Review: Claude Cowork Alternative"
   description: Eigent runs a workforce of AI agents in parallel on macOS, Windows and Linux, with any
     model and a local backend option. Apache-2.0, built on CAMEL-AI.
 addedAt: 2026-09-28

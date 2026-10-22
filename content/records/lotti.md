@@ -3,18 +3,25 @@ name: Lotti
 repoUrl: https://github.com/matthiasn/lotti
 category: productivity
 stack: flutter
-description: Private logbook for tasks, time tracking, journaling, habits and health data, with end-to-end encrypted sync and optional AI agents.
+summary: A private logbook for tasks, time tracking, journaling, habits and health data that keeps
+  everything on your own devices, with end-to-end encrypted sync between them. Optional AI agents
+  summarise what you record and propose changes that you approve, and the sync protocol and agent
+  runtime are model-checked in TLA+.
+description: A private logbook for tasks, time, journaling, habits and health, synced with end-to-end
+  encryption.
 platforms:
   - android
   - macos
   - linux
+licenses:
+  - gpl-3.0
 tags:
   - time-tracker
   - journaling
   - local-first
   - end-to-end-encryption
 seo:
-  title: Lotti – Open Source Private Logbook & Habit Tracker
+  title: "Lotti: Private Logbook and Habit Tracker"
   description: Lotti is a private logbook for tasks, time tracking, journaling, habits and health data, with end-to-end encrypted sync and optional AI agents. GPL-3.0.
 addedAt: 2026-09-29
 submittedBy: cyberk1ng

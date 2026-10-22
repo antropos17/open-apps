@@ -3,11 +3,10 @@ name: Presenton
 repoUrl: https://github.com/presenton/presenton
 projectType: real-app
 category: productivity
-summary: An AI presentation generator you can self-host or run as a desktop app — create decks from a
-  prompt, a document or your own PowerPoint design, edit them by drag and drop, and export fully
-  editable PPTX, with any model provider including Ollama and a generation API.
-description: Presenton is an Apache-2.0 AI presentation generator for the web, Docker and desktop that
-  exports editable PowerPoint files and works with local or cloud models.
+summary: Makes slide decks with AI from a prompt, a document or your own PowerPoint design, lets you
+  edit them by drag and drop and exports editable PowerPoint files, self-hosted or as a desktop app.
+  It works with any model provider including Ollama and has a generation API.
+description: AI presentation maker that exports editable PowerPoint files, self-hosted or desktop, with any model.
 sourceDescription: Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI,
   Decktopus, Presentations AI Alternative)
 platforms:
@@ -56,7 +55,7 @@ relations:
       quote: Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
       checkedAt: 2026-09-29
 seo:
-  title: Presenton – Open Source Gamma Alternative for AI Slides
+  title: "Presenton Review: AI Slides, Gamma Alternative"
   description: Presenton generates slide decks from a prompt or document, self-hosted or on desktop,
     with editable PPTX export and any model including Ollama. Apache-2.0.
 addedAt: 2026-09-29

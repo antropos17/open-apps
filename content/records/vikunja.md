@@ -3,11 +3,11 @@ name: Vikunja
 repoUrl: https://github.com/go-vikunja/vikunja
 projectType: real-app
 category: productivity
-summary: A self-hosted to-do and project app in Go and Vue — projects and subprojects, list, Gantt,
-  table and Kanban views, reminders, repeating tasks, labels and sharing — with importers for Todoist,
-  Trello and Microsoft To-Do, and a hosted Vikunja Cloud.
-description: Vikunja is an AGPL-3.0 task manager you host yourself, with list, Kanban, Gantt and table
-  views, team sharing and migration from Todoist and Trello.
+summary: A to-do and project app you host yourself, with list, Gantt, table and Kanban views,
+  reminders, repeating tasks, labels and sharing, plus importers for Todoist, Trello and Microsoft
+  To-Do. It is written in Go and Vue, and a hosted Vikunja Cloud is also available.
+description: A self-hosted to-do and project app with list, Kanban and Gantt views and import from
+  Todoist and Trello.
 sourceDescription: The task manager you actually own.
 platforms:
   - web
@@ -68,7 +68,7 @@ relations:
       quote: Trello alternative with Kanban, Gantt, list, and table views.
       checkedAt: 2026-09-29
 seo:
-  title: Vikunja – Open Source Todoist & Trello Alternative
+  title: "Vikunja Review: Todoist and Trello Alternative"
   description: Vikunja is a self-hosted to-do and project app with list, Kanban, Gantt and table views
     and importers for Todoist and Trello. AGPL-3.0.
 addedAt: 2026-09-29

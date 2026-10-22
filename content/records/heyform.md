@@ -4,11 +4,11 @@ repoUrl: https://github.com/heyform/heyform
 projectType: real-app
 category: productivity
 stack: react
-summary: A conversational form builder for surveys, quizzes and polls, with conditional logic, custom
-  themes and CSS, drop-off analytics, CSV export, webhooks and Zapier or Make.com integrations —
-  AGPL-3.0, self-hosted or on HeyForm's hosted service.
-description: HeyForm is an AGPL-licensed, self-hostable builder for conversational forms, surveys,
-  quizzes and polls, with logic, theming, analytics and integrations.
+summary: A conversational form builder for surveys, quizzes and polls, with conditional logic and
+  custom themes. It adds drop-off analytics, CSV export, webhooks and Zapier or Make.com integrations
+  — AGPL-3.0, self-hosted or on HeyForm's hosted service.
+description: Build conversational forms, surveys, quizzes and polls on your own server or HeyForm's
+  hosted service.
 sourceDescription: Open-Source Form Builder
 platforms:
   - web
@@ -56,7 +56,7 @@ relations:
       quote: The open-source Typeform alternative
       checkedAt: 2026-09-29
 seo:
-  title: HeyForm – Open Source Typeform Alternative, Self-Hosted
+  title: "HeyForm Review: Self-Hosted Typeform Alternative"
   description: HeyForm builds conversational forms, surveys, quizzes and polls with logic, themes,
     analytics and webhooks. AGPL-3.0, self-hosted or on the hosted service.
 addedAt: 2026-09-29

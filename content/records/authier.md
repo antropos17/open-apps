@@ -5,11 +5,11 @@ repoUrl: https://github.com/authier-pm/authier
 projectType: real-app
 category: productivity
 stack: react-native
-summary: A TypeScript codebase spanning React Native, browser-extension, Astro, and Cloudflare
-  Worker clients, built around client-side encrypted vault sync and optional trusted-device
-  enrollment approval.
-description: Authier is an experimental AGPL password manager monorepo with a React Native client,
-  browser extensions, and a web vault for credentials and TOTP codes.
+summary: An experimental password manager that keeps your logins and two-factor codes in an
+  encrypted vault, synced across a mobile app, browser extensions and a web vault. It is one
+  TypeScript project spanning React Native, browser-extension, Astro and Cloudflare Worker clients,
+  built around client-side encrypted vault sync and optional trusted-device enrollment approval.
+description: An experimental password manager with encrypted sync, 2FA codes, browser extensions and mobile apps.
 sourceDescription: monorepo for Authier password manager
 platforms:
   - ios
@@ -70,7 +70,7 @@ caveats:
   - The repository is inspectable, but the current documentation does not present self-hosting as a
     supported deployment path.
 seo:
-  title: Authier – Open Source Password Manager with Encrypted Sync
+  title: "Authier: Password Manager with Encrypted Sync"
   description: Authier is an experimental password manager with encrypted vault sync, TOTP codes,
     browser extensions, a web vault and mobile apps. AGPL-3.0, TypeScript.
 addedAt: 2026-09-01

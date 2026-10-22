@@ -2,10 +2,15 @@
 name: ItsPaint
 repoUrl: https://github.com/joshlin2201/itspaint
 category: tools
-stack: ios
-description: Paint and screenshot-markup app for macOS, built on a UI-free Swift drawing engine that also ships as a package.
+stack: macos
+summary: A paint and screenshot-markup app for Mac — number the steps on a screenshot, cover a password
+  with a filled shape or remove a flat background, with no network access at all. Its drawing engine
+  is a separate Swift package with no UI or dependencies that also builds for iOS.
+description: Paint and mark up screenshots on your Mac, fully offline.
 platforms:
   - macos
+licenses:
+  - mit
 tags:
   - desktop-app
   - design-tools
@@ -22,7 +27,7 @@ caveats:
   - Needs macOS 14 Sonoma or later, and the interface is English only
   - Young project, public since July 2026, with one maintainer, and the document format can still change before 1.0
 seo:
-  title: ItsPaint – Open Source Paint & Screenshot Markup for Mac
+  title: "ItsPaint: Screenshot Markup App for Mac"
   description: ItsPaint is a paint and screenshot-markup app for macOS, built in Swift on a UI-free drawing engine that also ships as a reusable package.
 addedAt: 2026-10-02
 submittedBy: joshlin2201

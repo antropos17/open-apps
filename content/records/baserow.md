@@ -3,11 +3,11 @@ name: Baserow
 repoUrl: https://github.com/baserow/baserow
 projectType: real-app
 category: productivity
-summary: A no-code database and application builder on Django, Vue.js and PostgreSQL — spreadsheet-style
-  tables, forms and kanban views, published apps and portals, automations, dashboards and an AI
-  assistant, with an MIT open-source edition and premium and enterprise directories.
-description: Baserow is an open-core, self-hostable no-code database and app builder whose open-source
-  edition is MIT-licensed, with a hosted cloud at baserow.io.
+summary: A no-code database and app builder with spreadsheet-style tables, forms and kanban views,
+  published apps, automations, dashboards and an AI assistant, self-hosted or in the cloud. It is
+  built on Django, Vue.js and PostgreSQL, with an MIT open-source edition and paid premium and
+  enterprise features.
+description: A self-hostable no-code database with spreadsheet tables, forms, kanban views and apps.
 sourceDescription: Build databases, automations, apps & agents with AI — no code.  Open source
   platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable
   alternative.
@@ -55,7 +55,7 @@ relations:
       quote: Best Airtable alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Baserow – Open Source Airtable Alternative, MIT Core
+  title: "Baserow Review: Open Source Airtable Alternative"
   description: Baserow is a self-hostable no-code database with tables, forms, kanban, apps, automations
     and dashboards on PostgreSQL. MIT core; premium features paid.
 addedAt: 2026-09-29

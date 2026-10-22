@@ -5,11 +5,11 @@ repoUrl: https://github.com/Posnic/POS
 projectType: real-app
 category: business
 stack: javascript
-summary: A cross-platform JavaScript/Electron point-of-sale app for retail shops and restaurants,
-  with billing, inventory, purchases, reports, receipt printing, local backups, and optional
-  online/offline workflows around a local MongoDB-backed till.
-description: Posnic POS is offline-first open-source POS and billing software for retail shops and
-  restaurants, built as a JavaScript/Electron desktop app with a local MongoDB-backed checkout.
+summary: Free point-of-sale and billing software for retail shops and restaurants that works offline,
+  with inventory, purchases, reports, receipt printing and local backups. It is a cross-platform
+  JavaScript/Electron desktop app with optional online/offline workflows around a local
+  MongoDB-backed till.
+description: Free offline POS and billing software for shops and restaurants, with inventory, reports and receipts.
 sourceDescription: Free offline-first open source POS and billing software for retail and
   restaurants. AGPL-3.0-only source; packages include separately licensed components.
 platforms:
@@ -77,7 +77,7 @@ caveats:
   - The project is early and low-star, so evaluate it as a useful codebase rather than a popularity
     signal.
 seo:
-  title: Posnic POS – Open Source POS & Billing Software
+  title: "Posnic POS: Offline POS & Billing Software"
   description: Posnic POS is offline-first POS and billing software for shops and restaurants on Windows, macOS and Linux, with inventory and receipts. AGPL-3.0.
 addedAt: 2026-09-02
 source:

@@ -4,12 +4,11 @@ repoUrl: https://github.com/mattermost/mattermost-mobile
 projectType: real-app
 category: communication
 stack: react-native
-summary: The production-grade React Native client for Mattermost, the open-source, self-hostable
-  Slack alternative used by dev teams and regulated enterprises.
-description: Mattermost Mobile is the official React Native iOS and Android client for the
-  self-hostable Mattermost messaging platform, giving enterprise and dev teams on-device access to
-  channels, threads, calls, and push notifications backed by the same REST and WebSocket API as the
+summary: The official iPhone and Android app for Mattermost, the self-hostable Slack alternative
+  used by dev teams and regulated enterprises, with channels, threads, calls and push notifications.
+  It is a production-grade React Native client that talks to the same REST and WebSocket API as the
   web and desktop clients.
+description: Official Mattermost team chat app for iOS and Android, with channels, threads, calls and push notifications.
 sourceDescription: Next generation iOS and Android apps for Mattermost in React Native.
 platforms:
   - android
@@ -44,7 +43,7 @@ relations:
       quote: Open Source Slack Alternative
       checkedAt: 2026-09-30
 seo:
-  title: Mattermost Mobile – Open Source Slack Alternative App
+  title: "Mattermost Mobile Review: Slack Alternative App"
   description: Mattermost Mobile is the official iOS and Android app for Mattermost, the self-hostable Slack alternative, with channels, threads and calls. Apache-2.0.
 addedAt: 2026-06-13
 source:

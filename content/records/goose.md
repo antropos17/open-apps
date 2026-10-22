@@ -3,11 +3,11 @@ name: Goose
 repoUrl: https://github.com/aaif-goose/goose
 projectType: real-app
 category: developer-tools
-summary: A general-purpose AI agent built in Rust — a native desktop app, a CLI and an API — that
-  writes and runs code but also handles research, writing and automation, with 15+ model providers
-  and 70+ MCP extensions.
-description: Goose is an Apache-2.0 AI agent for macOS, Windows and Linux that runs on your machine,
-  works with many model providers, and is part of the Linux Foundation's Agentic AI Foundation.
+summary: A general-purpose AI agent for your computer that writes and runs code but also handles
+  research, writing and automation, with 15+ model providers and 70+ MCP extensions. It comes as a
+  native desktop app, a CLI and an API, built in Rust.
+description: An AI agent for Mac, Windows and Linux that codes, researches and automates tasks with
+  any model.
 sourceDescription: an open source, extensible AI agent that goes beyond code suggestions - install,
   execute, edit, and test with any LLM
 platforms:
@@ -56,7 +56,7 @@ relations:
       url: https://github.com/aaif-goose/goose
       checkedAt: 2026-09-29
 seo:
-  title: Goose – Open Source AI Agent Desktop App and CLI
+  title: "Goose Review: AI Agent Desktop App and CLI"
   description: Goose is an Apache-2.0 AI agent with a desktop app, CLI and API for macOS, Windows and
     Linux, working with 15+ model providers and 70+ MCP extensions.
 addedAt: 2026-09-29

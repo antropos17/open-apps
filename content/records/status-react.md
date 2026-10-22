@@ -1,11 +1,13 @@
 ---
-name: Status.im
+name: Status
 repoUrl: https://github.com/status-im/status-react
 projectType: real-app
 category: communication
 stack: react-native
-description: Status is a secure messaging app, Ethereum wallet, and Web3 browser built on
-  decentralized protocols.
+summary: A private messenger, Ethereum wallet and Web3 browser in one app for iOS and Android, built
+  on decentralized protocols instead of a central server. The mobile app is written in React
+  Native and licensed MPL-2.0.
+description: A private messenger, Ethereum wallet and Web3 browser in one app for iOS and Android.
 sourceDescription: a free (libre) open source, mobile OS for Ethereum
 platforms:
   - android
@@ -22,7 +24,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Status – Open Source Mobile Ethereum Client
+  title: "Status: Private Messenger and Ethereum Wallet"
   description: Status is a secure messenger, Ethereum wallet and Web3 browser for iOS and Android, built
     on decentralized protocols. MPL-2.0, built with React Native.
 addedAt: 2026-06-07

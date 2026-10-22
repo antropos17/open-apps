@@ -5,7 +5,7 @@ projectType: real-app
 category: developer-tools
 stack: react
 summary: A self-hostable visual report designer and rendering engine for operational documents, with JSON report definitions, an embeddable designer and an HTTP rendering API.
-description: Open Reports is an MIT-licensed web report designer and rendering engine for creating and rendering invoices, statements and other operational documents from JSON definitions.
+description: Self-hostable web app to design invoices, statements and other business reports and render them via an API.
 platforms:
   - web
 licenses:
@@ -43,7 +43,7 @@ caveats:
   - Early-stage project; verify the current feature set and deployment instructions before adopting it for production.
   - JRXML import creates drafts and is partial; this is not a drop-in JasperReports or `.jasper` runtime replacement, and output parity is not guaranteed.
 seo:
-  title: Open Reports – Open Source Report Designer and Engine
+  title: "Open Reports: Self-Hosted Report Designer"
   description: Design operational reports in a browser and render host-owned JSON definitions through an API. MIT-licensed, self-hostable, with a live demo.
 addedAt: 2026-10-11
 submittedBy: varaprasadreddy9676

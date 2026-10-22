@@ -6,9 +6,9 @@ export default defineConfig({
 
   site: {
     name: "Open App Scout",
-    tagline: "Open-source apps and production codebases to run, study and learn from.",
+    tagline: "Real open-source apps to run, study and contribute to, reviewed and compared.",
     description:
-      "Discover real open-source apps built with Flutter, React Native, Swift, React, Tauri and more. Browse production codebases by stack, category and license.",
+      "Real open-source apps built with Flutter, React Native, Swift, React, Tauri and more, with reviews, comparisons and alternatives to the software you use.",
     url: "https://openappscout.com",
     repoUrl: "https://github.com/tortuvshin/open-apps",
     // Both files carry their own `prefers-color-scheme` swap: an SVG

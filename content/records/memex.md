@@ -4,12 +4,12 @@ repoUrl: https://github.com/memex-lab/memex
 projectType: real-app
 category: productivity
 stack: flutter
-summary: Open-source PKM/journal built on dart_agent_core where every entry is Markdown on disk,
-  agents are loadable SKILL.md files that can call fetch() in JS sandboxes, and LLM traffic goes
-  phone-to-provider with no Memex-operated server in the middle.
-description: Memex is a Flutter-based, local-first AI journal for iOS and Android that captures
-  text, photo, and voice fragments, runs them through a multi-agent skill system on a BYO-LLM, and
-  weaves them into timeline cards, P.A.R.A.-organized Markdown knowledge, and chart-driven insights.
+summary: A local-first AI journal for iPhone and Android that turns quick text, photo and voice notes
+  into a timeline and a Markdown knowledge base, using an AI provider you choose. Every entry is
+  Markdown on disk, agents are loadable SKILL.md files built on dart_agent_core that can call fetch()
+  in JS sandboxes, and LLM traffic goes phone-to-provider with no Memex-operated server in the
+  middle.
+description: Local-first AI journal for iOS and Android that turns text, photo and voice notes into a timeline.
 sourceDescription: An open-source, local-first AI journal for iOS and Android that turns text, photo
   and voice fragments into structured timeline cards and organizes knowledge using the P.A.R.A.
   methodology
@@ -28,7 +28,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Memex – Open Source Local-First AI Journal
+  title: "Memex Review: Local-First AI Journal"
   description: Memex is a local-first AI journal for iOS and Android that turns text, photo and voice notes into a timeline and Markdown notes with your own LLM. GPL-3.0.
 addedAt: 2026-06-07
 source:

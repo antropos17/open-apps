@@ -2,12 +2,18 @@
 name: SwiftTerm
 repoUrl: https://github.com/migueldeicaza/SwiftTerm
 projectType: real-app
-category: tools
+category: developer-tools
 stack: ios
-description: An Xterm/VT100-compatible terminal emulator implemented in Swift for iOS.
+summary: A terminal emulator library that developers embed in iOS and macOS apps to add an
+  Xterm/VT100-compatible terminal. It has been used in commercial SSH clients such as Secure
+  Shellfish and La Terminal, and in CodeEdit; the engine is UI-agnostic, with UIKit and AppKit
+  front ends.
+description: A Swift terminal emulator library for adding an Xterm/VT100 terminal to iOS and macOS
+  apps.
 sourceDescription: Xterm/VT100 Terminal emulator in Swift
 platforms:
   - ios
+  - macos
 licenses:
   - mit
 links:
@@ -20,10 +26,10 @@ tags:
   - native
 bestFor: []
 whyListed:
-  - Top entry from dkhamsing/open-source-ios-apps curated list (1,572 stars on GitHub).
+  - The terminal engine behind commercial SSH clients such as Secure Shellfish and La Terminal.
 caveats: []
 seo:
-  title: SwiftTerm – Open Source Terminal Emulator in Swift
+  title: "SwiftTerm Review: Terminal Emulator Library"
   description: SwiftTerm is an xterm and VT100 compatible terminal emulator written in Swift for iOS,
     with source code you can study, build and reuse. MIT-licensed.
 addedAt: 2026-06-13

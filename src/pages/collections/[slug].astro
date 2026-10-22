@@ -6,6 +6,7 @@ import {
   getCollectionPageModel,
   loadCollections,
   recordsToCollectionEntries,
+  seoTitle,
 } from '@grove-dev/astro/server';
 import CollectionPage from '../../components/grove/collection-page.astro';
 import SearchMeta from '../../components/site/search-meta.astro';
@@ -60,7 +61,7 @@ const relatedTiles = model.related
 const subject = siteConfig.taxonomy?.subjects?.find((term) => term.id === collection.subject)?.name;
 ---
 <BaseLayout
-  title={model.seo.title}
+  title={seoTitle(model.seo.title, siteConfig.name)}
   description={model.seo.description}
   image={model.seo.image}
   imageAlt={model.seo.imageAlt}

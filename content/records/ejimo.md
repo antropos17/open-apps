@@ -4,11 +4,16 @@ repoUrl: https://github.com/albemala/emoji-picker
 projectType: real-app
 category: tools
 stack: flutter
-description: A cross-platform emoji and symbol picker that goes beyond the system keyboard.
+summary: An emoji and symbol picker with 1,800+ emoji and 17,000+ symbols that you search and copy
+  with a click, offline and without collecting data. It ships on macOS, Windows, iOS and Android,
+  with a Linux build announced.
+description: Search and copy from 1,800+ emoji and 17,000+ symbols on desktop and mobile, offline.
 sourceDescription: Ejimo - Comprehensive emoji and symbol picker.
 platforms:
   - android
   - ios
+  - macos
+  - windows
 licenses:
   - gpl-3.0
 links:
@@ -21,9 +26,9 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Ejimo – Open Source Emoji & Symbol Picker
-  description: Ejimo is an emoji and symbol picker for Android and iOS that goes beyond the system
-    keyboard. Free and open source under GPL-3.0, built with Flutter.
+  title: "Ejimo: Emoji and Symbol Picker for Every Device"
+  description: Ejimo finds and copies emoji and symbols beyond the system keyboard, offline, on Mac,
+    Windows, iOS and Android. Free and open source under GPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

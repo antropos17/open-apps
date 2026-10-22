@@ -4,11 +4,11 @@ repoUrl: https://github.com/ospfranco/sol
 projectType: real-app
 category: productivity
 stack: react-native
-summary: A native macOS launcher and command palette built with React Native for macOS — app search,
-  window management, clipboard history, emoji picker, calendar, custom AppleScript commands and dozens
-  of small built-in utilities, with minimal configuration.
-description: Sol is an MIT-licensed app launcher and command palette for macOS with many built-in
-  utilities, from a window manager and clipboard history to calendar and scratchpad notes.
+summary: A free Mac launcher and command palette with app search, window management, clipboard
+  history, an emoji picker, a calendar and dozens of small utilities, with almost no setup. It is
+  built with React Native for macOS and runs custom AppleScript commands.
+description: A Mac launcher with app search, window management, clipboard history and many built-in
+  utilities.
 sourceDescription: MacOS launcher & command palette
 platforms:
   - macos
@@ -49,7 +49,7 @@ relations:
       url: https://github.com/ospfranco/sol
       checkedAt: 2026-09-29
 seo:
-  title: Sol – Open Source macOS Launcher and Command Palette
+  title: "Sol Review: Free Raycast Alternative for Mac"
   description: Sol is a free macOS launcher with app search, window management, clipboard history, a
     calendar and dozens of built-in utilities. MIT-licensed.
 addedAt: 2026-09-29

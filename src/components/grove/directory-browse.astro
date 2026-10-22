@@ -53,14 +53,13 @@ const { total, page, seo } = getDirectoryIndexModel(Astro.url.searchParams, site
 // per-page description is built inside `getDirectoryIndexModel` so it
 // fits inside the 160-char cap; this view just forwards `seo.title`.
 // Page 1 names the count and the facets people filter by; the package
-// default ("Browse Apps") says nothing a search result can use.
+// default ("Browse Apps") says nothing a search result can use. Pages 2+
+// stay indexable: they are the crawl path to records past page 1.
+const plural = titleCaseFirst(itemLabelPlural());
 const title =
   page > 1
-    ? seoTitle(`Browse ${titleCaseFirst(itemLabelPlural())} — Page ${page}`, siteConfig.name)
-    : seoTitle(
-        `Browse ${total} Open Source ${titleCaseFirst(itemLabelPlural())} by Stack, Category & License`,
-        siteConfig.name,
-      );
+    ? seoTitle(`Open Source ${plural}, Page ${page}`, siteConfig.name)
+    : seoTitle(`All ${total} Open Source ${plural} by Stack & Category`, siteConfig.name);
 const description = seo.description;
 ---
 

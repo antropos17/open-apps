@@ -4,11 +4,12 @@ repoUrl: https://github.com/teableio/teable
 projectType: real-app
 category: productivity
 stack: react
-summary: A spreadsheet-style database on PostgreSQL with grid, form, kanban, gallery and calendar
-  views, formulas, real-time collaboration, automations and an API; paid plans add AI chat, an app
-  builder and enterprise features in the same image.
-description: Teable is a self-hostable, spreadsheet-like database built on PostgreSQL, with an AGPL
-  Community Edition and paid AI and enterprise features unlocked by licence key.
+summary: A self-hosted, Airtable-style database that looks like a spreadsheet, with grid, form,
+  kanban, gallery and calendar views, formulas, live collaboration, automations and an API. Data
+  lives in PostgreSQL; paid plans add AI chat, an app builder and enterprise features in the same
+  image.
+description: A self-hosted Airtable-style spreadsheet database with views, formulas, automations and
+  an API.
 sourceDescription: ✨ AI Spreadsheet for Business
 platforms:
   - web
@@ -57,7 +58,7 @@ relations:
       quote: airtable-alternative
       checkedAt: 2026-09-29
 seo:
-  title: Teable – Open Source Airtable Alternative on PostgreSQL
+  title: "Teable Review: Self-Hosted Airtable Alternative"
   description: Teable is a spreadsheet-style database on PostgreSQL with grid, kanban, form and calendar
     views, automations and an API. AGPL core; AI features are paid.
 addedAt: 2026-09-29

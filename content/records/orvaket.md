@@ -4,7 +4,10 @@ repoUrl: https://github.com/Akam1123/orvaket
 projectType: real-app
 category: business
 stack: react
-description: A browser-based accounts receivable board that turns CSV invoice exports into a human-reviewed follow-up plan.
+summary: Helps a freelancer or small business chase unpaid invoices by turning a CSV export into a
+  follow-up plan with email drafts you review and send yourself. It runs in the browser with your
+  data kept locally, and backups are JSON files you keep.
+description: Browser app that turns an invoice CSV export into a follow-up plan for unpaid invoices.
 platforms:
   - web
 licenses:
@@ -34,7 +37,7 @@ caveats:
   - Imports are manual snapshots and do not verify balances with accounting systems.
   - Email drafts require human review and sending through a separate email client; the app does not collect payments.
 seo:
-  title: Orvaket – Open Source Accounts Receivable Follow-Up App
+  title: "Orvaket: Unpaid Invoice Follow-Up App"
   description: Orvaket is a browser-based accounts receivable board that turns CSV invoice exports into a human-reviewed follow-up plan for unpaid invoices. MIT-licensed.
 addedAt: 2026-09-26
 submittedBy: Akam1123

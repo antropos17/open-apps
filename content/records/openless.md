@@ -4,12 +4,11 @@ repoUrl: https://github.com/Open-Less/openless
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri and Rust voice-input app — hold a key, speak, release, and text polished by a
-  language model in the style you chose lands at your cursor, with a learning dictionary, switchable
-  style packs and an AI-prompt mode that turns rambling into a structured prompt.
-description: OpenLess is an AGPL-3.0 voice-typing app for Windows, macOS, Linux and Android that
-  transcribes speech and rewrites it in a chosen style, using the speech and language providers you
-  configure.
+summary: Hold a key, speak and release, and AI-polished text in the style you chose appears at your
+  cursor in any app on Windows, macOS, Linux and Android. It is a Tauri and Rust voice-input app with
+  a learning dictionary, switchable style packs and an AI-prompt mode that turns rambling into a
+  structured prompt.
+description: Voice typing for Windows, Mac, Linux and Android that turns speech into polished text in the style you choose.
 sourceDescription: Hold a key, speak, release — AI-polished text appears at your cursor in any app.
   Open-source voice input for macOS & Windows.
 platforms:
@@ -57,7 +56,7 @@ relations:
       quote: a fully open-source alternative to commercial tools such as Typeless, Wispr Flow
       checkedAt: 2026-09-28
 seo:
-  title: OpenLess – Open Source Wispr Flow Alternative, Windows & Mac
+  title: "OpenLess Review: Wispr Flow Alternative"
   description: OpenLess turns speech into polished text or an AI prompt at your cursor on Windows,
     macOS, Linux and Android. AGPL-3.0, with providers you choose.
 addedAt: 2026-09-28

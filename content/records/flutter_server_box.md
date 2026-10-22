@@ -1,17 +1,16 @@
 ---
-name: flutter_server_box
+name: ServerBox
 repoUrl: https://github.com/lollipopkit/flutter_server_box
 projectType: real-app
 category: tools
 stack: flutter
-summary: ServerBox packages a full SSH workstation into a single Flutter app, turning a phone or
-  laptop into a portable console for Linux VPS, NAS, and Raspberry Pi hosts. It pairs an in-app
-  terminal and SFTP browser with proactive system telemetry, a watchOS companion, and a small
-  server-side agent for background push and home-screen widgets.
-description: A Flutter-based, cross-platform client for monitoring and administering remote Linux,
-  Unix, and Windows servers over SSH — combining real-time status charts, an embedded xterm
-  terminal, SFTP file transfer, and Docker / systemd / S.M.A.R.T. management on iOS, Android, macOS,
-  Linux, and Windows.
+summary: ServerBox turns a phone or laptop into a portable console for your Linux VPS, NAS and
+  Raspberry Pi hosts, with live server status, an SSH terminal and SFTP in one app. It also
+  manages Docker, systemd and S.M.A.R.T. disk health, ships a watchOS companion, and offers a
+  small server-side agent for background push and home-screen widgets. Built with Flutter for iOS,
+  Android, macOS, Linux and Windows.
+description: Monitor and manage your servers over SSH with live charts, a terminal and SFTP, on
+  phone and desktop.
 sourceDescription: ServerBox - server status & toolbox
 licenses:
   - agpl-3.0
@@ -27,7 +26,7 @@ tags:
   - status
   - vps
 seo:
-  title: ServerBox – Open Source Server Monitor & SSH Client
+  title: "ServerBox Review: Server Monitor & SSH Client"
   description: ServerBox monitors and manages servers over SSH with live charts, a terminal, SFTP and
     Docker controls, on iOS, Android and desktop. AGPL-3.0, Flutter.
 addedAt: 2026-08-11

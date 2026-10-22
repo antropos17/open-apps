@@ -3,11 +3,11 @@ name: OpenTag
 repoUrl: https://github.com/amplifthq/opentag
 projectType: real-app
 category: developer-tools
-summary: A self-hosted Slack teammate that queues work in a thread and runs your ACP coding agent —
-  Claude Code, Codex, Cursor and others — on a computer you pair with it, then reports status,
-  decisions and evidence back in the same thread.
-description: OpenTag is an MIT-licensed Slack teammate that runs your coding agent against your own
-  checkout on a paired computer, through a self-hosted relay.
+summary: Mention it in Slack and it runs Claude Code, Codex, Cursor or another coding agent on your
+  own computer, then reports status, decisions and evidence back in the same thread. It is a
+  self-hosted relay that queues work per thread and drives any ACP coding agent on a computer you
+  pair with it.
+description: Slack teammate that runs your AI coding agent on your own computer and replies in the thread.
 sourceDescription: Mention any ACP coding agent from Slack, GitHub, GitLab, Linear, or Lark. OpenTag
   runs Claude Code, Codex, Cursor and more on your own machine, then replies in-thread with verified,
   evidence-backed results.
@@ -53,7 +53,7 @@ relations:
       url: https://github.com/amplifthq/opentag
       checkedAt: 2026-09-28
 seo:
-  title: OpenTag – Open Source AI Coding Teammate for Slack
+  title: "OpenTag Review: Claude Tag Alternative for Slack"
   description: OpenTag takes coding work from Slack and runs Claude Code, Codex or another agent on
     your own computer, reporting back in the thread. MIT, self-hosted.
 addedAt: 2026-09-28

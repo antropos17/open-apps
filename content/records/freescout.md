@@ -3,11 +3,11 @@ name: FreeScout
 repoUrl: https://github.com/freescout-help-desk/freescout
 projectType: real-app
 category: business
-summary: A PHP and Laravel help desk and shared inbox that gathers email, live chat, WhatsApp,
-  Telegram and other channels into one queue, with unlimited agents and mailboxes, and runs even on
-  shared hosting; extra features come as modules.
-description: FreeScout is an AGPL-3.0 help desk and shared mailbox that describes itself as a free
-  self-hosted Zendesk and Help Scout alternative, with paid and free modules.
+summary: A self-hosted help desk and shared inbox that gathers email, live chat, WhatsApp, Telegram
+  and other channels into one queue, with unlimited agents and mailboxes. It is written in PHP and
+  Laravel, runs even on shared hosting, and adds extra features as modules.
+description: A self-hosted help desk and shared inbox with unlimited agents, a free Zendesk and Help
+  Scout alternative.
 sourceDescription: FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox
 platforms:
   - web
@@ -58,7 +58,7 @@ relations:
       quote: Free Self-Hosted Zendesk & Help Scout Alternative
       checkedAt: 2026-09-29
 seo:
-  title: FreeScout – Open Source Zendesk & Help Scout Alternative
+  title: "FreeScout Review: Help Scout Alternative"
   description: FreeScout is a lightweight self-hosted help desk and shared inbox in PHP, with
     unlimited agents and mailboxes and free or paid modules. AGPL-3.0.
 addedAt: 2026-09-29

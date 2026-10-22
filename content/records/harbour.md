@@ -2,9 +2,13 @@
 name: Harbour
 repoUrl: https://github.com/rrroyal/Harbour
 projectType: production
-category: productivity
+category: developer-tools
 stack: ios
-description: Docker/Portainer management app for iOS, iPadOS and macOS.
+summary: Manage your Docker containers and stacks from an iPhone, iPad or Mac through a Portainer
+  server — check health, read logs, start and stop containers and deploy stacks. It adds widgets,
+  Shortcuts, Spotlight and background notifications, with no telemetry; Portainer is required.
+description: Manage Docker containers and stacks from iPhone, iPad and Mac through your Portainer
+  server.
 sourceDescription: Docker/Portainer management app for iOS, iPadOS and macOS.
 platforms:
   - ios
@@ -31,7 +35,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Harbour – Open Source Docker & Portainer App for iOS
+  title: "Harbour: Docker & Portainer App for iPhone & Mac"
   description: Harbour is a Docker and Portainer management app for iPhone, iPad and Mac, so you can look after your containers away from the terminal. AGPL-3.0.
 addedAt: 2026-06-13
 source:

@@ -4,9 +4,12 @@ name: Shieldxy
 repoUrl: https://github.com/RockxyApp/Shieldxy
 projectType: real-app
 category: tools
-stack: ios
-description: An auditable macOS application firewall and connection monitor with explicit local
-  network controls.
+stack: macos
+summary: A Mac firewall that shows which apps connect where and lets you allow or block them by app
+  and domain. Its Swift source is open for audit, built on Apple's Network Extension, and it needs
+  macOS 14 or later.
+description: A Mac firewall and connection monitor that shows which apps connect where and lets you
+  block them.
 sourceDescription: Open-source, auditable application firewall and connection monitor for macOS.
 platforms:
   - macos
@@ -37,7 +40,7 @@ caveats:
   - Requires macOS 14 or later.
   - Development builds of the installed network filter require a paid Apple Developer account.
 seo:
-  title: Shieldxy – Open Source Application Firewall for macOS
+  title: "Shieldxy: Application Firewall for Mac"
   description: Shieldxy is an auditable application firewall and connection monitor for macOS, with
     explicit controls over local network access. AGPL-3.0, free on GitHub.
 addedAt: 2026-08-27

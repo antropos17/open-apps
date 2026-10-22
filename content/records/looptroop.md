@@ -7,8 +7,8 @@ category: developer-tools
 stack: react
 summary: A local application and web interface for running AI coding agents in parallel Git
   worktrees, comparing plans across models, and reviewing pull requests before merge.
-description: LoopTroop is an open-source coding agent orchestrator with multi-model planning
-  councils, isolated Git worktrees, and human approval gates.
+description: Run AI coding agents in parallel on your repo, compare their plans and approve each pull
+  request.
 sourceDescription: "Local AI coding orchestration for repo-scale work: LLM-council planning,
   Ralph-loop recovery, isolated OpenCode worktrees, and human-gated PR delivery."
 platforms:
@@ -47,7 +47,7 @@ whyListed:
 caveats:
   - Requires Node.js 20+, Git, and API keys or local model endpoints for the selected providers.
 seo:
-  title: LoopTroop – Open Source Coding Agent Orchestrator
+  title: "LoopTroop: Coding Agent Orchestrator"
   description: LoopTroop runs AI coding agents in parallel Git worktrees, compares plans across models and adds human approval before merge. MIT, local app and web UI.
 addedAt: 2026-09-22
 source:

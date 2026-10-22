@@ -4,11 +4,10 @@ repoUrl: https://github.com/excalidraw/excalidraw
 projectType: real-app
 category: productivity
 stack: react
-summary: An infinite, hand-drawn-style whiteboard for diagrams, wireframes and sketches, with
-  real-time collaboration, end-to-end encryption, offline support and an open `.excalidraw` file
-  format — at excalidraw.com, self-hosted with Docker, or embedded as an npm package.
-description: Excalidraw is an MIT-licensed virtual whiteboard for hand-drawn-style diagrams, with
-  end-to-end encrypted live collaboration, local-first autosave and a React component for embedding.
+summary: An infinite whiteboard for hand-drawn-style diagrams, wireframes and sketches, with live
+  collaboration that is end-to-end encrypted and works offline. Use it at excalidraw.com, self-host it
+  with Docker or embed it as an npm package; drawings use an open .excalidraw file format.
+description: A hand-drawn-style whiteboard for diagrams and sketches, with encrypted live collaboration.
 sourceDescription: Virtual whiteboard for sketching hand-drawn like diagrams
 platforms:
   - web
@@ -54,7 +53,7 @@ relations:
       url: https://github.com/excalidraw/excalidraw
       checkedAt: 2026-09-29
 seo:
-  title: Excalidraw – Open Source Hand-Drawn Whiteboard
+  title: "Excalidraw Review: Hand-Drawn Whiteboard"
   description: Excalidraw is a whiteboard for hand-drawn-style diagrams and wireframes, with
     end-to-end encrypted collaboration, offline use and Docker self-hosting. MIT.
 addedAt: 2026-09-29

@@ -4,11 +4,10 @@ repoUrl: https://github.com/toeverything/AFFiNE
 projectType: real-app
 category: productivity
 stack: react
-summary: A local-first workspace where documents and an edgeless whiteboard are the same canvas —
-  rich text, sticky notes, embeds, multi-view databases, linked pages, shapes and slides — with
-  real-time sync, AI features, desktop apps and a self-hosted server.
-description: AFFiNE is an open-source knowledge base that merges docs, whiteboard and databases on one
-  canvas, with local-first storage, real-time collaboration and Docker self-hosting.
+summary: A local-first workspace where your documents and a whiteboard are the same canvas, with
+  real-time sync, AI features, desktop apps and a self-hosted server. Pages hold rich text, sticky
+  notes, embeds, multi-view databases, linked pages, shapes and slides.
+description: Docs, databases and a whiteboard on one local-first canvas, with desktop apps and Docker self-hosting.
 sourceDescription: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen
   knowledge base that brings planning, sorting and creating all together. Privacy first,
   open-source, customizable and ready to use.
@@ -74,7 +73,7 @@ relations:
       quote: A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro.
       checkedAt: 2026-09-29
 seo:
-  title: AFFiNE – Open Source Notion & Miro Alternative, Local-First
+  title: "AFFiNE Review: Notion and Miro Alternative"
   description: AFFiNE puts docs, databases and a whiteboard on one canvas, local-first with sync,
     desktop apps and Docker self-hosting. MIT client, open-core server.
 addedAt: 2026-09-29

@@ -8,9 +8,8 @@ stack: tauri
 summary: A Windows workspace for keeping useful WeChat information searchable instead of buried in
   chat history. The default workflow is read-only and stores normalized messages and briefings in a
   local SQLite database.
-description: Weiyu is a local-first Windows desktop app that turns readable WeChat messages into
-  searchable daily briefings, with history, speech-to-text, AI-assisted analysis, and a Codex
-  bridge.
+description: A Windows app that turns your WeChat messages into searchable daily briefings, stored
+  locally.
 sourceDescription: Local-first Windows WeChat archive and daily briefing workspace
 platforms:
   - windows
@@ -33,7 +32,7 @@ tags:
   - chat
   - notes
 seo:
-  title: Weiyu – Open Source Local-First WeChat Archive for Windows
+  title: "Weiyu: Local WeChat Archive for Windows"
   description: Weiyu is a local-first Windows app that turns readable WeChat messages into searchable
     daily briefings, with history and AI analysis. MIT.
 addedAt: 2026-08-27

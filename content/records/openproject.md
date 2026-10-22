@@ -3,11 +3,11 @@ name: OpenProject
 repoUrl: https://github.com/opf/openproject
 projectType: real-app
 category: productivity
-summary: A web-based project, portfolio and product management platform — work packages, agile
-  boards, Gantt charts, roadmaps, time and cost tracking, wikis and meetings — self-hosted as the
-  GPL-3.0 Community edition or run as OpenProject's cloud.
-description: OpenProject is a GPL-3.0 project management platform for organisations that want a
-  self-hosted alternative to Jira and MS Project, with agile boards, Gantt planning and time tracking.
+summary: Self-hosted project management and a Jira and MS Project alternative, with agile boards,
+  Gantt charts, roadmaps, time and cost tracking, wikis and meetings. It is a web platform for
+  project, portfolio and product management, self-hosted as the GPL-3.0 Community edition or run as
+  OpenProject's cloud.
+description: Self-hosted project management with agile boards, Gantt charts and time tracking, a Jira alternative.
 sourceDescription: OpenProject is the leading open source project management software for product,
   project and portfolio management. A powerful Jira alternative with agile planning, issue tracking,
   roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or
@@ -60,7 +60,7 @@ relations:
         time tracking
       checkedAt: 2026-09-29
 seo:
-  title: OpenProject – Open Source Jira Alternative, Self-Hosted
+  title: "OpenProject Review: Self-Hosted Jira Alternative"
   description: OpenProject is self-hosted project management with agile boards, Gantt charts,
     roadmaps, time tracking, wikis and meetings. GPL-3.0 Jira alternative.
 addedAt: 2026-09-29

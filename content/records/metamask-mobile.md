@@ -4,13 +4,12 @@ repoUrl: https://github.com/MetaMask/metamask-mobile
 projectType: real-app
 category: finance
 stack: react-native
-summary: The dominant mobile Ethereum wallet in production. React Native on top of native iOS
-  (Swift/Obj-C) and Android (Kotlin/Java) modules, with a controller-based architecture
-  (KeyringController, TransactionController, AccountsController) and a growing multichain footprint
-  (EVM L2s, Solana, Bitcoin, Tron, Stellar).
-description: MetaMask Mobile is the official Consensys-maintained mobile wallet for the Ethereum
-  ecosystem, shipped as a React Native app with native iOS and Android modules that supports
-  multi-chain accounts, a built-in dapp browser, and self-custodial key management.
+summary: The official MetaMask wallet for iPhone and Android, a self-custodial crypto wallet with a
+  built-in browser for Ethereum apps and a growing multichain footprint (EVM L2s, Solana, Bitcoin,
+  Tron, Stellar). It is React Native on top of native iOS (Swift/Obj-C) and Android (Kotlin/Java)
+  modules, with a controller-based architecture (KeyringController, TransactionController,
+  AccountsController).
+description: Official MetaMask self-custodial crypto wallet for iOS and Android, with a built-in browser for Ethereum apps.
 sourceDescription: Mobile web browser providing access to websites that use the Ethereum blockchain.
 platforms:
   - android
@@ -37,7 +36,7 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: MetaMask Mobile – Open Source Ethereum Wallet
+  title: "MetaMask Mobile Review: Ethereum Wallet App"
   description: MetaMask Mobile is the official self-custodial Ethereum wallet for iOS and Android, with multi-chain accounts and a built-in dapp browser. React Native.
 addedAt: 2026-06-13
 source:

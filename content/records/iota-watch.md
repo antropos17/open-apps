@@ -3,7 +3,10 @@ name: "IOTA Watch"
 repoUrl: https://github.com/molimao/iota
 category: tools
 stack: react
-description: "Read-only dashboard for IOTA Train at Home, xCoin XID / MMM and Quantus QTC, with project-specific activity, reward records and data freshness indicators."
+summary: A read-only web dashboard where operators check public training and mining activity and
+  rewards for IOTA Train at Home, xCoin XID / MMM and Quantus QTC, without entering wallet keys. It
+  shows failed or stale readings instead of inventing zeros, and is available in five languages.
+description: "A read-only web dashboard for activity and rewards on IOTA Train at Home, xCoin XID and Quantus."
 sourceDescription: "Open-source five-language dashboard for IOTA Train at Home, xCoin XID / MMM and Quantus QTC: read-only status, rewards and network visualization."
 platforms:
   - web
@@ -33,7 +36,7 @@ caveats:
   - "XID readings cover the SuperKnet pool; Quantus indexed rewards are not a wallet balance or a promise of income."
   - "Independent self-hosting requires configuring optional OAuth and database services for account watchlists."
 seo:
-  title: IOTA Watch – Open Source Training and Mining Monitor
+  title: "IOTA Watch: Training and Mining Dashboard"
   description: IOTA Watch is a read-only web dashboard for IOTA Train at Home, xCoin XID / MMM and Quantus QTC, showing activity, rewards and data freshness. MIT.
 addedAt: 2026-10-03
 submittedBy: molimao

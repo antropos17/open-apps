@@ -3,12 +3,11 @@ name: Orbi
 repoUrl: https://github.com/orbi-build/orbi
 projectType: real-app
 category: developer-tools
-summary: A self-hosted delivery loop for GitHub — label an issue ai-ready and an agent writes the
-  code in an isolated worktree, opens a PR, gets reviewed by a second session against the issue's
-  acceptance criteria, merges, and later cuts a tagged release.
-description: Orbi is an AGPL-3.0 system that turns labelled GitHub issues into reviewed, merged pull
-  requests and tagged releases, using GitHub issues as its only state store; Orbi Cloud is the
-  hosted offering.
+summary: Label a GitHub issue and an AI agent writes the code, opens a pull request, has it reviewed
+  by a second agent, merges it and later cuts a release. It is a self-hosted loop that works in an
+  isolated worktree per issue, checks the work against the issue's acceptance criteria and uses
+  GitHub issues as its only state store; Orbi Cloud is the hosted offering.
+description: Self-hosted AI agent that turns labelled GitHub issues into reviewed, merged pull requests and releases.
 sourceDescription: "Open-source (AGPL-3.0), self-hostable lights-out software factory for the agent
   era: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release."
 platforms:
@@ -53,7 +52,7 @@ caveats:
     protection if you want a person in the loop.
   - Cutting a release needs a person to add the ai-release label to a release issue.
 seo:
-  title: Orbi – Open Source GitHub Issue-to-Release Coding Agent
+  title: "Orbi: AI Agent from GitHub Issue to Release"
   description: Orbi turns an ai-ready GitHub issue into a reviewed, merged PR and a tagged release.
     AGPL-3.0, self-hosted on Linux, with an optional hosted cloud.
 addedAt: 2026-10-10

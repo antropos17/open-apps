@@ -4,12 +4,12 @@ repoUrl: https://github.com/michaelwilhelmsen/humla
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Tauri 2, Rust and Swift app inspired by Granola. It transcribes with local Whisper or a
-  provider chosen per language, labels speakers on-device, and answers questions about past meetings
-  with cited notes.
-description: Humla is an MIT-licensed AI meeting-notes app for Apple Silicon Macs that records mic
-  and system audio as two streams, identifies speakers offline and merges your notes with the
-  transcript.
+summary: AI meeting notes for Apple Silicon Macs, inspired by Granola, that record your calls with
+  no bot joining and label speakers on the device. It transcribes with local Whisper or a provider
+  chosen per language, and answers questions about past meetings with cited notes; it is built with
+  Tauri 2, Rust and Swift.
+description: AI meeting notes for Apple Silicon Macs that record calls with no bot and label speakers
+  offline.
 sourceDescription: Open-source AI meeting notes for Mac. Records mic + system audio with no bot,
   transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes
   summaries that fuse your notes with the transcript.
@@ -59,7 +59,7 @@ relations:
       quote: granola-alternative
       checkedAt: 2026-09-22
 seo:
-  title: Humla – Open Source AI Meeting Notes for Mac
+  title: "Humla Review: Granola Alternative for Mac"
   description: Humla records meetings on Apple Silicon Macs with no bot, transcribes with local
     Whisper or your own API key and labels speakers offline. MIT, early-stage.
 addedAt: 2026-09-22

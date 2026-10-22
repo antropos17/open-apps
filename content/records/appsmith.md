@@ -4,11 +4,10 @@ repoUrl: https://github.com/appsmithorg/appsmith
 projectType: real-app
 category: developer-tools
 stack: react
-summary: A low-code platform for admin panels, dashboards and internal tools — drag-and-drop widgets,
-  queries against databases and APIs, JavaScript anywhere, Git version control — Apache-2.0 Community
-  Edition, self-hosted with Docker or Kubernetes, or on Appsmith Cloud.
-description: Appsmith is an Apache-licensed, self-hostable low-code platform for building internal
-  tools, admin panels and dashboards on top of your databases and APIs.
+summary: A low-code platform for building admin panels, dashboards and internal tools on top of your
+  databases and APIs, self-hosted or on Appsmith Cloud. Drag-and-drop widgets, JavaScript anywhere
+  and Git version control, with an Apache-2.0 Community Edition on Docker or Kubernetes.
+description: Build admin panels, dashboards and internal tools on your databases and APIs, self-hosted.
 sourceDescription: Platform to build admin panels, internal tools, and dashboards. Integrates with 25+
   databases and any API.
 platforms:
@@ -57,9 +56,9 @@ relations:
       quote: Top 5 Retool Alternatives & Competitors in 2025
       checkedAt: 2026-09-29
 seo:
-  title: Appsmith – Open Source Low-Code Internal Tool Builder
+  title: "Appsmith Review: Retool Alternative"
   description: Appsmith builds admin panels, dashboards and internal tools on 25+ databases and any API,
-    with Git versioning. Apache-2.0, self-hosted or on Appsmith Cloud.
+    with Git versioning. Apache-2.0, self-hosted or Appsmith Cloud.
 addedAt: 2026-09-29
 source:
   type: manual

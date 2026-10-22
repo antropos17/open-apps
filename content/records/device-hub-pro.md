@@ -2,8 +2,11 @@
 name: Device Hub Pro
 repoUrl: https://github.com/gitemre/device-hub-pro
 category: developer-tools
-stack: ios
-description: Native macOS app to manage and mirror Android emulators, Android phones, iOS simulators and iPhones side by side.
+stack: macos
+summary: A Mac app for mobile developers that mirrors and controls Android emulators, Android phones,
+  iOS simulators and iPhones side by side in one window. A controls panel sets network, battery,
+  location, appearance, permissions, deep links and push notifications.
+description: Mirror and control Android emulators, phones, iOS simulators and iPhones side by side on your Mac.
 platforms:
   - macos
 licenses:
@@ -33,7 +36,7 @@ caveats:
   - Needs macOS 26 or later
   - Young project (public since October 2026)
 seo:
-  title: Device Hub Pro – Open Source Android and iOS Device Manager
+  title: "Device Hub Pro: Phone Mirroring for Mac"
   description: Device Hub Pro mirrors and controls Android emulators, Android phones, iOS simulators
     and iPhones side by side in one native macOS window. MIT-licensed.
 addedAt: 2026-10-16

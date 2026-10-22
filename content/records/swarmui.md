@@ -3,11 +3,11 @@ name: SwarmUI
 repoUrl: https://github.com/mcmonkeyprojects/SwarmUI
 projectType: real-app
 category: media
-summary: A self-hosted web UI for AI image and video generation that puts a beginner-friendly
-  Generate tab, image editor and grid generator on top of a ComfyUI backend, with the raw ComfyUI
-  graph one tab away and the option to spread work across several GPUs.
-description: SwarmUI (formerly StableSwarmUI) is an MIT-licensed web interface for generating images
-  and video with open models locally, using ComfyUI as its backend.
+summary: A beginner-friendly web app for making AI images and video on your own computer, with a
+  simple Generate tab, an image editor and a grid for comparing prompts and models. It runs on a
+  ComfyUI backend, keeps the raw ComfyUI graph one tab away and can spread work across several GPUs.
+description: A beginner-friendly web app for generating AI images and video locally, built on
+  ComfyUI.
 sourceDescription: SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
   with an emphasis on making powertools easily accessible, high performance, and extensibility.
 platforms:
@@ -51,7 +51,7 @@ caveats:
   - It depends on ComfyUI, which it installs as its backend; ComfyUI is GPL-3.0.
   - On macOS it runs only on Apple Silicon; installing needs .NET, Git and Python.
 seo:
-  title: SwarmUI – Open Source Web UI for AI Image Generation
+  title: "SwarmUI Review: Local AI Image Generator"
   description: SwarmUI is a beginner-friendly web UI for local AI image and video generation on top of
     ComfyUI, with an image editor and grid generator. MIT.
 addedAt: 2026-09-29

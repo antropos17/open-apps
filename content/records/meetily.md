@@ -4,11 +4,11 @@ repoUrl: https://github.com/Zackriya-Solutions/meetily
 projectType: real-app
 category: productivity
 stack: tauri
-summary: A Rust and Tauri desktop app that captures meetings, transcribes them in real time with
-  local Whisper or Parakeet models and writes summaries through Ollama — the community edition
-  processes everything on the machine.
-description: Meetily is an MIT-licensed AI meeting assistant for macOS and Windows that transcribes
-  live with Whisper or Parakeet and summarises with a local Ollama model, without a cloud service.
+summary: An AI meeting assistant for macOS and Windows that records meetings, transcribes them live
+  and writes summaries, with everything processed on your own machine. The community edition is a
+  Rust and Tauri desktop app using local Whisper or Parakeet models for transcription and Ollama for
+  summaries.
+description: Local AI meeting assistant for Mac and Windows that transcribes live and summarises without a cloud service.
 sourceDescription: Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live
   transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing.
   no cloud required.
@@ -66,7 +66,7 @@ relations:
       type: editorial
       checkedAt: 2026-09-22
 seo:
-  title: Meetily – Open Source Local AI Meeting Assistant
+  title: "Meetily Review: Local AI Meeting Assistant"
   description: Meetily records, transcribes and summarises meetings on your own Mac or Windows PC with
     Whisper, Parakeet and Ollama. MIT community edition, paid PRO tier.
 addedAt: 2026-09-22

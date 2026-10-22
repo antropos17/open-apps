@@ -4,10 +4,10 @@ repoUrl: https://github.com/zachlatta/freeflow
 projectType: real-app
 category: productivity
 summary: A native Mac dictation app — hold Fn, speak, and a fast hosted model transcribes and cleans
-  up what you said using nearby app context and your custom vocabulary, then pastes it; an Edit Mode
-  rewrites selected text by voice.
-description: FreeFlow is an MIT-licensed Mac dictation app that transcribes and cleans up speech with
-  Groq or any OpenAI-compatible provider you configure, with no FreeFlow server in between.
+  up what you said, then pastes it. It uses nearby app context and your custom vocabulary, and an
+  Edit Mode rewrites selected text by voice.
+description: Free Mac dictation that cleans up your speech with Groq or any OpenAI-compatible provider
+  you choose.
 sourceDescription: Free & fast alternative to Wispr Flow
 platforms:
   - macos
@@ -49,7 +49,7 @@ relations:
       quote: Free and open source alternative to Wispr Flow, Superwhisper, and Monologue.
       checkedAt: 2026-09-28
 seo:
-  title: FreeFlow – Open Source Wispr Flow Alternative for Mac
+  title: "FreeFlow Review: Wispr Flow Alternative for Mac"
   description: FreeFlow is a free Mac dictation app that cleans up your speech with app context and
     custom vocabulary, via Groq or any OpenAI-compatible provider. MIT.
 addedAt: 2026-09-28

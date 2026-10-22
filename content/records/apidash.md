@@ -1,17 +1,16 @@
 ---
-name: apidash
+name: API Dash
 repoUrl: https://github.com/foss42/apidash
 projectType: real-app
 category: tools
 stack: flutter
-summary: Open-source API client written in Flutter so one Dart codebase ships to iOS, macOS,
-  Windows, and Linux. Its codegen layer is a thin dispatcher over per-language templates (curl, HAR,
+summary: An API client for building, sending and inspecting web API requests on macOS, Windows,
+  Linux and iOS, with code generation for 20+ languages. It handles HTTP, GraphQL and SSE, is
+  written in Flutter, and its codegen layer is a thin dispatcher over per-language templates (curl, HAR,
   Python/requests, Rust/reqwest, JS fetch/axios, Go net/http, etc.) and its import layer covers
   Postman, cURL, Insomnia, OpenAPI, and HAR — a breadth most paid clients gate behind collaboration
   tiers.
-description: API Dash is a Flutter-based cross-platform API client for building, sending, and
-  inspecting HTTP, GraphQL, and SSE requests, with code generation for 20+ languages and an optional
-  LLM assistant called DashBot that runs locally or against a cloud model.
+description: A cross-platform API client for testing web APIs, with code generation for 20+ languages.
 sourceDescription: API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile)
   API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL
   API requests, visually inspect responses and generate API integration code. A lightweight
@@ -56,7 +55,7 @@ relations:
       quote: alternative to postman/insomnia
       checkedAt: 2026-09-22
 seo:
-  title: API Dash – Open Source API Client Built with Flutter
+  title: "API Dash Review: Cross-Platform API Client"
   description: API Dash builds and tests HTTP, GraphQL and SSE requests and generates code in 20+
     languages, on macOS, Windows, Linux and iOS. Apache-2.0, Flutter.
 addedAt: 2026-08-11

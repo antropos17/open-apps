@@ -4,11 +4,11 @@ repoUrl: https://github.com/invoke-ai/InvokeAI
 projectType: real-app
 category: media
 stack: react
-summary: A locally run AI image studio with a layered canvas for inpainting and outpainting, a
-  gallery organised into boards, node-based workflows and a model manager — installed with a
-  launcher on Windows, macOS and Linux, and now maintained by its community.
-description: Invoke (formerly InvokeAI) is an Apache-2.0 application for generating and editing
-  images with Stable Diffusion, Flux and other open models on your own GPU.
+summary: An AI image studio that runs on your own GPU, with a layered canvas for inpainting and
+  outpainting and a gallery organised into boards. It adds node-based workflows and a model manager,
+  installs with a launcher on Windows, macOS and Linux, and is now maintained by its community.
+description: Generate and edit images on your own GPU with Stable Diffusion, Flux and other open
+  models.
 sourceDescription: Invoke is a leading creative engine for Stable Diffusion models, empowering
   professionals, artists, and enthusiasts to generate and create visual media using the latest
   AI-driven technologies. The solution offers an industry leading WebUI, and serves as the
@@ -50,7 +50,7 @@ caveats:
   - Needs a capable GPU or Apple Silicon; the macOS launcher is for Apple Silicon only.
   - Model weights carry their own licences, separate from Invoke's Apache-2.0 licence.
 seo:
-  title: Invoke – Open Source AI Image Studio with Canvas
+  title: "Invoke Review: Local AI Image Studio"
   description: Invoke generates and edits images locally with Stable Diffusion, Flux and other open
     models, on a layered canvas with node workflows. Apache-2.0.
 addedAt: 2026-09-29

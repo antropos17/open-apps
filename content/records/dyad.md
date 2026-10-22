@@ -3,12 +3,10 @@ name: Dyad
 repoUrl: https://github.com/dyad-sh/dyad
 projectType: real-app
 category: developer-tools
-summary: A desktop AI app builder — describe an app and Dyad generates and runs it on your machine,
-  with your own model keys, local models through Ollama, and no sign-up — the Lovable, v0 and Bolt
+summary: A desktop AI app builder — describe an app and Dyad builds and runs it on your machine, with
+  your own model keys or local models through Ollama and no sign-up. It is the Lovable, v0 and Bolt
   workflow without a hosted service.
-description: Dyad is a local AI app builder for macOS, Windows and Linux that turns prompts into
-  working apps on your own computer with your own API keys. Apache-2.0, with Pro features under a
-  separate licence.
+description: Build apps from prompts on your own computer with your own AI keys or local models, no sign-up.
 sourceDescription: Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt
   alternative
 platforms:
@@ -56,7 +54,7 @@ relations:
       quote: Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative
       checkedAt: 2026-09-29
 seo:
-  title: Dyad – Open Source Local Lovable and v0 Alternative
+  title: "Dyad Review: Local Lovable and v0 Alternative"
   description: Dyad builds apps from prompts on your own computer with your own AI keys or local models,
     on macOS, Windows and Linux. Apache-2.0 core, no sign-up.
 addedAt: 2026-09-29

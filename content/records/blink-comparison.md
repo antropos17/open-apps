@@ -4,11 +4,12 @@ repoUrl: https://github.com/proninyaroslav/blink-comparison
 projectType: real-app
 category: tools
 stack: flutter
-description: Simplifies comparing photos of tamper-evident seals and patterns using your eyes
+summary: An Android app that helps you check a tamper-evident seal by flicking between a reference
+  photo and a new one, so changes stand out to the eye. It is available on F-Droid and Google Play.
+description: Check tamper-evident seals on Android by flicking between a reference photo and a new one.
 sourceDescription: Simplifies comparing photos of tamper-evident seals and patterns using your eyes
 platforms:
   - android
-  - ios
 licenses:
   - gpl-3.0
 links:
@@ -21,9 +22,9 @@ bestFor: []
 whyListed: []
 caveats: []
 seo:
-  title: Blink Comparison – Open Source Tamper-Evident Seal Checker
+  title: "Blink Comparison: Tamper-Evident Seal Checker"
   description: Blink Comparison helps you spot tampering by comparing photos of tamper-evident seals
-    by eye. A GPL-3.0 app for Android and iOS, built with Flutter.
+    by eye. A GPL-3.0 Android app on F-Droid and Google Play.
 addedAt: 2026-06-07
 source:
   type: import

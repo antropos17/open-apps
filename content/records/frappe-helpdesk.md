@@ -6,8 +6,8 @@ category: business
 summary: A ticket management app on the Frappe Framework with separate agent and customer portals,
   SLAs, assignment rules, a knowledge base and saved replies, self-hosted with an install script or
   Docker, or run on Frappe Cloud.
-description: Frappe Helpdesk is an AGPL-3.0 customer service and ticketing app from the makers of
-  ERPNext, self-hosted or on Frappe Cloud.
+description: A customer service and ticketing app from the makers of ERPNext, self-hosted or on Frappe
+  Cloud.
 sourceDescription: Modern, Streamlined, Free and Open Source Customer Service Software
 platforms:
   - web
@@ -53,7 +53,7 @@ relations:
       url: https://github.com/frappe/helpdesk
       checkedAt: 2026-09-29
 seo:
-  title: Frappe Helpdesk – Open Source Ticketing and Customer Service
+  title: "Frappe Helpdesk Review: Zendesk Alternative"
   description: Frappe Helpdesk is a self-hosted ticketing app with agent and customer portals, SLAs
     and a knowledge base, from the makers of ERPNext. AGPL-3.0.
 addedAt: 2026-09-29

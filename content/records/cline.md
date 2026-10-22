@@ -6,8 +6,7 @@ category: developer-tools
 summary: An autonomous coding agent for VS Code, the terminal and the desktop that plans, edits
   files across the project, runs commands and browses, asking for approval at each step — with any
   model, including local ones.
-description: Cline is an Apache-2.0 AI coding agent that runs as a VS Code extension, a CLI and a
-  desktop app, with human-in-the-loop approval and a choice of model providers.
+description: An AI coding agent for VS Code, the terminal and desktop that asks before every edit and command.
 sourceDescription: Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 platforms:
   - macos
@@ -57,7 +56,7 @@ relations:
       url: https://github.com/cline/cline
       checkedAt: 2026-09-29
 seo:
-  title: Cline – Open Source AI Coding Agent for VS Code
+  title: "Cline Review: AI Coding Agent for VS Code"
   description: Cline is an Apache-2.0 coding agent for VS Code, the terminal and desktop that plans,
     edits and runs commands with your approval, using any model.
 addedAt: 2026-09-29

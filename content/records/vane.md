@@ -3,11 +3,12 @@ name: Vane
 repoUrl: https://github.com/ItzCrazyKns/Vane
 projectType: real-app
 category: productivity
-summary: A self-hosted AI answering engine, formerly Perplexica — it searches the web through a bundled
-  SearxNG, then answers with cited sources using a local model through Ollama or a cloud provider,
-  with speed, balanced and quality modes, file uploads and local search history.
-description: Vane, formerly Perplexica, is an MIT-licensed, self-hosted AI search and answering engine
-  that runs in one Docker container with local or cloud models and private web search.
+summary: A self-hosted AI search engine, formerly Perplexica, that searches the web privately and
+  answers with cited sources using a local or cloud model. Searches go through a bundled SearxNG,
+  models run through Ollama or a cloud provider, and it adds speed, balanced and quality modes, file
+  uploads and local search history.
+description: A self-hosted Perplexity-style AI search engine that answers with sources, using local
+  or cloud models.
 sourceDescription: Vane is an AI-powered answering engine.
 platforms:
   - web
@@ -39,7 +40,7 @@ caveats:
   - The project was renamed from Perplexica; older guides and Docker images use the old name.
   - The last tagged release is v1.12.2 from April 2026; development continues on master.
 seo:
-  title: Vane (Perplexica) – Open Source Self-Hosted AI Answer Engine
+  title: "Vane Review: Self-Hosted Perplexity Alternative"
   description: Vane, formerly Perplexica, is a self-hosted AI answer engine that searches the web and
     replies with cited sources using local or cloud models. MIT.
 addedAt: 2026-09-29

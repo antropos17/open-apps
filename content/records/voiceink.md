@@ -3,11 +3,11 @@ name: VoiceInk
 repoUrl: https://github.com/Beingpax/VoiceInk
 projectType: real-app
 category: productivity
-summary: A native macOS dictation app that transcribes on-device with whisper.cpp, Parakeet and other
-  local models, applies per-app "modes" that reformat text for where you are typing, and includes a
-  personal dictionary and a voice assistant.
-description: VoiceInk is a GPL-3.0 macOS dictation app that transcribes on the device and adapts its
-  output to the app or website you are using. Official builds are paid; the source is free.
+summary: A Mac dictation app that transcribes on your device and reformats the text for the app you
+  are typing in, with a personal dictionary and a voice assistant. It uses whisper.cpp, Parakeet and
+  other local models; official builds are paid, the source is free.
+description: Mac dictation that transcribes on your device and adapts the text to the app you are
+  typing in.
 sourceDescription: The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app
   for macOS with no subscription
 platforms:
@@ -57,7 +57,7 @@ relations:
       quote: The best open-source alternative to Superwhisper & Wispr Flow.
       checkedAt: 2026-09-28
 seo:
-  title: VoiceInk – Open Source On-Device Dictation for Mac
+  title: "VoiceInk Review: Wispr Flow Alternative for Mac"
   description: VoiceInk transcribes speech on your Mac with local models and adapts the text to each
     app you type in. GPL-3.0; official builds are paid.
 addedAt: 2026-09-28
