@@ -3,18 +3,18 @@
   "slug": "device-hub-pro",
   "repoUrl": "https://github.com/gitemre/device-hub-pro",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:03.741Z",
+  "lastSuccessAt": "2026-10-22T15:02:50.377Z",
   "partialFailures": [],
   "sourceDescription": "Android and iOS devices, side by side on your Mac. Mirror, control, change settings and capture — free and open source.",
   "github": {
     "repository": {
       "full_name": "gitemre/device-hub-pro",
-      "stargazers_count": 88,
-      "forks_count": 9,
+      "stargazers_count": 128,
+      "forks_count": 11,
       "open_issues_count": 0,
       "language": "Swift",
-      "pushed_at": "2026-10-16T10:16:49Z",
-      "updated_at": "2026-10-16T10:16:49Z",
+      "pushed_at": "2026-10-22T10:23:42Z",
+      "updated_at": "2026-10-22T13:47:07Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -45,10 +45,10 @@
         "xcode"
       ]
     },
-    "latestReleaseAt": "2026-10-15T22:32:14Z",
+    "latestReleaseAt": "2026-10-22T10:23:25Z",
     "homepage": "https://gitemre.github.io/device-hub-pro/",
     "sync": {
-      "syncedAt": "2026-10-18T07:52:03.741Z",
+      "syncedAt": "2026-10-22T15:02:50.377Z",
       "source": "api"
     }
   },
@@ -74,15 +74,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/gitemre/device-hub-pro/releases/latest",
         "facts": {
-          "tag": "v1.1.4",
+          "tag": "v1.2.0",
           "assets": [
-            "DeviceHubPro-1.1.4.dmg"
+            "DeviceHubPro-1.2.0.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/gitemre/device-hub-pro/releases/tag/v1.1.4",
-          "fetchedAt": "2026-10-17T15:53:40.191Z"
+          "url": "https://github.com/gitemre/device-hub-pro/releases/tag/v1.2.0",
+          "fetchedAt": "2026-10-22T15:02:47.765Z"
         }
       }
     ],

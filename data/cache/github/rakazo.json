@@ -3,7 +3,7 @@
   "slug": "rakazo",
   "repoUrl": "https://github.com/elie222/rakazo",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:06.105Z",
+  "lastSuccessAt": "2026-10-22T15:09:13.829Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:38.204Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "elie222/rakazo",
-      "stargazers_count": 4491,
-      "forks_count": 809,
-      "open_issues_count": 58,
+      "stargazers_count": 5190,
+      "forks_count": 936,
+      "open_issues_count": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T05:49:35Z",
-      "updated_at": "2026-10-18T07:52:10Z",
+      "pushed_at": "2026-10-22T13:36:33Z",
+      "updated_at": "2026-10-22T15:07:47Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -60,10 +60,10 @@
         "typescript"
       ]
     },
-    "latestReleaseAt": "2026-10-10T22:46:38Z",
+    "latestReleaseAt": "2026-10-22T10:40:11Z",
     "homepage": "https://rakazo.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:57:06.105Z",
+      "syncedAt": "2026-10-22T15:09:13.829Z",
       "source": "api"
     }
   },
@@ -90,15 +90,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/elie222/rakazo/releases/latest",
         "facts": {
-          "tag": "v0.2.0",
+          "tag": "v0.3.3",
           "assets": [
-            "Rakazo-0.2.0.AppImage"
+            "Rakazo-0.3.3.AppImage"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/elie222/rakazo/releases/tag/v0.2.0",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/releases/tag/v0.3.3",
+          "fetchedAt": "2026-10-22T15:09:10.754Z"
         }
       },
       {
@@ -107,45 +107,45 @@
         "label": "GitHub Releases",
         "url": "https://github.com/elie222/rakazo/releases/latest",
         "facts": {
-          "tag": "v0.2.0",
+          "tag": "v0.3.3",
           "assets": [
-            "Rakazo-0.2.0-universal.dmg"
+            "Rakazo-0.3.3-universal.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/elie222/rakazo/releases/tag/v0.2.0",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/releases/tag/v0.3.3",
+          "fetchedAt": "2026-10-22T15:09:10.754Z"
         }
       }
     ],
     "logos": [
       {
-        "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/web/public/icon-512.png",
+        "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/web/public/icon-512.png",
         "path": "apps/web/public/icon-512.png",
-        "blobSha": "ea97947c6589bca3fa53cee9cf9192d42105932b",
+        "blobSha": "6a4d91e6567d47ea27ef4a78f74b0ec0cb0b44a9",
         "format": "png",
-        "bytes": 347145,
+        "bytes": 347705,
         "width": 512,
         "height": 512,
         "provenance": {
           "source": "web-manifest",
-          "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/web/public/site.webmanifest",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/web/public/site.webmanifest",
+          "fetchedAt": "2026-10-22T15:09:10.754Z"
         }
       },
       {
-        "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/desktop/assets/icon.png",
+        "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/desktop/assets/icon.png",
         "path": "apps/desktop/assets/icon.png",
-        "blobSha": "618e7f0e0590311bab422026d135b87f3aa1a0d6",
+        "blobSha": "7354fc44f04093a34a70249b70b6eb1124d0781f",
         "format": "png",
-        "bytes": 1406227,
+        "bytes": 1408793,
         "width": 1024,
         "height": 1024,
         "provenance": {
           "source": "repo-asset",
-          "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/desktop/assets/icon.png",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/desktop/assets/icon.png",
+          "fetchedAt": "2026-10-22T15:09:10.754Z"
         }
       },
       {
@@ -163,17 +163,17 @@
         }
       },
       {
-        "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/web/public/icon-192.png",
+        "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/web/public/icon-192.png",
         "path": "apps/web/public/icon-192.png",
-        "blobSha": "3ab7a98216c92427359f0db908e47607f828a261",
+        "blobSha": "4fa5faf62141381852327d237580eec291f5d564",
         "format": "png",
-        "bytes": 51606,
+        "bytes": 51774,
         "width": 192,
         "height": 192,
         "provenance": {
           "source": "repo-asset",
-          "url": "https://github.com/elie222/rakazo/blob/9e9848b577cfb9c52abc1546111a93328ea74095/apps/web/public/icon-192.png",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/blob/86b67f58359e4a9966ce9af98d1128921ff794ce/apps/web/public/icon-192.png",
+          "fetchedAt": "2026-10-22T15:09:10.754Z"
         }
       }
     ],

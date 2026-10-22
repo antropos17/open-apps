@@ -3,7 +3,7 @@
   "slug": "opnform",
   "repoUrl": "https://github.com/OpnForm/OpnForm",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:56:17.816Z",
+  "lastSuccessAt": "2026-10-22T15:08:13.952Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:17:06.476Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "OpnForm/OpnForm",
-      "stargazers_count": 3846,
-      "forks_count": 553,
-      "open_issues_count": 30,
+      "stargazers_count": 3861,
+      "forks_count": 554,
+      "open_issues_count": 22,
       "language": "PHP",
-      "pushed_at": "2026-10-17T18:57:24Z",
-      "updated_at": "2026-10-17T22:02:40Z",
+      "pushed_at": "2026-10-22T14:52:32Z",
+      "updated_at": "2026-10-22T14:54:26Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,10 +48,10 @@
         "saas"
       ]
     },
-    "latestReleaseAt": "2026-10-14T11:59:47Z",
+    "latestReleaseAt": "2026-10-22T06:02:20Z",
     "homepage": "https://opnform.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:56:17.816Z",
+      "syncedAt": "2026-10-22T15:08:13.952Z",
       "source": "api"
     }
   },

@@ -3,7 +3,7 @@
   "slug": "shieldxy",
   "repoUrl": "https://github.com/RockxyApp/Shieldxy",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:22.022Z",
+  "lastSuccessAt": "2026-10-22T15:09:32.148Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:51.907Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:57:22.022Z",
+      "syncedAt": "2026-10-22T15:09:32.148Z",
       "source": "api"
     },
     "repository": {
       "full_name": "RockxyApp/Shieldxy",
-      "stargazers_count": 4,
-      "forks_count": 2,
+      "stargazers_count": 18,
+      "forks_count": 1,
       "open_issues_count": 0,
       "language": "Swift",
       "pushed_at": "2026-09-04T08:15:05Z",
-      "updated_at": "2026-10-13T19:05:21Z",
+      "updated_at": "2026-10-19T13:09:58Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

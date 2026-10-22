@@ -3,7 +3,7 @@
   "slug": "voicestudio",
   "repoUrl": "https://github.com/debpalash/VoiceStudio",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:58:48.264Z",
+  "lastSuccessAt": "2026-10-22T15:11:11.684Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:32.995Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "debpalash/VoiceStudio",
-      "stargazers_count": 73895,
-      "forks_count": 8091,
-      "open_issues_count": 221,
+      "stargazers_count": 81316,
+      "forks_count": 8982,
+      "open_issues_count": 308,
       "language": "Python",
-      "pushed_at": "2026-10-18T07:51:57Z",
-      "updated_at": "2026-10-18T07:57:45Z",
+      "pushed_at": "2026-10-22T14:20:27Z",
+      "updated_at": "2026-10-22T15:09:46Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -73,7 +73,7 @@
     "latestReleaseAt": "2026-09-23T08:53:32Z",
     "homepage": "https://voicestudio.sh",
     "sync": {
-      "syncedAt": "2026-10-18T07:58:48.264Z",
+      "syncedAt": "2026-10-22T15:11:11.684Z",
       "source": "api"
     }
   },

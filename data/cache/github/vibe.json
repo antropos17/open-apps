@@ -3,7 +3,7 @@
   "slug": "vibe",
   "repoUrl": "https://github.com/thewh1teagle/vibe",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:58:33.985Z",
+  "lastSuccessAt": "2026-10-22T15:10:57.348Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:09.674Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "thewh1teagle/vibe",
-      "stargazers_count": 7813,
-      "forks_count": 566,
-      "open_issues_count": 232,
+      "stargazers_count": 7866,
+      "forks_count": 568,
+      "open_issues_count": 240,
       "language": "TypeScript",
       "pushed_at": "2026-10-06T11:28:19Z",
-      "updated_at": "2026-10-18T06:22:59Z",
+      "updated_at": "2026-10-22T14:48:16Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -51,7 +51,7 @@
     "latestReleaseAt": "2026-09-05T13:24:57Z",
     "homepage": "https://thewh1teagle.github.io/vibe/",
     "sync": {
-      "syncedAt": "2026-10-18T07:58:33.985Z",
+      "syncedAt": "2026-10-22T15:10:57.348Z",
       "source": "api"
     }
   },

@@ -3,7 +3,7 @@
   "slug": "eigent",
   "repoUrl": "https://github.com/eigent-ai/eigent",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:14.304Z",
+  "lastSuccessAt": "2026-10-22T15:03:02.823Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:45.474Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "eigent-ai/eigent",
-      "stargazers_count": 15590,
-      "forks_count": 1872,
-      "open_issues_count": 244,
+      "stargazers_count": 15636,
+      "forks_count": 1875,
+      "open_issues_count": 254,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T21:07:58Z",
-      "updated_at": "2026-10-18T07:42:09Z",
+      "pushed_at": "2026-10-20T10:05:08Z",
+      "updated_at": "2026-10-22T14:18:04Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-10-16T03:44:49Z",
     "homepage": "https://www.eigent.ai",
     "sync": {
-      "syncedAt": "2026-10-18T07:52:14.304Z",
+      "syncedAt": "2026-10-22T15:03:02.823Z",
       "source": "api"
     }
   },

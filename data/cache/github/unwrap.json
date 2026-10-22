@@ -3,7 +3,7 @@
   "slug": "unwrap",
   "repoUrl": "https://github.com/twostraws/Unwrap",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:58:25.824Z",
+  "lastSuccessAt": "2026-10-22T15:10:49.470Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:25.441Z",
@@ -187,7 +187,7 @@
       "contributorsKnown": 65
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:58:25.824Z",
+      "syncedAt": "2026-10-22T15:10:49.470Z",
       "source": "api"
     },
     "languages": {

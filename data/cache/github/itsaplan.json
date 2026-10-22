@@ -3,7 +3,7 @@
   "slug": "itsaplan",
   "repoUrl": "https://github.com/croffasia/itsaplan",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:53:42.800Z",
+  "lastSuccessAt": "2026-10-22T15:04:58.232Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:41.003Z",
@@ -31,16 +31,16 @@
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
-  "sourceDescription": "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+  "sourceDescription": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
   "github": {
     "repository": {
       "full_name": "croffasia/itsaplan",
-      "stargazers_count": 1275,
-      "forks_count": 202,
-      "open_issues_count": 50,
+      "stargazers_count": 1780,
+      "forks_count": 249,
+      "open_issues_count": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T06:31:49Z",
-      "updated_at": "2026-10-18T07:47:21Z",
+      "pushed_at": "2026-10-22T13:54:49Z",
+      "updated_at": "2026-10-22T14:32:20Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -71,10 +71,10 @@
         "trello-alternative"
       ]
     },
-    "latestReleaseAt": "2026-10-13T18:09:35Z",
+    "latestReleaseAt": "2026-10-22T11:27:29Z",
     "homepage": "https://itsaplan.dev/",
     "sync": {
-      "syncedAt": "2026-10-18T07:53:42.800Z",
+      "syncedAt": "2026-10-22T15:04:58.232Z",
       "source": "api"
     }
   },

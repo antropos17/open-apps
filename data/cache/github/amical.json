@@ -3,7 +3,7 @@
   "slug": "amical",
   "repoUrl": "https://github.com/amicalhq/amical",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:42.437Z",
+  "lastSuccessAt": "2026-10-22T15:00:32.147Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:11:39.675Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "amicalhq/amical",
-      "stargazers_count": 1560,
+      "stargazers_count": 1564,
       "forks_count": 142,
-      "open_issues_count": 62,
+      "open_issues_count": 61,
       "language": "TypeScript",
       "pushed_at": "2026-10-13T06:38:08Z",
-      "updated_at": "2026-10-18T02:43:46Z",
+      "updated_at": "2026-10-22T11:50:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     "latestReleaseAt": "2026-09-25T13:14:49Z",
     "homepage": "https://amical.ai",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:42.437Z",
+      "syncedAt": "2026-10-22T15:00:32.147Z",
       "source": "api"
     }
   },

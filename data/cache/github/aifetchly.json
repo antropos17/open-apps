@@ -3,7 +3,7 @@
   "slug": "aifetchly",
   "repoUrl": "https://github.com/robertzengcn/aiFetchly",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:32.501Z",
+  "lastSuccessAt": "2026-10-22T15:00:04.507Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:37.536Z",
@@ -39,8 +39,8 @@
       "forks_count": 0,
       "open_issues_count": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T03:52:34Z",
-      "updated_at": "2026-10-16T02:28:56Z",
+      "pushed_at": "2026-10-22T04:13:37Z",
+      "updated_at": "2026-10-22T00:41:35Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -50,9 +50,9 @@
       },
       "topics": []
     },
-    "latestReleaseAt": "2026-10-09T14:37:40Z",
+    "latestReleaseAt": "2026-10-22T04:13:37Z",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:32.501Z",
+      "syncedAt": "2026-10-22T15:00:04.507Z",
       "source": "api"
     }
   },
@@ -78,15 +78,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/robertzengcn/aiFetchly/releases/latest",
         "facts": {
-          "tag": "v1.1.109",
+          "tag": "v1.1.118",
           "assets": [
-            "aiFetchly-1.1.109-arm64.dmg"
+            "aiFetchly-1.1.118-arm64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/robertzengcn/aiFetchly/releases/tag/v1.1.109",
-          "fetchedAt": "2026-10-11T09:45:02.575Z"
+          "url": "https://github.com/robertzengcn/aiFetchly/releases/tag/v1.1.118",
+          "fetchedAt": "2026-10-22T15:00:00.690Z"
         }
       },
       {
@@ -95,7 +95,7 @@
         "label": "GitHub Releases",
         "url": "https://github.com/robertzengcn/aiFetchly/releases/latest",
         "facts": {
-          "tag": "v1.1.109",
+          "tag": "v1.1.118",
           "assets": [
             "AiFetchlySetup.exe",
             "aiFetchly.msi"
@@ -103,8 +103,8 @@
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/robertzengcn/aiFetchly/releases/tag/v1.1.109",
-          "fetchedAt": "2026-10-11T09:45:02.575Z"
+          "url": "https://github.com/robertzengcn/aiFetchly/releases/tag/v1.1.118",
+          "fetchedAt": "2026-10-22T15:00:00.690Z"
         }
       }
     ],

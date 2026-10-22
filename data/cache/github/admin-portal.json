@@ -3,7 +3,7 @@
   "slug": "admin-portal",
   "repoUrl": "https://github.com/invoiceninja/admin-portal",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:17.316Z",
+  "lastSuccessAt": "2026-10-22T14:59:42.941Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:29.572Z",
@@ -36,11 +36,11 @@
     "repository": {
       "full_name": "invoiceninja/admin-portal",
       "stargazers_count": 1755,
-      "forks_count": 584,
+      "forks_count": 583,
       "open_issues_count": 79,
       "language": "Dart",
       "pushed_at": "2026-10-15T09:44:28Z",
-      "updated_at": "2026-10-13T15:30:47Z",
+      "updated_at": "2026-10-21T09:54:43Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -62,7 +62,7 @@
     "latestReleaseAt": "2026-10-08T21:13:52Z",
     "homepage": "https://demo.invoiceninja.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:17.316Z",
+      "syncedAt": "2026-10-22T14:59:42.941Z",
       "source": "api"
     }
   },

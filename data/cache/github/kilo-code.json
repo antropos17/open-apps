@@ -3,7 +3,7 @@
   "slug": "kilo-code",
   "repoUrl": "https://github.com/Kilo-Org/kilocode",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:08.106Z",
+  "lastSuccessAt": "2026-10-22T15:05:29.089Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:00.997Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "Kilo-Org/kilocode",
-      "stargazers_count": 27650,
-      "forks_count": 3272,
-      "open_issues_count": 640,
+      "stargazers_count": 27704,
+      "forks_count": 3290,
+      "open_issues_count": 727,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T02:01:09Z",
-      "updated_at": "2026-10-18T07:48:44Z",
+      "pushed_at": "2026-10-22T14:57:43Z",
+      "updated_at": "2026-10-22T14:42:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -53,10 +53,10 @@
         "vscode-extension"
       ]
     },
-    "latestReleaseAt": "2026-10-16T19:48:28Z",
+    "latestReleaseAt": "2026-10-22T13:52:12Z",
     "homepage": "https://kilo.ai/",
     "sync": {
-      "syncedAt": "2026-10-18T07:54:08.106Z",
+      "syncedAt": "2026-10-22T15:05:29.089Z",
       "source": "api"
     }
   },
@@ -85,7 +85,7 @@
         "facts": {
           "repository": "chocolatey",
           "package": "kilocode",
-          "version": "7.8.8",
+          "version": "7.8.12",
           "project": "kilocode",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -93,7 +93,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/kilocode/versions",
-          "fetchedAt": "2026-10-12T13:50:31.491Z"
+          "fetchedAt": "2026-10-22T15:05:26.193Z"
         }
       }
     ],

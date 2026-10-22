@@ -3,7 +3,7 @@
   "slug": "humla",
   "repoUrl": "https://github.com/michaelwilhelmsen/humla",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:53:23.649Z",
+  "lastSuccessAt": "2026-10-22T15:04:34.545Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:29.592Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "michaelwilhelmsen/humla",
-      "stargazers_count": 314,
-      "forks_count": 45,
-      "open_issues_count": 21,
+      "stargazers_count": 320,
+      "forks_count": 41,
+      "open_issues_count": 22,
       "language": "Rust",
-      "pushed_at": "2026-10-16T11:50:12Z",
-      "updated_at": "2026-10-17T18:58:51Z",
+      "pushed_at": "2026-10-20T10:30:17Z",
+      "updated_at": "2026-10-21T03:02:29Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -71,10 +71,10 @@
         "whisper"
       ]
     },
-    "latestReleaseAt": "2026-10-16T11:50:21Z",
+    "latestReleaseAt": "2026-10-20T10:30:25Z",
     "homepage": "https://humla.team",
     "sync": {
-      "syncedAt": "2026-10-18T07:53:23.649Z",
+      "syncedAt": "2026-10-22T15:04:34.545Z",
       "source": "api"
     }
   },
@@ -100,15 +100,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/michaelwilhelmsen/humla/releases/latest",
         "facts": {
-          "tag": "v0.68.1",
+          "tag": "v0.70.0",
           "assets": [
-            "Humla_0.68.1_aarch64.dmg"
+            "Humla_0.70.0_aarch64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/michaelwilhelmsen/humla/releases/tag/v0.68.1",
-          "fetchedAt": "2026-10-17T15:55:01.820Z"
+          "url": "https://github.com/michaelwilhelmsen/humla/releases/tag/v0.70.0",
+          "fetchedAt": "2026-10-22T15:04:32.344Z"
         }
       }
     ],

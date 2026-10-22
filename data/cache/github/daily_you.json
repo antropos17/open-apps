@@ -3,7 +3,7 @@
   "slug": "daily_you",
   "repoUrl": "https://github.com/Demizo/Daily_You",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:01.030Z",
+  "lastSuccessAt": "2026-10-22T15:02:47.286Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:37.391Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "Demizo/Daily_You",
-      "stargazers_count": 1370,
-      "forks_count": 64,
-      "open_issues_count": 58,
+      "stargazers_count": 1381,
+      "forks_count": 65,
+      "open_issues_count": 60,
       "language": "Dart",
-      "pushed_at": "2026-10-14T04:33:51Z",
-      "updated_at": "2026-10-18T05:32:58Z",
+      "pushed_at": "2026-10-19T01:16:33Z",
+      "updated_at": "2026-10-22T09:55:23Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -61,9 +61,9 @@
         "privacy"
       ]
     },
-    "latestReleaseAt": "2026-10-09T03:34:00Z",
+    "latestReleaseAt": "2026-10-19T01:16:33Z",
     "sync": {
-      "syncedAt": "2026-10-18T07:52:01.030Z",
+      "syncedAt": "2026-10-22T15:02:47.286Z",
       "source": "api"
     }
   },
@@ -92,13 +92,13 @@
         "facts": {
           "appId": "com.demizo.daily_you",
           "suggestedVersionCode": 30060013,
-          "evidence": "https://github.com/Demizo/Daily_You/blob/405cea50b0930128a3506fd45f47f0972d5f4258/android/app/build.gradle",
+          "evidence": "https://github.com/Demizo/Daily_You/blob/d9615d8b9bdb8c4074ba5c50043d9c3ea93dd16a/android/app/build.gradle",
           "fastlane": "fastlane/metadata/android"
         },
         "provenance": {
           "source": "fdroid",
           "url": "https://f-droid.org/api/v1/packages/com.demizo.daily_you",
-          "fetchedAt": "2026-10-17T15:53:38.128Z"
+          "fetchedAt": "2026-10-22T15:02:45.509Z"
         }
       },
       {
@@ -107,17 +107,17 @@
         "label": "GitHub Releases",
         "url": "https://github.com/Demizo/Daily_You/releases/latest",
         "facts": {
-          "tag": "v3.6.1",
+          "tag": "v3.7.0",
           "assets": [
-            "daily-you-arm64-v8a-v3.6.1.apk",
-            "daily-you-armeabi-v7a-v3.6.1.apk",
-            "daily-you-x86_64-v3.6.1.apk"
+            "daily-you-arm64-v8a-v3.7.0.apk",
+            "daily-you-armeabi-v7a-v3.7.0.apk",
+            "daily-you-x86_64-v3.7.0.apk"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/Demizo/Daily_You/releases/tag/v3.6.1",
-          "fetchedAt": "2026-10-11T09:46:28.735Z"
+          "url": "https://github.com/Demizo/Daily_You/releases/tag/v3.7.0",
+          "fetchedAt": "2026-10-22T15:02:45.509Z"
         }
       }
     ],

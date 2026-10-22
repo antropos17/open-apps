@@ -3,7 +3,7 @@
   "slug": "waterfly-iii",
   "repoUrl": "https://github.com/dreautall/waterfly-iii",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:59:00.404Z",
+  "lastSuccessAt": "2026-10-22T15:11:26.007Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:38.489Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:59:00.404Z",
+      "syncedAt": "2026-10-22T15:11:26.007Z",
       "source": "api"
     },
     "repository": {
       "full_name": "dreautall/waterfly-iii",
-      "stargazers_count": 730,
+      "stargazers_count": 731,
       "forks_count": 66,
-      "open_issues_count": 41,
+      "open_issues_count": 46,
       "language": "Dart",
-      "pushed_at": "2026-10-14T01:12:33Z",
-      "updated_at": "2026-10-17T15:34:17Z",
+      "pushed_at": "2026-10-19T19:14:53Z",
+      "updated_at": "2026-10-22T13:13:03Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",

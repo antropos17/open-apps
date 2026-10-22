@@ -3,7 +3,7 @@
   "slug": "libre-webui",
   "repoUrl": "https://github.com/libre-webui/libre-webui",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:15.610Z",
+  "lastSuccessAt": "2026-10-22T15:05:37.721Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:54.463Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "libre-webui/libre-webui",
-      "stargazers_count": 94,
-      "forks_count": 9,
-      "open_issues_count": 1,
+      "stargazers_count": 97,
+      "forks_count": 10,
+      "open_issues_count": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:46:03Z",
-      "updated_at": "2026-10-17T07:06:28Z",
+      "pushed_at": "2026-10-21T21:18:46Z",
+      "updated_at": "2026-10-21T20:49:10Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -71,10 +71,10 @@
         "webui"
       ]
     },
-    "latestReleaseAt": "2026-10-11T18:55:36Z",
+    "latestReleaseAt": "2026-10-21T21:37:50Z",
     "homepage": "https://librewebui.org",
     "sync": {
-      "syncedAt": "2026-10-18T07:54:15.610Z",
+      "syncedAt": "2026-10-22T15:05:37.721Z",
       "source": "api"
     }
   },
@@ -100,16 +100,16 @@
         "label": "GitHub Releases",
         "url": "https://github.com/libre-webui/libre-webui/releases/latest",
         "facts": {
-          "tag": "v0.41.0",
+          "tag": "v0.42.0",
           "assets": [
-            "Libre-WebUI-Desktop-0.41.0-amd64.deb",
-            "Libre-WebUI-Desktop-0.41.0.AppImage"
+            "Libre-WebUI-Desktop-0.42.0-amd64.deb",
+            "Libre-WebUI-Desktop-0.42.0.AppImage"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.41.0",
-          "fetchedAt": "2026-10-12T13:50:39.921Z"
+          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.42.0",
+          "fetchedAt": "2026-10-22T15:05:35.371Z"
         }
       },
       {
@@ -118,15 +118,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/libre-webui/libre-webui/releases/latest",
         "facts": {
-          "tag": "v0.41.0",
+          "tag": "v0.42.0",
           "assets": [
-            "Libre-WebUI-Desktop-0.41.0-mac-arm64.dmg"
+            "Libre-WebUI-Desktop-0.42.0-mac-arm64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.41.0",
-          "fetchedAt": "2026-10-12T13:50:39.921Z"
+          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.42.0",
+          "fetchedAt": "2026-10-22T15:05:35.371Z"
         }
       },
       {
@@ -135,16 +135,16 @@
         "label": "GitHub Releases",
         "url": "https://github.com/libre-webui/libre-webui/releases/latest",
         "facts": {
-          "tag": "v0.41.0",
+          "tag": "v0.42.0",
           "assets": [
-            "Libre-WebUI-Desktop-0.41.0.exe",
-            "Libre-WebUI-Desktop-Setup-0.41.0.exe"
+            "Libre-WebUI-Desktop-0.42.0.exe",
+            "Libre-WebUI-Desktop-Setup-0.42.0.exe"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.41.0",
-          "fetchedAt": "2026-10-12T13:50:39.921Z"
+          "url": "https://github.com/libre-webui/libre-webui/releases/tag/v0.42.0",
+          "fetchedAt": "2026-10-22T15:05:35.371Z"
         }
       }
     ],

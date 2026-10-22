@@ -3,7 +3,7 @@
   "slug": "kanboard",
   "repoUrl": "https://github.com/kanboard/kanboard",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:53:52.481Z",
+  "lastSuccessAt": "2026-10-22T15:05:10.604Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:14:44.332Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "kanboard/kanboard",
-      "stargazers_count": 9910,
-      "forks_count": 2004,
-      "open_issues_count": 163,
+      "stargazers_count": 9921,
+      "forks_count": 2006,
+      "open_issues_count": 156,
       "language": "PHP",
-      "pushed_at": "2026-10-14T22:09:35Z",
-      "updated_at": "2026-10-18T06:37:05Z",
+      "pushed_at": "2026-10-21T21:27:19Z",
+      "updated_at": "2026-10-22T06:11:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -46,10 +46,10 @@
         "self-hosted"
       ]
     },
-    "latestReleaseAt": "2026-08-29T02:38:58Z",
+    "latestReleaseAt": "2026-10-21T21:28:45Z",
     "homepage": "https://kanboard.org",
     "sync": {
-      "syncedAt": "2026-10-18T07:53:52.481Z",
+      "syncedAt": "2026-10-22T15:05:10.604Z",
       "source": "api"
     }
   },
@@ -81,12 +81,12 @@
           "version": "1.2.54",
           "project": "kanboard",
           "match": "project-name",
-          "versionMatchesRelease": true
+          "versionMatchesRelease": false
         },
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/kanboard/versions",
-          "fetchedAt": "2026-10-03T08:38:32.058Z"
+          "fetchedAt": "2026-10-22T15:05:08.215Z"
         }
       },
       {

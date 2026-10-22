@@ -3,7 +3,7 @@
   "slug": "open-design",
   "repoUrl": "https://github.com/nexu-io/open-design",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:55:38.305Z",
+  "lastSuccessAt": "2026-10-22T15:07:20.785Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:53.492Z",
@@ -31,7 +31,7 @@
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
-  "sourceDescription": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+  "sourceDescription": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
   "github": {
     "html": {
       "license": "Apache-2.0",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:55:38.305Z",
+      "syncedAt": "2026-10-22T15:07:20.785Z",
       "source": "api"
     },
     "repository": {
       "full_name": "nexu-io/open-design",
-      "stargazers_count": 102026,
-      "forks_count": 11718,
-      "open_issues_count": 1200,
+      "stargazers_count": 103283,
+      "forks_count": 11821,
+      "open_issues_count": 1249,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T01:24:39Z",
-      "updated_at": "2026-10-18T07:50:22Z",
+      "pushed_at": "2026-10-22T14:19:27Z",
+      "updated_at": "2026-10-22T15:03:24Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -64,12 +64,12 @@
         "claude-code-for-design",
         "claude-design",
         "codex-design",
-        "coding-agents",
         "cursor-design",
         "deepseek",
         "deepseek-harness",
         "design-systems",
         "desktop-app",
+        "desktop-apps",
         "dsh",
         "dsh-plugin",
         "figma-alternative",
@@ -80,7 +80,7 @@
         "vibe-coding"
       ]
     },
-    "latestReleaseAt": "2026-10-15T14:44:06Z",
+    "latestReleaseAt": "2026-10-22T12:52:42Z",
     "homepage": "https://open-design.ai"
   },
   "health": {
@@ -106,16 +106,16 @@
         "label": "GitHub Releases",
         "url": "https://github.com/nexu-io/open-design/releases/latest",
         "facts": {
-          "tag": "open-design-v0.25.0",
+          "tag": "open-design-v0.26.1",
           "assets": [
-            "open-design-0.25.0-mac-arm64.dmg",
-            "open-design-0.25.0-mac-x64.dmg"
+            "open-design-0.26.1-mac-arm64.dmg",
+            "open-design-0.26.1-mac-x64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/nexu-io/open-design/releases/tag/open-design-v0.25.0",
-          "fetchedAt": "2026-10-17T15:57:15.526Z"
+          "url": "https://github.com/nexu-io/open-design/releases/tag/open-design-v0.26.1",
+          "fetchedAt": "2026-10-22T15:07:19.130Z"
         }
       },
       {
@@ -124,15 +124,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/nexu-io/open-design/releases/latest",
         "facts": {
-          "tag": "open-design-v0.25.0",
+          "tag": "open-design-v0.26.1",
           "assets": [
-            "open-design-0.25.0-win-x64-setup.exe"
+            "open-design-0.26.1-win-x64-setup.exe"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/nexu-io/open-design/releases/tag/open-design-v0.25.0",
-          "fetchedAt": "2026-10-17T15:57:15.526Z"
+          "url": "https://github.com/nexu-io/open-design/releases/tag/open-design-v0.26.1",
+          "fetchedAt": "2026-10-22T15:07:19.130Z"
         }
       },
       {
@@ -143,7 +143,7 @@
         "facts": {
           "repository": "aur",
           "package": "open-design",
-          "version": "0.25.0",
+          "version": "0.26.0",
           "project": "open-design",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -151,7 +151,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/open-design/versions",
-          "fetchedAt": "2026-10-17T15:57:15.526Z"
+          "fetchedAt": "2026-10-22T15:07:19.130Z"
         }
       },
       {
@@ -162,7 +162,7 @@
         "facts": {
           "repository": "homebrew_casks",
           "package": "open-design",
-          "version": "0.25.0",
+          "version": "0.26.0",
           "project": "open-design",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -170,7 +170,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/open-design/versions",
-          "fetchedAt": "2026-10-17T15:57:15.526Z"
+          "fetchedAt": "2026-10-22T15:07:19.130Z"
         }
       }
     ],

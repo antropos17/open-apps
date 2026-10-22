@@ -3,7 +3,7 @@
   "slug": "swift-radio-pro",
   "repoUrl": "https://github.com/analogcode/Swift-Radio-Pro",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:50.242Z",
+  "lastSuccessAt": "2026-10-22T15:10:06.178Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:05.900Z",
@@ -197,7 +197,7 @@
       "contributorsKnown": 25
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:57:50.242Z",
+      "syncedAt": "2026-10-22T15:10:06.178Z",
       "source": "api"
     },
     "languages": {

@@ -3,18 +3,18 @@
   "slug": "patzer",
   "repoUrl": "https://github.com/SikamikanikoBG/patzer",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:56:29.470Z",
+  "lastSuccessAt": "2026-10-22T15:08:28.289Z",
   "partialFailures": [],
   "sourceDescription": "Self-hosted Chess.com alternative: Game Review for your Chess.com & Lichess games, play vs Stockfish or a friend, lessons + opening trainer, AI coach on your own Ollama/vLLM, EN·BG·ES·DE·RU, one Docker container",
   "github": {
     "repository": {
       "full_name": "SikamikanikoBG/patzer",
-      "stargazers_count": 41,
-      "forks_count": 13,
-      "open_issues_count": 24,
+      "stargazers_count": 47,
+      "forks_count": 14,
+      "open_issues_count": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-10-16T08:09:46Z",
-      "updated_at": "2026-10-16T08:09:51Z",
+      "pushed_at": "2026-10-18T10:40:50Z",
+      "updated_at": "2026-10-22T09:08:03Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -44,9 +44,9 @@
         "vllm"
       ]
     },
-    "latestReleaseAt": "2026-10-05T03:57:42Z",
+    "latestReleaseAt": "2026-10-18T10:50:02Z",
     "sync": {
-      "syncedAt": "2026-10-18T07:56:29.470Z",
+      "syncedAt": "2026-10-22T15:08:28.289Z",
       "source": "api"
     }
   },

@@ -3,7 +3,7 @@
   "slug": "airdash",
   "repoUrl": "https://github.com/simonbengtsson/airdash",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:35.437Z",
+  "lastSuccessAt": "2026-10-22T15:00:23.154Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:40.356Z",
@@ -196,7 +196,7 @@
       "contributorsKnown": 5
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:50:35.437Z",
+      "syncedAt": "2026-10-22T15:00:23.154Z",
       "source": "api"
     },
     "languages": {

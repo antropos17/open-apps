@@ -3,7 +3,7 @@
   "slug": "iota-watch",
   "repoUrl": "https://github.com/molimao/iota",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:53:38.578Z",
+  "lastSuccessAt": "2026-10-22T15:04:53.269Z",
   "partialFailures": [],
   "sourceDescription": "Open-source five-language dashboard for IOTA Train at Home, xCoin XID / MMM and Quantus QTC: read-only status, rewards and network visualization.",
   "github": {
@@ -13,8 +13,8 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T05:12:27Z",
-      "updated_at": "2026-10-18T05:12:30Z",
+      "pushed_at": "2026-10-22T14:08:10Z",
+      "updated_at": "2026-10-22T14:24:19Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -39,7 +39,7 @@
     },
     "homepage": "https://iotahome.site",
     "sync": {
-      "syncedAt": "2026-10-18T07:53:38.578Z",
+      "syncedAt": "2026-10-22T15:04:53.269Z",
       "source": "api"
     }
   },

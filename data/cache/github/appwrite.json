@@ -3,7 +3,7 @@
   "slug": "appwrite",
   "repoUrl": "https://github.com/appwrite/appwrite",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:51:00.771Z",
+  "lastSuccessAt": "2026-10-22T15:01:12.222Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:11:57.994Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "appwrite/appwrite",
-      "stargazers_count": 57717,
-      "forks_count": 5803,
-      "open_issues_count": 803,
+      "stargazers_count": 57748,
+      "forks_count": 5814,
+      "open_issues_count": 846,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T07:48:56Z",
-      "updated_at": "2026-10-18T07:47:59Z",
+      "pushed_at": "2026-10-22T15:00:44Z",
+      "updated_at": "2026-10-22T14:26:23Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -61,10 +61,10 @@
         "web"
       ]
     },
-    "latestReleaseAt": "2026-10-13T13:04:26Z",
+    "latestReleaseAt": "2026-10-21T20:52:58Z",
     "homepage": "https://appwrite.io",
     "sync": {
-      "syncedAt": "2026-10-18T07:51:00.771Z",
+      "syncedAt": "2026-10-22T15:01:12.222Z",
       "source": "api"
     }
   },
@@ -93,7 +93,7 @@
         "facts": {
           "repository": "homebrew",
           "package": "appwrite",
-          "version": "28.7.0",
+          "version": "28.8.0",
           "project": "appwrite",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -101,7 +101,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/appwrite/versions",
-          "fetchedAt": "2026-10-17T15:52:39.069Z"
+          "fetchedAt": "2026-10-22T15:01:07.791Z"
         }
       }
     ],

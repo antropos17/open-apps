@@ -3,7 +3,7 @@
   "slug": "zed",
   "repoUrl": "https://github.com/zed-industries/zed",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:59:22.474Z",
+  "lastSuccessAt": "2026-10-22T15:11:52.231Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:53.860Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "zed-industries/zed",
-      "stargazers_count": 91876,
-      "forks_count": 11103,
-      "open_issues_count": 3068,
+      "stargazers_count": 92045,
+      "forks_count": 11162,
+      "open_issues_count": 3087,
       "language": "Rust",
-      "pushed_at": "2026-10-17T16:14:01Z",
-      "updated_at": "2026-10-18T07:36:54Z",
+      "pushed_at": "2026-10-22T15:04:17Z",
+      "updated_at": "2026-10-22T14:45:37Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -45,10 +45,10 @@
         "zed"
       ]
     },
-    "latestReleaseAt": "2026-10-14T16:43:09Z",
+    "latestReleaseAt": "2026-10-21T20:54:49Z",
     "homepage": "https://zed.dev",
     "sync": {
-      "syncedAt": "2026-10-18T07:59:22.474Z",
+      "syncedAt": "2026-10-22T15:11:52.231Z",
       "source": "api"
     }
   },
@@ -90,7 +90,7 @@
         "label": "GitHub Releases",
         "url": "https://github.com/zed-industries/zed/releases/latest",
         "facts": {
-          "tag": "v1.24.2",
+          "tag": "v1.25.2",
           "assets": [
             "Zed-aarch64.dmg",
             "Zed-x86_64.dmg"
@@ -98,8 +98,8 @@
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/zed-industries/zed/releases/tag/v1.24.2",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/releases/tag/v1.25.2",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       },
       {
@@ -108,7 +108,7 @@
         "label": "GitHub Releases",
         "url": "https://github.com/zed-industries/zed/releases/latest",
         "facts": {
-          "tag": "v1.24.2",
+          "tag": "v1.25.2",
           "assets": [
             "Zed-aarch64.exe",
             "Zed-x86_64.exe"
@@ -116,8 +116,8 @@
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/zed-industries/zed/releases/tag/v1.24.2",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/releases/tag/v1.25.2",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       }
     ],
@@ -171,8 +171,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/zed-industries/zed/blob/56934ec0560bce8929025497411de7f5322fb6ca/crates/zed/resources/flatpak/zed.metainfo.xml.in",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/blob/574df448ea9cb9c22df1a5e887a4c6755e7e09ce/crates/zed/resources/flatpak/zed.metainfo.xml.in",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       },
       {
@@ -180,8 +180,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/zed-industries/zed/blob/56934ec0560bce8929025497411de7f5322fb6ca/crates/zed/resources/flatpak/zed.metainfo.xml.in",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/blob/574df448ea9cb9c22df1a5e887a4c6755e7e09ce/crates/zed/resources/flatpak/zed.metainfo.xml.in",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       },
       {
@@ -189,8 +189,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/zed-industries/zed/blob/56934ec0560bce8929025497411de7f5322fb6ca/crates/zed/resources/flatpak/zed.metainfo.xml.in",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/blob/574df448ea9cb9c22df1a5e887a4c6755e7e09ce/crates/zed/resources/flatpak/zed.metainfo.xml.in",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       },
       {
@@ -198,8 +198,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/zed-industries/zed/blob/56934ec0560bce8929025497411de7f5322fb6ca/crates/zed/resources/flatpak/zed.metainfo.xml.in",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/blob/574df448ea9cb9c22df1a5e887a4c6755e7e09ce/crates/zed/resources/flatpak/zed.metainfo.xml.in",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       },
       {
@@ -207,8 +207,8 @@
         "format": "png",
         "provenance": {
           "source": "appstream",
-          "url": "https://github.com/zed-industries/zed/blob/56934ec0560bce8929025497411de7f5322fb6ca/crates/zed/resources/flatpak/zed.metainfo.xml.in",
-          "fetchedAt": "2026-10-17T16:00:50.939Z"
+          "url": "https://github.com/zed-industries/zed/blob/574df448ea9cb9c22df1a5e887a4c6755e7e09ce/crates/zed/resources/flatpak/zed.metainfo.xml.in",
+          "fetchedAt": "2026-10-22T15:11:49.468Z"
         }
       }
     ]

@@ -3,7 +3,7 @@
   "slug": "freeflow",
   "repoUrl": "https://github.com/zachlatta/freeflow",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:52.683Z",
+  "lastSuccessAt": "2026-10-22T15:03:50.856Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:10.702Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "zachlatta/freeflow",
-      "stargazers_count": 2933,
-      "forks_count": 298,
-      "open_issues_count": 70,
+      "stargazers_count": 2952,
+      "forks_count": 297,
+      "open_issues_count": 72,
       "language": "Swift",
       "pushed_at": "2026-10-16T05:02:59Z",
-      "updated_at": "2026-10-18T04:55:27Z",
+      "updated_at": "2026-10-22T10:25:22Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -53,7 +53,7 @@
     "latestReleaseAt": "2026-10-09T07:43:25Z",
     "homepage": "https://freeflow.zachlatta.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:52:52.683Z",
+      "syncedAt": "2026-10-22T15:03:50.856Z",
       "source": "api"
     }
   },

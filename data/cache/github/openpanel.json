@@ -3,7 +3,7 @@
   "slug": "openpanel",
   "repoUrl": "https://github.com/Openpanel-dev/openpanel",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:56:00.304Z",
+  "lastSuccessAt": "2026-10-22T15:07:48.635Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:16:48.294Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "Openpanel-dev/openpanel",
-      "stargazers_count": 7158,
-      "forks_count": 516,
-      "open_issues_count": 40,
+      "stargazers_count": 7184,
+      "forks_count": 523,
+      "open_issues_count": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T07:41:01Z",
-      "updated_at": "2026-10-18T07:26:19Z",
+      "pushed_at": "2026-10-22T13:38:50Z",
+      "updated_at": "2026-10-22T15:03:58Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -49,7 +49,7 @@
     },
     "homepage": "https://openpanel.dev",
     "sync": {
-      "syncedAt": "2026-10-18T07:56:00.304Z",
+      "syncedAt": "2026-10-22T15:07:48.635Z",
       "source": "api"
     }
   },

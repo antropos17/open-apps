@@ -3,7 +3,7 @@
   "slug": "flutter-games",
   "repoUrl": "https://github.com/searchy2/FlutterGames",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:37.571Z",
+  "lastSuccessAt": "2026-10-22T15:03:32.506Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:00.943Z",
@@ -118,7 +118,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 75,
+      "forks_count": 74,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -194,7 +194,7 @@
       "contributorsKnown": 1
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:52:37.571Z",
+      "syncedAt": "2026-10-22T15:03:32.506Z",
       "source": "api"
     },
     "languages": {

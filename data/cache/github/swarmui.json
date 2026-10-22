@@ -3,7 +3,7 @@
   "slug": "swarmui",
   "repoUrl": "https://github.com/mcmonkeyprojects/SwarmUI",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:48.009Z",
+  "lastSuccessAt": "2026-10-22T15:10:03.525Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:25.330Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "mcmonkeyprojects/SwarmUI",
-      "stargazers_count": 4677,
-      "forks_count": 476,
-      "open_issues_count": 152,
+      "stargazers_count": 4699,
+      "forks_count": 475,
+      "open_issues_count": 154,
       "language": "C#",
-      "pushed_at": "2026-10-17T02:52:05Z",
-      "updated_at": "2026-10-17T15:39:13Z",
+      "pushed_at": "2026-10-21T23:56:15Z",
+      "updated_at": "2026-10-22T14:04:08Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -52,7 +52,7 @@
     },
     "latestReleaseAt": "2026-02-06T16:54:03Z",
     "sync": {
-      "syncedAt": "2026-10-18T07:57:48.009Z",
+      "syncedAt": "2026-10-22T15:10:03.525Z",
       "source": "api"
     }
   },

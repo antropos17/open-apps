@@ -3,7 +3,7 @@
   "slug": "taskuary",
   "repoUrl": "https://github.com/ldbumble/taskuary",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:58:02.271Z",
+  "lastSuccessAt": "2026-10-22T15:10:21.634Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:13.200Z",
@@ -37,10 +37,10 @@
       "full_name": "ldbumble/taskuary",
       "stargazers_count": 140,
       "forks_count": 55,
-      "open_issues_count": 63,
+      "open_issues_count": 11,
       "language": "Python",
-      "pushed_at": "2026-10-18T05:56:01Z",
-      "updated_at": "2026-10-18T05:56:05Z",
+      "pushed_at": "2026-10-22T14:45:58Z",
+      "updated_at": "2026-10-22T14:51:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -71,10 +71,10 @@
         "task-management"
       ]
     },
-    "latestReleaseAt": "2026-10-16T21:01:06Z",
+    "latestReleaseAt": "2026-10-22T14:41:04Z",
     "homepage": "https://taskuary.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:58:02.271Z",
+      "syncedAt": "2026-10-22T15:10:21.634Z",
       "source": "api"
     }
   },
@@ -100,15 +100,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/ldbumble/taskuary/releases/latest",
         "facts": {
-          "tag": "v0.3.9.3",
+          "tag": "v0.3.9.24",
           "assets": [
             "Taskuary.exe"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/ldbumble/taskuary/releases/tag/v0.3.9.3",
-          "fetchedAt": "2026-10-17T15:59:37.227Z"
+          "url": "https://github.com/ldbumble/taskuary/releases/tag/v0.3.9.24",
+          "fetchedAt": "2026-10-22T15:10:19.404Z"
         }
       }
     ],

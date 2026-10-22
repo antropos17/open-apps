@@ -3,7 +3,7 @@
   "slug": "openless",
   "repoUrl": "https://github.com/Open-Less/openless",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:55:55.306Z",
+  "lastSuccessAt": "2026-10-22T15:07:41.702Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:02.232Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "Open-Less/openless",
-      "stargazers_count": 3876,
-      "forks_count": 362,
-      "open_issues_count": 60,
+      "stargazers_count": 3935,
+      "forks_count": 372,
+      "open_issues_count": 46,
       "language": "Rust",
-      "pushed_at": "2026-10-18T06:57:39Z",
-      "updated_at": "2026-10-18T07:17:37Z",
+      "pushed_at": "2026-10-22T13:01:14Z",
+      "updated_at": "2026-10-22T13:07:41Z",
       "archived": false,
       "disabled": false,
       "default_branch": "beta",
@@ -70,7 +70,7 @@
     "latestReleaseAt": "2026-10-16T12:40:48Z",
     "homepage": "https://github.com/appergb/openless",
     "sync": {
-      "syncedAt": "2026-10-18T07:55:55.306Z",
+      "syncedAt": "2026-10-22T15:07:41.702Z",
       "source": "api"
     }
   },
@@ -194,6 +194,20 @@
           "source": "repo-asset",
           "url": "https://github.com/Open-Less/openless/blob/5b39599486e3a0abe596fdb0dcc7451febaf9060/openless-all/app/src-tauri/icons/ios/AppIcon-512%402x.png",
           "fetchedAt": "2026-09-28T17:11:59.616Z"
+        }
+      },
+      {
+        "url": "https://github.com/Open-Less/openless/blob/f0744e1029898a44f288be1bc2248be59997ffe7/openless-all/ios/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+        "path": "openless-all/ios/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+        "blobSha": "9aad3c23971ba196e8610254be37548e7c6039d0",
+        "format": "png",
+        "bytes": 324394,
+        "width": 1024,
+        "height": 1024,
+        "provenance": {
+          "source": "repo-asset",
+          "url": "https://github.com/Open-Less/openless/blob/f0744e1029898a44f288be1bc2248be59997ffe7/openless-all/ios/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+          "fetchedAt": "2026-10-22T15:07:38.279Z"
         }
       }
     ],

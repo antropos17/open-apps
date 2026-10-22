@@ -3,7 +3,7 @@
   "slug": "quotatempo",
   "repoUrl": "https://github.com/Ishikawa-Hidekazu/quota-tempo",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:56:57.414Z",
+  "lastSuccessAt": "2026-10-22T15:09:03.209Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:32.256Z",
@@ -39,8 +39,8 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "language": "Swift",
-      "pushed_at": "2026-10-11T09:38:38Z",
-      "updated_at": "2026-10-11T02:43:38Z",
+      "pushed_at": "2026-10-18T11:07:57Z",
+      "updated_at": "2026-10-18T11:08:02Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -65,7 +65,7 @@
     "latestReleaseAt": "2026-10-11T02:30:10Z",
     "homepage": "https://ishikawa.co/en/products/quotatempo/",
     "sync": {
-      "syncedAt": "2026-10-18T07:56:57.414Z",
+      "syncedAt": "2026-10-22T15:09:03.209Z",
       "source": "api"
     }
   },

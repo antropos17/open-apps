@@ -3,7 +3,7 @@
   "slug": "baserow",
   "repoUrl": "https://github.com/baserow/baserow",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:51:10.842Z",
+  "lastSuccessAt": "2026-10-22T15:01:29.386Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:12:07.775Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "baserow/baserow",
-      "stargazers_count": 6169,
-      "forks_count": 767,
-      "open_issues_count": 1175,
+      "stargazers_count": 6192,
+      "forks_count": 769,
+      "open_issues_count": 1161,
       "language": "Python",
-      "pushed_at": "2026-10-16T17:43:13Z",
-      "updated_at": "2026-10-18T04:26:29Z",
+      "pushed_at": "2026-10-22T14:48:34Z",
+      "updated_at": "2026-10-22T14:52:59Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -60,7 +60,7 @@
     "latestReleaseAt": "2026-10-13T15:39:27Z",
     "homepage": "https://baserow.io",
     "sync": {
-      "syncedAt": "2026-10-18T07:51:10.842Z",
+      "syncedAt": "2026-10-22T15:01:29.386Z",
       "source": "api"
     }
   },

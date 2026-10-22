@@ -3,18 +3,18 @@
   "slug": "solidping",
   "repoUrl": "https://github.com/fclairamb/solidping",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:26.868Z",
+  "lastSuccessAt": "2026-10-22T15:09:37.943Z",
   "partialFailures": [],
   "sourceDescription": "Distributed, self-hostable uptime monitoring: 40 check types, multi-region workers, private agents, status pages, incidents and on-call escalation — in a single Go binary.",
   "github": {
     "repository": {
       "full_name": "fclairamb/solidping",
-      "stargazers_count": 22,
+      "stargazers_count": 26,
       "forks_count": 2,
       "open_issues_count": 4,
       "language": "Go",
-      "pushed_at": "2026-10-18T07:51:13Z",
-      "updated_at": "2026-10-18T04:28:51Z",
+      "pushed_at": "2026-10-22T13:57:13Z",
+      "updated_at": "2026-10-22T13:47:19Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -45,10 +45,10 @@
         "website-monitoring"
       ]
     },
-    "latestReleaseAt": "2026-10-16T22:47:47Z",
+    "latestReleaseAt": "2026-10-19T14:37:48Z",
     "homepage": "https://www.solidping.io",
     "sync": {
-      "syncedAt": "2026-10-18T07:57:26.868Z",
+      "syncedAt": "2026-10-22T15:09:37.943Z",
       "source": "api"
     }
   },

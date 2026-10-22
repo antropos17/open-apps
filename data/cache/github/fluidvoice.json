@@ -3,7 +3,7 @@
   "slug": "fluidvoice",
   "repoUrl": "https://github.com/altic-dev/FluidVoice",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:52:33.945Z",
+  "lastSuccessAt": "2026-10-22T15:03:27.058Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:57.693Z",
@@ -31,16 +31,16 @@
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
-  "sourceDescription": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp",
+  "sourceDescription": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more",
   "github": {
     "repository": {
       "full_name": "altic-dev/FluidVoice",
-      "stargazers_count": 12267,
-      "forks_count": 891,
-      "open_issues_count": 138,
+      "stargazers_count": 12378,
+      "forks_count": 898,
+      "open_issues_count": 131,
       "language": "Swift",
-      "pushed_at": "2026-10-17T18:31:48Z",
-      "updated_at": "2026-10-18T05:17:25Z",
+      "pushed_at": "2026-10-22T11:12:54Z",
+      "updated_at": "2026-10-22T14:53:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -57,10 +57,10 @@
         "swift"
       ]
     },
-    "latestReleaseAt": "2026-10-12T19:34:41Z",
+    "latestReleaseAt": "2026-10-22T11:12:55Z",
     "homepage": "https://altic.dev/fluid",
     "sync": {
-      "syncedAt": "2026-10-18T07:52:33.945Z",
+      "syncedAt": "2026-10-22T15:03:27.058Z",
       "source": "api"
     }
   },
@@ -87,15 +87,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/altic-dev/FluidVoice/releases/latest",
         "facts": {
-          "tag": "v1.6.11",
+          "tag": "v1.6.12",
           "assets": [
-            "Fluid-oss-1.6.11.dmg"
+            "Fluid-oss-1.6.12.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/altic-dev/FluidVoice/releases/tag/v1.6.11",
-          "fetchedAt": "2026-10-13T11:18:16.061Z"
+          "url": "https://github.com/altic-dev/FluidVoice/releases/tag/v1.6.12",
+          "fetchedAt": "2026-10-22T15:03:24.818Z"
         }
       },
       {
@@ -109,12 +109,12 @@
           "version": "1.6.11",
           "project": "fluidvoice",
           "match": "project-name",
-          "versionMatchesRelease": true
+          "versionMatchesRelease": false
         },
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/fluidvoice/versions",
-          "fetchedAt": "2026-10-13T11:18:16.061Z"
+          "fetchedAt": "2026-10-22T15:03:24.818Z"
         }
       }
     ],

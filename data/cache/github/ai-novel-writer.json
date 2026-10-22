@@ -3,7 +3,7 @@
   "slug": "ai-novel-writer",
   "repoUrl": "https://github.com/EthanYoQ/AI-Novel-Writer",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:29.503Z",
+  "lastSuccessAt": "2026-10-22T15:00:00.141Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:34.282Z",
@@ -31,16 +31,16 @@
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
-  "sourceDescription": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+  "sourceDescription": "书童 Pagekin（原名 AI 小说作家）：开源免费的 AI 长篇小说写作桌面软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web fiction. Imitate, continue, rewrite; import writing skills. Local-first, no model bundled. Windows & macOS.",
   "github": {
     "repository": {
       "full_name": "EthanYoQ/AI-Novel-Writer",
-      "stargazers_count": 1600,
-      "forks_count": 184,
-      "open_issues_count": 38,
+      "stargazers_count": 1721,
+      "forks_count": 206,
+      "open_issues_count": 3,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T07:48:57Z",
-      "updated_at": "2026-10-18T07:47:05Z",
+      "pushed_at": "2026-10-22T03:07:34Z",
+      "updated_at": "2026-10-22T13:37:17Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -49,32 +49,34 @@
         "name": "GPL-3.0"
       },
       "topics": [
-        "ai",
-        "ai-agent",
+        "ai-novel",
         "ai-writing",
-        "aigc",
+        "ai-writing-assistant",
+        "chinese",
         "creative-writing",
-        "deepseek-harness",
-        "dsh-plugin",
+        "deepseek",
+        "desktop-app",
         "electron",
         "fiction-writing",
-        "generative-ai",
         "llm",
         "local-first",
         "long-form-fiction",
         "novel-writing",
+        "novel-writing-software",
         "ollama",
-        "rag",
-        "web-novel",
-        "worldbuilding",
-        "writing-assistant"
+        "openai",
+        "pagekin",
+        "story-generator",
+        "webnovel",
+        "worldbuilding"
       ]
     },
-    "latestReleaseAt": "2026-10-18T07:49:30Z",
+    "latestReleaseAt": "2026-10-22T03:08:03Z",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:29.503Z",
+      "syncedAt": "2026-10-22T15:00:00.141Z",
       "source": "api"
-    }
+    },
+    "homepage": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest"
   },
   "health": {
     "status": "mature",
@@ -99,16 +101,16 @@
         "label": "GitHub Releases",
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest",
         "facts": {
-          "tag": "v1.3.0",
+          "tag": "v1.3.2",
           "assets": [
-            "ai-novel-writer-mac-arm64-1.3.0-installer.dmg",
-            "ai-novel-writer-mac-x64-1.3.0-installer.dmg"
+            "ai-novel-writer-mac-arm64-1.3.2-installer.dmg",
+            "ai-novel-writer-mac-x64-1.3.2-installer.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/tag/v1.3.0",
-          "fetchedAt": "2026-10-18T07:50:27.689Z"
+          "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/tag/v1.3.2",
+          "fetchedAt": "2026-10-22T14:59:57.817Z"
         }
       },
       {
@@ -117,15 +119,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest",
         "facts": {
-          "tag": "v1.3.0",
+          "tag": "v1.3.2",
           "assets": [
-            "ai-novel-writer-setup-1.3.0.exe"
+            "ai-novel-writer-setup-1.3.2.exe"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/tag/v1.3.0",
-          "fetchedAt": "2026-10-18T07:50:27.689Z"
+          "url": "https://github.com/EthanYoQ/AI-Novel-Writer/releases/tag/v1.3.2",
+          "fetchedAt": "2026-10-22T14:59:57.817Z"
         }
       }
     ],
