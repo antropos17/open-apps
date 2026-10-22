@@ -22,6 +22,8 @@ whyListed: []
 caveats: []
 seo:
   title: Airdash – Open Source File Sharing App Built with Flutter
+  description: Airdash shares files AirDrop-style between nearby Android and iOS devices over Wi-Fi
+    and Bluetooth, no internet needed. MIT-licensed, built with Flutter.
 addedAt: 2026-06-07
 source:
   type: import

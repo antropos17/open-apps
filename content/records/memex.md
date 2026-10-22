@@ -29,6 +29,7 @@ whyListed: []
 caveats: []
 seo:
   title: Memex – Open Source Local-First AI Journal
+  description: Memex is a local-first AI journal for iOS and Android that turns text, photo and voice notes into a timeline and Markdown notes with your own LLM. GPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

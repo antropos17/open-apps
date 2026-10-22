@@ -23,6 +23,8 @@ whyListed: []
 caveats: []
 seo:
   title: Status – Open Source Mobile Ethereum Client
+  description: Status is a secure messenger, Ethereum wallet and Web3 browser for iOS and Android, built
+    on decentralized protocols. MPL-2.0, built with React Native.
 addedAt: 2026-06-07
 source:
   type: import

@@ -49,8 +49,8 @@ caveats:
     product, Pipali.
 seo:
   title: Khoj – Open Source Self-Hosted AI Second Brain and Search
-  description: Khoj answers from the web and your own documents with local or online models, from a
-    browser, Obsidian, Emacs, desktop, phone or WhatsApp. AGPL-3.0, self-hostable.
+  description: Khoj is a self-hostable personal AI that answers from the web and your own documents
+    with local or online models, in a browser, Obsidian or Emacs. AGPL.
 addedAt: 2026-09-29
 source:
   type: manual

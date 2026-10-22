@@ -28,6 +28,8 @@ tags:
   - offline-first
 seo:
   title: StoryPad – Open Source Diary & Journal App
+  description: StoryPad is an offline diary on a timeline, with mood tags, photos, PIN or biometric lock
+    and optional Google Drive sync. GPL-3.0, built with Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

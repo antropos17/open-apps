@@ -54,8 +54,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Kanboard – Open Source Minimal Kanban Board, Self-Hosted
-  description: Kanboard is a simple self-hosted Kanban board with WIP limits, a search language,
-    subtasks, automatic actions, plugins and LDAP or OAuth2 login. PHP, MIT-licensed.
+  description: Kanboard is a minimal self-hosted Kanban board with WIP limits, subtasks, automatic
+    actions, plugins and LDAP or OAuth2 login. PHP, MIT-licensed.
 addedAt: 2026-09-29
 source:
   type: manual

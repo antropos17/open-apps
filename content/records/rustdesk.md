@@ -46,7 +46,9 @@ relations:
         TeamViewer.
       checkedAt: 2026-09-22
 seo:
-  title: RustDesk – Open Source Remote Desktop & TeamViewer Alternative
+  title: RustDesk – Open Source TeamViewer Alternative
+  description: RustDesk is a cross-platform remote desktop for screen sharing, file transfer and
+    unattended access that you can self-host instead of TeamViewer. AGPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

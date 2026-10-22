@@ -72,7 +72,7 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: OpenWhispr – Open Source Wispr Flow & Granola Alternative
-  description: OpenWhispr types your speech into any app and transcribes meetings with speaker labels, on local Whisper or Parakeet or your own key. MIT; Mac, Windows, Linux.
+  description: OpenWhispr types your speech into any app and transcribes meetings with speaker labels, using local Whisper or your own key. MIT; Mac, Windows and Linux.
 addedAt: 2026-09-29
 source:
   type: manual

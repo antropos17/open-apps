@@ -52,9 +52,9 @@ relations:
       quote: A local Wispr Flow alternative.
       checkedAt: 2026-09-28
 seo:
-  title: FluidVoice – Open Source Local Wispr Flow Alternative for Mac
+  title: FluidVoice – Open Source Wispr Flow Alternative for Mac
   description: FluidVoice transcribes speech on your Mac with Parakeet, Nemotron or Whisper at very
-    low latency, with optional AI cleanup. Free builds, GPL-3.0; the enhancement runtime is separate.
+    low latency, with optional AI cleanup. Free builds, GPL-3.0.
 addedAt: 2026-09-28
 source:
   type: manual

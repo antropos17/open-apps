@@ -66,6 +66,7 @@ caveats:
   - Linux is not currently a supported packaged target.
 seo:
   title: MangoDisk – Open Source Disk Cleaner for macOS & Windows
+  description: MangoDisk is a safety-first disk cleaner for macOS and Windows that finds caches, large files and duplicates locally, and lets you review first. GPL-3.0.
 addedAt: 2026-09-03
 source:
   type: submit

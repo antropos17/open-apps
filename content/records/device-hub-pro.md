@@ -34,6 +34,8 @@ caveats:
   - Young project (public since October 2026)
 seo:
   title: Device Hub Pro – Open Source Android and iOS Device Manager
+  description: Device Hub Pro mirrors and controls Android emulators, Android phones, iOS simulators
+    and iPhones side by side in one native macOS window. MIT-licensed.
 addedAt: 2026-10-16
 submittedBy: gitemre
 ---

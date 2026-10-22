@@ -24,6 +24,8 @@ tags:
   - vscode-mobile
 seo:
   title: Roxum IDE – Open Source Code Editor for Android
+  description: Roxum IDE turns an Android phone into a coding workspace with a file tree, terminal, LSP
+    completions, Git and GitHub, and offline AI model chat. MIT.
 addedAt: 2026-08-11
 source:
   type: github-topic

@@ -61,8 +61,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: OpenProject – Open Source Jira Alternative, Self-Hosted
-  description: OpenProject is a self-hosted project management platform with agile boards, Gantt
-    charts, roadmaps, time and cost tracking, wikis and meetings. GPL-3.0 Community edition.
+  description: OpenProject is self-hosted project management with agile boards, Gantt charts,
+    roadmaps, time tracking, wikis and meetings. GPL-3.0 Jira alternative.
 addedAt: 2026-09-29
 source:
   type: manual

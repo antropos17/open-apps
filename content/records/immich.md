@@ -32,6 +32,7 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Immich – Open Source Self-Hosted Photo & Video Backup
+  description: Immich is a self-hosted photo and video backup service that uploads straight from your phone, with first-class iOS and Android apps. AGPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

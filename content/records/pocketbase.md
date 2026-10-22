@@ -56,8 +56,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: PocketBase – Open Source Realtime Backend in One File
-  description: PocketBase is a single Go executable with SQLite, realtime subscriptions, auth, file
-    storage, an admin dashboard and a REST API. Run it standalone or extend it. MIT-licensed.
+  description: PocketBase is a backend in one Go file with SQLite, realtime, auth, file storage, an
+    admin dashboard and a REST API. Run it standalone or extend it. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

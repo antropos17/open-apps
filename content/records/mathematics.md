@@ -23,6 +23,7 @@ whyListed: []
 caveats: []
 seo:
   title: Mathematics – Open Source Math Practice App in Flutter
+  description: Mathematics generates multiple-choice question PDFs and exam papers with answers, plus a quiz mode, for teachers and students on Android and iOS.
 addedAt: 2026-06-07
 source:
   type: import

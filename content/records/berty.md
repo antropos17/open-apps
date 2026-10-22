@@ -38,6 +38,8 @@ whyListed: []
 caveats: []
 seo:
   title: Berty – Open Source Peer-to-Peer Encrypted Messenger
+  description: Berty is a peer-to-peer encrypted messenger for iOS and Android that works without a
+    central server, connecting over Bluetooth, the local network or Tor.
 addedAt: 2026-06-13
 source:
   type: import

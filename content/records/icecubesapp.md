@@ -27,6 +27,7 @@ whyListed:
 caveats: []
 seo:
   title: Ice Cubes – Open Source SwiftUI Mastodon Client
+  description: Ice Cubes is a native SwiftUI Mastodon client for iPhone, iPad, Mac and Vision Pro, built and maintained mostly by one developer. AGPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

@@ -23,6 +23,8 @@ tags:
   - wealth-management
 seo:
   title: Sossoldi – Open Source Net Worth & Personal Finance Tracker
+  description: Sossoldi tracks net worth, expenses, income and investments on iOS, Android, desktop and
+    web, with data stored locally. MIT, built with Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

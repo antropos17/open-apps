@@ -62,7 +62,7 @@ relations:
 seo:
   title: Voicetypr – Open Source Offline Dictation for Windows & Mac
   description: Voicetypr transcribes speech locally with Whisper on Windows and macOS and types it at
-    your cursor, with optional AI formatting and an agent CLI. AGPL-3.0, paid official builds.
+    your cursor, with optional AI formatting. AGPL-3.0.
 addedAt: 2026-09-28
 source:
   type: manual

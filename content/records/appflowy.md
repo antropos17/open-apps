@@ -59,6 +59,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: AppFlowy – Open Source Notion Alternative
+  description: AppFlowy is a local-first workspace for pages, wikis, databases and AI, with your data
+    on infrastructure you control. An AGPL-3.0 Notion alternative.
 addedAt: 2026-07-06
 source:
   type: import

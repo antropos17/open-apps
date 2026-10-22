@@ -29,6 +29,7 @@ whyListed:
 caveats: []
 seo:
   title: GitUp – Open Source Git Client for macOS
+  description: GitUp is a fast native Git client for macOS with a live commit graph and its own rebase engine, built to stay quick on large repositories. GPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

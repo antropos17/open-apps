@@ -38,6 +38,8 @@ caveats:
   - Development builds of the installed network filter require a paid Apple Developer account.
 seo:
   title: Shieldxy – Open Source Application Firewall for macOS
+  description: Shieldxy is an auditable application firewall and connection monitor for macOS, with
+    explicit controls over local network access. AGPL-3.0, free on GitHub.
 addedAt: 2026-08-27
 source:
   type: submit

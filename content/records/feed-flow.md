@@ -28,6 +28,8 @@ whyListed:
 caveats: []
 seo:
   title: FeedFlow – Open Source RSS Reader (Kotlin Multiplatform)
+  description: FeedFlow is a minimalist RSS reader for Android, iOS, macOS, Windows and Linux, built
+    with Kotlin Multiplatform, Jetpack Compose and SwiftUI. Apache-2.0.
 addedAt: 2026-06-13
 source:
   type: import

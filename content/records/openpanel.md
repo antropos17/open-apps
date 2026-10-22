@@ -60,8 +60,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: OpenPanel – Open Source Web and Product Analytics
-  description: OpenPanel combines web analytics with product analytics — funnels, cohorts, user
-    profiles, session replay and A/B tests — self-hosted with Docker or in the cloud. AGPL-3.0.
+  description: OpenPanel is web and product analytics with funnels, cohorts, user profiles, session
+    replay and A/B tests, self-hosted with Docker or on cloud. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

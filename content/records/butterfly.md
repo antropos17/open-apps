@@ -38,6 +38,8 @@ tags:
   - writing
 seo:
   title: Butterfly – Open Source Cross-Platform Note-Taking App
+  description: Butterfly is a note-taking and drawing app with an infinite canvas for ink, text,
+    shapes and images, plus WebDAV sync and PDF export. AGPL-3.0, Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

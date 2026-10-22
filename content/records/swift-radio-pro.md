@@ -29,6 +29,8 @@ whyListed:
 caveats: []
 seo:
   title: Swift Radio Pro – Open Source iOS Radio Station App
+  description: Swift Radio Pro is an iOS radio app template that streams live stations with
+    now-playing info, album art, and lock-screen and CarPlay controls. MIT.
 addedAt: 2026-06-13
 source:
   type: import

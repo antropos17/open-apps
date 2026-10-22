@@ -40,6 +40,8 @@ tags:
   - xmr
 seo:
   title: Cake Wallet – Open Source Monero & Multi-Currency Wallet
+  description: Cake Wallet is a non-custodial crypto wallet for Monero, Bitcoin, Ethereum, Litecoin,
+    Solana and more, on iOS, Android and desktop. MIT-licensed.
 addedAt: 2026-08-11
 source:
   type: github-topic

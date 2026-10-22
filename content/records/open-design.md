@@ -106,6 +106,7 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: OpenDesign – Open Source Claude Design Alternative
+  description: OpenDesign turns coding-agent CLIs into a design tool for HTML prototypes, PDFs, slide decks and videos, on desktop or web. Apache-2.0, bring your own key.
 addedAt: 2026-09-01
 source:
   type: github-topic

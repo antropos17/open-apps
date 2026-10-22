@@ -59,8 +59,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: ToolJet – Open Source Retool Alternative for Internal Tools
-  description: ToolJet builds internal tools with 80+ components, a built-in database, 90+ data sources,
-    JavaScript and Python, and an MCP server. AGPL core; AI features are paid.
+  description: ToolJet builds internal tools and admin panels with 80+ components, a built-in database
+    and 90+ data sources. AGPL core; AI features are paid.
 addedAt: 2026-09-29
 source:
   type: manual

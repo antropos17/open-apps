@@ -29,6 +29,8 @@ whyListed:
 caveats: []
 seo:
   title: AudioKit – Open Source Audio Synthesis Framework for iOS
+  description: AudioKit is a Swift framework for audio synthesis, processing and analysis on iOS,
+    macOS, tvOS and visionOS, with a real-time C++ DSP engine. MIT-licensed.
 addedAt: 2026-06-13
 source:
   type: import

@@ -67,8 +67,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Jan – Open Source Offline ChatGPT Alternative for Desktop
-  description: Jan runs open models like Llama, Gemma and Qwen offline on macOS, Windows and Linux, with
-    optional cloud models, MCP and a local OpenAI-compatible API. Apache-2.0.
+  description: Jan runs open models like Llama, Gemma and Qwen offline on macOS, Windows and Linux,
+    with optional cloud models and a local OpenAI-style API. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

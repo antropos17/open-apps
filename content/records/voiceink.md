@@ -59,7 +59,7 @@ relations:
 seo:
   title: VoiceInk – Open Source On-Device Dictation for Mac
   description: VoiceInk transcribes speech on your Mac with local models and adapts the text to each
-    app, with a personal dictionary and no subscription. GPL-3.0; official builds are paid.
+    app you type in. GPL-3.0; official builds are paid.
 addedAt: 2026-09-28
 source:
   type: manual

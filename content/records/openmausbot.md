@@ -58,7 +58,7 @@ relations:
 seo:
   title: OpenMausBot – Open Source Grok Bot Alternative for Desktop
   description: OpenMausBot turns your local Claude, Codex and Grok CLIs into AI bots you chat with, each
-    with its own computer and apps, on macOS, Windows and Ubuntu. Apache-2.0.
+    with its own computer, on macOS, Windows and Ubuntu. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

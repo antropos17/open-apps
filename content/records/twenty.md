@@ -100,6 +100,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Twenty – Open Source CRM & Salesforce Alternative
+  description: Twenty is a modern CRM with custom objects, AI agents and an MCP server, self-hosted with
+    Docker or on Twenty Cloud. AGPL-3.0, a Salesforce alternative.
 addedAt: 2026-09-01
 source:
   type: github-topic

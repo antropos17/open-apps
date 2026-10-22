@@ -55,6 +55,8 @@ caveats:
     agents.
 seo:
   title: Taskuary – Open Source AI Work Inbox
+  description: Taskuary pulls email, chat and reports into a local work inbox where AI organizes tasks,
+    drafts replies and hands work to agents for your review. MIT.
 addedAt: 2026-09-14
 source:
   type: submit

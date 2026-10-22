@@ -32,6 +32,8 @@ whyListed:
 caveats: []
 seo:
   title: SwiftHub – Open Source GitHub Client for iOS (RxSwift)
+  description: SwiftHub is an iOS GitHub client for repositories, issues, pull requests and users,
+    built as a reference app for RxSwift and MVVM-C architecture. MIT.
 addedAt: 2026-06-13
 source:
   type: import

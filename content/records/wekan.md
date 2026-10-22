@@ -58,8 +58,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: WeKan – Open Source Trello Alternative, Self-Hosted Kanban
-  description: WeKan is a real-time, self-hosted Kanban board with swimlanes, WIP limits, webhooks and
-    importers for Trello, Jira and Asana. MIT-licensed, no telemetry, Docker or Snap.
+  description: WeKan is a real-time, self-hosted Kanban board with swimlanes, WIP limits and importers
+    for Trello, Jira and Asana. MIT, no telemetry.
 addedAt: 2026-09-29
 source:
   type: manual

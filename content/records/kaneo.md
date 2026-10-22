@@ -55,7 +55,7 @@ relations:
       quote: linear-alternative
       checkedAt: 2026-09-29
 seo:
-  title: Kaneo – Open Source Lightweight Project Management, Self-Hosted
+  title: Kaneo – Open Source Self-Hosted Project Management
   description: Kaneo is a simple, self-hostable project manager with boards, lists, calendars and Gantt
     views, GitHub and Gitea rules, a REST API and MCP. MIT-licensed.
 addedAt: 2026-09-29

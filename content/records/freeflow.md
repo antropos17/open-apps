@@ -50,8 +50,8 @@ relations:
       checkedAt: 2026-09-28
 seo:
   title: FreeFlow – Open Source Wispr Flow Alternative for Mac
-  description: FreeFlow is a free Mac dictation app that cleans up speech with app context and custom
-    vocabulary, via Groq or any OpenAI-compatible provider. MIT, no FreeFlow server.
+  description: FreeFlow is a free Mac dictation app that cleans up your speech with app context and
+    custom vocabulary, via Groq or any OpenAI-compatible provider. MIT.
 addedAt: 2026-09-28
 source:
   type: manual

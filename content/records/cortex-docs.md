@@ -41,7 +41,9 @@ whyListed:
 caveats:
   - Requires Node.js 20 or newer and npm 10 or newer.
 seo:
-  title: Cortex - Open Source API Documentation and SDK Generator
+  title: Cortex – Open Source API Documentation and SDK Generator
+  description: Cortex is a CLI that turns OpenAPI, AsyncAPI, GraphQL, gRPC and Markdown into static
+    API docs, typed client SDKs and MCP servers. MIT-licensed, TypeScript.
 addedAt: 2026-09-23
 source:
   type: submit

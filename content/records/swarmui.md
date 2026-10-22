@@ -52,8 +52,8 @@ caveats:
   - On macOS it runs only on Apple Silicon; installing needs .NET, Git and Python.
 seo:
   title: SwarmUI – Open Source Web UI for AI Image Generation
-  description: SwarmUI puts a simple Generate tab, image editor and grid generator on top of a
-    ComfyUI backend for local image and video generation, with the full graph a tab away. MIT.
+  description: SwarmUI is a beginner-friendly web UI for local AI image and video generation on top of
+    ComfyUI, with an image editor and grid generator. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

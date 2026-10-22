@@ -80,6 +80,8 @@ caveats:
     should be verified through a separate trusted channel.
 seo:
   title: SubnetDesk – Open Source LAN-Only Remote Desktop
+  description: SubnetDesk is a remote desktop that connects directly over your LAN or VPN, with no
+    public IDs, relays or cloud accounts. Desktop and Android. AGPL-3.0.
 addedAt: 2026-09-05
 source:
   type: submit

@@ -58,8 +58,9 @@ relations:
       quote: A Wispr Flow alternative with an AI assistant
       checkedAt: 2026-09-29
 seo:
-  title: SpeakoFlow – Open Source Wispr Flow Alternative with Assistant
-  description: SpeakoFlow dictates offline into any app on Windows, macOS and Linux, and can draft a reply from a spoken instruction or answer questions about your screen. MIT.
+  title: SpeakoFlow – Open Source Wispr Flow Alternative
+  description: SpeakoFlow dictates offline into any app on Windows, macOS and Linux, and can draft
+    replies or answer questions about your screen by voice. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

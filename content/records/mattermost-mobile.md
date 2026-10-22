@@ -45,6 +45,7 @@ relations:
       checkedAt: 2026-09-30
 seo:
   title: Mattermost Mobile – Open Source Slack Alternative App
+  description: Mattermost Mobile is the official iOS and Android app for Mattermost, the self-hostable Slack alternative, with channels, threads and calls. Apache-2.0.
 addedAt: 2026-06-13
 source:
   type: import

@@ -23,6 +23,8 @@ whyListed:
 caveats: []
 seo:
   title: Unwrap – Open Source App for Learning Swift on iPhone
+  description: Unwrap is an iPhone app for learning Swift interactively, itself a native Swift app
+    with public source code you can build, read and learn from.
 addedAt: 2026-06-13
 source:
   type: import

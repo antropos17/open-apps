@@ -58,8 +58,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Umami – Open Source Privacy-First Web Analytics
-  description: Umami is a cookie-free web analytics app you can self-host with Docker and PostgreSQL,
-    covering traffic, campaigns, conversions and revenue. MIT-licensed, with an optional MCP endpoint.
+  description: Umami is cookie-free web analytics for traffic, campaigns, conversions and revenue,
+    self-hosted with Docker and PostgreSQL or on Umami Cloud. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

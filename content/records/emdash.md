@@ -51,8 +51,8 @@ caveats:
     CLI and its account.
 seo:
   title: Emdash – Open Source Desktop App for Parallel Coding Agents
-  description: Emdash runs Claude Code, Codex, OpenCode and other coding agents in parallel Git
-    worktrees on macOS, Windows and Linux, with diff review, PRs and CI checks. Apache-2.0.
+  description: Emdash runs Claude Code, Codex, OpenCode and other agents in parallel Git worktrees
+    on macOS, Windows and Linux, with diff review and PRs. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

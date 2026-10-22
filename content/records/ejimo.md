@@ -22,6 +22,8 @@ whyListed: []
 caveats: []
 seo:
   title: Ejimo – Open Source Emoji & Symbol Picker
+  description: Ejimo is an emoji and symbol picker for Android and iOS that goes beyond the system
+    keyboard. Free and open source under GPL-3.0, built with Flutter.
 addedAt: 2026-06-07
 source:
   type: import

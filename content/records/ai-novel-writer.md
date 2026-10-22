@@ -61,6 +61,8 @@ caveats:
     desired.
 seo:
   title: AI Novel Writer – Open Source AI Writing App for Authors
+  description: AI Novel Writer keeps characters, worldbuilding, outlines and chapters in one
+    AI-assisted project on Windows and macOS. GPL-3.0, with optional Ollama.
 addedAt: 2026-09-09
 source:
   type: submit

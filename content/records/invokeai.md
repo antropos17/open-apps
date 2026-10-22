@@ -52,7 +52,7 @@ caveats:
 seo:
   title: Invoke – Open Source AI Image Studio with Canvas
   description: Invoke generates and edits images locally with Stable Diffusion, Flux and other open
-    models, on a layered canvas with boards and node workflows. Apache-2.0, community-maintained.
+    models, on a layered canvas with node workflows. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

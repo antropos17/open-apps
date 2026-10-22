@@ -57,7 +57,7 @@ relations:
 seo:
   title: Rakazo – Open Source Grok Bot Alternative
   description: Rakazo runs persistent AI bots with their own browser, terminal and files, self-hosted
-    with Docker and used from web, desktop or mobile. Apache-2.0, bring your own model.
+    with Docker and used from web, desktop or mobile. Apache-2.0.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -60,7 +60,7 @@ relations:
 seo:
   title: Budibase – Open Source Internal Apps, Automations and Agents
   description: Budibase builds internal apps, automations and AI agents on your databases and business
-    systems. GPL-3.0 core, paid features under BSL; self-host or use the cloud.
+    systems. GPL-3.0 core, paid features under BSL; self-host or cloud.
 addedAt: 2026-09-29
 source:
   type: manual

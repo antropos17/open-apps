@@ -40,8 +40,8 @@ caveats:
   - The last tagged release is v1.12.2 from April 2026; development continues on master.
 seo:
   title: Vane (Perplexica) – Open Source Self-Hosted AI Answer Engine
-  description: Vane, formerly Perplexica, answers questions with cited web sources using a local or
-    cloud model, self-hosted in one Docker container with SearxNG. MIT-licensed.
+  description: Vane, formerly Perplexica, is a self-hosted AI answer engine that searches the web and
+    replies with cited sources using local or cloud models. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -31,6 +31,8 @@ whyListed:
 caveats: []
 seo:
   title: BikeShare – Open Source Kotlin Multiplatform Bike Share App
+  description: BikeShare is a bike-share app built on the CityBikes API, with SwiftUI, Jetpack Compose,
+    desktop and web clients from one Kotlin Multiplatform codebase.
 addedAt: 2026-06-13
 source:
   type: import

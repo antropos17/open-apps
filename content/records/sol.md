@@ -50,8 +50,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Sol – Open Source macOS Launcher and Command Palette
-  description: Sol is a free macOS launcher with app search, window management, clipboard history,
-    calendar and dozens of built-in utilities. MIT-licensed, built with React Native.
+  description: Sol is a free macOS launcher with app search, window management, clipboard history, a
+    calendar and dozens of built-in utilities. MIT-licensed.
 addedAt: 2026-09-29
 source:
   type: manual

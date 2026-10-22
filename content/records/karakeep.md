@@ -38,6 +38,7 @@ whyListed: []
 caveats: []
 seo:
   title: Karakeep – Open Source Self-Hosted Bookmark Manager with AI
+  description: Karakeep is a self-hosted bookmark manager that saves links, notes, images and PDFs, tags them with AI, with mobile apps and browser extensions. AGPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

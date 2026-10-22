@@ -60,9 +60,9 @@ relations:
       url: https://github.com/libre-webui/libre-webui
       checkedAt: 2026-09-29
 seo:
-  title: Libre WebUI – Open Source Self-Hosted AI Workspace for Ollama
+  title: Libre WebUI – Open Source Self-Hosted AI Chat for Ollama
   description: Libre WebUI is a self-hosted AI workspace for Ollama and cloud models, with document
-    chat, artifacts and sandboxed work environments. Apache-2.0, no application telemetry.
+    chat, artifacts and sandboxed agent tasks. Apache-2.0, no telemetry.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -14,6 +14,10 @@ whyListed:
   - "Open-source desktop AI agent for business automation (Apache-2.0): lead generation, browser automation, outreach and scheduled tasks on Windows, macOS and Linux."
   - "Local knowledge library with RAG, installable skills and a plugin system make it extensible for real business workflows."
   - "An active, well-documented project with cross-platform releases — useful to run and to study production Electron + Vue + TypeScript code."
+seo:
+  title: aiFetchly – Open Source AI Agent for Lead Generation
+  description: aiFetchly is a desktop AI agent for lead generation, outreach, a local knowledge
+    library and scheduled business workflows on Windows, macOS and Linux.
 addedAt: 2026-09-27
 submittedBy: anthourholder-dot
 ---

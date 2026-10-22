@@ -25,6 +25,7 @@ caveats:
   - Text editing is basic; PDF, Office and image previews are read-only.
 seo:
   title: Glim – Open Source File Viewer for macOS
+  description: Glim is a free macOS file viewer that opens Markdown, PDFs, images, JSON, CSV and source code in one workspace. Open source under the MIT licence.
 addedAt: 2026-10-19
 submittedBy: NeoPanic
 ---

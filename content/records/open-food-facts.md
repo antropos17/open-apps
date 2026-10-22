@@ -23,6 +23,7 @@ whyListed: []
 caveats: []
 seo:
   title: Open Food Facts – Open Source Food Barcode Scanner App
+  description: Open Food Facts lets you scan food barcodes on Android and iOS, decode ingredient lists and add new products to the open database. Apache-2.0.
 addedAt: 2026-06-07
 source:
   type: import

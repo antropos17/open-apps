@@ -22,6 +22,7 @@ whyListed: []
 caveats: []
 seo:
   title: LibreTrack – Open Source Private Package Tracking App
+  description: LibreTrack is a private, cross-platform package tracking app for Android and iOS that follows your parcels without giving up privacy. GPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

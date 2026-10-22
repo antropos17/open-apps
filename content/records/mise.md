@@ -55,6 +55,7 @@ caveats:
     deliberately out of scope to preserve the offline guarantee.
 seo:
   title: Mise – Open Source Self-Hosted Restaurant POS
+  description: Mise is a self-hosted restaurant POS for macOS that runs the till, kitchen display, QR table ordering and back office on your own network. MIT-licensed.
 addedAt: 2026-09-01
 source:
   type: submit

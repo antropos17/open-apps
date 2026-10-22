@@ -23,6 +23,8 @@ whyListed: []
 caveats: []
 seo:
   title: wger – Open Source Fitness & Workout Tracker in Flutter
+  description: wger is a workout and fitness tracker for Android and iOS that syncs routines, exercises
+    and progress logs with a self-hosted wger server. AGPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

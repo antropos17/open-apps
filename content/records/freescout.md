@@ -60,7 +60,7 @@ relations:
 seo:
   title: FreeScout – Open Source Zendesk & Help Scout Alternative
   description: FreeScout is a lightweight self-hosted help desk and shared inbox in PHP, with
-    unlimited agents and mailboxes, email and chat channels, and paid or free modules. AGPL-3.0.
+    unlimited agents and mailboxes and free or paid modules. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

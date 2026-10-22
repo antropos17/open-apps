@@ -54,8 +54,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Frappe Helpdesk – Open Source Ticketing and Customer Service
-  description: Frappe Helpdesk is a self-hostable ticketing app with agent and customer portals, SLAs,
-    assignment rules, a knowledge base and saved replies, built on the Frappe Framework. AGPL-3.0.
+  description: Frappe Helpdesk is a self-hosted ticketing app with agent and customer portals, SLAs
+    and a knowledge base, from the makers of ERPNext. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -48,8 +48,8 @@ caveats:
   - A Java server you operate yourself, including clustering, upgrades and database backups.
 seo:
   title: Keycloak – Open Source Identity and Access Management
-  description: Keycloak adds single sign-on, OpenID Connect, OAuth 2.0 and SAML, social login and
-    LDAP federation to your apps, self-hosted from a download or container. Apache-2.0, CNCF.
+  description: Keycloak adds single sign-on, OpenID Connect, OAuth 2.0, SAML, social login and LDAP
+    federation to your apps, self-hosted. Apache-2.0, a CNCF project.
 addedAt: 2026-09-29
 source:
   type: manual

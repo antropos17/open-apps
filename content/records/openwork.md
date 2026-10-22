@@ -64,8 +64,8 @@ relations:
       checkedAt: 2026-09-28
 seo:
   title: OpenWork – Open Source Claude Cowork Alternative
-  description: OpenWork runs AI agents on your own files on macOS, Windows and Linux, with any model
-    including local ones. MIT desktop app; the team control plane is licensed separately.
+  description: OpenWork runs AI agents on your own files on macOS, Windows and Linux with any model,
+    including local ones. MIT; the team control plane is separate.
 addedAt: 2026-09-28
 source:
   type: manual

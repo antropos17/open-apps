@@ -29,6 +29,7 @@ tags:
   - wallet
 seo:
   title: Peercoin Flutter – Open Source Peercoin Wallet
+  description: Peercoin Flutter is a self-custodial light wallet for Peercoin on Android, iOS and the web, with seed phrase backup and testnet support. AGPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

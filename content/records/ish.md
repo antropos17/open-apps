@@ -28,6 +28,7 @@ whyListed: []
 caveats: []
 seo:
   title: iSH – Open Source Linux Shell for iOS
+  description: iSH runs a Linux shell environment on your iPhone and iPad, so you can do real command-line work on a mobile device. Open source and free to study.
 addedAt: 2026-06-13
 source:
   type: import

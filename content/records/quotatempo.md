@@ -24,6 +24,9 @@ bestFor:
   - Mac users who want to pace Codex and Claude capacity across each weekly quota window.
   - Developers who prefer a local-first, inspectable alternative to repeatedly opening provider
     usage pages.
+seo:
+  title: QuotaTempo – Open Source Codex & Claude Quota Tracker
+  description: QuotaTempo is a native macOS menu-bar app that compares the weekly Codex and Claude capacity you have left with an even-use pace for the week.
 addedAt: 2026-09-25
 source:
   type: manual

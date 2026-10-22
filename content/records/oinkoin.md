@@ -19,6 +19,7 @@ links:
 tags: []
 seo:
   title: Oinkoin – Open Source Offline Expense Tracker
+  description: Oinkoin is an offline, ad-free expense tracker that keeps spending, income and budgets on your device, with charts, CSV import and biometric lock. GPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

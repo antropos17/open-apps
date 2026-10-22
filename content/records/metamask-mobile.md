@@ -38,6 +38,7 @@ whyListed: []
 caveats: []
 seo:
   title: MetaMask Mobile – Open Source Ethereum Wallet
+  description: MetaMask Mobile is the official self-custodial Ethereum wallet for iOS and Android, with multi-chain accounts and a built-in dapp browser. React Native.
 addedAt: 2026-06-13
 source:
   type: import

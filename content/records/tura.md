@@ -45,6 +45,8 @@ caveats:
   - The project is new and the current release line is pre-1.0.
 seo:
   title: Tura – Open Source Rust Coding Agent for Desktop & CLI
+  description: Tura is a Rust coding agent with terminal and desktop apps for macOS, Windows and Linux,
+    built to finish tasks in fewer tokens and turns. AGPL-3.0.
 addedAt: 2026-07-19
 source:
   type: import

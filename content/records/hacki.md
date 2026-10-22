@@ -22,6 +22,7 @@ whyListed: []
 caveats: []
 seo:
   title: Hacki – Open Source Hacker News Client Built with Flutter
+  description: Hacki is a clean Hacker News reader for iOS and Android with offline reading and custom themes, built with Flutter and licensed under GPL-3.0.
 addedAt: 2026-06-07
 source:
   type: import

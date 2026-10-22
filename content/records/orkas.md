@@ -22,6 +22,7 @@ caveats:
   - The core application is free; model usage and optional services may cost extra.
 seo:
   title: Orkas – Open Source Desktop AI Workforce
+  description: Orkas is a local-first desktop app where a Commander agent turns goals into plans and runs specialist AI agents in one chat. MIT; Mac, Windows, Linux.
 addedAt: 2026-10-05
 submittedBy: BlueSkyID666
 ---

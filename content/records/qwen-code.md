@@ -57,7 +57,7 @@ relations:
 seo:
   title: Qwen Code – Open Source AI Coding Agent for the Terminal
   description: Qwen Code is an Apache-2.0 terminal coding agent with subagents, memory, skills and MCP,
-    using Qwen, OpenAI, Anthropic, Gemini or local models, plus desktop and IDE apps.
+    using Qwen, OpenAI, Anthropic, Gemini or local models.
 addedAt: 2026-09-29
 source:
   type: manual

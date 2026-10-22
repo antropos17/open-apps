@@ -34,6 +34,8 @@ whyListed: []
 caveats: []
 seo:
   title: BlueWallet – Open Source Bitcoin & Lightning Wallet
+  description: BlueWallet is a privacy-focused Bitcoin wallet for iOS and Android with on-chain
+    payments, Lightning Network and hardware-wallet support. MIT-licensed.
 addedAt: 2026-06-13
 source:
   type: import

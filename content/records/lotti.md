@@ -13,6 +13,9 @@ tags:
   - journaling
   - local-first
   - end-to-end-encryption
+seo:
+  title: Lotti – Open Source Private Logbook & Habit Tracker
+  description: Lotti is a private logbook for tasks, time tracking, journaling, habits and health data, with end-to-end encrypted sync and optional AI agents. GPL-3.0.
 addedAt: 2026-09-29
 submittedBy: cyberk1ng
 ---

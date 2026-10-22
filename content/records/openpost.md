@@ -42,6 +42,7 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: OpenPost – Open Source Self-Hosted Social Media Scheduler
+  description: OpenPost is a self-hosted web app for preparing, reviewing, scheduling and tracking social media posts across several networks from one place. AGPL-3.0.
 addedAt: 2026-09-12
 source:
   type: submit

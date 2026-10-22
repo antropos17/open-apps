@@ -52,7 +52,8 @@ caveats:
   - Solo early-stage project; the Drop feature shown on the site is marked coming soon and does not
     work yet.
 seo:
-  title: NO SUS – Open Source Student Privacy Toolkit Built with Flutter
+  title: NO SUS – Open Source Privacy Toolkit for Students
+  description: NO SUS is a student privacy toolkit that opens your files on a borrowed PC via phone QR approval, sends self-destructing notes and watermarks shared files.
 addedAt: 2026-09-24
 source:
   type: submit

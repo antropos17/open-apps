@@ -21,6 +21,9 @@ whyListed:
 caveats:
   - Needs macOS 14 Sonoma or later, and the interface is English only
   - Young project, public since July 2026, with one maintainer, and the document format can still change before 1.0
+seo:
+  title: ItsPaint – Open Source Paint & Screenshot Markup for Mac
+  description: ItsPaint is a paint and screenshot-markup app for macOS, built in Swift on a UI-free drawing engine that also ships as a reusable package.
 addedAt: 2026-10-02
 submittedBy: joshlin2201
 ---

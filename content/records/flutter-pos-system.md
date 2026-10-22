@@ -25,6 +25,7 @@ tags:
   - possystem
 seo:
   title: Flutter POS System – Open Source Restaurant Point of Sale
+  description: Flutter POS System is an offline point-of-sale app for small shops and restaurants, keeping menus, orders, stock and receipts on-device. Apache-2.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

@@ -58,6 +58,7 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Loofah – Open Source Meeting Notes App for macOS
+  description: Loofah is a local-first meeting notetaker for macOS that records and transcribes on-device and saves notes as plain Markdown. MIT, no account or telemetry.
 addedAt: 2026-08-31
 source:
   type: import

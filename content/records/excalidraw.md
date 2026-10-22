@@ -55,8 +55,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Excalidraw – Open Source Hand-Drawn Whiteboard
-  description: Excalidraw is an open-source whiteboard for hand-drawn-style diagrams and wireframes,
-    with end-to-end encrypted collaboration, offline use and Docker self-hosting. MIT.
+  description: Excalidraw is a whiteboard for hand-drawn-style diagrams and wireframes, with
+    end-to-end encrypted collaboration, offline use and Docker self-hosting. MIT.
 addedAt: 2026-09-29
 source:
   type: manual

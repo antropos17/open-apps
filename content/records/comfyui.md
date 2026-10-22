@@ -52,9 +52,9 @@ caveats:
   - Models are downloaded separately and each carries its own licence, which may restrict how you use it.
   - Custom nodes are third-party Python code that runs with your user's permissions.
 seo:
-  title: ComfyUI – Open Source Node-Based AI Image and Video Generator
-  description: ComfyUI runs open image, video, audio and 3D models on your own GPU through a node
-    graph, offline, with a desktop app and local API. GPL-3.0; models carry their own licences.
+  title: ComfyUI – Open Source Node-Based AI Image & Video Generator
+  description: ComfyUI generates images, video, audio and 3D with open models on your own GPU through
+    a node graph, with a desktop app and local API. GPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

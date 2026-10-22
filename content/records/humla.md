@@ -60,8 +60,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Humla – Open Source AI Meeting Notes for Mac
-  description: Humla records meetings on an Apple Silicon Mac with no bot, transcribes with local
-    Whisper or your own API key, and labels speakers offline. MIT-licensed and early-stage.
+  description: Humla records meetings on Apple Silicon Macs with no bot, transcribes with local
+    Whisper or your own API key and labels speakers offline. MIT, early-stage.
 addedAt: 2026-09-22
 source:
   type: manual

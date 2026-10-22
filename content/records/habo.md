@@ -29,6 +29,7 @@ tags:
   - sync
 seo:
   title: Habo – Open Source Privacy-First Habit Tracker
+  description: Habo is a privacy-first habit tracker for iOS and Android that keeps habits and streaks on your device, with optional end-to-end encrypted sync. GPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

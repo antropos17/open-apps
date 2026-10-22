@@ -27,6 +27,8 @@ whyListed: []
 caveats: []
 seo:
   title: UTM – Open Source Virtual Machines for iOS & macOS
+  description: UTM runs virtual machines on iOS and macOS, so you can boot Windows, Linux and retro
+    operating systems on Apple devices. Apache-2.0.
 addedAt: 2026-06-13
 source:
   type: import

@@ -56,8 +56,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Taiga – Open Source Agile Project Management, Scrum & Kanban
-  description: Taiga is a self-hostable agile project manager with Scrum backlogs, sprints and
-    burndown charts, Kanban with swimlanes and WIP limits, and epics. MPL-2.0 and AGPL-3.0.
+  description: Taiga is a self-hostable agile project manager with Scrum backlogs, sprints, burndown
+    charts and Kanban boards with WIP limits. MPL-2.0 and AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

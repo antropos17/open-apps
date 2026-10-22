@@ -57,8 +57,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Zammad – Open Source Helpdesk and Ticketing System
-  description: Zammad is a self-hostable helpdesk that handles email, chat, phone and social media
-    tickets in one place, with a REST API and Docker or package installs. AGPL-3.0.
+  description: Zammad is a self-hostable helpdesk that brings email, chat, phone and social media
+    tickets into one place, with Docker or package installs. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

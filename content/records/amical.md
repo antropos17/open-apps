@@ -61,7 +61,7 @@ relations:
       quote: Wispr Flow vs Amical — Open-Source Dictation Alternative
       checkedAt: 2026-09-29
 seo:
-  title: Amical – Open Source Wispr Flow Alternative for Mac & Windows
+  title: Amical – Open Source Wispr Flow Alternative, Mac & Windows
   description: Amical is a local-first dictation app for macOS and Windows that formats your speech for the app you are in — email, chat or code. MIT, with Whisper models.
 addedAt: 2026-09-29
 source:

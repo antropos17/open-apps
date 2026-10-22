@@ -63,8 +63,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: LibreChat – Open Source Self-Hosted Multi-Model AI Chat
-  description: LibreChat is a self-hosted AI chat platform with a ChatGPT-style interface, many model
-    providers, agents, MCP and multi-user login. MIT-licensed, run with Docker Compose.
+  description: LibreChat is a self-hosted, multi-user AI chat app with a ChatGPT-style interface, many
+    model providers, agents and MCP. MIT, runs with Docker Compose.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -32,7 +32,8 @@ caveats:
   - Self-hosting requires PostgreSQL, Redis, S3-compatible storage and operational ownership.
   - Hosted MCP access requires sign-in and workspace-scoped OAuth authorization.
 seo:
-  title: Orbit - Open Source Task and Project Manager
+  title: Orbit – Open Source Task and Project Manager
+  description: Orbit is a free realtime task manager in the browser for issues, boards, sprints, docs and files, with a hosted MCP endpoint for AI agents. Apache-2.0.
 addedAt: 2026-09-24
 source:
   type: submit

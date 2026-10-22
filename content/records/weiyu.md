@@ -34,6 +34,8 @@ tags:
   - notes
 seo:
   title: Weiyu – Open Source Local-First WeChat Archive for Windows
+  description: Weiyu is a local-first Windows app that turns readable WeChat messages into searchable
+    daily briefings, with history and AI analysis. MIT.
 addedAt: 2026-08-27
 source:
   type: manual

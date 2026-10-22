@@ -70,6 +70,7 @@ caveats:
     Photon as well.
 seo:
   title: Pumperly – Open Source Fuel Price and EV Route Planner
+  description: Pumperly maps fuel prices and EV chargers and plans the cheapest fuel stops on your route, on web, iOS and Android with no account, or self-host. AGPL-3.0.
 addedAt: 2026-10-13
 source:
   type: manual

@@ -29,6 +29,7 @@ whyListed:
 caveats: []
 seo:
   title: PeopleInSpace – Open Source Kotlin Multiplatform Sample App
+  description: PeopleInSpace is a Kotlin Multiplatform reference app that shares code across iOS, Android, desktop, web and Wear OS to show a real KMP architecture.
 addedAt: 2026-06-13
 source:
   type: import

@@ -29,6 +29,8 @@ whyListed: []
 caveats: []
 seo:
   title: Feather – Open Source iOS App Manager & Installer
+  description: Feather is a free on-device app manager and installer for iPhone and iPad that signs
+    apps with Apple Developer Program certificates. GPL-3.0 licensed.
 addedAt: 2026-06-13
 source:
   type: import

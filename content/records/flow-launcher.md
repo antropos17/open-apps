@@ -50,7 +50,7 @@ relations:
 seo:
   title: Flow Launcher – Open Source Keyboard Launcher for Windows
   description: Flow Launcher searches apps, files and file contents on Windows, runs commands and
-    previews results, with a large plugin store in C#, Python or Node.js. MIT-licensed.
+    previews results, with a large community plugin store. MIT-licensed.
 addedAt: 2026-09-29
 source:
   type: manual

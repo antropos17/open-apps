@@ -54,8 +54,8 @@ relations:
       checkedAt: 2026-09-28
 seo:
   title: OpenTag – Open Source AI Coding Teammate for Slack
-  description: OpenTag queues coding work from Slack and runs Claude Code, Codex or another ACP agent
-    on a computer you control, reporting back in the thread. MIT, self-hosted.
+  description: OpenTag takes coding work from Slack and runs Claude Code, Codex or another agent on
+    your own computer, reporting back in the thread. MIT, self-hosted.
 addedAt: 2026-09-28
 source:
   type: manual

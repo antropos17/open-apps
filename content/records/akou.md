@@ -74,7 +74,7 @@ relations:
 seo:
   title: akou – Open Source Granola Alternative for Mac
   description: akou records calls on your Mac, transcribes them on the device with speaker labels,
-    and lets Claude Code or Codex question a call while it runs. GPL-3.0, no bot, no account.
+    and lets Claude Code or Codex query a call live. GPL-3.0, no bot.
 addedAt: 2026-10-11
 source:
   type: manual

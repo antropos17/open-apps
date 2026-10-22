@@ -31,6 +31,7 @@ tags:
   - wellbeing
 seo:
   title: Medito – Open Source Free Meditation App
+  description: Medito is a free meditation app for Android and iOS with guided sessions, multi-day courses and themed packs, from the Medito Foundation. AGPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

@@ -41,6 +41,8 @@ caveats:
   - Requires macOS 14 or later.
 seo:
   title: Tracexy – Open Source Network Traffic Analyzer for macOS
+  description: Tracexy is a native, local-first macOS app for capturing live network traffic and
+    investigating PCAP and PCAPNG files. AGPL-3.0, free on GitHub.
 addedAt: 2026-08-27
 source:
   type: submit

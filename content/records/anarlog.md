@@ -64,8 +64,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: anarlog – Open Source Granola Alternative for Meeting Notes
-  description: anarlog takes AI meeting notes on macOS, Windows and Linux without a bot in the call.
-    Audio, transcripts and notes stay in local SQLite; MIT-licensed, bring your own model.
+  description: anarlog takes AI meeting notes on macOS, Windows and Linux without a bot in the call,
+    keeping audio and transcripts local. MIT, bring your own model.
 addedAt: 2026-09-22
 source:
   type: manual

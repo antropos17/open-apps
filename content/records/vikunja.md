@@ -68,9 +68,9 @@ relations:
       quote: Trello alternative with Kanban, Gantt, list, and table views.
       checkedAt: 2026-09-29
 seo:
-  title: Vikunja – Open Source Todoist & Trello Alternative, Self-Hosted
-  description: Vikunja is a self-hosted task manager with list, Kanban, Gantt and table views,
-    reminders, repeating tasks, sharing and importers for Todoist and Trello. AGPL-3.0.
+  title: Vikunja – Open Source Todoist & Trello Alternative
+  description: Vikunja is a self-hosted to-do and project app with list, Kanban, Gantt and table views
+    and importers for Todoist and Trello. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

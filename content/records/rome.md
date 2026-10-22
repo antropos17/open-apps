@@ -54,7 +54,7 @@ relations:
 seo:
   title: Rome – Open Source Agent OS and Grok Bot Alternative
   description: Rome is a self-hosted agent OS that turns repeated work into git-tracked actions and
-    small apps, reachable from Telegram, Discord or WhatsApp. MIT, one Docker script.
+    small apps you reach from Telegram, Discord or WhatsApp. MIT.
 addedAt: 2026-09-28
 source:
   type: manual

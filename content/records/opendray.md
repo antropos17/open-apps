@@ -44,8 +44,8 @@ caveats:
     before sharing a subscription.
 seo:
   title: opendray – Open Source Self-Hosted Gateway for Coding Agents
-  description: opendray keeps Claude Code, Codex and other coding agent sessions running on your own
-    server, reattachable from web, mobile or chat. One Go binary, Apache-2.0.
+  description: opendray keeps Claude Code, Codex and other coding agent sessions running on your
+    server, reattachable from web, mobile or chat. Apache-2.0, one Go binary.
 addedAt: 2026-09-28
 source:
   type: manual

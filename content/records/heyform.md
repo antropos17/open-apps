@@ -57,8 +57,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: HeyForm – Open Source Typeform Alternative, Self-Hosted
-  description: HeyForm builds conversational forms, surveys, quizzes and polls with logic, custom
-    themes, analytics and webhooks. AGPL-3.0, self-hosted or on the hosted service.
+  description: HeyForm builds conversational forms, surveys, quizzes and polls with logic, themes,
+    analytics and webhooks. AGPL-3.0, self-hosted or on the hosted service.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -49,8 +49,8 @@ caveats:
   - The Python SDK and agent server live in a separate repository, OpenHands/software-agent-sdk.
 seo:
   title: OpenHands – Open Source Self-Hosted Autonomous Coding Agents
-  description: OpenHands Agent Canvas runs its own coding agent, Claude Code, Codex or Gemini on your
-    laptop, Docker, a VM or the cloud, with scheduled automations. MIT, self-hosted.
+  description: OpenHands runs its own coding agent, Claude Code, Codex or Gemini on your laptop,
+    Docker, a VM or the cloud, with scheduled automations. MIT, self-hosted.
 addedAt: 2026-09-29
 source:
   type: manual

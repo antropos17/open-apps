@@ -112,6 +112,8 @@ caveats:
   - The community-consistent
 seo:
   title: Invoice Ninja Admin Portal – Open Source Invoicing Client
+  description: Invoice Ninja Admin Portal handles quotes, invoices, payments, expenses and time
+    tracking on iOS, Android, desktop and web. Built with Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

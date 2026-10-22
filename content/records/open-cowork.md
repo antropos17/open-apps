@@ -55,7 +55,7 @@ relations:
 seo:
   title: Open Cowork – Open Source Claude Cowork for Windows & Mac
   description: Open Cowork is an MIT desktop agent for Windows and Apple Silicon Macs that works in a
-    folder you choose and runs its commands in a WSL2 or Lima VM. Bring your own API key.
+    folder you pick and runs commands in a local VM, with your own key.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -58,9 +58,9 @@ relations:
       quote: Lightweight, cookie-free Google Analytics alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Plausible – Open Source Cookie-Free Google Analytics Alternative
+  title: Plausible – Open Source Google Analytics Alternative
   description: Plausible is lightweight, privacy-first web analytics with a one-page dashboard, goals
-    and Search Console data. AGPL-3.0 Community Edition to self-host; premium features on cloud.
+    and Search Console data. AGPL-3.0 to self-host; extras on cloud.
 addedAt: 2026-09-29
 source:
   type: manual

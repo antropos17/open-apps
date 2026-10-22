@@ -24,6 +24,8 @@ whyListed:
 caveats: []
 seo:
   title: SwiftTerm – Open Source Terminal Emulator in Swift
+  description: SwiftTerm is an xterm and VT100 compatible terminal emulator written in Swift for iOS,
+    with source code you can study, build and reuse. MIT-licensed.
 addedAt: 2026-06-13
 source:
   type: import

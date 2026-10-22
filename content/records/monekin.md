@@ -28,6 +28,7 @@ tags:
   - personal-finances
 seo:
   title: Monekin – Open Source Offline Personal Finance App
+  description: Monekin is an offline finance app for accounts, budgets, goals, investments and debts in 50+ currencies, with no account, ads or internet needed. AGPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

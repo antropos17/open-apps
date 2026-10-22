@@ -22,6 +22,7 @@ tags:
   - stock-tracker
 seo:
   title: MarketMonk – Open Source Stock Portfolio Tracker
+  description: MarketMonk is a desktop and mobile stock portfolio tracker with ticker lookups, broker CSV imports and gain views, keeping your trades local. MIT, Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

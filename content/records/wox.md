@@ -53,9 +53,9 @@ relations:
       quote: It is an open-source Raycast / Alfred alternative.
       checkedAt: 2026-09-29
 seo:
-  title: Wox – Open Source Raycast Alternative for Windows, Mac & Linux
+  title: Wox – Open Source Raycast Alternative, Windows, Mac & Linux
   description: Wox is a native keyboard launcher for Windows, macOS and Linux with app and file search
-    and Node.js or Python plugins from a store. GPL-3.0, maintained since 2013.
+    and plugins from a store. GPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

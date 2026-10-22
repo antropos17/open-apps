@@ -67,7 +67,7 @@ relations:
 seo:
   title: Kilo Code – Open Source Cursor & Copilot Alternative
   description: Kilo Code is an MIT AI coding agent with autocomplete for VS Code, JetBrains and the
-    terminal, with 500+ models at provider prices, your own keys or local models.
+    terminal, using 500+ models, your own keys or local models.
 addedAt: 2026-09-29
 source:
   type: manual

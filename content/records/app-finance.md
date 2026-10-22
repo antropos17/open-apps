@@ -29,6 +29,8 @@ tags:
   - personal-finances
 seo:
   title: Fingrom – Open Source Personal Finance & Accounting App
+  description: Fingrom is an ad-free personal finance app with multi-currency accounts, budgets,
+    recurring transactions and encrypted sync, on mobile, desktop and web.
 addedAt: 2026-08-11
 source:
   type: github-topic

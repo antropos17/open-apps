@@ -50,9 +50,9 @@ relations:
       quote: The open-source, multi-agent alternative to Claude Tag.
       checkedAt: 2026-09-28
 seo:
-  title: AgentConnect – Open Source Multi-Agent Claude Tag Alternative
-  description: AgentConnect puts Claude Code, Codex and other ACP agents into Slack, Telegram, Discord,
-    GitHub and Linear with roles, memory and access rules. Apache-2.0, self-hosted.
+  title: AgentConnect – Open Source Claude Tag Alternative
+  description: AgentConnect runs Claude Code, Codex and other agents in Slack, Discord, GitHub and
+    Linear with roles, memory and access rules. Self-hosted, Apache-2.0.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -30,6 +30,8 @@ whyListed:
 caveats: []
 seo:
   title: EhPanda – Open Source SwiftUI & TCA Gallery App for iOS
+  description: EhPanda is an unofficial iPhone and iPad client for the E-Hentai and ExHentai galleries,
+    written in SwiftUI with The Composable Architecture. MIT.
 addedAt: 2026-06-13
 source:
   type: import

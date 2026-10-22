@@ -34,6 +34,7 @@ caveats:
   - "Independent self-hosting requires configuring optional OAuth and database services for account watchlists."
 seo:
   title: IOTA Watch – Open Source Training and Mining Monitor
+  description: IOTA Watch is a read-only web dashboard for IOTA Train at Home, xCoin XID / MMM and Quantus QTC, showing activity, rewards and data freshness. MIT.
 addedAt: 2026-10-03
 submittedBy: molimao
 ---

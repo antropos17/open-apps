@@ -19,6 +19,9 @@ whyListed:
   - "Family-ready: multi-user with an admin console, per-profile language, kid mode and piece names for the youngest; English-first with Bulgarian, Spanish, German and Russian out of the box."
 caveats:
   - "41 stars as of 2026-10-17 (below the 50-star guideline): exception requested — actively maintained (v7.18.1, pushed 2026-10-16), MIT-licensed, Docker one-click, five languages, and a distinctive 'LLM never analyses' design that makes local AI coaching reliable."
+seo:
+  title: Patzer – Open Source Chess.com Alternative, Self-Hosted
+  description: Patzer is a self-hosted Chess.com alternative that reviews your Chess.com and Lichess games, lets you play Stockfish and adds an AI coach on your Ollama.
 addedAt: 2026-10-17
 submittedBy: SikamikanikoBG
 ---

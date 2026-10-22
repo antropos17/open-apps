@@ -64,8 +64,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Grist – Open Source Relational Spreadsheet, Self-Hosted
-  description: Grist is a spreadsheet with database structure — Python formulas, linked widgets, forms,
-    access rules and an API. Apache-2.0, self-hosted, desktop app or hosted.
+  description: Grist is a relational spreadsheet with database structure, Python formulas, linked
+    widgets, forms and access rules. Apache-2.0, self-hosted or desktop app.
 addedAt: 2026-09-29
 source:
   type: manual

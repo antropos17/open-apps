@@ -66,8 +66,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Plane – Open Source Linear & Jira Alternative, Self-Hosted
-  description: Plane is a self-hostable project management platform with work items, cycles, modules,
-    views and pages, plus an MCP server. AGPL-3.0 Community Edition; paid features are separate.
+  description: Plane is self-hostable project management with work items, cycles, modules, views and
+    pages, plus an MCP server. AGPL-3.0 Linear and Jira alternative.
 addedAt: 2026-09-29
 source:
   type: manual

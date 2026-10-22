@@ -32,6 +32,7 @@ whyListed: []
 caveats: []
 seo:
   title: Harbour – Open Source Docker & Portainer App for iOS
+  description: Harbour is a Docker and Portainer management app for iPhone, iPad and Mac, so you can look after your containers away from the terminal. AGPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

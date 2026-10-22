@@ -37,6 +37,7 @@ whyListed: []
 caveats: []
 seo:
   title: Keybase – Open Source Encrypted Chat & Identity App
+  description: Keybase ties encrypted chat and file sharing to verified social identities. The product wound down in 2024; its Go client stays open source. BSD-3-Clause.
 addedAt: 2026-06-13
 source:
   type: import

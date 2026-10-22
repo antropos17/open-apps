@@ -59,8 +59,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Supabase – Open Source Postgres Development Platform
-  description: Supabase pairs a Postgres database with auth, REST and GraphQL APIs, realtime, edge
-    functions, storage and vectors. Hosted or self-hosted with Docker. Apache-2.0.
+  description: Supabase pairs a Postgres database with auth, instant APIs, realtime, edge functions and
+    storage, hosted or self-hosted with Docker. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

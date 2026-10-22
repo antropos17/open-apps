@@ -6,6 +6,7 @@ import {
   getCollectionIndexModel,
   loadCollections,
   recordsToCollectionEntries,
+  seoTitle,
 } from '@grove-dev/astro/server';
 import { runCollection } from '@grove-dev/core';
 import CollectionGuide, { type GuideTile } from '../../components/site/collection-guide.astro';
@@ -69,10 +70,15 @@ const appsCovered = new Set(
 ).size;
 
 const seo = model.seo;
+// Most collections are "open source alternatives to X" comparisons; the
+// package's "Collections" title and count-only description hide that.
+const title = seoTitle('Open Source Alternatives to Popular Apps, Compared', siteConfig.name);
+const description =
+  'Open-source alternatives to Notion, Jira, Figma, ChatGPT, Cursor, Zendesk and more, compared side by side — plus curated lists of Flutter and iOS apps.';
 ---
 <BaseLayout
-  title={seo?.title ?? "Collections"}
-  description={seo?.description ?? "Curated and generated directories of related items."}
+  title={title}
+  description={description}
   image={seo?.image}
   jsonLd={seo?.jsonLd}
   site={siteConfig}

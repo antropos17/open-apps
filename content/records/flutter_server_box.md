@@ -28,6 +28,8 @@ tags:
   - vps
 seo:
   title: ServerBox – Open Source Server Monitor & SSH Client
+  description: ServerBox monitors and manages servers over SSH with live charts, a terminal, SFTP and
+    Docker controls, on iOS, Android and desktop. AGPL-3.0, Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

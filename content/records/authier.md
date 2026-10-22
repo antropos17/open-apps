@@ -71,6 +71,8 @@ caveats:
     supported deployment path.
 seo:
   title: Authier – Open Source Password Manager with Encrypted Sync
+  description: Authier is an experimental password manager with encrypted vault sync, TOTP codes,
+    browser extensions, a web vault and mobile apps. AGPL-3.0, TypeScript.
 addedAt: 2026-09-01
 source:
   type: submit

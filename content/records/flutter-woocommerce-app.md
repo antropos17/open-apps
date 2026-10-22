@@ -23,6 +23,7 @@ whyListed: []
 caveats: []
 seo:
   title: Flutter WooCommerce App – Open Source Store App Template
+  description: Flutter WooCommerce App is a ready-made Android and iOS shopping app template for WooCommerce stores, built with Flutter and BSD-2-Clause licensed.
 addedAt: 2026-06-07
 source:
   type: import

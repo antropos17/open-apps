@@ -58,7 +58,7 @@ relations:
 seo:
   title: Penpot – Open Source Figma Alternative, Self-Hosted
   description: Penpot is a self-hostable design and prototyping platform with components, design
-    tokens, CSS Grid and Flex layouts, code inspect, plugins and MCP. MPL-2.0, by Kaleidos.
+    tokens, Grid and Flex layouts, code inspect, plugins and MCP. MPL-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

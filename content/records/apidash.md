@@ -57,6 +57,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: API Dash – Open Source API Client Built with Flutter
+  description: API Dash builds and tests HTTP, GraphQL and SSE requests and generates code in 20+
+    languages, on macOS, Windows, Linux and iOS. Apache-2.0, Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

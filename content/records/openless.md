@@ -57,9 +57,9 @@ relations:
       quote: a fully open-source alternative to commercial tools such as Typeless, Wispr Flow
       checkedAt: 2026-09-28
 seo:
-  title: OpenLess – Open Source Wispr Flow Alternative for Windows & Mac
-  description: OpenLess turns speech into polished text or a structured AI prompt at your cursor, on
-    Windows, macOS, Linux and Android. AGPL-3.0; bring your own speech and model providers.
+  title: OpenLess – Open Source Wispr Flow Alternative, Windows & Mac
+  description: OpenLess turns speech into polished text or an AI prompt at your cursor on Windows,
+    macOS, Linux and Android. AGPL-3.0, with providers you choose.
 addedAt: 2026-09-28
 source:
   type: manual

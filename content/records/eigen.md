@@ -28,6 +28,8 @@ whyListed: []
 caveats: []
 seo:
   title: Artsy – Open Source React Native Art Marketplace App
+  description: Artsy is the official iOS and Android app for discovering fine art, following artists
+    and galleries and bidding in live auctions. MIT, React Native.
 addedAt: 2026-06-07
 source:
   type: import

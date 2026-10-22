@@ -28,6 +28,7 @@ whyListed: []
 caveats: []
 seo:
   title: Joplin – Open Source Note-Taking & To-Do App
+  description: Joplin is an end-to-end encrypted note-taking and to-do app for iOS and Android that syncs through Joplin Cloud, Dropbox, OneDrive, WebDAV or Nextcloud.
 addedAt: 2026-06-07
 source:
   type: import

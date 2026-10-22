@@ -109,6 +109,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Voicebox – Open Source Local AI Voice Studio
+  description: Voicebox is a local AI voice studio for macOS, Windows and Linux with voice cloning,
+    text-to-speech, dictation and an MCP server for agents. MIT.
 addedAt: 2026-09-01
 curation:
   reviewed: true

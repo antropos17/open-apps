@@ -59,7 +59,7 @@ relations:
 seo:
   title: Cline – Open Source AI Coding Agent for VS Code
   description: Cline is an Apache-2.0 coding agent for VS Code, the terminal and desktop that plans,
-    edits and runs commands with your approval, using any model including local ones.
+    edits and runs commands with your approval, using any model.
 addedAt: 2026-09-29
 source:
   type: manual

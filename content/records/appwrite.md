@@ -55,9 +55,9 @@ relations:
       url: https://github.com/appwrite/appwrite
       checkedAt: 2026-09-29
 seo:
-  title: Appwrite – Open Source Backend Platform for Web and Mobile Apps
+  title: Appwrite – Open Source Backend for Web and Mobile Apps
   description: Appwrite gives apps auth, databases, storage, functions, hosting, messaging and
-    realtime, self-hosted with one Docker command or on Appwrite Cloud. BSD-3-Clause, with MCP.
+    realtime, self-hosted with Docker or on Appwrite Cloud. BSD-3-Clause.
 addedAt: 2026-09-29
 source:
   type: manual

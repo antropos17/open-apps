@@ -22,6 +22,7 @@ caveats:
   - If an external OCR or model provider is enabled, invoice content is processed by that configured service.
 seo:
   title: InvoiceFlowAI – Open Source Invoice Organizer
+  description: InvoiceFlowAI is a Windows and macOS app that collects emailed invoices, extracts fields with OCR, flags unsure results and exports Excel summaries.
 addedAt: 2026-09-30
 submittedBy: EthanYoQ
 ---

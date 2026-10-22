@@ -59,8 +59,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Matomo – Open Source Google Analytics Alternative
-  description: Matomo is a self-hosted analytics platform for websites and apps on PHP and MySQL,
-    formerly Piwik, with a plugin marketplace and Matomo Cloud. GPL-3.0, privacy built in.
+  description: Matomo is a self-hosted web and app analytics platform on PHP and MySQL, formerly
+    Piwik, or run on Matomo Cloud. A GPL-3.0 Google Analytics alternative.
 addedAt: 2026-09-29
 source:
   type: manual

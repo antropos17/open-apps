@@ -65,7 +65,7 @@ relations:
 seo:
   title: Chatwoot – Open Source Intercom & Zendesk Alternative
   description: Chatwoot is a self-hostable support desk with one inbox for live chat, email, WhatsApp,
-    social channels and SMS, plus a help centre. MIT core; some features need a paid licence.
+    social and SMS, plus a help centre. MIT core, some features paid.
 addedAt: 2026-09-29
 source:
   type: manual

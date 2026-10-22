@@ -22,6 +22,8 @@ whyListed: []
 caveats: []
 seo:
   title: Blink Comparison – Open Source Tamper-Evident Seal Checker
+  description: Blink Comparison helps you spot tampering by comparing photos of tamper-evident seals
+    by eye. A GPL-3.0 app for Android and iOS, built with Flutter.
 addedAt: 2026-06-07
 source:
   type: import

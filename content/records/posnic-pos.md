@@ -78,6 +78,7 @@ caveats:
     signal.
 seo:
   title: Posnic POS – Open Source POS & Billing Software
+  description: Posnic POS is offline-first POS and billing software for shops and restaurants on Windows, macOS and Linux, with inventory and receipts. AGPL-3.0.
 addedAt: 2026-09-02
 source:
   type: submit

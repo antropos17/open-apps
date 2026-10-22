@@ -50,6 +50,8 @@ caveats:
     your own team ID in its code requirements.
 seo:
   title: VPN Bypass – Open Source VPN Split Tunneling for macOS
+  description: VPN Bypass is a macOS menu bar app that routes chosen services and domains around a
+    corporate VPN, or only those through it. GPL-3.0, via Homebrew.
 addedAt: 2026-10-12
 source:
   type: manual

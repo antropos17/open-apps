@@ -54,7 +54,7 @@ relations:
 seo:
   title: Centaur – Open Source Claude Tag Alternative with Sandboxes
   description: Centaur gives a team one shared AI agent in Slack and runs each thread in its own
-    Kubernetes sandbox with shell, git and your tools. Self-hosted, MIT or Apache-2.0.
+    Kubernetes sandbox with shell and git. Self-hosted, MIT or Apache-2.0.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -52,10 +52,15 @@ const { total, page, seo } = getDirectoryIndexModel(Astro.url.searchParams, site
 // list markup isn't duplicated across every paginated route. The
 // per-page description is built inside `getDirectoryIndexModel` so it
 // fits inside the 160-char cap; this view just forwards `seo.title`.
+// Page 1 names the count and the facets people filter by; the package
+// default ("Browse Apps") says nothing a search result can use.
 const title =
   page > 1
     ? seoTitle(`Browse ${titleCaseFirst(itemLabelPlural())} — Page ${page}`, siteConfig.name)
-    : seo.title;
+    : seoTitle(
+        `Browse ${total} Open Source ${titleCaseFirst(itemLabelPlural())} by Stack, Category & License`,
+        siteConfig.name,
+      );
 const description = seo.description;
 ---
 

@@ -34,7 +34,13 @@ const items = itemLabelPlural();
 const pageContentHtml = getPageContentHtml('about');
 ---
 
-<BaseLayout title={seo.title} description={seo.description} image={seo.image} jsonLd={seo.jsonLd} site={siteConfig}>
+<BaseLayout
+  title={`About ${siteConfig.name} – A Directory of Real Open Source Apps`}
+  description={`${siteConfig.name} lists real open-source apps you can run, study and contribute to, with each app's stack, platforms, licence and activity in one place.`}
+  image={seo.image}
+  jsonLd={seo.jsonLd}
+  site={siteConfig}
+>
   <Container size="narrow">
     <article class="py-12 sm:py-16">
       <nav class="text-2xs text-muted-foreground" aria-label="Breadcrumb">

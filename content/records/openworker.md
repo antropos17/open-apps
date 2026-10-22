@@ -53,7 +53,7 @@ relations:
 seo:
   title: OpenWorker – Open Source AI Coworker for Desktop
   description: OpenWorker delivers finished work across your files, terminal and 25+ apps on macOS and
-    Windows, with approval gates and an audit trail. MIT, any model or Ollama.
+    Windows, with approval gates and an audit trail. MIT, any model.
 addedAt: 2026-09-28
 source:
   type: manual

@@ -11,7 +11,7 @@
  * what those files hold, and no per-person contribution tallies (#289).
  */
 import siteConfig from '@grove/generated/site-config.json';
-import { getContributorsPageModel, getSubmissionsBySubmitter } from '@grove-dev/astro/server';
+import { getContributorsPageModel, getSubmissionsBySubmitter, seoTitle } from '@grove-dev/astro/server';
 import EmptyState from '../components/ui/empty-state.astro';
 import BaseLayout from '../layouts/base-layout.astro';
 import Container from '../layouts/container.astro';
@@ -95,7 +95,7 @@ const jsonLd = (seo.jsonLd ?? []).map((node) =>
 );
 ---
 
-<BaseLayout title={seo.title} description={description} image={seo.image} jsonLd={jsonLd} site={siteConfig}>
+<BaseLayout title={seoTitle(`Contribute to ${siteConfig.name}`, siteConfig.name)} description={description} image={seo.image} jsonLd={jsonLd} site={siteConfig}>
   <section class="pt-10 pb-8 sm:pt-14 sm:pb-10">
     <Container>
       <span class="text-2xs font-medium uppercase tracking-wider text-muted-foreground">Community</span>

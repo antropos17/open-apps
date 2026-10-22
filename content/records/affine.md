@@ -75,8 +75,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: AFFiNE – Open Source Notion & Miro Alternative, Local-First
-  description: AFFiNE merges docs, databases and a whiteboard on one canvas, local-first with real-time
-    sync, desktop apps and Docker self-hosting. MIT client, open-core server.
+  description: AFFiNE puts docs, databases and a whiteboard on one canvas, local-first with sync,
+    desktop apps and Docker self-hosting. MIT client, open-core server.
 addedAt: 2026-09-29
 source:
   type: manual

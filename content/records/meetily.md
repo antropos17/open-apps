@@ -68,7 +68,7 @@ relations:
 seo:
   title: Meetily – Open Source Local AI Meeting Assistant
   description: Meetily records, transcribes and summarises meetings on your own Mac or Windows PC with
-    Whisper, Parakeet and Ollama. MIT-licensed community edition; a paid PRO tier exists.
+    Whisper, Parakeet and Ollama. MIT community edition, paid PRO tier.
 addedAt: 2026-09-22
 source:
   type: manual

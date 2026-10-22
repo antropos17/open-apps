@@ -28,7 +28,9 @@ caveats:
   - Estimates are not subscription billing totals and internal provider formats can change.
   - Early-stage project with limited adoption; maintainer review is requested.
 seo:
-  title: Codex Claude Ledger - Open Source AI Usage Dashboard
+  title: Codex Claude Ledger – Open Source AI Usage Dashboard
+  description: Local Codex & Claude Analytics Ledger shows token usage, runtime, models and
+    API-equivalent cost for your sessions in a local browser. MIT, no uploads.
 addedAt: 2026-10-20
 submittedBy: imnakul
 ---

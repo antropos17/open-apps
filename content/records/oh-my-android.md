@@ -24,6 +24,9 @@ caveats:
   - Needs macOS 26 Tahoe or later; release binaries are Apple silicon only
   - Most system toggles need an emulator or a phone with adb debugging on; some depend on the Android API level
   - Young project (first release September 2026)
+seo:
+  title: Oh My Android – Open Source Android Emulator Panel for Mac
+  description: Oh My Android is a native macOS control panel for the Android Emulator and Android phones over adb, with a built-in MCP server for AI coding agents.
 addedAt: 2026-09-29
 submittedBy: ateymoori
 ---

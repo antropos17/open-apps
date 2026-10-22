@@ -56,6 +56,8 @@ caveats:
   - The dashboard is in English, French, German and Spanish only.
 seo:
   title: SolidPing – Open Source Uptime Monitoring and Status Pages
+  description: SolidPing monitors uptime with 40+ check types, alerts on Slack, Discord or email and
+    publishes status pages. Self-hosted or free hosted plan. AGPL-3.0.
 addedAt: 2026-10-12
 ---
 ## Why it's listed

@@ -53,7 +53,7 @@ relations:
 seo:
   title: NextCoWork – Open Source Desktop Workspace for Coding Agents
   description: NextCoWork runs coding agents in tabbed workspaces with an editor, terminal, Git and
-    browser, and asks before each tool call. Apache-2.0 for macOS, Windows and Linux.
+    browser, asking before each tool call. Apache-2.0 desktop app.
 addedAt: 2026-09-28
 source:
   type: manual

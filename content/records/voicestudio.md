@@ -62,8 +62,8 @@ relations:
       checkedAt: 2026-09-28
 seo:
   title: VoiceStudio – Open Source Local ElevenLabs Alternative
-  description: VoiceStudio clones voices, dubs video, dictates and makes audiobooks on your own
-    hardware for macOS, Windows and Linux. AGPL-3.0; check each model's licence before commercial use.
+  description: VoiceStudio clones voices, dubs video and makes audiobooks locally on macOS, Windows and
+    Linux. AGPL-3.0; check model licences for commercial use.
 addedAt: 2026-09-28
 source:
   type: manual

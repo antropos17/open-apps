@@ -37,6 +37,7 @@ whyListed: []
 caveats: []
 seo:
   title: Rainbow – Open Source Ethereum Wallet in React Native
+  description: Rainbow is a multi-chain Ethereum wallet for iOS and Android with token swaps, an NFT gallery and a dapp browser. GPL-3.0, built with React Native.
 addedAt: 2026-06-13
 source:
   type: import

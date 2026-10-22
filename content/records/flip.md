@@ -22,6 +22,8 @@ whyListed: []
 caveats: []
 seo:
   title: Flip – Open Source Reversi Game Built with Flutter
+  description: Flip is a Reversi board game for Android and iOS with a clean interface for casual
+    play. BSD-3-Clause licensed, with Flutter source you can study.
 addedAt: 2026-06-07
 source:
   type: import

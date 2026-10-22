@@ -48,6 +48,7 @@ caveats:
   - Requires Node.js 20+, Git, and API keys or local model endpoints for the selected providers.
 seo:
   title: LoopTroop – Open Source Coding Agent Orchestrator
+  description: LoopTroop runs AI coding agents in parallel Git worktrees, compares plans across models and adds human approval before merge. MIT, local app and web UI.
 addedAt: 2026-09-22
 source:
   type: submit

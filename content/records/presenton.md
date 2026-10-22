@@ -56,9 +56,9 @@ relations:
       quote: Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
       checkedAt: 2026-09-29
 seo:
-  title: Presenton – Open Source Gamma Alternative for AI Presentations
-  description: Presenton generates presentations from a prompt or document, self-hosted or on desktop,
-    with editable PPTX export and any model including Ollama. Apache-2.0, with an API.
+  title: Presenton – Open Source Gamma Alternative for AI Slides
+  description: Presenton generates slide decks from a prompt or document, self-hosted or on desktop,
+    with editable PPTX export and any model including Ollama. Apache-2.0.
 addedAt: 2026-09-29
 source:
   type: manual

@@ -25,6 +25,8 @@ tags:
   - material-design-3
 seo:
   title: Waterfly III – Open Source Firefly III Client for Android
+  description: Waterfly III is an unofficial Android and iOS app for your self-hosted Firefly III
+    server, with accounts, budgets, bills and charts. MIT, made in Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

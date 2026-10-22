@@ -23,6 +23,8 @@ whyListed: []
 caveats: []
 seo:
   title: YouTrack Mobile – Open Source iOS & Android Client
+  description: YouTrack Mobile is the official JetBrains app for YouTrack on iOS and Android, with issue
+    tracking, agile boards, knowledge base and notifications.
 addedAt: 2026-06-07
 source:
   type: import

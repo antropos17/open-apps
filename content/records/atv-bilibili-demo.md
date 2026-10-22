@@ -26,6 +26,8 @@ whyListed:
 caveats: []
 seo:
   title: ATV Bilibili Demo – Open Source Bilibili Client for Apple TV
+  description: ATV-Bilibili-demo is an open-source Bilibili video client for Apple TV, built in UIKit
+    around the tvOS focus-driven interface. GPL-2.0 licensed.
 addedAt: 2026-06-13
 source:
   type: import

@@ -32,6 +32,8 @@ whyListed:
 caveats: []
 seo:
   title: Kodi – Open Source Home Theater & Media Center
+  description: Kodi is a free media center that plays local and streamed video and music and organizes
+    your library, on Android, iOS, tvOS, macOS, Windows and Linux.
 addedAt: 2026-06-13
 source:
   type: import

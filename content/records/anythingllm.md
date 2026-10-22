@@ -69,7 +69,7 @@ relations:
 seo:
   title: AnythingLLM – Open Source Private AI Workspace for Your Docs
   description: AnythingLLM lets you chat with your documents and run AI agents with local or cloud
-    models, on desktop or a multi-user Docker server. MIT-licensed; telemetry can be turned off.
+    models, on desktop or a multi-user Docker server. MIT-licensed.
 addedAt: 2026-09-28
 source:
   type: manual

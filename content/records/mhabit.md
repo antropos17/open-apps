@@ -39,6 +39,7 @@ tags:
   - windows
 seo:
   title: mhabit – Open Source Habit Tracker with WebDAV Sync
+  description: mhabit (Table Habit) tracks good and bad habits with growth-curve scores, keeps data on your device and syncs over WebDAV, e.g. Nextcloud. Apache-2.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

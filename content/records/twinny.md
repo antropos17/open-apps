@@ -57,8 +57,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: twinny – Open Source Self-Hosted GitHub Copilot Alternative
-  description: twinny brings code completion, inline edits, chat and code review to VS Code against
-    your own model server — Ollama, LM Studio or a team gateway. MIT, no telemetry.
+  description: twinny brings code completion, chat, inline edits and code review to VS Code using your
+    own model server, such as Ollama. MIT, no telemetry.
 addedAt: 2026-09-29
 source:
   type: manual

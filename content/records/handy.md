@@ -60,7 +60,7 @@ relations:
       url: https://github.com/cjpais/Handy
       checkedAt: 2026-09-28
 seo:
-  title: Handy – Open Source Offline Dictation for Windows, Mac & Linux
+  title: Handy – Open Source Offline Dictation, Windows, Mac & Linux
   description: Handy types what you say into any app on Windows, macOS and Linux, transcribing
     offline with Whisper or Parakeet. MIT-licensed, x64 and arm64 builds.
 addedAt: 2026-09-28

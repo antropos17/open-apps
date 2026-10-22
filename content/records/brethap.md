@@ -20,6 +20,8 @@ links:
 tags: []
 seo:
   title: Brethap – Open Source Breathing & Meditation Timer
+  description: Brethap is a breathing and meditation timer with custom breathing patterns, tones,
+    vibration and a session log, for Android, Wear OS and web. GPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

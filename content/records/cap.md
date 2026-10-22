@@ -38,6 +38,8 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Cap – Open Source Loom Alternative for Screen Recording
+  description: Cap records your screen, microphone and camera at once on macOS, Windows and Linux,
+    then shares a link that plays in any browser. An open Loom alternative.
 addedAt: 2026-07-24
 source:
   type: manual

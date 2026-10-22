@@ -58,8 +58,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: OpenCode – Open Source AI Coding Agent for the Terminal
-  description: OpenCode is an MIT terminal coding agent with build and plan modes, any model from
-    many providers or local ones, and a beta desktop app for macOS, Windows and Linux.
+  description: OpenCode is an MIT terminal coding agent with build and plan modes and any model,
+    including local ones, plus a beta desktop app for Mac, Windows and Linux.
 addedAt: 2026-09-29
 source:
   type: manual

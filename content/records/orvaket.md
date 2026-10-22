@@ -35,6 +35,7 @@ caveats:
   - Email drafts require human review and sending through a separate email client; the app does not collect payments.
 seo:
   title: Orvaket – Open Source Accounts Receivable Follow-Up App
+  description: Orvaket is a browser-based accounts receivable board that turns CSV invoice exports into a human-reviewed follow-up plan for unpaid invoices. MIT-licensed.
 addedAt: 2026-09-26
 submittedBy: Akam1123
 ---

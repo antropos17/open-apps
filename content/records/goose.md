@@ -57,8 +57,8 @@ relations:
       checkedAt: 2026-09-29
 seo:
   title: Goose – Open Source AI Agent Desktop App and CLI
-  description: Goose is an Apache-2.0 AI agent in Rust with a desktop app, CLI and API for macOS,
-    Windows and Linux, 15+ model providers and 70+ MCP extensions, for code and beyond.
+  description: Goose is an Apache-2.0 AI agent with a desktop app, CLI and API for macOS, Windows and
+    Linux, working with 15+ model providers and 70+ MCP extensions.
 addedAt: 2026-09-29
 source:
   type: manual

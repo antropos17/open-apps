@@ -3,7 +3,7 @@
   family: permissive
   url: https://spdx.org/licenses/MIT.html
   heading: Open Source MIT-Licensed Apps
-  description: Open-source apps under the MIT License — the permissive licence that lets you use, modify and ship the code in commercial products as long as you keep the copyright notice.
+  description: Open-source apps under the MIT License — use, modify and ship the code in commercial products, as long as you keep the copyright notice.
 - id: apache-2.0
   name: Apache License 2.0
   family: permissive

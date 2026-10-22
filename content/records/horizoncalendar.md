@@ -31,6 +31,7 @@ whyListed:
 caveats: []
 seo:
   title: HorizonCalendar – Open Source iOS Calendar UI Library
+  description: HorizonCalendar is Airbnb's declarative calendar UI library for iOS, with month and week views from date pickers to full calendar apps. Apache-2.0.
 addedAt: 2026-06-13
 source:
   type: import

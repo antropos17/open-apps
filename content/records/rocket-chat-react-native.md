@@ -23,6 +23,8 @@ whyListed: []
 caveats: []
 seo:
   title: Rocket.Chat – Open Source Team Chat App in React Native
+  description: Rocket.Chat is the official iOS and Android app for Rocket.Chat team chat, with channels,
+    threads, file sharing, calls and end-to-end encryption. MIT.
 addedAt: 2026-06-07
 source:
   type: import

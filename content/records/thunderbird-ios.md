@@ -23,6 +23,8 @@ whyListed:
 caveats: []
 seo:
   title: Thunderbird for iOS – Open Source Email App
+  description: Thunderbird for iOS is the open-source Thunderbird email app for Apple's mobile platform,
+    with public source code you can build and audit. MPL-2.0.
 addedAt: 2026-06-13
 source:
   type: import

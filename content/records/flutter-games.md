@@ -22,6 +22,7 @@ whyListed: []
 caveats: []
 seo:
   title: Flutter Games – Open Source Game Shopping App in Flutter
+  description: Flutter Games is a Flutter app for buying and renting games on Android and iOS, released under the permissive 0BSD licence with source you can reuse.
 addedAt: 2026-06-07
 source:
   type: import

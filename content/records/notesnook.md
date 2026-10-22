@@ -45,6 +45,7 @@ relations:
       checkedAt: 2026-09-22
 seo:
   title: Notesnook – Open Source Encrypted Evernote Alternative
+  description: Notesnook is an end-to-end encrypted note-taking app for web, desktop, iOS and Android that syncs through a zero-knowledge server. GPL-3.0 licensed.
 addedAt: 2026-06-13
 source:
   type: import

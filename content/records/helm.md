@@ -55,6 +55,7 @@ caveats:
     needs an explicit empty.
 seo:
   title: Helm – Open Source macOS System Toolkit Built with Flutter
+  description: Helm is a macOS system toolkit that puts fifteen monitoring and cleanup tools, from storage to hardware metrics, in one window. MIT, built with Flutter.
 addedAt: 2026-09-01
 source:
   type: submit

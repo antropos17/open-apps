@@ -19,6 +19,7 @@ links:
 tags: []
 seo:
   title: localmind – Open Source On-Device LLM Chat App
+  description: localmind is a privacy-first mobile AI chat app that runs models on-device or talks to Ollama, LM Studio and OpenAI-compatible servers. MIT, no analytics.
 addedAt: 2026-08-11
 source:
   type: github-topic

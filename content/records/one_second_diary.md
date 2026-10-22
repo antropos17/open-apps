@@ -22,6 +22,7 @@ tags:
   - flutter-app
 seo:
   title: One Second Diary – Open Source Video Diary App
+  description: One Second Diary records a one-to-ten second video each day and stitches your clips into a shareable movie of your life. MIT-licensed, built with Flutter.
 addedAt: 2026-08-11
 source:
   type: github-topic

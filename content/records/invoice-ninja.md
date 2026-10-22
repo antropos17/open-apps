@@ -30,6 +30,7 @@ caveats:
   - AGPL-3.0 is copyleft — read the license before forking
 seo:
   title: Invoice Ninja – Open Source Invoicing App Built with Flutter
+  description: Invoice Ninja for Android and iOS handles invoicing, expenses, time billing and payments on the go, as a Flutter companion to the Invoice Ninja platform.
 addedAt: 2026-06-06
 source:
   type: import

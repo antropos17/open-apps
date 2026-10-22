@@ -32,6 +32,7 @@ whyListed: []
 caveats: []
 seo:
   title: Onion Browser – Open Source Tor Browser for iOS
+  description: Onion Browser is a privacy-focused web browser for iPhone and iPad that routes your browsing through the Tor anonymity network. Available on the App Store.
 addedAt: 2026-06-13
 source:
   type: import

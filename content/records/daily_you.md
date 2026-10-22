@@ -18,6 +18,8 @@ links:
 tags: []
 seo:
   title: Daily You – Open Source Diary & Journaling App
+  description: Daily You is a private journaling app for daily entries, moods, photos and Markdown
+    notes, stored locally with no account, ads or telemetry. GPL-3.0.
 addedAt: 2026-08-11
 source:
   type: github-topic

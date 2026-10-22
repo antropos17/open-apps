@@ -30,6 +30,8 @@ whyListed:
 caveats: []
 seo:
   title: AltStore – Open Source Alternative App Store for iOS
+  description: AltStore lets you sideload apps on iPhone without a jailbreak, re-signing them with
+    your own Apple ID and refreshing them past the 7-day limit. AGPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

@@ -55,7 +55,7 @@ relations:
 seo:
   title: It's a Plan – Open Source Linear Alternative with AI Agents
   description: It's a Plan is a self-hosted issue tracker where AI agents take issues like teammates,
-    with Claude Code or Codex on your machine, REST API, webhooks and MCP. AGPL-3.0.
+    via Claude Code or Codex, with a REST API and MCP. AGPL-3.0.
 addedAt: 2026-09-29
 source:
   type: manual

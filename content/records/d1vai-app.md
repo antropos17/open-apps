@@ -37,6 +37,8 @@ caveats:
   - The documented product platforms are iOS and Android; this entry does not claim desktop support.
 seo:
   title: d1v.ai Mobile – Open Source Flutter Client for d1v.ai
+  description: d1v.ai Mobile lets you create or import projects, continue AI-assisted work, inspect
+    files and watch deploys on iOS or Android. MIT, built with Flutter.
 addedAt: 2026-08-31
 source:
   type: submit

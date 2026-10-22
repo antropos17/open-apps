@@ -36,6 +36,7 @@ whyListed: []
 caveats: []
 seo:
   title: Linkwarden – Open Source Self-Hosted Bookmark Manager
+  description: Linkwarden is a self-hosted bookmark manager that saves every page as a screenshot, PDF and HTML snapshot against link rot, with mobile apps. AGPL-3.0.
 addedAt: 2026-06-13
 source:
   type: import

@@ -70,9 +70,9 @@ relations:
       quote: A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms
       checkedAt: 2026-09-29
 seo:
-  title: LimeSurvey – Open Source SurveyMonkey Alternative, Self-Hosted
-  description: LimeSurvey is a GPL survey platform with 30+ question types, branching, surveys in 80+
-    languages, statistics and an API. Self-host on PHP or use the hosted service.
+  title: LimeSurvey – Open Source SurveyMonkey Alternative
+  description: LimeSurvey is a GPL survey platform with 30+ question types, branching logic, surveys
+    in 80+ languages, statistics and an API. Self-hosted or SaaS.
 addedAt: 2026-09-29
 source:
   type: manual

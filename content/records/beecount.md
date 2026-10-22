@@ -32,6 +32,8 @@ whyListed: []
 caveats: []
 seo:
   title: BeeCount – Open Source Expense Tracker with Self-Hosted Sync
+  description: BeeCount is a local-first expense tracker for iOS and Android with multiple ledgers, AI
+    receipt capture and sync via iCloud, WebDAV, S3 or your own server.
 addedAt: 2026-06-07
 source:
   type: import
