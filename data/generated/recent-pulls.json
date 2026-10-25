@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-18T08:35:02.013Z",
+  "generatedAt": "2026-10-25T08:58:12.173Z",
   "repository": "tortuvshin/open-apps",
   "pulls": [
+    {
+      "number": 390,
+      "title": "Add Glim file viewer and Rust stack",
+      "url": "https://github.com/tortuvshin/open-apps/pull/390",
+      "author": "NeoPanic",
+      "authorUrl": "https://github.com/NeoPanic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13718575?v=4",
+      "mergedAt": "2026-10-20T03:03:28Z"
+    },
+    {
+      "number": 392,
+      "title": "Add local Codex and Claude analytics ledger",
+      "url": "https://github.com/tortuvshin/open-apps/pull/392",
+      "author": "imnakul",
+      "authorUrl": "https://github.com/imnakul",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59439064?v=4",
+      "mergedAt": "2026-10-20T03:02:31Z"
+    },
     {
       "number": 385,
       "title": "Add Patzer — self-hosted Chess.com alternative (Games)",
@@ -55,24 +73,6 @@
       "authorUrl": "https://github.com/xqliu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22554?v=4",
       "mergedAt": "2026-10-11T15:50:27Z"
-    },
-    {
-      "number": 374,
-      "title": "Add akou",
-      "url": "https://github.com/tortuvshin/open-apps/pull/374",
-      "author": "GeiserX",
-      "authorUrl": "https://github.com/GeiserX",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9169332?v=4",
-      "mergedAt": "2026-10-11T15:49:54Z"
-    },
-    {
-      "number": 373,
-      "title": "Add Open Reports",
-      "url": "https://github.com/tortuvshin/open-apps/pull/373",
-      "author": "varaprasadreddy9676",
-      "authorUrl": "https://github.com/varaprasadreddy9676",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30567269?v=4",
-      "mergedAt": "2026-10-11T03:12:29Z"
     }
   ]
 }
