@@ -23,7 +23,7 @@ bestFor:
   - Studying an Electron and Svelte application with local audit records and explicit action boundaries.
 whyListed:
   - Combines host process, file and network observations with local investigation views and exportable records.
-  - Provides public source, documentation and a downloadable Windows beta rather than a demo-only interface.
+  - Provides public source, documentation and a downloadable Windows beta.
 caveats:
   - Windows-first beta; macOS and Linux support remain experimental.
   - Default monitoring observes activity. Process actions are explicit, and selected-action policy and MCP routes require separate setup.
